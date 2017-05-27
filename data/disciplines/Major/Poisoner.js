@@ -1,4 +1,3 @@
-
 exports.discipline = {
   name: "Poisoner",
   type: "Major",

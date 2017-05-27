@@ -1,4 +1,3 @@
-
 exports.discipline = {
   name: "Scarecrow",
   type: "Major",
@@ -12,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Aura of Terror","Needlin' Haystack","Pin Cushion","Terrifying Fetures"]
+  powers_granted: ["Aura of Terror","Needlin Haystack","Pin Cushion","Terrifying Features"]
 }

@@ -1,4 +1,3 @@
-
 exports.discipline = {
   name: "Shield Fighter",
   type: "Major",

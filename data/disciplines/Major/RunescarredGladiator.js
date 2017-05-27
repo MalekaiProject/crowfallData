@@ -1,4 +1,3 @@
-
 exports.discipline = {
   name: "Runedscarred Gladiator",
   type: "Major",

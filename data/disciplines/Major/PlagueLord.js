@@ -1,4 +1,3 @@
-
 exports.discipline = {
   name: "Plague Lord",
   type: "Major",
