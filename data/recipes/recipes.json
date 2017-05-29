@@ -4,9 +4,13 @@
       "Basic Harvesting Tool": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Basic crafting",
+        "Category": "Basic Harvesting Tool",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Basic Harvesting Tool",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -24,87 +28,19 @@
         "optionalResources": [
 
         ]
-      },
-      "Hammer Runestone": {
-        "Chance": null,
-        "Difficulty": null,
-        "subRecipe": null,
-        "subAttribute": null,
-        "subImpact": null,
-        "Resources": [
-          {
-            "name": "Wood",
-            "count": 1
-          },
-          {
-            "name": "Wood",
-            "count": 1
-          },
-          {
-            "name": "Wood",
-            "count": 1
-          }
-        ],
-        "optionalResources": [
-
-        ]
-      },
-      "Pick Runestone": {
-        "Chance": null,
-        "Difficulty": null,
-        "subRecipe": null,
-        "subAttribute": null,
-        "subImpact": null,
-        "Resources": [
-          {
-            "name": "Wood",
-            "count": 1
-          },
-          {
-            "name": "Wood",
-            "count": 1
-          },
-          {
-            "name": "Stone",
-            "count": 1
-          }
-        ],
-        "optionalResources": [
-
-        ]
-      },
-      "Knife Runestone": {
-        "Chance": null,
-        "Difficulty": null,
-        "subRecipe": null,
-        "subAttribute": null,
-        "subImpact": null,
-        "Resources": [
-          {
-            "name": "Wood",
-            "count": 1
-          },
-          {
-            "name": "Wood",
-            "count": 1
-          },
-          {
-            "name": "Ore",
-            "count": 1
-          }
-        ],
-        "optionalResources": [
-
-        ]
       }
     },
     "Basic Weapon": {
       "Basic One Handed Rapier": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -122,9 +58,13 @@
       "Basic One Handed Sword": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -142,9 +82,13 @@
       "Basic Paired Axes": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -162,9 +106,13 @@
       "Basic Paired Long Daggers": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -182,9 +130,13 @@
       "Basic Pistol": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -202,9 +154,13 @@
       "Basic Shield": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -226,9 +182,13 @@
       "Basic Two Handed Polearm": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -246,9 +206,13 @@
       "Basic Two Handed Axe": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -269,9 +233,13 @@
       "Basic Two Handed Sword": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -289,9 +257,13 @@
       "Basic Mystical Staff": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -309,9 +281,13 @@
       "Basic Book of Sin": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -329,9 +305,13 @@
       "Basic Bow": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -349,9 +329,13 @@
       "Basic Arrows (25)": {
         "Chance": 0.95,
         "Difficulty": 10.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -365,9 +349,13 @@
       "Basic Chest": {
         "Chance": 0.95,
         "Difficulty": 10.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -389,9 +377,13 @@
       "Basic Helmet": {
         "Chance": 0.95,
         "Difficulty": 10.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -413,9 +405,13 @@
       "Basic Gloves": {
         "Chance": 0.95,
         "Difficulty": 10.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -437,9 +433,13 @@
       "Basic Boots": {
         "Chance": 0.95,
         "Difficulty": 10.0,
+        "Profession": "Basic crafting",
+        "Category": "Basic Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -463,12 +463,16 @@
       "Survivalist Campfire ": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Survivalist",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Wood (12)",
+            "name": "Wood",
             "count": 12
           }
         ],
@@ -482,13 +486,103 @@
       "Survivalist Cooking": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Basic crafting",
+        "Category": "Survivalist",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Scavenged Ingredient",
             "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      }
+    },
+    "subrecipe": {
+      "Hammer Runestone": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Basic crafting",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Basic Harvesting Tool",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Wood",
+            "count": 1
+          },
+          {
+            "name": "Wood",
+            "count": 1
+          },
+          {
+            "name": "Wood",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Pick Runestone": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Basic crafting",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Basic Harvesting Tool",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Wood",
+            "count": 1
+          },
+          {
+            "name": "Wood",
+            "count": 1
+          },
+          {
+            "name": "Stone",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Knife Runestone": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Basic crafting",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Basic Harvesting Tool",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Wood",
+            "count": 1
+          },
+          {
+            "name": "Wood",
+            "count": 1
+          },
+          {
+            "name": "Ore",
+            "count": 1
           }
         ],
         "optionalResources": [
@@ -502,9 +596,13 @@
       "One Handed Sword": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -525,9 +623,13 @@
       "One Handed Scimitar": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -548,9 +650,13 @@
       "One Handed Rapier": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -571,9 +677,13 @@
       "One Handed Mace": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -598,9 +708,13 @@
       "One Handed Hammer": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -625,9 +739,13 @@
       "One Handed Axe": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -652,9 +770,13 @@
       "One handed Focus Orb": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -679,9 +801,13 @@
       "Paired Long Daggers": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -710,9 +836,13 @@
       "Paired Axes": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -749,9 +879,13 @@
       "Paired Maces": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt",
@@ -788,9 +922,13 @@
       "Pistol": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Pistol Body",
@@ -811,9 +949,13 @@
       "Two Handed Sword": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt: Great",
@@ -838,9 +980,13 @@
       "Two Handed Axe": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt: Great",
@@ -865,9 +1011,13 @@
       "Two Handed Mace": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt: Great",
@@ -892,9 +1042,13 @@
       "Two Handed Polearm": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt: Great",
@@ -919,9 +1073,13 @@
       "Two Handed Polemace": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Hilt: Great",
@@ -950,9 +1108,13 @@
       "Weapon Hilt": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Pommel",
@@ -974,9 +1136,13 @@
       "Weapon Hilt: Great": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Weapon Pommel",
@@ -1010,9 +1176,13 @@
       "Pistol Body": {
         "Chance": 0.68,
         "Difficulty": 25.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Pistol Hammer and Frizzen",
@@ -1034,9 +1204,13 @@
       "Weapon Grip": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -1050,9 +1224,13 @@
       "Metal Bar": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -1077,9 +1255,13 @@
       "Bow Sight": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Metal Bar",
@@ -1093,9 +1275,13 @@
       "Bow Rest": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Metal Bar",
@@ -1109,9 +1295,13 @@
       "Staff Heel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Metal Bar",
@@ -1125,9 +1315,13 @@
       "Book Clasp": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Metal Bar",
@@ -1141,9 +1335,13 @@
       "Arrowhead Bundle: Crushing (10)": {
         "Chance": 0.88,
         "Difficulty": 15.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -1157,9 +1355,13 @@
       "Arrowhead Bundle: Piercing (10)": {
         "Chance": 0.88,
         "Difficulty": 15.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -1173,9 +1375,13 @@
       "Arrowhead Bundle: Slashing (10)": {
         "Chance": 0.88,
         "Difficulty": 15.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Weapon",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -1191,9 +1397,13 @@
       "Shield": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Shield Cover",
@@ -1218,20 +1428,24 @@
       "Mail Hauberk": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (45)",
+            "name": "Iron",
             "count": 45
           },
           {
-            "name": "Tin (10)",
+            "name": "Tin",
             "count": 10
           },
           {
-            "name": "Hide (20)",
+            "name": "Hide",
             "count": 20
           }
         ],
@@ -1257,12 +1471,16 @@
       "Mail Coif": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (25)",
+            "name": "Iron",
             "count": 25
           },
           {
@@ -1270,7 +1488,7 @@
             "count": 5
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -1296,12 +1514,16 @@
       "Mail Gloves": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (25)",
+            "name": "Iron",
             "count": 25
           },
           {
@@ -1309,7 +1531,7 @@
             "count": 5
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -1335,12 +1557,16 @@
       "Mail Boots": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (25)",
+            "name": "Iron",
             "count": 25
           },
           {
@@ -1348,7 +1574,7 @@
             "count": 5
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -1374,20 +1600,24 @@
       "Plate Chest": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (45)",
+            "name": "Iron",
             "count": 45
           },
           {
-            "name": "Copper (10)",
+            "name": "Copper",
             "count": 10
           },
           {
-            "name": "Hide (20)",
+            "name": "Hide",
             "count": 20
           }
         ],
@@ -1417,12 +1647,16 @@
       "Plate Helmet": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (25)",
+            "name": "Iron",
             "count": 25
           },
           {
@@ -1430,7 +1664,7 @@
             "count": 5
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -1460,12 +1694,16 @@
       "Plate Gloves": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (25)",
+            "name": "Iron",
             "count": 25
           },
           {
@@ -1473,7 +1711,7 @@
             "count": 5
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -1503,12 +1741,16 @@
       "Plate Boots": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Iron (25)",
+            "name": "Iron",
             "count": 25
           },
           {
@@ -1516,7 +1758,7 @@
             "count": 5
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -1546,9 +1788,13 @@
       "Metal Rings": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -1593,20 +1839,24 @@
       "Metal Sheet": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Ore",
+            "name": "Gold",
             "count": 3
           },
           {
-            "name": "Ore",
+            "name": "Gold",
             "count": 3
           },
           {
-            "name": "Ore",
+            "name": "Silver",
             "count": 3
           },
           {
@@ -1640,9 +1890,13 @@
       "Armor Layer": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Blacksmith",
+        "Category": "Blacksmith Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -1670,9 +1924,13 @@
       "Carbon (2)": {
         "Chance": 0.95,
         "Difficulty": 1.0,
+        "Profession": "Blacksmith",
+        "Category": "Fuel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Animal meat",
@@ -1686,9 +1944,13 @@
       "Coal (2)": {
         "Chance": 0.95,
         "Difficulty": 1.0,
+        "Profession": "Blacksmith",
+        "Category": "Fuel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -1698,13 +1960,19 @@
         "optionalResources": [
 
         ]
-      },
+      }
+    },
+    "subrecipe": {
       "Metal Bar": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -1726,9 +1994,13 @@
       "Copper Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Critical hit chance",
         "subImpact": 0.04,
+        "parentRecipe": "Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -1750,9 +2022,13 @@
       "Charged Copper Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Electricity",
         "subImpact": 0.06,
+        "parentRecipe": "Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -1774,9 +2050,13 @@
       "Heavy Copper Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Crushing",
         "subImpact": 0.06,
+        "parentRecipe": "Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -1798,9 +2078,13 @@
       "Plain Metal Bar": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -1822,9 +2106,13 @@
       "Stony Iron Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Nature",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -1846,9 +2134,13 @@
       "Iron Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Atk power",
         "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -1870,9 +2162,13 @@
       "Blue Steel Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Bleed",
         "subImpact": 0.0,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -1894,9 +2190,13 @@
       "Bronze Bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stamina regen: In combat",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -1918,9 +2218,13 @@
       "Sharp Tin Bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Piercing",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -1942,9 +2246,13 @@
       "Tin Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stamina",
         "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -1966,9 +2274,13 @@
       "Poisonous Tin Bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Poison",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -1990,9 +2302,13 @@
       "Sterling Bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource regen",
         "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2014,9 +2330,13 @@
       "Icy Silver Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Ice",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2038,9 +2358,13 @@
       "Diseased Silver Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Disease",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2062,9 +2386,13 @@
       "Silver Bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource",
         "subImpact": 0.5,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2086,9 +2414,13 @@
       "Rose Gold Bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Critical hit damage",
         "subImpact": 0.16,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2110,9 +2442,13 @@
       "Fiery gold bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "bonus dmg : Fire",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2134,9 +2470,13 @@
       "Crown gold bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stamina regen: Out of combat",
         "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2158,9 +2498,13 @@
       "Green gold bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stamina regen: In combat",
         "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2182,9 +2526,13 @@
       "Gold Bar ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Support power",
         "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2206,9 +2554,13 @@
       "Electrum Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stealth",
         "subImpact": 0.5,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -2230,9 +2582,13 @@
       "Honed Iron Bar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Slashing",
         "subImpact": 0.06,
+        "parentRecipe": "Plain Metal Bar",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -2254,9 +2610,13 @@
       "Weapon Grip": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Weapon Grip",
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -2270,9 +2630,13 @@
       "Leather Weapon Grip": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Support power",
         "subImpact": 0.0,
+        "parentRecipe": "Weapon Grip",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Leather",
@@ -2286,9 +2650,13 @@
       "Wooden weapon grip": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Atk power",
         "subImpact": 0.0,
+        "parentRecipe": "Weapon Grip",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Plank",
@@ -2302,9 +2670,13 @@
       "Metal Rings": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -2326,9 +2698,13 @@
       "Copper Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Max hitpoint",
         "subImpact": 21.0,
+        "parentRecipe": "Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -2350,9 +2726,13 @@
       "Electricity Resistant Copper Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Electricity resist",
         "subImpact": 0.02,
+        "parentRecipe": "Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -2374,9 +2754,13 @@
       "Crush Resistant Copper Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Crush resist",
         "subImpact": 0.02,
+        "parentRecipe": "Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -2398,9 +2782,13 @@
       "Plain Metal Rings": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -2422,9 +2810,13 @@
       "Earth Resistant Iron Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Earth resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -2446,9 +2838,13 @@
       "Iron Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Attack power",
         "subImpact": 0.5,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -2470,9 +2866,13 @@
       "Blue Steel Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Attack power",
         "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -2494,9 +2894,13 @@
       "Bronze Ring": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Lifesteal",
         "subImpact": 0.06,
+        "parentRecipe": "Bronze Ring",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -2518,9 +2922,13 @@
       "Pierce Resistant Tin Rings ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Pierce resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -2542,9 +2950,13 @@
       "Tin Rings ": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Retribution",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -2566,9 +2978,13 @@
       "Poison Resistant Tin Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Poison resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Tin",
@@ -2590,9 +3006,13 @@
       "Sterling Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource regen",
         "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2614,9 +3034,13 @@
       "Ice Resistant Silver Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Ice resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2638,9 +3062,13 @@
       "Disease Resistant Silver Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Disease resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2662,9 +3090,13 @@
       "Silver Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource",
         "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Silver",
@@ -2686,9 +3118,13 @@
       "Rose Gold Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Health regen: Out of combat",
         "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2710,9 +3146,13 @@
       "Fire Resistant Gold Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Fire resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2734,9 +3174,13 @@
       "Crown Gold Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Perception",
         "subImpact": 0.05,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2758,9 +3202,13 @@
       "Green Gold Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Combat resource regen",
         "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2782,9 +3230,13 @@
       "Gold Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Support power",
         "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Gold",
@@ -2806,9 +3258,13 @@
       "Electrum Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Health regen: In combat",
         "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Copper",
@@ -2830,9 +3286,13 @@
       "Slash Resistant Iron Rings": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Slash resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Rings",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Iron",
@@ -2854,9 +3314,13 @@
       "Armor Layer": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Armor Layer",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -2878,9 +3342,13 @@
       "Physical Armor Layer": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "All physical mitigation",
         "subImpact": 0.19,
+        "parentRecipe": "Physical Armor Layer",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -2902,9 +3370,13 @@
       "Piercing Armor Layer": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Piercing mitigation",
         "subImpact": 0.32,
+        "parentRecipe": "Physical Armor Layer",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -2926,9 +3398,13 @@
       "Crushing Armor Layer": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Crushing mitigation",
         "subImpact": 0.32,
+        "parentRecipe": "Physical Armor Layer",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -2950,9 +3426,13 @@
       "Slashing Armor Layer": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Slashing mitigation",
         "subImpact": 0.32,
+        "parentRecipe": "Physical Armor Layer",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -2970,6 +3450,622 @@
         "optionalResources": [
 
         ]
+      },
+      "Metal Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Ore",
+            "count": 3
+          },
+          {
+            "name": "Ore",
+            "count": 3
+          },
+          {
+            "name": "Ore",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Copper Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Max hitpoint",
+        "subImpact": 21.0,
+        "parentRecipe": "Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Copper",
+            "count": 3
+          },
+          {
+            "name": "Copper",
+            "count": 3
+          },
+          {
+            "name": "Copper",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Electricity Resistant Copper Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Electricity resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Copper",
+            "count": 3
+          },
+          {
+            "name": "Copper",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crush Resistant Copper Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Crush resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Copper",
+            "count": 3
+          },
+          {
+            "name": "Copper",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Plain Metal Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Earth Resistant Iron Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Earth resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Iron",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          },
+          {
+            "name": "Copper",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Iron Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Attack power",
+        "subImpact": 0.5,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Iron",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Blue Steel Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Attack power",
+        "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Iron",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Pierce Resistant Tin Sheet ": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Pierce resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Bronze Ring",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Tin Sheet ": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Retribution",
+        "subImpact": 0.02,
+        "parentRecipe": "Bronze Ring",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Poison Resistant Tin Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Poison resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Sterling Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Resource regen",
+        "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Copper",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Ice Resistant Silver Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Ice resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Disease Resistant Silver Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Disease resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Silver Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Resource",
+        "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Rose Gold Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Health regen: Out of combat",
+        "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Copper",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Fire Resistant Gold Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Fire resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Iron",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crown Gold Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Perception",
+        "subImpact": 0.05,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Green Gold Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Combat resource regen",
+        "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Gold Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Support power",
+        "subImpact": 0.4,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Electrum Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Health regen: In combat",
+        "subImpact": 0.04,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Copper",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          },
+          {
+            "name": "Gold",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Slash Resistant Iron Sheet": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Blacksmith",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Slash resist",
+        "subImpact": 0.02,
+        "parentRecipe": "Plain Metal Sheet",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Iron",
+            "count": 3
+          },
+          {
+            "name": "Tin",
+            "count": 3
+          },
+          {
+            "name": "Silver",
+            "count": 3
+          }
+        ],
+        "optionalResources": [
+
+        ]
       }
     }
   },
@@ -2978,16 +4074,20 @@
       "Leather Chest": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
             "count": 8
           },
           {
-            "name": "Hide (25)",
+            "name": "Hide",
             "count": 25
           }
         ],
@@ -3013,16 +4113,20 @@
       "Leather Boots": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
             "count": 4
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -3048,16 +4152,20 @@
       "Leather Gloves": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
             "count": 4
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -3083,16 +4191,20 @@
       "Leather Helmet": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
             "count": 4
           },
           {
-            "name": "Hide (15)",
+            "name": "Hide",
             "count": 15
           }
         ],
@@ -3118,9 +4230,13 @@
       "Hardened Leather": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Hide",
@@ -3161,20 +4277,24 @@
       "Reinforced Padding": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Hide",
+            "name": "Bear Hide",
             "count": 2
           },
           {
-            "name": "Hide",
+            "name": "Bear Hide",
             "count": 2
           },
           {
-            "name": "Hide",
+            "name": "Elk Hide",
             "count": 2
           },
           {
@@ -3192,9 +4312,13 @@
       "Leather Armor Layer": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Armor",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
@@ -3216,11 +4340,15 @@
     },
     "Leatherworking Component": {
       "Stitched Leather": {
-        "Chance": null,
-        "Difficulty": null,
+        "Chance": 0.95,
+        "Difficulty": 5.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Hide",
@@ -3236,15 +4364,22 @@
           }
         ],
         "optionalResources": [
-
+          {
+            "name": "Specialty Seal",
+            "count": 1
+          }
         ]
       },
       "Bow Grip": {
         "Chance": 0.77,
         "Difficulty": 35.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Stitched Leather",
@@ -3262,9 +4397,13 @@
       "Bow String": {
         "Chance": 0.65,
         "Difficulty": 25.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Stitched Leather",
@@ -3278,9 +4417,13 @@
       "Ernames": {
         "Chance": 0.75,
         "Difficulty": 25.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Stitched Leather",
@@ -3298,9 +4441,13 @@
       "Lacing Sinew (4)": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Leatherworking",
+        "Category": "Leatherworking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Animal Meat",
@@ -3310,13 +4457,47 @@
         "optionalResources": [
 
         ]
+      }
+    },
+    "subrecipe": {
+      "Stitched Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Hide",
+            "count": 1
+          },
+          {
+            "name": "Hide",
+            "count": 1
+          },
+          {
+            "name": "Hide",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
       },
       "Composite Cat Leather": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Retribution",
         "subImpact": 0.04,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3338,9 +4519,13 @@
       "Cat Leather": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stealth",
         "subImpact": 0.05,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3362,9 +4547,13 @@
       "Stitched Leather: Slash Resist": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Slash resist",
         "subImpact": 0.02,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3386,9 +4575,13 @@
       "Stitched Leather: Charge Resist": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Charge resist",
         "subImpact": 0.02,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3410,9 +4603,13 @@
       "Stitched Leather: Reinforced Cat": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Lifesteal",
         "subImpact": 0.04,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3434,9 +4631,13 @@
       "Earth Resistant Boar Leather": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Earth resist",
         "subImpact": 0.02,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -3458,9 +4659,13 @@
       "Boar Leather": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource",
         "subImpact": 0.4,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -3482,9 +4687,13 @@
       "Stitched Leather: Poison Resist": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Poison resist",
         "subImpact": 0.02,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -3506,9 +4715,13 @@
       "Stitched Leather: Bonded Boar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource regen",
         "subImpact": 0.04,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -3530,9 +4743,13 @@
       "Stitched Leather: Reinforced Boar": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Combat resource regen",
         "subImpact": 0.04,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -3554,9 +4771,13 @@
       "Stitched Leather: Fire Resistant": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Fire resistant",
         "subImpact": 0.02,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -3578,9 +4799,13 @@
       "Stitched Leather: Crush Resistant": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Crush resistant",
         "subImpact": 0.02,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -3602,9 +4827,13 @@
       "Stitched Leather: Auroch": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Max hitpoint",
         "subImpact": 21.0,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -3626,9 +4855,13 @@
       "Stitched Leather: Bonded Auroch": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Health regen: In combat",
         "subImpact": 0.4,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -3650,9 +4883,13 @@
       "Stitched Leather: Reinforced Auroch": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Health regen: Out of combat",
         "subImpact": 0.4,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -3674,9 +4911,13 @@
       "Stitched Leather: Pierce Resistant": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Pierce resist",
         "subImpact": 0.2,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Elk Hide",
@@ -3698,9 +4939,13 @@
       "Stitched Leather: Disease Resistant": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Disease resist",
         "subImpact": 0.02,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Elk Hide",
@@ -3722,9 +4967,13 @@
       "Plain Stitched Leather": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Plain Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -3746,9 +4995,13 @@
       "Stitched Leather: Elk": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Support power",
         "subImpact": 0.5,
+        "parentRecipe": "Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Elk Hide",
@@ -3770,9 +5023,13 @@
       "Stitched Leather: Ice Resistant": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Ice resist",
         "subImpact": 0.02,
+        "parentRecipe": "Plain Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Bear Hide",
@@ -3794,9 +5051,13 @@
       "Stitched Leather: Bear": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Attack power",
         "subImpact": 0.4,
+        "parentRecipe": "Plain Stitched Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Bear Hide",
@@ -3816,11 +5077,15 @@
         ]
       },
       "Hardened Leather": {
-        "Chance": "Reinforced Padding",
+        "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Hide",
@@ -3840,11 +5105,15 @@
         ]
       },
       "Hardened Cat Leather": {
-        "Chance": "Padded Cat Leather\n[Stealth 0.05]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stealth",
         "subImpact": 0.05,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3864,11 +5133,15 @@
         ]
       },
       "Hardened Composite Cat Leather": {
-        "Chance": "Padded Composite Cat Leather\n[Critical hit damage 0.16]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Critical hit damage",
         "subImpact": 0.16,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3888,11 +5161,15 @@
         ]
       },
       "Hardened Honed Cat Leather": {
-        "Chance": "Padded Honed Cat Leather\n[Damage bonus: Slashing 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Slashing",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3912,11 +5189,15 @@
         ]
       },
       "Hardened Voltaic Cat Leather": {
-        "Chance": "Padded Voltaic Cat Leather\n[Damage bonus: Electricity 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Electricity",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3936,11 +5217,15 @@
         ]
       },
       "Hardened Bonded Cat Leather": {
-        "Chance": "Padded Bonded Cat Leather\n[Critical hit chance 0.04]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Critical hit chance",
         "subImpact": 0.04,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cat Hide",
@@ -3960,11 +5245,15 @@
         ]
       },
       "Hardened Earthen Boar Leather": {
-        "Chance": "Padded Earthen Boar Leather\n[Damage bonus: Nature 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Nature",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -3984,11 +5273,15 @@
         ]
       },
       "Hardened Boar Leather": {
-        "Chance": "Padded Boar Leather\n[Resource 0.4]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource",
         "subImpact": 0.4,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -4008,11 +5301,15 @@
         ]
       },
       "Hardened Toxic Boar Leather": {
-        "Chance": "Padded Toxic Boar Leather\n[Damage bonus: Poison 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Poison",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -4032,11 +5329,15 @@
         ]
       },
       "Hardened Patchwork Boar Leather": {
-        "Chance": "Padded Patchwork Boar Leather\n[Resource regen 0.04]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Resource regen",
         "subImpact": 0.04,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -4056,11 +5357,15 @@
         ]
       },
       "Hardened Reinforced Boar Leather": {
-        "Chance": "Padded Reinforced Boar Leather\n[Combat resource regen 0.04]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Combat resource regen",
         "subImpact": 0.04,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Boar Hide",
@@ -4080,11 +5385,15 @@
         ]
       },
       "Hardened Fiery Auroch Leather": {
-        "Chance": "Padded Fiery Auroch Leather\n[Damage bonus: Fire 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Fire",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -4104,11 +5413,15 @@
         ]
       },
       "Hardened Heavy Auroch Leather": {
-        "Chance": "Padded Heavy Auroch Leather\n[Damage bonus: Crushing 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Crushing",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -4128,11 +5441,15 @@
         ]
       },
       "Hardened Auroch Leather": {
-        "Chance": "Padded Auroch Leather\n[Max stamina 0.04]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Max stamina",
         "subImpact": 0.04,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -4152,11 +5469,15 @@
         ]
       },
       "Hardened Patchwork Auroch Leather": {
-        "Chance": "Padded Patchwork Auroch Leather\n[Stamina regen: Out of combat 0.02]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stamina regen: Out of combat",
         "subImpact": 0.02,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -4176,11 +5497,15 @@
         ]
       },
       "Hardened Reinforced Auroch Leather": {
-        "Chance": "Padded Reinforced Auroch Leather\n[Stamina regen: In combat 0.02]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stamina regen: In combat",
         "subImpact": 0.02,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -4200,11 +5525,15 @@
         ]
       },
       "Hardened Sharp Elk Leather": {
-        "Chance": "Padded Sharp Elk Leather\n[Damage bonus: Piercing 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Piercing",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Elk Hide",
@@ -4224,11 +5553,15 @@
         ]
       },
       "Hardened Diseased Elk Leather": {
-        "Chance": "Padded Diseased Elk Leather\n[Damage bonus: Disease 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Disease",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Elk Hide",
@@ -4248,11 +5581,15 @@
         ]
       },
       "Hardened Patchwork Leather": {
-        "Chance": "Padded Patchwork Leather\n[Attack power 0.4]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Attack power",
         "subImpact": 0.4,
+        "parentRecipe": "Hardened Patchwork Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Auroch Hide",
@@ -4272,11 +5609,15 @@
         ]
       },
       "Hardened Elk Leather": {
-        "Chance": "Padded Elk Leather\n[Support power 0.4]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Support power",
         "subImpact": 0.4,
+        "parentRecipe": "Hardened Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Elk Hide",
@@ -4296,11 +5637,15 @@
         ]
       },
       "Hardened Icy Bear Leather": {
-        "Chance": "Padded Icy Bear Leather\n[Damage bonus: Ice 0.06]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage bonus: Ice",
         "subImpact": 0.06,
+        "parentRecipe": "Hardened Patchwork Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Bear Hide",
@@ -4320,11 +5665,15 @@
         ]
       },
       "Hardened Bear Leather": {
-        "Chance": "Padded Bear Leather\n[Attack power 0.5]",
+        "Chance": null,
         "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Attack power",
         "subImpact": 0.5,
+        "parentRecipe": "Hardened Patchwork Leather",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Bear Hide",
@@ -4346,9 +5695,13 @@
       "Leather Armor Layer": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Leather Armor Layer",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
@@ -4370,9 +5723,13 @@
       "Leather Layer: Elemental": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Leather Layer: Elemental",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
@@ -4394,9 +5751,13 @@
       "Leather Layer: Earth": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Leather Armor Layer",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
@@ -4418,9 +5779,13 @@
       "Leather Layer: Organic": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Leather Armor Layer",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
@@ -4442,9 +5807,13 @@
       "Leather Layer: Fire": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Leather Layer: Elemental",
+        "wildCard": null,
         "Resources": [
           {
             "name": "Ore",
@@ -4462,6 +5831,622 @@
         "optionalResources": [
 
         ]
+      },
+      "Reinforced Padding": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Hide",
+            "count": 2
+          },
+          {
+            "name": "Hide",
+            "count": 2
+          },
+          {
+            "name": "Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Cat Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Stealth",
+        "subImpact": 0.05,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Composite Cat Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Critical hit damage",
+        "subImpact": 0.16,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Honed Cat Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Slashing",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Voltaic Cat Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Electricity",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Bonded Cat Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Critical hit chance",
+        "subImpact": 0.04,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          },
+          {
+            "name": "Bear Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Earthen Boar Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Nature",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Boar Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Resource",
+        "subImpact": 0.4,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Toxic Boar Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Poison",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Patchwork Boar Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Resource regen",
+        "subImpact": 0.04,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Reinforced Boar Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Combat resource regen",
+        "subImpact": 0.04,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          },
+          {
+            "name": "Bear Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Fiery Auroch Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Fire",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Heavy Auroch Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Crushing",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Auroch Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Max stamina",
+        "subImpact": 0.04,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Patchwork Auroch Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Stamina regen: Out of combat",
+        "subImpact": 0.02,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Reinforced Auroch Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Stamina regen: In combat",
+        "subImpact": 0.02,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Bear Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Sharp Elk Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Piercing",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Elk Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          },
+          {
+            "name": "Cat Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Diseased Elk Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Disease",
+        "subImpact": 0.06,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Elk Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          },
+          {
+            "name": "Boar Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Patchwork Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Attack power",
+        "subImpact": 0.4,
+        "parentRecipe": "Padded Patchwork Leather",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Auroch Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          },
+          {
+            "name": "Bear Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Elk Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Support power",
+        "subImpact": 0.4,
+        "parentRecipe": "Reinforced Padding",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Elk Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Icy Bear Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Damage bonus: Ice",
+        "subImpact": 0.06,
+        "parentRecipe": "Padded Patchwork Leather",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Bear Hide",
+            "count": 2
+          },
+          {
+            "name": "Bear Hide",
+            "count": 2
+          },
+          {
+            "name": "Elk Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Padded Bear Leather": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Leatherworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": "Attack power",
+        "subImpact": 0.5,
+        "parentRecipe": "Padded Patchwork Leather",
+        "wildCard": null,
+        "Resources": [
+          {
+            "name": "Bear Hide",
+            "count": 2
+          },
+          {
+            "name": "Bear Hide",
+            "count": 2
+          },
+          {
+            "name": "Bear Hide",
+            "count": 2
+          }
+        ],
+        "optionalResources": [
+
+        ]
       }
     }
   },
@@ -4470,9 +6455,13 @@
       "Bow: Recurve": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Bow Stave Limb",
@@ -4501,9 +6490,13 @@
       "Staff": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Staff Limb",
@@ -4528,9 +6521,13 @@
       "One Handed Book": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Book Binding",
@@ -4555,9 +6552,13 @@
       "Bow Riser ": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Bow Sight",
@@ -4579,9 +6580,13 @@
       "Bow Stave Limb": {
         "Chance": 0.65,
         "Difficulty": 35.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Plank",
@@ -4603,9 +6608,13 @@
       "Staff Limb": {
         "Chance": 0.67,
         "Difficulty": 35.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Plank",
@@ -4627,9 +6636,13 @@
       "Staff Head": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Plank",
@@ -4659,9 +6672,13 @@
       "Book Binding": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Plank",
@@ -4683,9 +6700,13 @@
       "Book Bound Chapters": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Chapter",
@@ -4715,16 +6736,20 @@
       "Advanced Arrows (100)": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Arrow Shaft Bundle (10)",
+            "name": "Arrow Shaft Bundle",
             "count": 10
           },
           {
-            "name": "Arrowhead Bundle (10)",
+            "name": "Arrowhead Bundle",
             "count": 10
           }
         ],
@@ -4735,9 +6760,13 @@
       "Basic Arrows (25)": {
         "Chance": 0.95,
         "Difficulty": 10.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Wood",
@@ -4751,9 +6780,13 @@
       "Arrow Shaft Bundle(10)": {
         "Chance": 0.88,
         "Difficulty": 15.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Wood",
@@ -4767,9 +6800,13 @@
       "Shield Base: Small": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Plank",
@@ -4787,9 +6824,13 @@
       "Shield Base: Medium": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Plank",
@@ -4813,9 +6854,13 @@
       "Plank": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Woodworking",
+        "Category": "Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Wood",
@@ -4829,9 +6874,13 @@
       "Parchment Paper (5)": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Woodworking",
+        "Category": "Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Wood",
@@ -4845,9 +6894,13 @@
       "Parchment Vellum ": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Wood",
@@ -4867,9 +6920,13 @@
       "Siege Banner": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Siege Banner Post",
@@ -4880,7 +6937,7 @@
             "count": 1
           },
           {
-            "name": "Ethereal Dust (300)",
+            "name": "Ethereal Dust",
             "count": 300
           },
           {
@@ -4899,9 +6956,13 @@
       "Siege Banner Flag": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Stitched Leather",
@@ -4916,7 +6977,7 @@
             "count": 1
           },
           {
-            "name": "Ethereal Dust (150)",
+            "name": "Ethereal Dust",
             "count": 150
           }
         ],
@@ -4927,9 +6988,13 @@
       "Siege Banner Post": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Heartwood",
@@ -4948,7 +7013,7 @@
             "count": 1
           },
           {
-            "name": "Ethereal Dust (150)",
+            "name": "Ethereal Dust",
             "count": 150
           }
         ],
@@ -4957,15 +7022,27 @@
         ]
       },
       "Siege Ballista Blueprint": {
-        "Chance": null,
-        "Difficulty": null,
+        "Chance": 0.78,
+        "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
             "count": 1
+          },
+          {
+            "name": "Gears",
+            "count": 10
+          },
+          {
+            "name": "Ethereal Dust",
+            "count": 300
           }
         ],
         "optionalResources": [
@@ -4973,15 +7050,27 @@
         ]
       },
       "Siege Catapult Blueprint": {
-        "Chance": null,
-        "Difficulty": null,
+        "Chance": 0.78,
+        "Difficulty": 25.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
             "count": 1
+          },
+          {
+            "name": "Gears",
+            "count": 10
+          },
+          {
+            "name": "Ethereal Dust",
+            "count": 150
           }
         ],
         "optionalResources": [
@@ -4989,15 +7078,23 @@
         ]
       },
       "Blueprint Scroll": {
-        "Chance": null,
-        "Difficulty": null,
+        "Chance": 0.95,
+        "Difficulty": 5.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
             "count": 1
+          },
+          {
+            "name": "Beeswax",
+            "count": 5
           }
         ],
         "optionalResources": [
@@ -5007,16 +7104,20 @@
       "Cogs": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Metal Bar",
             "count": 1
           },
           {
-            "name": "Ethereal Dust (20)",
+            "name": "Ethereal Dust",
             "count": 20
           }
         ],
@@ -5027,9 +7128,13 @@
       "Gears": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Woodworking",
+        "Category": "Siege Warfare",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Metal Bar",
@@ -5040,20 +7145,26 @@
             "count": 1
           },
           {
-            "name": "Ethereal Dust (20)",
+            "name": "Ethereal Dust",
             "count": 20
           }
         ],
         "optionalResources": [
 
         ]
-      },
+      }
+    },
+    "subrecipe": {
       "Plank": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Plank",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -5067,9 +7178,13 @@
       "Oak plank": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Critical chance",
         "subImpact": 0.04,
+        "parentRecipe": "Plank",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Oak wood",
@@ -5083,9 +7198,13 @@
       "Birch plank": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Max Stamina",
         "subImpact": 0.04,
+        "parentRecipe": "Plank",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Birch wood",
@@ -5099,9 +7218,13 @@
       "Spruce plank": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Attack power",
         "subImpact": 0.4,
+        "parentRecipe": "Plank",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Spruce wood",
@@ -5115,9 +7238,13 @@
       "Ash plank": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Hit Point",
         "subImpact": 21.0,
+        "parentRecipe": "Plank",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ash wood",
@@ -5131,9 +7258,13 @@
       "Yew plank": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Life Steal",
         "subImpact": 0.04,
+        "parentRecipe": "Plank",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Yew wood",
@@ -5144,12 +7275,36 @@
 
         ]
       },
+      "Blueprint Scroll": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Blueprint Scroll",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "[Wild Card]",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Biege Scroll": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Blueprint Scroll",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Oak Heartwood",
@@ -5163,9 +7318,13 @@
       "Ivory Scroll": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Blueprint Scroll",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Birch Heartwood",
@@ -5179,9 +7338,13 @@
       "Taupe Scroll": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Blueprint Scroll",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Spruce Heartwood",
@@ -5195,9 +7358,13 @@
       "Ashen Scroll": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Blueprint Scroll",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ash Heartwood",
@@ -5211,9 +7378,13 @@
       "Carmine Scroll": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Blueprint Scroll",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Yew Heartwood",
@@ -5224,12 +7395,36 @@
 
         ]
       },
+      "Siege Ballista Blueprint": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Siege Ballista Blueprint",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "[Wild Card]",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Ballista MK1": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
-        "subImpact": null,
+        "subImpact": 1.0,
+        "parentRecipe": "Siege Ballista Blueprint",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Biege Scroll",
@@ -5243,9 +7438,13 @@
       "Ballista MK2": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
-        "subImpact": null,
+        "subImpact": 2.0,
+        "parentRecipe": "Ballista MK2",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Taupe Scroll",
@@ -5259,9 +7458,13 @@
       "Ballista MK3": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
-        "subImpact": null,
+        "subImpact": 3.0,
+        "parentRecipe": "Ballista MK2",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ashen Scroll",
@@ -5275,9 +7478,13 @@
       "Ballista MK4": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
-        "subImpact": null,
+        "subImpact": 4.0,
+        "parentRecipe": "Ballista MK2",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Carmine Scroll",
@@ -5288,12 +7495,36 @@
 
         ]
       },
+      "Siege Catapult Blueprint": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Siege Catapult Blueprint",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "[Wild Card]",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Catapult MK1": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
-        "subImpact": null,
+        "subImpact": 1.0,
+        "parentRecipe": "Catapult MK1",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Taupe Scroll",
@@ -5307,9 +7538,13 @@
       "Catapult MK2": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Woodworking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
-        "subImpact": null,
+        "subImpact": 2.0,
+        "parentRecipe": "Catapult MK2",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Carmine Scroll",
@@ -5327,9 +7562,13 @@
       "Eight Square Capital Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Four Square Parcel",
@@ -5351,9 +7590,13 @@
       "Six Square City Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Three Square Parcel",
@@ -5375,9 +7618,13 @@
       "Four Square Town Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Three Square Parcel",
@@ -5399,9 +7646,13 @@
       "Three Square Shire Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Two Square Parcel",
@@ -5423,9 +7674,13 @@
       "Three Square Village Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Two Square Parcel",
@@ -5447,9 +7702,13 @@
       "Two Square Hamlet Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "One Square Parcel",
@@ -5471,12 +7730,16 @@
       "A Single Square Farm Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Earth (10)",
+            "name": "Earth",
             "count": 10
           }
         ],
@@ -5487,12 +7750,16 @@
       "A Single Square Woodland Creek Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Earth (10)",
+            "name": "Earth",
             "count": 10
           }
         ],
@@ -5503,12 +7770,16 @@
       "A Single Square Woodland Grove Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Earth (10)",
+            "name": "Earth",
             "count": 10
           }
         ],
@@ -5519,12 +7790,16 @@
       "A Single Square Woodland Hills Parcel": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Earth (10)",
+            "name": "Earth",
             "count": 10
           }
         ],
@@ -5535,20 +7810,24 @@
       "Earth": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Mulch (10)",
+            "name": "Mulch",
             "count": 10
           },
           {
-            "name": "Gravel (10)",
+            "name": "Gravel",
             "count": 10
           },
           {
-            "name": "Ore Concentrate (10)",
+            "name": "Ore Concentrate",
             "count": 10
           }
         ],
@@ -5559,12 +7838,16 @@
       "Gravel": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Premium Stone (10)",
+            "name": "Premium Stone",
             "count": 10
           }
         ],
@@ -5575,12 +7858,16 @@
       "Mulch": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Premium Wood (10)",
+            "name": "Premium Wood",
             "count": 10
           }
         ],
@@ -5591,12 +7878,16 @@
       "Ore Concentrate": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Premium Ore (10)",
+            "name": "Premium Ore",
             "count": 10
           }
         ],
@@ -5607,36 +7898,40 @@
       "Deed: Fort Keep": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Deed: Throne Lodge",
             "count": 1
           },
           {
-            "name": "Foundation Segment (10)",
+            "name": "Foundation Segment",
             "count": 10
           },
           {
-            "name": "Roof Segment (10)",
+            "name": "Roof Segment",
             "count": 10
           },
           {
-            "name": "Wall Segment (15)",
+            "name": "Wall Segment",
             "count": 15
           },
           {
-            "name": "Carpentary Nails (100)",
+            "name": "Carpentary Nails",
             "count": 100
           },
           {
-            "name": "Arches (10)",
+            "name": "Arches",
             "count": 10
           },
           {
-            "name": "Floor Tiles (100)",
+            "name": "Floor Tiles",
             "count": 100
           }
         ],
@@ -5647,9 +7942,13 @@
       "Deed: Manor": {
         "Chance": 0.53,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Deed: Villa",
@@ -5668,7 +7967,7 @@
             "count": 5
           },
           {
-            "name": "Carpentary Nails (100)",
+            "name": "Carpentary Nails",
             "count": 100
           },
           {
@@ -5676,7 +7975,7 @@
             "count": 5
           },
           {
-            "name": "Floor Tiles (50)",
+            "name": "Floor Tiles",
             "count": 50
           }
         ],
@@ -5687,9 +7986,13 @@
       "Deed: Villa": {
         "Chance": 0.53,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Deed: Cottage",
@@ -5708,7 +8011,7 @@
             "count": 5
           },
           {
-            "name": "Carpentary Nails (50)",
+            "name": "Carpentary Nails",
             "count": 50
           },
           {
@@ -5716,7 +8019,7 @@
             "count": 5
           },
           {
-            "name": "Floor Tiles (50)",
+            "name": "Floor Tiles",
             "count": 50
           }
         ],
@@ -5727,32 +8030,36 @@
       "Deed: Throne Lodge": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Foundation Segment (15)",
+            "name": "Foundation Segment",
             "count": 15
           },
           {
-            "name": "Roof Segment (15)",
+            "name": "Roof Segment",
             "count": 15
           },
           {
-            "name": "Wall Segment (15)",
+            "name": "Wall Segment",
             "count": 15
           },
           {
-            "name": "Carpentary Nails (100)",
+            "name": "Carpentary Nails",
             "count": 100
           },
           {
-            "name": "Arches (15)",
+            "name": "Arches",
             "count": 15
           },
           {
-            "name": "Floor Tiles (100)",
+            "name": "Floor Tiles",
             "count": 100
           }
         ],
@@ -5763,32 +8070,36 @@
       "Deed: Cottage": {
         "Chance": 0.53,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Foundation Segment (10)",
+            "name": "Foundation Segment",
             "count": 10
           },
           {
-            "name": "Roof Segment (10)",
+            "name": "Roof Segment",
             "count": 10
           },
           {
-            "name": "Wall Segment (10)",
+            "name": "Wall Segment",
             "count": 10
           },
           {
-            "name": "Carpentary Nails (100)",
+            "name": "Carpentary Nails",
             "count": 100
           },
           {
-            "name": "Arches (10)",
+            "name": "Arches",
             "count": 10
           },
           {
-            "name": "Floor Tiles (100)",
+            "name": "Floor Tiles",
             "count": 100
           }
         ],
@@ -5799,16 +8110,20 @@
       "Architectural Foundation Block": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Bricks (20)",
+            "name": "Bricks",
             "count": 20
           },
           {
-            "name": "Gravel (10)",
+            "name": "Gravel",
             "count": 10
           }
         ],
@@ -5819,16 +8134,20 @@
       "Architectural Frame": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Premium Stone (10)",
+            "name": "Premium Stone",
             "count": 10
           },
           {
-            "name": "Carpentry Nails (100)",
+            "name": "Carpentry Nails",
             "count": 100
           }
         ],
@@ -5839,20 +8158,24 @@
       "Roof Segment": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Roof Shingles (100)",
+            "name": "Roof Shingles",
             "count": 100
           },
           {
-            "name": "Insulation (10)",
+            "name": "Insulation",
             "count": 10
           },
           {
-            "name": "Carpentry Nails (100)",
+            "name": "Carpentry Nails",
             "count": 100
           }
         ],
@@ -5863,12 +8186,16 @@
       "Wall": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Bricks (20)",
+            "name": "Bricks",
             "count": 20
           },
           {
@@ -5876,11 +8203,11 @@
             "count": 4
           },
           {
-            "name": "Insulation (10)",
+            "name": "Insulation",
             "count": 10
           },
           {
-            "name": "Carpentry Nails (40)",
+            "name": "Carpentry Nails",
             "count": 40
           }
         ],
@@ -5891,12 +8218,16 @@
       "Masonry Arch": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Bricks (20)",
+            "name": "Bricks",
             "count": 20
           },
           {
@@ -5904,7 +8235,7 @@
             "count": 2
           },
           {
-            "name": "Carpentry Nails (40)",
+            "name": "Carpentry Nails",
             "count": 40
           }
         ],
@@ -5915,9 +8246,13 @@
       "Insulation": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Hide",
@@ -5939,9 +8274,13 @@
       "Carpentry Nails (10)": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Metal Bar",
@@ -5955,12 +8294,16 @@
       "Roof Shingles": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Premium Wood (10)",
+            "name": "Premium Wood",
             "count": 10
           }
         ],
@@ -5971,16 +8314,20 @@
       "Floor Tiles": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Premium Stone/Wood (10)",
+            "name": "Premium Stone/Wood",
             "count": 10
           },
           {
-            "name": "Premium Stone/Wood (10)",
+            "name": "Premium Stone/Wood",
             "count": 10
           }
         ],
@@ -5991,16 +8338,20 @@
       "A Set of Bricks": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Stonemasonry",
+        "Category": "Geomancy",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
-            "name": "Premium Stone (10)",
+            "name": "Premium Stone",
             "count": 10
           },
           {
-            "name": "Premium Stone (10)",
+            "name": "Premium Stone",
             "count": 10
           }
         ],
@@ -6013,9 +8364,13 @@
       "Diamond Cutting Blade": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Stonemasonry Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Cutting Grit",
@@ -6033,9 +8388,13 @@
       "Grinding Wheel ": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Stonemasonry Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Stone",
@@ -6053,9 +8412,13 @@
       "Polishing Paste": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Stonemasonry",
+        "Category": "Stonemasonry Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Powdered Stone",
@@ -6073,9 +8436,13 @@
       "Runestone: Harvesting Tool": {
         "Chance": 0.95,
         "Difficulty": 8.0,
+        "Profession": "Runemaking",
+        "Category": "Harvesting Tool",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Sigil",
@@ -6093,9 +8460,13 @@
       "Axe Sigil": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Harvesting Tool",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Parchment Paper",
@@ -6117,9 +8488,13 @@
       "Hammer Sigil": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Harvesting Tool",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Parchment Paper",
@@ -6141,9 +8516,13 @@
       "Pick Sigil": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Harvesting Tool",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Parchment Paper",
@@ -6165,9 +8544,13 @@
       "Knife Sigil": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Harvesting Tool",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Parchment Paper",
@@ -6189,9 +8572,13 @@
       "Shovel Sigil": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Harvesting Tool",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Parchment Paper",
@@ -6215,9 +8602,13 @@
       "Book Chapter": {
         "Chance": 0.68,
         "Difficulty": 35.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -6239,9 +8630,13 @@
       "Runestone: Death": {
         "Chance": 0.95,
         "Difficulty": 8.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Death Sigil",
@@ -6267,9 +8662,13 @@
       "Runestone: Life": {
         "Chance": 0.95,
         "Difficulty": 8.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Life Sigil",
@@ -6295,9 +8694,13 @@
       "Death Sigil": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Parchment Paper",
@@ -6315,9 +8718,13 @@
       "Life Sigil": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Parchment Paper",
@@ -6332,19 +8739,23 @@
 
         ]
       },
-      "Leatherworking Seal": {
+      "Specialty Seal": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Travertine",
+            "name": "Stone",
             "count": 1
           },
           {
-            "name": "Copper",
+            "name": "Ore",
             "count": 1
           }
         ],
@@ -6355,9 +8766,13 @@
       "Unmarked Wooden Runestone": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Wood",
@@ -6379,9 +8794,13 @@
       "Unmarked Large Stone Runestone": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Stone",
@@ -6407,9 +8826,13 @@
       "Unmarked Stone Runestone": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Runemaking",
+        "Category": "Runemaking Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Stone",
@@ -6433,9 +8856,13 @@
       "Major Discipline ": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Runemaking",
+        "Category": "Discipline",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Unmarked Large Stone Runestone",
@@ -6456,9 +8883,13 @@
       "Weapon Discipline": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Runemaking",
+        "Category": "Discipline",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Unmarked Large Stone Runestone",
@@ -6475,13 +8906,19 @@
             "count": 3
           }
         ]
-      },
+      }
+    },
+    "subrecipe": {
       "Specialty Seal": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Stone",
@@ -6499,9 +8936,13 @@
       "Mining Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Beneficial Harvest Power: Ore",
         "subImpact": 0.04,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Granite",
@@ -6519,9 +8960,13 @@
       "Chopping Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Beneficial Harvest Power: Wood",
         "subImpact": 0.04,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Granite",
@@ -6539,9 +8984,13 @@
       "Prospecting Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Beneficial Harvest Power: Stone",
         "subImpact": 0.04,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Granite",
@@ -6556,15 +9005,67 @@
 
         ]
       },
-      "Crafting Seal": {
+      "Crafting Seal1": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
-        "subAttribute": "Crafting Basic",
-        "subImpact": 0.05,
+        "subAttribute": null,
+        "subImpact": 10.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
-            "name": "Marble",
+            "name": "Granite",
+            "count": 1
+          },
+          {
+            "name": "Silver",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crafting Seal2": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 20.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Granite",
+            "count": 1
+          },
+          {
+            "name": "Gold",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crafting Seal3": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 30.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Limestone",
             "count": 1
           },
           {
@@ -6576,12 +9077,112 @@
 
         ]
       },
+      "Crafting Seal4": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 40.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Limestone",
+            "count": 1
+          },
+          {
+            "name": "Iron",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crafting Seal5": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 50.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Limestone",
+            "count": 1
+          },
+          {
+            "name": "Tin",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crafting Seal6": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 60.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Limestone",
+            "count": 1
+          },
+          {
+            "name": "Silver",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crafting Seal7": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 70.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Limestone",
+            "count": 1
+          },
+          {
+            "name": "Gold",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Leatherworking Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Leather Experimentation",
         "subImpact": 0.5,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Travertine",
@@ -6596,12 +9197,64 @@
 
         ]
       },
+      "Crafting Seal8": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 80.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Travertine",
+            "count": 1
+          },
+          {
+            "name": "Iron",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
+      "Crafting Seal9": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 90.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Travertine",
+            "count": 1
+          },
+          {
+            "name": "Tin",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Skinning Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Beneficial Harvest Power: Animal",
         "subImpact": 0.04,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Travertine",
@@ -6616,12 +9269,40 @@
 
         ]
       },
+      "Crafting Seal10": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 100.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Travertine",
+            "count": 1
+          },
+          {
+            "name": "Gold",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Stonemasonry Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Stonemasonry Experimentation",
         "subImpact": 0.5,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Slate",
@@ -6639,9 +9320,13 @@
       "Blacksmith Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
-        "subAttribute": "",
-        "subImpact": 0.0,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Slate",
@@ -6656,12 +9341,40 @@
 
         ]
       },
+      "Crafting Seal11": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 110.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Slate",
+            "count": 1
+          },
+          {
+            "name": "Tin",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Woodworking Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
-        "subAttribute": "",
-        "subImpact": 0.0,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Slate",
@@ -6679,9 +9392,13 @@
       "Jewelcrafting Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Jewelcrafting Speed",
         "subImpact": 0.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Slate",
@@ -6696,12 +9413,40 @@
 
         ]
       },
+      "Crafting Seal12": {
+        "Chance": null,
+        "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
+        "subAttribute": null,
+        "subImpact": 120.05,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
+        "Resources": [
+          {
+            "name": "Marble",
+            "count": 1
+          },
+          {
+            "name": "Copper",
+            "count": 1
+          }
+        ],
+        "optionalResources": [
+
+        ]
+      },
       "Enchanting Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
-        "subAttribute": "",
-        "subImpact": 0.0,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Marble",
@@ -6719,9 +9464,13 @@
       "Necromancy Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Necromancy",
         "subImpact": 0.5,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Marble",
@@ -6739,9 +9488,13 @@
       "Runemaking Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
-        "subAttribute": "",
-        "subImpact": 0.0,
+        "subAttribute": null,
+        "subImpact": null,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Marble",
@@ -6759,9 +9512,13 @@
       "Alchemy Seal": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Alchemy Craft Speed",
-        "subImpact": 0.0,
+        "subImpact": null,
+        "parentRecipe": "Specialty Seal",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Marble",
@@ -6779,9 +9536,13 @@
       "Book Chapter": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Book Chapter",
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -6803,9 +9564,13 @@
       "Chapter : Fervor": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Mana Regen: In Combat",
         "subImpact": 0.05,
+        "parentRecipe": "Book Chapter",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Granite",
@@ -6827,9 +9592,13 @@
       "Chapter : Indulgence": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Max Mana",
         "subImpact": 0.5,
+        "parentRecipe": "Book Chapter",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Limestone",
@@ -6851,9 +9620,13 @@
       "Chapter : Redemption": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Damage Bonus: Fire",
         "subImpact": 0.08,
+        "parentRecipe": "Book Chapter",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Travertine",
@@ -6875,9 +9648,13 @@
       "Chapter : Absolution": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Offense Stun",
-        "subImpact": 0.0,
+        "subImpact": null,
+        "parentRecipe": "Book Chapter",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Slate",
@@ -6899,9 +9676,13 @@
       "Chapter : Sin": {
         "Chance": null,
         "Difficulty": null,
+        "Profession": "Runemaking",
+        "Category": "subrecipe",
         "subRecipe": true,
         "subAttribute": "Attack Power",
         "subImpact": 0.05,
+        "parentRecipe": "Book Chapter",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Marble",
@@ -6927,9 +9708,13 @@
       "Human Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Human Head",
@@ -6966,9 +9751,13 @@
       "Half-Giant Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Human Head",
@@ -7002,9 +9791,13 @@
       "Nethari Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Human Head",
@@ -7041,9 +9834,13 @@
       "Half-Elf Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Human Head",
@@ -7080,9 +9877,13 @@
       "Stoneborn Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Stoneborn Head",
@@ -7119,9 +9920,13 @@
       "Elken Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Elkin Head",
@@ -7158,9 +9963,13 @@
       "Minotaur Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Minotaur Head",
@@ -7197,9 +10006,13 @@
       "Wood-Elf Vessel ": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Elven Head",
@@ -7236,9 +10049,13 @@
       "Moon-Elf Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Elven Head",
@@ -7275,9 +10092,13 @@
       "Fae Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Elven Head",
@@ -7314,9 +10135,13 @@
       "Centaur Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Human Head",
@@ -7349,9 +10174,13 @@
       "Guinecean Vessel": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Necromancy",
+        "Category": "Vessel",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Restored Guinecean Head",
@@ -7390,9 +10219,13 @@
       "Restored Head": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Necromancy",
+        "Category": "Body Parts",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Dessicated Head",
@@ -7417,9 +10250,13 @@
       "Restored Torso": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Necromancy",
+        "Category": "Body Parts",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Dessicated Torso",
@@ -7444,9 +10281,13 @@
       "Restored Centaur Body": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Necromancy",
+        "Category": "Body Parts",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Dessicated Centaur Body",
@@ -7495,9 +10336,13 @@
       "Restored Arm": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Necromancy",
+        "Category": "Body Parts",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Dessicated Arm",
@@ -7522,9 +10367,13 @@
       "Restored Leg": {
         "Chance": 0.93,
         "Difficulty": 10.0,
+        "Profession": "Necromancy",
+        "Category": "Body Parts",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Dessicated Leg",
@@ -7549,9 +10398,13 @@
       "Ring": {
         "Chance": 0.28,
         "Difficulty": 75.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Accessory",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -7573,9 +10426,13 @@
       "Ring Band": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Accessory",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -7597,9 +10454,13 @@
       "Ring Setting": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Accessory",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -7619,9 +10480,13 @@
       "Cut Gemstone: Oval": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Jewelcrafting component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -7642,9 +10507,13 @@
       "Cut Gemstone: Round": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Jewelcrafting component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -7665,9 +10534,13 @@
       "Cut Gemstone: Square": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Jewelcrafting component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -7688,9 +10561,13 @@
       "Grind Gemstone": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Jewelcrafting component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Cut Gem",
@@ -7711,9 +10588,13 @@
       "Polish Gemstone": {
         "Chance": 0.28,
         "Difficulty": 75.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Jewelcrafting component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Grind Gem",
@@ -7734,9 +10615,13 @@
       "Polish Soulgem": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Jewelcrafting",
+        "Category": "Jewelcrafting component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Rough Soulgem",
@@ -7761,9 +10646,13 @@
       "Ambrosia": {
         "Chance": 0.97,
         "Difficulty": 5.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Apple",
@@ -7785,9 +10674,13 @@
       "Grind Resource": {
         "Chance": 0.97,
         "Difficulty": 5.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -7801,9 +10694,13 @@
       "Philosopher Solution": {
         "Chance": 0.53,
         "Difficulty": 50.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -7824,9 +10721,13 @@
       "Philosopher Stone": {
         "Chance": 0.28,
         "Difficulty": 75.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Component",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Philosopher Solution",
@@ -7854,9 +10755,13 @@
       "Empty Flask": {
         "Chance": 0.95,
         "Difficulty": 5.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Potions",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Powdered Stone",
@@ -7878,9 +10783,13 @@
       "Plentiful Harvest Potion: Grave Digging": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Potions",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Empty Flask",
@@ -7901,9 +10810,13 @@
       "Plentiful Harvest Potion: Logging": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Potions",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Empty Flask",
@@ -7924,9 +10837,13 @@
       "Plentiful Harvest Potion: Mining": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Potions",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Empty Flask",
@@ -7947,9 +10864,13 @@
       "Plentiful Harvest Potion: Quarrying": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Potions",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Empty Flask",
@@ -7970,9 +10891,13 @@
       "Plentiful Harvest Potion: Skinning": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Potions",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Empty Flask",
@@ -7993,9 +10918,13 @@
       "Healing Over Time Potion": {
         "Chance": 0.78,
         "Difficulty": 25.0,
+        "Profession": "Alchemy",
+        "Category": "Alchemy Potions",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": true,
         "Resources": [
           {
             "name": "Ore",
@@ -8013,13 +10942,19 @@
         "optionalResources": [
 
         ]
-      },
+      }
+    },
+    "subrecipe": {
       "Grind Resource": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Alchemy",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Grind Resource",
+        "wildCard": true,
         "Resources": [
           {
             "name": "[Wild Card]",
@@ -8033,9 +10968,13 @@
       "Sand": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Alchemy",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Grind Resource",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Cobblestone",
@@ -8049,9 +10988,13 @@
       "Powdered Granite": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Alchemy",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Grind Resource",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Granite",
@@ -8065,9 +11008,13 @@
       "Powdered Limestone": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Alchemy",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Grind Resource",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Limestone",
@@ -8081,9 +11028,13 @@
       "Powdered Travertine": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Alchemy",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Grind Resource",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Travertine",
@@ -8097,9 +11048,13 @@
       "Powdered Slate": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Alchemy",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Grind Resource",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Slate",
@@ -8113,9 +11068,13 @@
       "Powdered Marble": {
         "Chance": null,
         "Difficulty": null,
-        "subRecipe": null,
+        "Profession": "Alchemy",
+        "Category": "subrecipe",
+        "subRecipe": true,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": "Grind Resource",
+        "wildCard": true,
         "Resources": [
           {
             "name": "Marble",
@@ -8133,9 +11092,13 @@
       "Brisket": {
         "Chance": 0.9,
         "Difficulty": 25.0,
+        "Profession": "Cooking",
+        "Category": "Meat",
         "subRecipe": null,
         "subAttribute": null,
         "subImpact": null,
+        "parentRecipe": null,
+        "wildCard": null,
         "Resources": [
           {
             "name": "Animal meat",
