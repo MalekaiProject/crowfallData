@@ -1,0 +1,18 @@
+exports.power = {
+  name: "Take Root",
+  source: "Dryad",
+  type: "Passive",
+  cast_type: "Passive",
+  duration: 2,
+  cooldown: 0,
+  targeting: "Self",
+  max_targets: 0,
+  range: 0,
+  next_chain: [],
+  cost: {
+    pips: 0,
+    resource: 0
+  },
+  tooltip: "Standing still for 2 seconds increases Healing Bonus by 20% and Physical Mitigations by 5% until you move.",
+  icon: ""
+};

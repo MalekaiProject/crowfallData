@@ -1,5 +1,5 @@
 exports.power = {
-  name: "Adjudicate2",
+  name: "Adjudicate 2",
   source: "Adjudicator",
   type: "Melee Attack",
   cast_type: "Instant",
