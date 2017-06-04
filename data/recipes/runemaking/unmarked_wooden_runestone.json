@@ -2,29 +2,24 @@
   "Name": "Unmarked Wooden Runestone",
   "Profession": "Runemaking",
   "Category": "Runemaking Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Wood",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Wood",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Wood",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

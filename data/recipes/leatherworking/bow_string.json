@@ -2,17 +2,14 @@
   "Name": "Bow String",
   "Profession": "Leatherworking",
   "Category": "Leatherworking Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.65,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

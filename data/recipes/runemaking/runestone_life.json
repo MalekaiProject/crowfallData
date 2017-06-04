@@ -2,35 +2,29 @@
   "Name": "Runestone: Life",
   "Profession": "Runemaking",
   "Category": "Runemaking Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 8.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Life Sigil",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Metal Bar",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Metal Bar",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Unmarked Stone Runestone",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

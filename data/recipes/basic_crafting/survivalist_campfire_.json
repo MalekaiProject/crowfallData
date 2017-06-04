@@ -2,23 +2,19 @@
   "Name": "Survivalist Campfire ",
   "Profession": "Basic crafting",
   "Category": "Survivalist",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Wood",
       "amount": 12,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Animal Meat",
       "amount": 4,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }

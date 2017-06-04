@@ -1,18 +1,107 @@
 {
   "Name": "Plank",
   "Profession": "Woodworking",
-  "Category": "variant",
-  "variantOf": "Plank",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Component",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Wood",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Plank",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Wood",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Oak plank",
+      "Attribute": "Critical chance",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Oak wood",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Birch plank",
+      "Attribute": "Max Stamina",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Birch wood",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Spruce plank",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Spruce wood",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ash plank",
+      "Attribute": "Hit Point",
+      "Impact": 21.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Ash wood",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Yew plank",
+      "Attribute": "Life Steal",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Yew wood",
+          "amount": 3,
+          "required": false
+        }
+      ]
     }
   ]
 }

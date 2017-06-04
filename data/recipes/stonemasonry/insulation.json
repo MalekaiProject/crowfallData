@@ -2,29 +2,24 @@
   "Name": "Insulation",
   "Profession": "Stonemasonry",
   "Category": "Geomancy",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Hide",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hide",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Mulch",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

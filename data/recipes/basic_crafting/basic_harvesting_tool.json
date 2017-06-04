@@ -2,29 +2,126 @@
   "Name": "Basic Harvesting Tool",
   "Profession": "Basic crafting",
   "Category": "Basic Harvesting Tool",
-  "variantOf": "Basic Harvesting Tool",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Chance": 0.97,
+  "Difficulty": 5.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "Wood",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Wood",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Basic Harvesting Tool",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "[Wild Card]",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hammer Runestone",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Pick Runestone",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Stone",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Knife Runestone",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Wood",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 1,
+          "required": false
+        }
+      ]
     }
   ]
 }

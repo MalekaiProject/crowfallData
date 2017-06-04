@@ -2,29 +2,24 @@
   "Name": "Ambrosia",
   "Profession": "Alchemy",
   "Category": "Alchemy Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.97,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Apple",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ground Hattel",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ground Cinnabar",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

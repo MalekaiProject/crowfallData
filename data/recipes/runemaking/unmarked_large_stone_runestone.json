@@ -2,35 +2,29 @@
   "Name": "Unmarked Large Stone Runestone",
   "Profession": "Runemaking",
   "Category": "Runemaking Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Stone",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stone",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stone",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stone",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

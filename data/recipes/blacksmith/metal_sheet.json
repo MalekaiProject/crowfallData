@@ -1,30 +1,957 @@
 {
   "Name": "Metal Sheet",
   "Profession": "Blacksmith",
-  "Category": "variant",
-  "variantOf": "Metal Sheet",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Blacksmith Armor",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
-      "name": "Ore",
+      "name": "Gold",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
-      "name": "Ore",
+      "name": "Gold",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
-      "name": "Ore",
+      "name": "Silver",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
+    },
+    {
+      "name": "Coal",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": true
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Copper Sheet",
+      "Attribute": "Max hitpoint",
+      "Impact": 21.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Electricity Resistant Copper Sheet",
+      "Attribute": "Electricity resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crush Resistant Copper Sheet",
+      "Attribute": "Crush resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Earth Resistant Iron Sheet",
+      "Attribute": "Earth resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Iron Sheet",
+      "Attribute": "Attack power",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Blue Steel Sheet",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Bronze Metal Sheet",
+      "Attribute": "Lifesteal",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Pierce Resistant Tin Sheet",
+      "Attribute": "Pierce resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Tin Sheet",
+      "Attribute": "Damage bonus: Retribution",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Poison Resistant Tin Sheet",
+      "Attribute": "Poison resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Sterling Sheet",
+      "Attribute": "Resource regen",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ice Resistant Silver Sheet",
+      "Attribute": "Ice resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Disease Resistant Silver Sheet",
+      "Attribute": "Disease resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Silver Sheet",
+      "Attribute": "Resource",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Rose Gold Sheet",
+      "Attribute": "Health regen: Out of combat",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Fire Resistant Gold Sheet",
+      "Attribute": "Fire resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crown Gold Sheet",
+      "Attribute": "Perception",
+      "Impact": 0.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Green Gold Sheet",
+      "Attribute": "Combat resource regen",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Gold Sheet",
+      "Attribute": "Support power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Electrum Sheet",
+      "Attribute": "Health regen: In combat",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Slash Resistant Iron Sheet",
+      "Attribute": "Slash resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Sheet",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
     }
   ]
 }

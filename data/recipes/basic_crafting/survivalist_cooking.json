@@ -2,17 +2,14 @@
   "Name": "Survivalist Cooking",
   "Profession": "Basic crafting",
   "Category": "Survivalist",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Scavenged Ingredient",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

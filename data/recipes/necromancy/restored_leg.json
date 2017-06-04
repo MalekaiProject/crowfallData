@@ -2,29 +2,24 @@
   "Name": "Restored Leg",
   "Profession": "Necromancy",
   "Category": "Body Parts",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.93,
   "Difficulty": 10.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Dessicated Leg",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ambrosia Solution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Enchanced Femur",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }

@@ -2,17 +2,14 @@
   "Name": "Ore Concentrate",
   "Profession": "Stonemasonry",
   "Category": "Geomancy",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Premium Ore",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

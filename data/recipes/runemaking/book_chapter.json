@@ -1,30 +1,177 @@
 {
   "Name": "Book Chapter",
   "Profession": "Runemaking",
-  "Category": "variant",
-  "variantOf": "Book Chapter",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Runemaking Component",
+  "Chance": 0.68,
+  "Difficulty": 35.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
     },
     {
-      "name": "Hide",
-      "amount": 3,
-      "required": false,
-      "wildcard": false
+      "name": "Stitched Leather",
+      "amount": 1,
+      "required": false
     },
     {
-      "name": "Ore",
-      "amount": 3,
-      "required": false,
-      "wildcard": false
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Book Chapter",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "[Wild Card]",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Chapter : Fervor",
+      "Attribute": "Mana Regen: In Combat",
+      "Impact": 0.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Granite",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Chapter : Indulgence",
+      "Attribute": "Max Mana",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Limestone",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Chapter : Redemption",
+      "Attribute": "Damage Bonus: Fire",
+      "Impact": 0.08,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Travertine",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Chapter : Absolution",
+      "Attribute": "Offense Stun",
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Slate",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Chapter : Sin",
+      "Attribute": "Attack Power",
+      "Impact": 0.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Marble",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
     }
   ]
 }

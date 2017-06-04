@@ -2,53 +2,44 @@
   "Name": "Mail Hauberk",
   "Profession": "Blacksmith",
   "Category": "Blacksmith Armor",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.68,
   "Difficulty": 35.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Iron",
       "amount": 45,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Tin",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hide",
       "amount": 20,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Reinforced Padding",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     },
     {
       "name": "Metal Ring",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     },
     {
       "name": "Metal Ring",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     },
     {
       "name": "Treated Steel",
       "amount": 4,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }

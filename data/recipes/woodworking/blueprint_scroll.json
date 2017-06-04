@@ -1,18 +1,112 @@
 {
   "Name": "Blueprint Scroll",
   "Profession": "Woodworking",
-  "Category": "variant",
-  "variantOf": "Blueprint Scroll",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Siege Warfare",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
+    },
+    {
+      "name": "Beeswax",
+      "amount": 5,
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Blueprint Scroll",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "[Wild Card]",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Biege Scroll",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Oak Heartwood",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ivory Scroll",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Birch Heartwood",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Taupe Scroll",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Spruce Heartwood",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ashen Scroll",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Ash Heartwood",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Carmine Scroll",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Yew Heartwood",
+          "amount": 1,
+          "required": false
+        }
+      ]
     }
   ]
 }

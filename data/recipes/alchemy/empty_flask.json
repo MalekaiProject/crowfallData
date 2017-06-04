@@ -2,29 +2,24 @@
   "Name": "Empty Flask",
   "Profession": "Alchemy",
   "Category": "Alchemy Potions",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Powdered Stone",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Powdered Stone",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Powdered Stone",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

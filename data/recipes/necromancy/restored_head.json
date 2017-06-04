@@ -2,35 +2,29 @@
   "Name": "Restored Head",
   "Profession": "Necromancy",
   "Category": "Body Parts",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.93,
   "Difficulty": 10.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Dessicated Head",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ambrosia Solution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Enchanced Eye",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     },
     {
       "name": "Enchanced Eye",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }

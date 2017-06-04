@@ -1,24 +1,542 @@
 {
   "Name": "Specialty Seal",
   "Profession": "Runemaking",
-  "Category": "variant",
-  "variantOf": "Specialty Seal",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Runemaking Component",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Stone",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Specialty Seal",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Stone",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Mining Seal",
+      "Attribute": "Beneficial Harvest Power: Ore",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Granite",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Chopping Seal",
+      "Attribute": "Beneficial Harvest Power: Wood",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Granite",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Prospecting Seal",
+      "Attribute": "Beneficial Harvest Power: Stone",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Granite",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal1",
+      "Attribute": null,
+      "Impact": 10.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Granite",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal2",
+      "Attribute": null,
+      "Impact": 20.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Granite",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal3",
+      "Attribute": null,
+      "Impact": 30.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Limestone",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal4",
+      "Attribute": null,
+      "Impact": 40.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Limestone",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal5",
+      "Attribute": null,
+      "Impact": 50.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Limestone",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal6",
+      "Attribute": null,
+      "Impact": 60.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Limestone",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal7",
+      "Attribute": null,
+      "Impact": 70.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Limestone",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Leatherworking Seal",
+      "Attribute": "Leather Experimentation",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Travertine",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal8",
+      "Attribute": null,
+      "Impact": 80.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Travertine",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal9",
+      "Attribute": null,
+      "Impact": 90.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Travertine",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Skinning Seal",
+      "Attribute": "Beneficial Harvest Power: Animal",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Travertine",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal10",
+      "Attribute": null,
+      "Impact": 100.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Travertine",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stonemasonry Seal",
+      "Attribute": "Stonemasonry Experimentation",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Slate",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Blacksmith Seal",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Slate",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal11",
+      "Attribute": null,
+      "Impact": 110.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Slate",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Woodworking Seal",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Slate",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Jewelcrafting Seal",
+      "Attribute": "Jewelcrafting Speed",
+      "Impact": 0.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Slate",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crafting Seal12",
+      "Attribute": null,
+      "Impact": 120.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Marble",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Enchanting Seal",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Marble",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Necromancy Seal",
+      "Attribute": "Necromancy",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Marble",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Runemaking Seal",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Marble",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Alchemy Seal",
+      "Attribute": "Alchemy Craft Speed",
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Marble",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 1,
+          "required": false
+        }
+      ]
     }
   ]
 }

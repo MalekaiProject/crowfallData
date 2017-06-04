@@ -1,30 +1,932 @@
 {
   "Name": "Metal Bar",
   "Profession": "Blacksmith",
-  "Category": "variant",
-  "variantOf": "Metal Bar",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Blacksmith Weapon",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": true
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Copper Bar",
+      "Attribute": "Critical hit chance",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Charged Copper Bar",
+      "Attribute": "Damage bonus: Electricity",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Heavy Copper Bar",
+      "Attribute": "Damage bonus: Crushing",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stony Iron Bar",
+      "Attribute": "Damage bonus: Nature",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Iron Bar",
+      "Attribute": "Atk power",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Blue Steel Bar",
+      "Attribute": "Damage bonus: Bleed",
+      "Impact": 0.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Bronze Bar",
+      "Attribute": "Stamina regen: In combat",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Sharp Tin Bar",
+      "Attribute": "Damage bonus: Piercing",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Tin Bar",
+      "Attribute": "Stamina",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Poisonous Tin Bar",
+      "Attribute": "Damage bonus: Poison",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Sterling Bar",
+      "Attribute": "Resource regen",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Icy Silver Bar",
+      "Attribute": "Damage bonus: Ice",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Diseased Silver Bar",
+      "Attribute": "Damage bonus: Disease",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Silver Bar",
+      "Attribute": "Resource",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Rose Gold Bar",
+      "Attribute": "Critical hit damage",
+      "Impact": 0.16,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Fiery gold bar",
+      "Attribute": "bonus dmg : Fire",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crown gold bar",
+      "Attribute": "Stamina regen: Out of combat",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Green gold bar",
+      "Attribute": "Stamina regen: In combat",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Gold Bar",
+      "Attribute": "Support power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Electrum Bar",
+      "Attribute": "Stealth",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Honed Iron Bar",
+      "Attribute": "Damage bonus: Slashing",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Bar",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
     }
   ]
 }

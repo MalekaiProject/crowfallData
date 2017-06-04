@@ -1,18 +1,117 @@
 {
   "Name": "Siege Ballista Blueprint",
   "Profession": "Woodworking",
-  "Category": "variant",
-  "variantOf": "Siege Ballista Blueprint",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Siege Warfare",
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
+    },
+    {
+      "name": "Gears",
+      "amount": 10,
+      "required": false
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 300,
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Siege Ballista Blueprint",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "[Wild Card]",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ballista MK1",
+      "Attribute": null,
+      "Impact": 1.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Biege Scroll",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ballista MK2",
+      "Attribute": null,
+      "Impact": 2.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Ivory Scroll",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ballista MK2",
+      "Attribute": null,
+      "Impact": 2.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Taupe Scroll",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ballista MK3",
+      "Attribute": null,
+      "Impact": 3.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Ashen Scroll",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ballista MK4",
+      "Attribute": null,
+      "Impact": 4.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Carmine Scroll",
+          "amount": 1,
+          "required": false
+        }
+      ]
     }
   ]
 }

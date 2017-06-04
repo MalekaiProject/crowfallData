@@ -2,29 +2,24 @@
   "Name": "Bow Riser ",
   "Profession": "Woodworking",
   "Category": "",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.68,
   "Difficulty": 35.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Bow Sight",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Bow Rest",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Bow Grip",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

@@ -1,18 +1,122 @@
 {
   "Name": "Grind Resource",
   "Profession": "Alchemy",
-  "Category": "variant",
-  "variantOf": "Grind Resource",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Alchemy Component",
+  "Chance": 0.97,
+  "Difficulty": 5.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Grind Resource",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "[Wild Card]",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Sand",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cobblestone",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Powdered Granite",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Granite",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Powdered Limestone",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Limestone",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Powdered Travertine",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Travertine",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Powdered Slate",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Slate",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Powdered Marble",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Marble",
+          "amount": 2,
+          "required": false
+        }
+      ]
     }
   ]
 }

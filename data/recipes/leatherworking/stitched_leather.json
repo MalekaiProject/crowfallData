@@ -1,30 +1,932 @@
 {
   "Name": "Stitched Leather",
   "Profession": "Leatherworking",
-  "Category": "variant",
-  "variantOf": "Stitched Leather",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Leatherworking Component",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Hide",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hide",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hide",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": true
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Composite Cat Leather",
+      "Attribute": "Damage bonus: Retribution",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Cat Leather",
+      "Attribute": "Stealth",
+      "Impact": 0.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Slash Resist",
+      "Attribute": "Slash resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Charge Resist",
+      "Attribute": "Charge resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Reinforced Cat",
+      "Attribute": "Lifesteal",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Earth Resistant Boar Leather",
+      "Attribute": "Earth resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Boar Leather",
+      "Attribute": "Resource",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Poison Resist",
+      "Attribute": "Poison resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Bonded Boar",
+      "Attribute": "Resource regen",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Reinforced Boar",
+      "Attribute": "Combat resource regen",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Fire Resistant",
+      "Attribute": "Fire resistant",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Crush Resistant",
+      "Attribute": "Crush resistant",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Auroch",
+      "Attribute": "Max hitpoint",
+      "Impact": 21.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Bonded Auroch",
+      "Attribute": "Health regen: In combat",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Reinforced Auroch",
+      "Attribute": "Health regen: Out of combat",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Pierce Resistant",
+      "Attribute": "Pierce resist",
+      "Impact": 0.2,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Disease Resistant",
+      "Attribute": "Disease resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Elk",
+      "Attribute": "Support power",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Ice Resistant",
+      "Attribute": "Ice resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Stitched Leather: Bear",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Stitched Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1,
+          "required": false
+        }
+      ]
     }
   ]
 }

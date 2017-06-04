@@ -2,23 +2,19 @@
   "Name": "Basic One Handed Rapier",
   "Profession": "Basic crafting",
   "Category": "Basic Weapon",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Wood",
       "amount": 6,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stone",
       "amount": 6,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

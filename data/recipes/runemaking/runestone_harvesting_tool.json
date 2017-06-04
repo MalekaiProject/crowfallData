@@ -2,23 +2,19 @@
   "Name": "Runestone: Harvesting Tool",
   "Profession": "Runemaking",
   "Category": "Harvesting Tool",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 8.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Sigil",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Unmarked Runestone",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

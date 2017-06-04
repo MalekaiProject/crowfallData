@@ -2,29 +2,24 @@
   "Name": "Basic Gloves",
   "Profession": "Basic crafting",
   "Category": "Basic Weapon",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 10.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Wood",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stone",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

@@ -2,23 +2,19 @@
   "Name": "Ring Setting",
   "Profession": "Jewelcrafting",
   "Category": "Accessory",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.78,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Ore",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

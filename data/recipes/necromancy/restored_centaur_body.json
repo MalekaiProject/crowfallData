@@ -2,71 +2,59 @@
   "Name": "Restored Centaur Body",
   "Profession": "Necromancy",
   "Category": "Body Parts",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.93,
   "Difficulty": 10.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Dessicated Centaur Body",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ambrosia Sollution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ambrosia Sollution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Enchanced Heart",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     },
     {
       "name": "Enchanced Lungs",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     },
     {
       "name": "Enchanced Stomach",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }

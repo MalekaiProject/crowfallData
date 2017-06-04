@@ -2,23 +2,19 @@
   "Name": "A Set of Bricks",
   "Profession": "Stonemasonry",
   "Category": "Geomancy",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.95,
   "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Premium Stone",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Premium Stone",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

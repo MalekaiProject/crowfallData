@@ -2,23 +2,19 @@
   "Name": "Diamond Cutting Blade",
   "Profession": "Stonemasonry",
   "Category": "Stonemasonry Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.78,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Cutting Grit",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

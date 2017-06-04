@@ -2,29 +2,24 @@
   "Name": "Book Binding",
   "Profession": "Woodworking",
   "Category": "",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.68,
   "Difficulty": 35.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Plank",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Plank",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

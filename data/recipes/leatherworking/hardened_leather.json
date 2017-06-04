@@ -1,30 +1,952 @@
 {
   "Name": "Hardened Leather",
   "Profession": "Leatherworking",
-  "Category": "variant",
-  "variantOf": "Hardened Leather",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Leatherworking Armor",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Hide",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hide",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hide",
       "amount": 2,
-      "required": false,
-      "wildcard": false
+      "required": false
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": true
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Hardened Leather",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Cat Leather",
+      "Attribute": "Stealth",
+      "Impact": 0.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Composite Cat Leather",
+      "Attribute": "Critical hit damage",
+      "Impact": 0.16,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Honed Cat Leather",
+      "Attribute": "Damage bonus: Slashing",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Voltaic Cat Leather",
+      "Attribute": "Damage bonus: Electricity",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Bonded Cat Leather",
+      "Attribute": "Critical hit chance",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Earthen Boar Leather",
+      "Attribute": "Damage bonus: Nature",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Boar Leather",
+      "Attribute": "Resource",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Toxic Boar Leather",
+      "Attribute": "Damage bonus: Poison",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Boar Leather",
+      "Attribute": "Resource regen",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Reinforced Boar Leather",
+      "Attribute": "Combat resource regen",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Fiery Auroch Leather",
+      "Attribute": "Damage bonus: Fire",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Heavy Auroch Leather",
+      "Attribute": "Damage bonus: Crushing",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Auroch Leather",
+      "Attribute": "Max stamina",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Auroch Leather",
+      "Attribute": "Stamina regen: Out of combat",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Reinforced Auroch Leather",
+      "Attribute": "Stamina regen: In combat",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Sharp Elk Leather",
+      "Attribute": "Damage bonus: Piercing",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Diseased Elk Leather",
+      "Attribute": "Damage bonus: Disease",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Elk Leather",
+      "Attribute": "Support power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Icy Bear Leather",
+      "Attribute": "Damage bonus: Ice",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Bear Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Cat Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Boar Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Hardened Patchwork Leather",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Auroch Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 2,
+          "required": false
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 2,
+          "required": false
+        }
+      ]
     }
   ]
 }

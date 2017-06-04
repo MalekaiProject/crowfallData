@@ -2,35 +2,29 @@
   "Name": "One Handed Book",
   "Profession": "Woodworking",
   "Category": "",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.53,
   "Difficulty": 50.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Book Binding",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Book Clasp",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Book Bound Chapters",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hunger Shard",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }

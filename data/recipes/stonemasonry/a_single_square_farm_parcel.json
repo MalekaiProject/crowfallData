@@ -2,17 +2,14 @@
   "Name": "A Single Square Farm Parcel",
   "Profession": "Stonemasonry",
   "Category": "Geomancy",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.78,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Earth",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

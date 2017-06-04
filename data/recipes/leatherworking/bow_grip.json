@@ -2,23 +2,19 @@
   "Name": "Bow Grip",
   "Profession": "Leatherworking",
   "Category": "Leatherworking Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.77,
   "Difficulty": 35.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

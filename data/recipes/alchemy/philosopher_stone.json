@@ -2,35 +2,29 @@
   "Name": "Philosopher Stone",
   "Profession": "Alchemy",
   "Category": "Alchemy Component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.28,
   "Difficulty": 75.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Philosopher Solution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Philosopher Solution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Philosopher Solution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Philosopher Solution",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

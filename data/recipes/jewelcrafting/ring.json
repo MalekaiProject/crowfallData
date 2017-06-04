@@ -2,29 +2,24 @@
   "Name": "Ring",
   "Profession": "Jewelcrafting",
   "Category": "Accessory",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.28,
   "Difficulty": 75.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
     },
     {
       "name": "Ring Band",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ring Setting",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

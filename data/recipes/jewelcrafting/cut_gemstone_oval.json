@@ -2,29 +2,24 @@
   "Name": "Cut Gemstone: Oval",
   "Profession": "Jewelcrafting",
   "Category": "Jewelcrafting component",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.78,
   "Difficulty": 25.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
     },
     {
       "name": "Diamond Cutting Blade",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Water Flask",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }

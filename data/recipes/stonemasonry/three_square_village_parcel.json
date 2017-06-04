@@ -2,29 +2,24 @@
   "Name": "Three Square Village Parcel",
   "Profession": "Stonemasonry",
   "Category": "Geomancy",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.78,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Two Square Parcel",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "One Square Parcel",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Earth",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

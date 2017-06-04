@@ -1,18 +1,62 @@
 {
   "Name": "Weapon Grip",
   "Profession": "Blacksmith",
-  "Category": "variant",
-  "variantOf": "Weapon Grip",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Blacksmith Weapon",
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false,
-      "wildcard": true
+      "required": false
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Weapon Grip",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "[Wild Card]",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Leather Weapon Grip",
+      "Attribute": "Support power",
+      "Impact": 0.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Leather",
+          "amount": 1,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Wooden weapon grip",
+      "Attribute": "Atk power",
+      "Impact": 0.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Plank",
+          "amount": 1,
+          "required": false
+        }
+      ]
     }
   ]
 }

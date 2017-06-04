@@ -1,30 +1,957 @@
 {
   "Name": "Metal Rings",
   "Profession": "Blacksmith",
-  "Category": "variant",
-  "variantOf": "Metal Rings",
-  "Attribute": null,
-  "Impact": null,
-  "Chance": null,
-  "Difficulty": null,
+  "Category": "Blacksmith Armor",
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false,
-      "wildcard": false
+      "required": false
+    },
+    {
+      "name": "Coal",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": true
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Ore",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Copper Rings",
+      "Attribute": "Max hitpoint",
+      "Impact": 21.0,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Electricity Resistant Copper Rings",
+      "Attribute": "Electricity resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crush Resistant Copper Rings",
+      "Attribute": "Crush resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Earth Resistant Iron Rings",
+      "Attribute": "Earth resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Iron Rings",
+      "Attribute": "Attack power",
+      "Impact": 0.5,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Blue Steel Rings",
+      "Attribute": "Attack power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Bronze Ring",
+      "Attribute": "Lifesteal",
+      "Impact": 0.06,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Pierce Resistant Tin Rings",
+      "Attribute": "Pierce resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Tin Rings",
+      "Attribute": "Damage bonus: Retribution",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Poison Resistant Tin Rings",
+      "Attribute": "Poison resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Sterling Rings",
+      "Attribute": "Resource regen",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Ice Resistant Silver Rings",
+      "Attribute": "Ice resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Disease Resistant Silver Rings",
+      "Attribute": "Disease resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Silver Rings",
+      "Attribute": "Resource",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Rose Gold Rings",
+      "Attribute": "Health regen: Out of combat",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Fire Resistant Gold Rings",
+      "Attribute": "Fire resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Crown Gold Rings",
+      "Attribute": "Perception",
+      "Impact": 0.05,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Green Gold Rings",
+      "Attribute": "Combat resource regen",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Gold Rings",
+      "Attribute": "Support power",
+      "Impact": 0.4,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Electrum Rings",
+      "Attribute": "Health regen: In combat",
+      "Impact": 0.04,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Copper",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Slash Resistant Iron Rings",
+      "Attribute": "Slash resist",
+      "Impact": 0.02,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Iron",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
+    },
+    {
+      "Name": "Plain Metal Rings",
+      "Attribute": null,
+      "Impact": null,
+      "Chance": null,
+      "Difficulty": null,
+      "Wildcard": false,
+      "Components": [
+        {
+          "name": "Tin",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Silver",
+          "amount": 3,
+          "required": false
+        },
+        {
+          "name": "Gold",
+          "amount": 3,
+          "required": false
+        }
+      ]
     }
   ]
 }

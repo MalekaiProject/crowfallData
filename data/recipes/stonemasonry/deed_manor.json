@@ -2,53 +2,44 @@
   "Name": "Deed: Manor",
   "Profession": "Stonemasonry",
   "Category": "Geomancy",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.53,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Deed: Villa",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Foundation Segment",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Roof Segment",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Wall Segment",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Carpentary Nails",
       "amount": 100,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Arches",
       "amount": 5,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Floor Tiles",
       "amount": 50,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

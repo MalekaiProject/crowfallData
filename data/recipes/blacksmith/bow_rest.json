@@ -2,17 +2,14 @@
   "Name": "Bow Rest",
   "Profession": "Blacksmith",
   "Category": "Blacksmith Weapon",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.78,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Metal Bar",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

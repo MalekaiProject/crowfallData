@@ -2,35 +2,29 @@
   "Name": "Siege Banner Flag",
   "Profession": "Woodworking",
   "Category": "Siege Warfare",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.78,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Lacing Sinew",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Ethereal Dust",
       "amount": 150,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

@@ -2,47 +2,39 @@
   "Name": "Deed: Cottage",
   "Profession": "Stonemasonry",
   "Category": "Geomancy",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.53,
   "Difficulty": 25.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Foundation Segment",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Roof Segment",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Wall Segment",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Carpentary Nails",
       "amount": 100,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Arches",
       "amount": 10,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Floor Tiles",
       "amount": 100,
-      "required": false,
-      "wildcard": false
+      "required": false
     }
   ]
 }

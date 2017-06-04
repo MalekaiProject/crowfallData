@@ -2,29 +2,24 @@
   "Name": "One Handed Sword",
   "Profession": "Blacksmith",
   "Category": "Blacksmith Weapon",
-  "variantOf": null,
-  "Attribute": null,
-  "Impact": null,
   "Chance": 0.53,
   "Difficulty": 50.0,
+  "Wildcard": false,
   "Components": [
     {
       "name": "Weapon Hilt",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Weapon Blade: Long",
       "amount": 1,
-      "required": false,
-      "wildcard": false
+      "required": false
     },
     {
       "name": "Hunger Shard",
       "amount": 1,
-      "required": true,
-      "wildcard": false
+      "required": true
     }
   ]
 }
