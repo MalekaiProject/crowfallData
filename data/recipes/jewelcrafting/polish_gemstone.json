@@ -9,17 +9,17 @@
     {
       "name": "Grind Gem",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Polishing Paste",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Water Flask",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

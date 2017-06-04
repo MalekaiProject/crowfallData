@@ -9,22 +9,22 @@
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Lacing Sinew",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ethereal Dust",
       "amount": 150,
-      "required": false
+      "required": true
     }
   ]
 }

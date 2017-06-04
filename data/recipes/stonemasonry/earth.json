@@ -9,17 +9,17 @@
     {
       "name": "Mulch",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Gravel",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore Concentrate",
       "amount": 10,
-      "required": false
+      "required": true
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -24,7 +24,7 @@
         {
           "name": "Cobblestone",
           "amount": 2,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -39,7 +39,7 @@
         {
           "name": "Granite",
           "amount": 2,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -54,7 +54,7 @@
         {
           "name": "Limestone",
           "amount": 2,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -69,7 +69,7 @@
         {
           "name": "Travertine",
           "amount": 2,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -84,7 +84,7 @@
         {
           "name": "Slate",
           "amount": 2,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -99,7 +99,7 @@
         {
           "name": "Marble",
           "amount": 2,
-          "required": false
+          "required": true
         }
       ]
     }

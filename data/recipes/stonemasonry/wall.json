@@ -9,22 +9,22 @@
     {
       "name": "Bricks",
       "amount": 20,
-      "required": false
+      "required": true
     },
     {
       "name": "Architectural Frame",
       "amount": 4,
-      "required": false
+      "required": true
     },
     {
       "name": "Insulation",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Carpentry Nails",
       "amount": 40,
-      "required": false
+      "required": true
     }
   ]
 }

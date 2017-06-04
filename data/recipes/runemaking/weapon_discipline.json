@@ -9,17 +9,17 @@
     {
       "name": "Unmarked Large Stone Runestone",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "[Wild card]",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Blood",
       "amount": 3,
-      "required": true
+      "required": false
     }
   ]
 }

@@ -9,12 +9,12 @@
     {
       "name": "Cutting Grit",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false
+      "required": true
     }
   ]
 }

@@ -9,22 +9,22 @@
     {
       "name": "Shield Cover",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Shield Base",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Enarmes",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Hunger Shard",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

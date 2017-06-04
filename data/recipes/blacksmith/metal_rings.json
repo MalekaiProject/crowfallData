@@ -9,47 +9,47 @@
     {
       "name": "Ore",
       "amount": 3,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false
+      "required": true
     },
     {
       "name": "Coal",
       "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
       "required": false
     },
     {
       "name": "Armor Layer",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Armor Layer",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Armor Layer",
       "amount": 1,
-      "required": true
-    },
-    {
-      "name": "Armor Layer",
-      "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Specialty Seal",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ],
   "Variants": [
@@ -64,17 +64,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -89,17 +89,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -114,17 +114,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -139,17 +139,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -164,17 +164,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -189,17 +189,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -214,17 +214,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -239,17 +239,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -264,17 +264,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -289,17 +289,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -314,17 +314,17 @@
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -339,17 +339,17 @@
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -364,17 +364,17 @@
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -389,17 +389,17 @@
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -414,17 +414,17 @@
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -439,17 +439,17 @@
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -464,17 +464,17 @@
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -489,17 +489,17 @@
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -514,17 +514,17 @@
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -539,17 +539,17 @@
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -564,17 +564,17 @@
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -589,17 +589,17 @@
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -614,17 +614,17 @@
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -639,17 +639,17 @@
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -664,17 +664,17 @@
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -689,17 +689,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -714,17 +714,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -739,17 +739,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -764,17 +764,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -789,17 +789,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -814,17 +814,17 @@
         {
           "name": "Copper",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -839,17 +839,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -864,17 +864,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -889,17 +889,17 @@
         {
           "name": "Iron",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -914,17 +914,17 @@
         {
           "name": "Tin",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     }

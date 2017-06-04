@@ -9,17 +9,17 @@
     {
       "name": "Roof Shingles",
       "amount": 100,
-      "required": false
+      "required": true
     },
     {
       "name": "Insulation",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Carpentry Nails",
       "amount": 100,
-      "required": false
+      "required": true
     }
   ]
 }

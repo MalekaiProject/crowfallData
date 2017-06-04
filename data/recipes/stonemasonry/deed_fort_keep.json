@@ -9,37 +9,37 @@
     {
       "name": "Deed: Throne Lodge",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Foundation Segment",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Roof Segment",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Wall Segment",
       "amount": 15,
-      "required": false
+      "required": true
     },
     {
       "name": "Carpentary Nails",
       "amount": 100,
-      "required": false
+      "required": true
     },
     {
       "name": "Arches",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Floor Tiles",
       "amount": 100,
-      "required": false
+      "required": true
     }
   ]
 }

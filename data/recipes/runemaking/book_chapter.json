@@ -9,17 +9,17 @@
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Stitched Leather",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Metal Bar",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -34,17 +34,17 @@
         {
           "name": "Granite",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Hide",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -59,17 +59,17 @@
         {
           "name": "Limestone",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Hide",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -84,17 +84,17 @@
         {
           "name": "Travertine",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Hide",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -109,17 +109,17 @@
         {
           "name": "Slate",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Hide",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -134,17 +134,17 @@
         {
           "name": "Marble",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Hide",
           "amount": 3,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     }

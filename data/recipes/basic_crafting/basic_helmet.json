@@ -9,17 +9,17 @@
     {
       "name": "Wood",
       "amount": 3,
-      "required": false
+      "required": true
     },
     {
       "name": "Stone",
       "amount": 3,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 3,
-      "required": false
+      "required": true
     }
   ]
 }

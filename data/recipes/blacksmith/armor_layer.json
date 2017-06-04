@@ -9,22 +9,22 @@
     {
       "name": "Ore",
       "amount": 2,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 2,
-      "required": false
+      "required": true
     },
     {
       "name": "Stone",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Hide",
       "amount": 2,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -39,17 +39,17 @@
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Granite",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -64,17 +64,17 @@
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Limestone",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -89,17 +89,17 @@
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Travertine",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -114,17 +114,17 @@
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Slate",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -139,17 +139,17 @@
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 2,
-          "required": false
+          "required": true
         },
         {
           "name": "Marble",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     }

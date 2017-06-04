@@ -9,52 +9,52 @@
     {
       "name": "Dessicated Centaur Body",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Dessicated Centaur Leg",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ambrosia Sollution",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ambrosia Sollution",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Enchanced Heart",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Enchanced Lungs",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Enchanced Stomach",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

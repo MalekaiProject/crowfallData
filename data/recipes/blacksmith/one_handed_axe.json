@@ -9,22 +9,22 @@
     {
       "name": "Weapon Hilt",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Weapon Head: Axe",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Weapon Shaft: Short",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Hunger Shard",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

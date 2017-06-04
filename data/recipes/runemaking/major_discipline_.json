@@ -9,17 +9,17 @@
     {
       "name": "Unmarked Large Stone Runestone",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Captured Thrall",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Blood",
       "amount": 6,
-      "required": true
+      "required": false
     }
   ]
 }

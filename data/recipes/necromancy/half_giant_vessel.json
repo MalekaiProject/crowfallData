@@ -9,32 +9,32 @@
     {
       "name": "Restored Human Head",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Human Torso",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Human Arm",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Human Arm",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Human Leg",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Human Leg",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

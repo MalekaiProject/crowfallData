@@ -9,22 +9,22 @@
     {
       "name": "Death Sigil",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Metal Bar",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Metal Bar",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Unmarked Stone Runestone",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

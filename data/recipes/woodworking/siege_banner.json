@@ -9,27 +9,27 @@
     {
       "name": "Siege Banner Post",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Siege Banner Flag",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ethereal Dust",
       "amount": 300,
-      "required": false
+      "required": true
     },
     {
       "name": "Metal Ring",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Polished Gemstone",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

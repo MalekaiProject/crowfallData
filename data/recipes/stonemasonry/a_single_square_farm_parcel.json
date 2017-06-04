@@ -9,7 +9,7 @@
     {
       "name": "Earth",
       "amount": 10,
-      "required": false
+      "required": true
     }
   ]
 }

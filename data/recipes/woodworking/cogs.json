@@ -9,12 +9,12 @@
     {
       "name": "Metal Bar",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ethereal Dust",
       "amount": 20,
-      "required": false
+      "required": true
     }
   ]
 }

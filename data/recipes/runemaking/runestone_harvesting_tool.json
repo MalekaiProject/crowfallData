@@ -9,12 +9,12 @@
     {
       "name": "Sigil",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Unmarked Runestone",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

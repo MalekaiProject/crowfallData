@@ -9,17 +9,17 @@
     {
       "name": "Hide",
       "amount": 5,
-      "required": false
+      "required": true
     },
     {
       "name": "Hide",
       "amount": 5,
-      "required": false
+      "required": true
     },
     {
       "name": "Mulch",
       "amount": 5,
-      "required": false
+      "required": true
     }
   ]
 }

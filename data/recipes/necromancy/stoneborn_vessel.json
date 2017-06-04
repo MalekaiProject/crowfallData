@@ -9,37 +9,37 @@
     {
       "name": "Restored Stoneborn Head",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Stoneborn Torso",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Stoneborn Arm",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Stoneborn Arm",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Stoneborn Leg",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Restored Stoneborn Leg",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Philosopher Stone",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

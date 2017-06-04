@@ -9,27 +9,27 @@
     {
       "name": "Heartwood",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Heartwood",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Heartwood",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Heartwood",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ethereal Dust",
       "amount": 150,
-      "required": false
+      "required": true
     }
   ]
 }

@@ -9,12 +9,12 @@
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Beeswax",
       "amount": 5,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -29,7 +29,7 @@
         {
           "name": "Oak Heartwood",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -44,7 +44,7 @@
         {
           "name": "Birch Heartwood",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -59,7 +59,7 @@
         {
           "name": "Spruce Heartwood",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -74,7 +74,7 @@
         {
           "name": "Ash Heartwood",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -89,7 +89,7 @@
         {
           "name": "Yew Heartwood",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     }

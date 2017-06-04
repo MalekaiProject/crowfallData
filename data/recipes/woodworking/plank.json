@@ -9,7 +9,7 @@
     {
       "name": "Wood",
       "amount": 3,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -24,7 +24,7 @@
         {
           "name": "Oak wood",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -39,7 +39,7 @@
         {
           "name": "Birch wood",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -54,7 +54,7 @@
         {
           "name": "Spruce wood",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -69,7 +69,7 @@
         {
           "name": "Ash wood",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -84,7 +84,7 @@
         {
           "name": "Yew wood",
           "amount": 3,
-          "required": false
+          "required": true
         }
       ]
     }

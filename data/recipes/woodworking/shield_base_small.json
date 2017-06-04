@@ -9,12 +9,12 @@
     {
       "name": "Plank",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Plank",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

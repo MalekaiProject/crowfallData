@@ -9,17 +9,17 @@
     {
       "name": "Powdered Stone",
       "amount": 2,
-      "required": false
+      "required": true
     },
     {
       "name": "Powdered Stone",
       "amount": 2,
-      "required": false
+      "required": true
     },
     {
       "name": "Powdered Stone",
       "amount": 2,
-      "required": false
+      "required": true
     }
   ]
 }

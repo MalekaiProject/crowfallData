@@ -9,17 +9,17 @@
     {
       "name": "Wood",
       "amount": 6,
-      "required": false
+      "required": true
     },
     {
       "name": "Wood",
       "amount": 6,
-      "required": false
+      "required": true
     },
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

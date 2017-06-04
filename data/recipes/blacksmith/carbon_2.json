@@ -9,7 +9,7 @@
     {
       "name": "Animal meat",
       "amount": 5,
-      "required": false
+      "required": true
     }
   ]
 }

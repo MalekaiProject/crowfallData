@@ -9,17 +9,17 @@
     {
       "name": "Cut Gem",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Grinding Wheel",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Water Flask",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

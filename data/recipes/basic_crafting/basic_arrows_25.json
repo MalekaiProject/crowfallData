@@ -9,7 +9,7 @@
     {
       "name": "Wood",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

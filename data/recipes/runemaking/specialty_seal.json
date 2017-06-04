@@ -9,12 +9,12 @@
     {
       "name": "Stone",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -29,12 +29,12 @@
         {
           "name": "Granite",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -49,12 +49,12 @@
         {
           "name": "Granite",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -69,12 +69,12 @@
         {
           "name": "Granite",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -89,12 +89,12 @@
         {
           "name": "Granite",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -109,12 +109,12 @@
         {
           "name": "Granite",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -129,12 +129,12 @@
         {
           "name": "Limestone",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -149,12 +149,12 @@
         {
           "name": "Limestone",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -169,12 +169,12 @@
         {
           "name": "Limestone",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -189,12 +189,12 @@
         {
           "name": "Limestone",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -209,12 +209,12 @@
         {
           "name": "Limestone",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -229,12 +229,12 @@
         {
           "name": "Travertine",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -249,12 +249,12 @@
         {
           "name": "Travertine",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -269,12 +269,12 @@
         {
           "name": "Travertine",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -289,12 +289,12 @@
         {
           "name": "Travertine",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -309,12 +309,12 @@
         {
           "name": "Travertine",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -329,12 +329,12 @@
         {
           "name": "Slate",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -349,12 +349,12 @@
         {
           "name": "Slate",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -369,12 +369,12 @@
         {
           "name": "Slate",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -389,12 +389,12 @@
         {
           "name": "Slate",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -409,12 +409,12 @@
         {
           "name": "Slate",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -429,12 +429,12 @@
         {
           "name": "Marble",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Copper",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -449,12 +449,12 @@
         {
           "name": "Marble",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Iron",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -469,12 +469,12 @@
         {
           "name": "Marble",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Tin",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -489,12 +489,12 @@
         {
           "name": "Marble",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Silver",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -509,12 +509,12 @@
         {
           "name": "Marble",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Gold",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     }

@@ -9,17 +9,17 @@
     {
       "name": "Wood",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Wood",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -34,17 +34,17 @@
         {
           "name": "Wood",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Wood",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Wood",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -59,17 +59,17 @@
         {
           "name": "Wood",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Wood",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Stone",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -84,17 +84,17 @@
         {
           "name": "Wood",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Wood",
           "amount": 1,
-          "required": false
+          "required": true
         },
         {
           "name": "Ore",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     }

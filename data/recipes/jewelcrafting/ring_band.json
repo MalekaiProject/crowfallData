@@ -9,17 +9,17 @@
     {
       "name": "Ore",
       "amount": 2,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ore",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

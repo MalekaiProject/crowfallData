@@ -9,12 +9,12 @@
     {
       "name": "Premium Stone",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Premium Stone",
       "amount": 10,
-      "required": false
+      "required": true
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "name": "Ore",
       "amount": 3,
-      "required": false
+      "required": true
     }
   ]
 }

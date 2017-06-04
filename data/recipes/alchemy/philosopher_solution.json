@@ -9,17 +9,17 @@
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Water Flask",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

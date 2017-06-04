@@ -9,32 +9,32 @@
     {
       "name": "Ore",
       "amount": 8,
-      "required": false
+      "required": true
     },
     {
       "name": "Hide",
       "amount": 25,
+      "required": true
+    },
+    {
+      "name": "Hardened Leather",
+      "amount": 1,
       "required": false
     },
     {
       "name": "Hardened Leather",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Hardened Leather",
       "amount": 1,
-      "required": true
-    },
-    {
-      "name": "Hardened Leather",
-      "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Reinforced Padding",
       "amount": 1,
-      "required": true
+      "required": false
     }
   ]
 }

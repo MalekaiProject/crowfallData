@@ -9,17 +9,17 @@
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ring Band",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Ring Setting",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

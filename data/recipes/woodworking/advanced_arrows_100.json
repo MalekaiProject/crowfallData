@@ -9,12 +9,12 @@
     {
       "name": "Arrow Shaft Bundle",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Arrowhead Bundle",
       "amount": 10,
-      "required": false
+      "required": true
     }
   ]
 }

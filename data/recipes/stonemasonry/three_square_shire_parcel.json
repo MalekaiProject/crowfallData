@@ -9,17 +9,17 @@
     {
       "name": "Two Square Parcel",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "One Square Parcel",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Earth",
       "amount": 5,
-      "required": false
+      "required": true
     }
   ]
 }

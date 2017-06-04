@@ -9,27 +9,27 @@
     {
       "name": "Chapter",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Chapter",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Chapter",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Chapter",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Lacing Sinew",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

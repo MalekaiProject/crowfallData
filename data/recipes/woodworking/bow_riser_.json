@@ -9,17 +9,17 @@
     {
       "name": "Bow Sight",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Bow Rest",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Bow Grip",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

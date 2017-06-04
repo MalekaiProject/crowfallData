@@ -9,17 +9,17 @@
     {
       "name": "Apple",
       "amount": 2,
-      "required": false
+      "required": true
     },
     {
       "name": "Ground Hattel",
       "amount": 2,
-      "required": false
+      "required": true
     },
     {
       "name": "Ground Cinnabar",
       "amount": 2,
-      "required": false
+      "required": true
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "name": "Scavenged Ingredient",
       "amount": 2,
-      "required": false
+      "required": true
     }
   ]
 }

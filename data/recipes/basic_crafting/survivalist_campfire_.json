@@ -9,12 +9,12 @@
     {
       "name": "Wood",
       "amount": 12,
-      "required": false
+      "required": true
     },
     {
       "name": "Animal Meat",
       "amount": 4,
-      "required": true
+      "required": false
     }
   ]
 }

@@ -9,17 +9,17 @@
     {
       "name": "Pistol Hammer and Frizzen",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Pistol Trigger",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Weapon Grip",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

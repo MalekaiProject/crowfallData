@@ -9,37 +9,37 @@
     {
       "name": "Iron",
       "amount": 45,
-      "required": false
+      "required": true
     },
     {
       "name": "Tin",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Hide",
       "amount": 20,
-      "required": false
+      "required": true
     },
     {
       "name": "Reinforced Padding",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Metal Ring",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Metal Ring",
       "amount": 1,
-      "required": true
+      "required": false
     },
     {
       "name": "Treated Steel",
       "amount": 4,
-      "required": true
+      "required": false
     }
   ]
 }

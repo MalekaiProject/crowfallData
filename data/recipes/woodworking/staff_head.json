@@ -9,27 +9,27 @@
     {
       "name": "Plank",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Plank",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Plank",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Runestone: Death",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Runestone: Life",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ]
 }

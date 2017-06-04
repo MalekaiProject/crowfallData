@@ -9,17 +9,17 @@
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     },
     {
       "name": "Gears",
       "amount": 10,
-      "required": false
+      "required": true
     },
     {
       "name": "Ethereal Dust",
       "amount": 150,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -34,7 +34,7 @@
         {
           "name": "Biege Scroll",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -49,7 +49,7 @@
         {
           "name": "Ivory Scroll",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -64,7 +64,7 @@
         {
           "name": "Taupe Scroll",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -79,7 +79,7 @@
         {
           "name": "Ashen Scroll",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -94,7 +94,7 @@
         {
           "name": "Carmine Scroll",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     }

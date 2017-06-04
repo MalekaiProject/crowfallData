@@ -9,12 +9,12 @@
     {
       "name": "Bricks",
       "amount": 20,
-      "required": false
+      "required": true
     },
     {
       "name": "Gravel",
       "amount": 10,
-      "required": false
+      "required": true
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "name": "[Wild Card]",
       "amount": 1,
-      "required": false
+      "required": true
     }
   ],
   "Variants": [
@@ -24,7 +24,7 @@
         {
           "name": "Leather",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     },
@@ -39,7 +39,7 @@
         {
           "name": "Plank",
           "amount": 1,
-          "required": false
+          "required": true
         }
       ]
     }
