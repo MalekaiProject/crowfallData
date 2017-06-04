@@ -24,21 +24,6 @@
   ],
   "Variants": [
     {
-      "Name": "Siege Ballista Blueprint",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "[Wild Card]",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Ballista MK1",
       "Attribute": null,
       "Impact": 1.0,

@@ -24,21 +24,6 @@
   ],
   "Variants": [
     {
-      "Name": "Siege Catapult Blueprint",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "[Wild Card]",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Catapult MK1",
       "Attribute": null,
       "Impact": 1.0,

@@ -24,31 +24,6 @@
   ],
   "Variants": [
     {
-      "Name": "Book Chapter",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "[Wild Card]",
-          "amount": 1,
-          "required": false
-        },
-        {
-          "name": "Hide",
-          "amount": 3,
-          "required": false
-        },
-        {
-          "name": "Ore",
-          "amount": 3,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Chapter : Fervor",
       "Attribute": "Mana Regen: In Combat",
       "Impact": 0.05,

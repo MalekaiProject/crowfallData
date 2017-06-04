@@ -24,31 +24,6 @@
   ],
   "Variants": [
     {
-      "Name": "Leather Armor Layer",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "Ore",
-          "amount": 2,
-          "required": false
-        },
-        {
-          "name": "Ore",
-          "amount": 2,
-          "required": false
-        },
-        {
-          "name": "Hide",
-          "amount": 5,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Leather Layer: Elemental",
       "Attribute": null,
       "Impact": null,

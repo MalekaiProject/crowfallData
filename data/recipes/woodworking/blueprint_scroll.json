@@ -19,21 +19,6 @@
   ],
   "Variants": [
     {
-      "Name": "Blueprint Scroll",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "[Wild Card]",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Biege Scroll",
       "Attribute": null,
       "Impact": null,

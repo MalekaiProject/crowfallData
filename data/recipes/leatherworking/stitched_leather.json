@@ -29,31 +29,6 @@
   ],
   "Variants": [
     {
-      "Name": "Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "Hide",
-          "amount": 1,
-          "required": false
-        },
-        {
-          "name": "Hide",
-          "amount": 1,
-          "required": false
-        },
-        {
-          "name": "Hide",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Composite Cat Leather",
       "Attribute": "Damage bonus: Retribution",
       "Impact": 0.04,

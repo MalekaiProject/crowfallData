@@ -54,31 +54,6 @@
   ],
   "Variants": [
     {
-      "Name": "Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "Ore",
-          "amount": 3,
-          "required": false
-        },
-        {
-          "name": "Ore",
-          "amount": 3,
-          "required": false
-        },
-        {
-          "name": "Ore",
-          "amount": 3,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Copper Rings",
       "Attribute": "Max hitpoint",
       "Impact": 21.0,

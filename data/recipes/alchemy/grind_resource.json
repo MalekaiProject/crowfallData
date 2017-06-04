@@ -14,21 +14,6 @@
   ],
   "Variants": [
     {
-      "Name": "Grind Resource",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "[Wild Card]",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Sand",
       "Attribute": null,
       "Impact": null,

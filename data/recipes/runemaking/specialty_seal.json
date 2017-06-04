@@ -19,26 +19,6 @@
   ],
   "Variants": [
     {
-      "Name": "Specialty Seal",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "Stone",
-          "amount": 1,
-          "required": false
-        },
-        {
-          "name": "Ore",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Mining Seal",
       "Attribute": "Beneficial Harvest Power: Ore",
       "Impact": 0.04,

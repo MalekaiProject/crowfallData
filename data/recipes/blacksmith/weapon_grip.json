@@ -14,21 +14,6 @@
   ],
   "Variants": [
     {
-      "Name": "Weapon Grip",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "[Wild Card]",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Leather Weapon Grip",
       "Attribute": "Support power",
       "Impact": 0.0,

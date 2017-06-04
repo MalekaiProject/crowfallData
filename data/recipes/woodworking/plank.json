@@ -14,21 +14,6 @@
   ],
   "Variants": [
     {
-      "Name": "Plank",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "Wood",
-          "amount": 3,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Oak plank",
       "Attribute": "Critical chance",
       "Impact": 0.04,

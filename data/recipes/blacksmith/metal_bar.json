@@ -29,31 +29,6 @@
   ],
   "Variants": [
     {
-      "Name": "Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "Ore",
-          "amount": 3,
-          "required": false
-        },
-        {
-          "name": "Ore",
-          "amount": 3,
-          "required": false
-        },
-        {
-          "name": "Ore",
-          "amount": 3,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Copper Bar",
       "Attribute": "Critical hit chance",
       "Impact": 0.04,

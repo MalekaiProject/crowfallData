@@ -24,31 +24,6 @@
   ],
   "Variants": [
     {
-      "Name": "Basic Harvesting Tool",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Wildcard": false,
-      "Components": [
-        {
-          "name": "Wood",
-          "amount": 1,
-          "required": false
-        },
-        {
-          "name": "Wood",
-          "amount": 1,
-          "required": false
-        },
-        {
-          "name": "[Wild Card]",
-          "amount": 1,
-          "required": false
-        }
-      ]
-    },
-    {
       "Name": "Hammer Runestone",
       "Attribute": null,
       "Impact": null,
