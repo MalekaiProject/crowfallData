@@ -4,7 +4,6 @@
   "Category": "Leatherworking Armor",
   "Chance": 0.93,
   "Difficulty": 10.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Ore",
@@ -29,7 +28,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ore",
@@ -54,7 +52,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ore",
@@ -79,7 +76,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ore",
@@ -104,7 +100,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ore",
@@ -129,7 +124,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ore",

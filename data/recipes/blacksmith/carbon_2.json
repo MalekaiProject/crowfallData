@@ -4,7 +4,6 @@
   "Category": "Fuel",
   "Chance": 0.95,
   "Difficulty": 1.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Animal meat",

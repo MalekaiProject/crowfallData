@@ -4,7 +4,6 @@
   "Category": "Geomancy",
   "Chance": 0.78,
   "Difficulty": 25.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Earth",

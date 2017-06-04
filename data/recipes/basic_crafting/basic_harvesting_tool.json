@@ -4,7 +4,6 @@
   "Category": "Basic Harvesting Tool",
   "Chance": 0.97,
   "Difficulty": 5.0,
-  "Wildcard": true,
   "Components": [
     {
       "name": "Wood",
@@ -29,7 +28,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Wood",
@@ -54,7 +52,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Wood",
@@ -79,7 +76,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Wood",

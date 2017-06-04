@@ -4,7 +4,6 @@
   "Category": "Meat",
   "Chance": 0.9,
   "Difficulty": 25.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Animal meat",

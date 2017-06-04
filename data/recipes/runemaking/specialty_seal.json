@@ -4,7 +4,6 @@
   "Category": "Runemaking Component",
   "Chance": 0.95,
   "Difficulty": 5.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Stone",
@@ -24,7 +23,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Granite",
@@ -44,7 +42,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Granite",
@@ -64,7 +61,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Granite",
@@ -84,7 +80,6 @@
       "Impact": 10.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Granite",
@@ -104,7 +99,6 @@
       "Impact": 20.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Granite",
@@ -124,7 +118,6 @@
       "Impact": 30.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Limestone",
@@ -144,7 +137,6 @@
       "Impact": 40.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Limestone",
@@ -164,7 +156,6 @@
       "Impact": 50.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Limestone",
@@ -184,7 +175,6 @@
       "Impact": 60.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Limestone",
@@ -204,7 +194,6 @@
       "Impact": 70.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Limestone",
@@ -224,7 +213,6 @@
       "Impact": 0.5,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Travertine",
@@ -244,7 +232,6 @@
       "Impact": 80.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Travertine",
@@ -264,7 +251,6 @@
       "Impact": 90.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Travertine",
@@ -284,7 +270,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Travertine",
@@ -304,7 +289,6 @@
       "Impact": 100.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Travertine",
@@ -324,7 +308,6 @@
       "Impact": 0.5,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Slate",
@@ -344,7 +327,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Slate",
@@ -364,7 +346,6 @@
       "Impact": 110.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Slate",
@@ -384,7 +365,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Slate",
@@ -404,7 +384,6 @@
       "Impact": 0.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Slate",
@@ -424,7 +403,6 @@
       "Impact": 120.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Marble",
@@ -444,7 +422,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Marble",
@@ -464,7 +441,6 @@
       "Impact": 0.5,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Marble",
@@ -484,7 +460,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Marble",
@@ -504,7 +479,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Marble",

@@ -4,7 +4,6 @@
   "Category": "",
   "Chance": 0.88,
   "Difficulty": 15.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Wood",

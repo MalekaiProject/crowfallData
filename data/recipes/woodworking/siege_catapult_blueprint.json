@@ -4,7 +4,6 @@
   "Category": "Siege Warfare",
   "Chance": 0.78,
   "Difficulty": 25.0,
-  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
@@ -29,7 +28,6 @@
       "Impact": 1.0,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Biege Scroll",
@@ -44,7 +42,6 @@
       "Impact": 1.0,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ivory Scroll",
@@ -59,7 +56,6 @@
       "Impact": 1.0,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Taupe Scroll",
@@ -74,7 +70,6 @@
       "Impact": 2.0,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ashen Scroll",
@@ -89,7 +84,6 @@
       "Impact": 2.0,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Carmine Scroll",

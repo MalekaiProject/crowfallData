@@ -4,7 +4,6 @@
   "Category": "Blacksmith Armor",
   "Chance": 0.95,
   "Difficulty": 5.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Ore",
@@ -59,7 +58,6 @@
       "Impact": 21.0,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -84,7 +82,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -109,7 +106,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -134,7 +130,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -159,7 +154,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -184,7 +178,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -209,7 +202,6 @@
       "Impact": 0.5,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -234,7 +226,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -259,7 +250,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -284,7 +274,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -309,7 +298,6 @@
       "Impact": 0.06,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Tin",
@@ -334,7 +322,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Tin",
@@ -359,7 +346,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Tin",
@@ -384,7 +370,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Tin",
@@ -409,7 +394,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Tin",
@@ -434,7 +418,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Silver",
@@ -459,7 +442,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Silver",
@@ -484,7 +466,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Silver",
@@ -509,7 +490,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Silver",
@@ -534,7 +514,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Silver",
@@ -559,7 +538,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Gold",
@@ -584,7 +562,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Gold",
@@ -609,7 +586,6 @@
       "Impact": 0.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Gold",
@@ -634,7 +610,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Gold",
@@ -659,7 +634,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Gold",
@@ -684,7 +658,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -709,7 +682,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -734,7 +706,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -759,7 +730,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -784,7 +754,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -809,7 +778,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Copper",
@@ -834,7 +802,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -859,7 +826,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -884,7 +850,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Iron",
@@ -909,7 +874,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Tin",

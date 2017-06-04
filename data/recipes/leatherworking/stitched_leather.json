@@ -4,7 +4,6 @@
   "Category": "Leatherworking Component",
   "Chance": 0.95,
   "Difficulty": 5.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Hide",
@@ -34,7 +33,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -59,7 +57,6 @@
       "Impact": 0.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -84,7 +81,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -109,7 +105,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -134,7 +129,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -159,7 +153,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -184,7 +177,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -209,7 +201,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -234,7 +225,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -259,7 +249,6 @@
       "Impact": 0.04,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -284,7 +273,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Auroch Hide",
@@ -309,7 +297,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Auroch Hide",
@@ -334,7 +321,6 @@
       "Impact": 21.0,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Auroch Hide",
@@ -359,7 +345,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Auroch Hide",
@@ -384,7 +369,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Auroch Hide",
@@ -409,7 +393,6 @@
       "Impact": 0.2,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Elk Hide",
@@ -434,7 +417,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Elk Hide",
@@ -459,7 +441,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Elk Hide",
@@ -484,7 +465,6 @@
       "Impact": 0.5,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Elk Hide",
@@ -509,7 +489,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Elk Hide",
@@ -534,7 +513,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Bear Hide",
@@ -559,7 +537,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Bear Hide",
@@ -584,7 +561,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Bear Hide",
@@ -609,7 +585,6 @@
       "Impact": 0.02,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Bear Hide",
@@ -634,7 +609,6 @@
       "Impact": 0.4,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Bear Hide",
@@ -659,7 +633,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -684,7 +657,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -709,7 +681,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -734,7 +705,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -759,7 +729,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -784,7 +753,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cat Hide",
@@ -809,7 +777,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -834,7 +801,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -859,7 +825,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Boar Hide",
@@ -884,7 +849,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Auroch Hide",

@@ -4,7 +4,6 @@
   "Category": "Leatherworking Component",
   "Chance": 0.75,
   "Difficulty": 25.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Stitched Leather",

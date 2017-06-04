@@ -4,7 +4,6 @@
   "Category": "Body Parts",
   "Chance": 0.93,
   "Difficulty": 10.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Dessicated Centaur Body",

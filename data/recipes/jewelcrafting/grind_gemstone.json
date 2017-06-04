@@ -4,7 +4,6 @@
   "Category": "Jewelcrafting component",
   "Chance": 0.53,
   "Difficulty": 50.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Cut Gem",

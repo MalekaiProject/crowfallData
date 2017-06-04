@@ -4,7 +4,6 @@
   "Category": "Jewelcrafting component",
   "Chance": 0.78,
   "Difficulty": 25.0,
-  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",

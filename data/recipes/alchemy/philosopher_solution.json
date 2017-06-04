@@ -4,7 +4,6 @@
   "Category": "Alchemy Component",
   "Chance": 0.53,
   "Difficulty": 50.0,
-  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",

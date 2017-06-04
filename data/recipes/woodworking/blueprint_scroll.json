@@ -4,7 +4,6 @@
   "Category": "Siege Warfare",
   "Chance": 0.95,
   "Difficulty": 5.0,
-  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
@@ -24,7 +23,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Oak Heartwood",
@@ -39,7 +37,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Birch Heartwood",
@@ -54,7 +51,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Spruce Heartwood",
@@ -69,7 +65,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Ash Heartwood",
@@ -84,7 +79,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Yew Heartwood",

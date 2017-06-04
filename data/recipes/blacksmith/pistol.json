@@ -4,7 +4,6 @@
   "Category": "Blacksmith Weapon",
   "Chance": 0.53,
   "Difficulty": 50.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Pistol Body",

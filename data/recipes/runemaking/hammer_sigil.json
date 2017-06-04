@@ -4,7 +4,6 @@
   "Category": "Harvesting Tool",
   "Chance": 0.95,
   "Difficulty": 5.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Parchment Paper",

@@ -4,7 +4,6 @@
   "Category": "Runemaking Component",
   "Chance": 0.68,
   "Difficulty": 35.0,
-  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
@@ -29,7 +28,6 @@
       "Impact": 0.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Granite",
@@ -54,7 +52,6 @@
       "Impact": 0.5,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Limestone",
@@ -79,7 +76,6 @@
       "Impact": 0.08,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Travertine",
@@ -104,7 +100,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Slate",
@@ -129,7 +124,6 @@
       "Impact": 0.05,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Marble",

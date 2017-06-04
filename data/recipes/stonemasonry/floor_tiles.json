@@ -4,7 +4,6 @@
   "Category": "Geomancy",
   "Chance": 0.95,
   "Difficulty": 5.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Premium Stone/Wood",

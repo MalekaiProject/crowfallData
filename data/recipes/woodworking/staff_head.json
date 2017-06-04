@@ -4,7 +4,6 @@
   "Category": "",
   "Chance": 0.68,
   "Difficulty": 35.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Plank",

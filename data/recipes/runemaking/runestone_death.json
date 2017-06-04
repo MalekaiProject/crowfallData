@@ -4,7 +4,6 @@
   "Category": "Runemaking Component",
   "Chance": 0.95,
   "Difficulty": 8.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Death Sigil",

@@ -4,7 +4,6 @@
   "Category": "Blacksmith Weapon",
   "Chance": 0.68,
   "Difficulty": 25.0,
-  "Wildcard": false,
   "Components": [
     {
       "name": "Pistol Hammer and Frizzen",

@@ -4,7 +4,6 @@
   "Category": "Alchemy Component",
   "Chance": 0.97,
   "Difficulty": 5.0,
-  "Wildcard": true,
   "Components": [
     {
       "name": "[Wild Card]",
@@ -19,7 +18,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Cobblestone",
@@ -34,7 +32,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Granite",
@@ -49,7 +46,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Limestone",
@@ -64,7 +60,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Travertine",
@@ -79,7 +74,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Slate",
@@ -94,7 +88,6 @@
       "Impact": null,
       "Chance": null,
       "Difficulty": null,
-      "Wildcard": false,
       "Components": [
         {
           "name": "Marble",
