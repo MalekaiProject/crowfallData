@@ -1,0 +1,18 @@
+{
+  "Name": "Blueprint Scroll",
+  "Profession": "Woodworking",
+  "Category": "variant",
+  "variantOf": "Blueprint Scroll",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": false,
+      "wildcard": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Oak plank",
+  "Profession": "Woodworking",
+  "Category": "variant",
+  "variantOf": "Plank",
+  "Attribute": "Critical chance",
+  "Impact": 0.04,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Oak wood",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

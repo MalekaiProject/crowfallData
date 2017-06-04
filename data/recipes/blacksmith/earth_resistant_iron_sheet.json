@@ -1,0 +1,30 @@
+{
+  "Name": "Earth Resistant Iron Sheet",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Sheet",
+  "Attribute": "Earth resist",
+  "Impact": 0.02,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Silver Rings",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Rings",
+  "Attribute": "Resource",
+  "Impact": 0.4,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Silver",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Silver",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Silver",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

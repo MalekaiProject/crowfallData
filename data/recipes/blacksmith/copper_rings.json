@@ -1,0 +1,30 @@
+{
+  "Name": "Copper Rings",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Metal Rings",
+  "Attribute": "Max hitpoint",
+  "Impact": 21.0,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

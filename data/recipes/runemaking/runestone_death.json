@@ -1,0 +1,36 @@
+{
+  "Name": "Runestone: Death",
+  "Profession": "Runemaking",
+  "Category": "Runemaking Component",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.95,
+  "Difficulty": 8.0,
+  "Components": [
+    {
+      "name": "Death Sigil",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Unmarked Stone Runestone",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

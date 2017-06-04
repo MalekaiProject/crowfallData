@@ -1,0 +1,30 @@
+{
+  "Name": "Rose Gold Bar",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Bar",
+  "Attribute": "Critical hit damage",
+  "Impact": 0.16,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Gold",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Gold",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

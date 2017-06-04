@@ -1,0 +1,24 @@
+{
+  "Name": "Cogs",
+  "Profession": "Woodworking",
+  "Category": "Siege Warfare",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Components": [
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 20,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

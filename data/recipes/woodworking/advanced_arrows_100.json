@@ -1,0 +1,24 @@
+{
+  "Name": "Advanced Arrows (100)",
+  "Profession": "Woodworking",
+  "Category": "",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Arrow Shaft Bundle",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Arrowhead Bundle",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

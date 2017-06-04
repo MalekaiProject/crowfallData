@@ -1,0 +1,54 @@
+{
+  "Name": "Deed: Villa",
+  "Profession": "Stonemasonry",
+  "Category": "Geomancy",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.53,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Deed: Cottage",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Foundation Segment",
+      "amount": 5,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Roof Segment",
+      "amount": 5,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Wall Segment",
+      "amount": 5,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Carpentary Nails",
+      "amount": 50,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Arches",
+      "amount": 5,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Floor Tiles",
+      "amount": 50,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

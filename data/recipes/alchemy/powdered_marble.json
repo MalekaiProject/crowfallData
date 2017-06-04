@@ -1,0 +1,18 @@
+{
+  "Name": "Powdered Marble",
+  "Profession": "Alchemy",
+  "Category": "variant",
+  "variantOf": "Grind Resource",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Marble",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

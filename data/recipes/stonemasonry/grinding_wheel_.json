@@ -1,0 +1,24 @@
+{
+  "Name": "Grinding Wheel ",
+  "Profession": "Stonemasonry",
+  "Category": "Stonemasonry Component",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Stone",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Stone",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

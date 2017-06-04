@@ -1,0 +1,30 @@
+{
+  "Name": "Physical Armor Layer",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Physical Armor Layer",
+  "Attribute": "All physical mitigation",
+  "Impact": 0.19,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Limestone",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

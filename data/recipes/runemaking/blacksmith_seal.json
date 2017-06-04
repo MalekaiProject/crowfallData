@@ -1,0 +1,24 @@
+{
+  "Name": "Blacksmith Seal",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Specialty Seal",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Slate",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

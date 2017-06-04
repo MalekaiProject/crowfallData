@@ -1,0 +1,24 @@
+{
+  "Name": "Crafting Seal8",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Specialty Seal",
+  "Attribute": null,
+  "Impact": 80.05,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Travertine",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

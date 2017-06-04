@@ -1,0 +1,30 @@
+{
+  "Name": "Metal Sheet",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Metal Sheet",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

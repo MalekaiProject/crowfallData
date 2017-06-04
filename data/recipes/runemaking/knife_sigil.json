@@ -1,0 +1,30 @@
+{
+  "Name": "Knife Sigil",
+  "Profession": "Runemaking",
+  "Category": "Harvesting Tool",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Components": [
+    {
+      "name": "Parchment Paper",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

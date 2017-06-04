@@ -1,0 +1,18 @@
+{
+  "Name": "A Single Square Woodland Creek Parcel",
+  "Profession": "Stonemasonry",
+  "Category": "Geomancy",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Earth",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

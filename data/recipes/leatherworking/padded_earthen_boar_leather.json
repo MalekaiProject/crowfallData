@@ -1,0 +1,30 @@
+{
+  "Name": "Padded Earthen Boar Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Reinforced Padding",
+  "Attribute": "Damage bonus: Nature",
+  "Impact": 0.06,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Boar Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

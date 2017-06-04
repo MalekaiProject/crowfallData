@@ -1,0 +1,30 @@
+{
+  "Name": "Padded Fiery Auroch Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Reinforced Padding",
+  "Attribute": "Damage bonus: Fire",
+  "Impact": 0.06,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

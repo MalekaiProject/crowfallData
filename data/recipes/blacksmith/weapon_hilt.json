@@ -1,0 +1,30 @@
+{
+  "Name": "Weapon Hilt",
+  "Profession": "Blacksmith",
+  "Category": "Blacksmith Weapon",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.68,
+  "Difficulty": 35.0,
+  "Components": [
+    {
+      "name": "Weapon Pommel",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Weapon Crossguard",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Weapon Grip",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

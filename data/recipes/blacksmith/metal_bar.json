@@ -1,0 +1,30 @@
+{
+  "Name": "Metal Bar",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Metal Bar",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

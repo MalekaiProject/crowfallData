@@ -1,0 +1,36 @@
+{
+  "Name": "Wall",
+  "Profession": "Stonemasonry",
+  "Category": "Geomancy",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Components": [
+    {
+      "name": "Bricks",
+      "amount": 20,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Architectural Frame",
+      "amount": 4,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Insulation",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Carpentry Nails",
+      "amount": 40,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

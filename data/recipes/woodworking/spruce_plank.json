@@ -1,0 +1,18 @@
+{
+  "Name": "Spruce plank",
+  "Profession": "Woodworking",
+  "Category": "variant",
+  "variantOf": "Plank",
+  "Attribute": "Attack power",
+  "Impact": 0.4,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Spruce wood",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

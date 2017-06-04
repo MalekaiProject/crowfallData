@@ -1,0 +1,30 @@
+{
+  "Name": "Hardened Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Hardened Leather",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

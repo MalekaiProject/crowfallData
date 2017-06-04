@@ -1,0 +1,18 @@
+{
+  "Name": "Arrowhead Bundle: Crushing (10)",
+  "Profession": "Blacksmith",
+  "Category": "Blacksmith Weapon",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.88,
+  "Difficulty": 15.0,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

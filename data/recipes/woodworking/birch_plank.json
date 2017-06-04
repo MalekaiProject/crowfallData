@@ -1,0 +1,18 @@
+{
+  "Name": "Birch plank",
+  "Profession": "Woodworking",
+  "Category": "variant",
+  "variantOf": "Plank",
+  "Attribute": "Max Stamina",
+  "Impact": 0.04,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Birch wood",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

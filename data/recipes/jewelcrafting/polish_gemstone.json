@@ -1,0 +1,30 @@
+{
+  "Name": "Polish Gemstone",
+  "Profession": "Jewelcrafting",
+  "Category": "Jewelcrafting component",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.28,
+  "Difficulty": 75.0,
+  "Components": [
+    {
+      "name": "Grind Gem",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Polishing Paste",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Water Flask",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Blue Steel Rings",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Rings",
+  "Attribute": "Attack power",
+  "Impact": 0.4,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Tin",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

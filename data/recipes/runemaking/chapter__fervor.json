@@ -1,0 +1,30 @@
+{
+  "Name": "Chapter : Fervor",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Book Chapter",
+  "Attribute": "Mana Regen: In Combat",
+  "Impact": 0.05,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Granite",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hide",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "Siege Banner",
+  "Profession": "Woodworking",
+  "Category": "Siege Warfare",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Siege Banner Post",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Siege Banner Flag",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 300,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Metal Ring",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Polished Gemstone",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

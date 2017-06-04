@@ -1,0 +1,30 @@
+{
+  "Name": "Basic Helmet",
+  "Profession": "Basic crafting",
+  "Category": "Basic Weapon",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.95,
+  "Difficulty": 10.0,
+  "Components": [
+    {
+      "name": "Wood",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Stone",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Crafting Seal10",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Specialty Seal",
+  "Attribute": null,
+  "Impact": 100.05,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Travertine",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Gold",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

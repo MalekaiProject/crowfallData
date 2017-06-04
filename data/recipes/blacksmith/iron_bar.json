@@ -1,0 +1,30 @@
+{
+  "Name": "Iron Bar",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Bar",
+  "Attribute": "Atk power",
+  "Impact": 0.04,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

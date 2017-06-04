@@ -1,0 +1,30 @@
+{
+  "Name": "Electricity Resistant Copper Sheet",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Metal Sheet",
+  "Attribute": "Electricity resist",
+  "Impact": 0.02,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

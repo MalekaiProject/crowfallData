@@ -1,0 +1,18 @@
+{
+  "Name": "Taupe Scroll",
+  "Profession": "Woodworking",
+  "Category": "variant",
+  "variantOf": "Blueprint Scroll",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Spruce Heartwood",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

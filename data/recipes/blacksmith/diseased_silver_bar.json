@@ -1,0 +1,30 @@
+{
+  "Name": "Diseased Silver Bar",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Bar",
+  "Attribute": "Damage bonus: Disease",
+  "Impact": 0.06,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Silver",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Silver",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Tin",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

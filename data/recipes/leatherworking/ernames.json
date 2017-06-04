@@ -1,0 +1,24 @@
+{
+  "Name": "Ernames",
+  "Profession": "Leatherworking",
+  "Category": "Leatherworking Component",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.75,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Stitched Leather",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Stitched Leather",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Mining Seal",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Specialty Seal",
+  "Attribute": "Beneficial Harvest Power: Ore",
+  "Impact": 0.04,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Granite",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

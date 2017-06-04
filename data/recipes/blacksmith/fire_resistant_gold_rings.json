@@ -1,0 +1,30 @@
+{
+  "Name": "Fire Resistant Gold Rings",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Rings",
+  "Attribute": "Fire resist",
+  "Impact": 0.02,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Gold",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Gold",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Iron",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

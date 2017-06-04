@@ -1,0 +1,18 @@
+{
+  "Name": "Weapon Grip",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Weapon Grip",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": false,
+      "wildcard": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Padded Honed Cat Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Reinforced Padding",
+  "Attribute": "Damage bonus: Slashing",
+  "Impact": 0.06,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

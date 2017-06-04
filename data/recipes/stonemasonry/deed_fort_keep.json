@@ -1,0 +1,54 @@
+{
+  "Name": "Deed: Fort Keep",
+  "Profession": "Stonemasonry",
+  "Category": "Geomancy",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.53,
+  "Difficulty": 50.0,
+  "Components": [
+    {
+      "name": "Deed: Throne Lodge",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Foundation Segment",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Roof Segment",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Wall Segment",
+      "amount": 15,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Carpentary Nails",
+      "amount": 100,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Arches",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Floor Tiles",
+      "amount": 100,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

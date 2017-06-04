@@ -1,0 +1,36 @@
+{
+  "Name": "Restored Torso",
+  "Profession": "Necromancy",
+  "Category": "Body Parts",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.93,
+  "Difficulty": 10.0,
+  "Components": [
+    {
+      "name": "Dessicated Torso",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ambrosia Solution",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Enchanced Heart",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    },
+    {
+      "name": "Enchanced Lungs",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    }
+  ]
+}

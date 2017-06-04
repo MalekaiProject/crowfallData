@@ -1,0 +1,30 @@
+{
+  "Name": "Crushing Armor Layer",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Physical Armor Layer",
+  "Attribute": "Crushing mitigation",
+  "Impact": 0.32,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Slate",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

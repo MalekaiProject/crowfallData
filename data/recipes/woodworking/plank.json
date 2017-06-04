@@ -1,0 +1,18 @@
+{
+  "Name": "Plank",
+  "Profession": "Woodworking",
+  "Category": "variant",
+  "variantOf": "Plank",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Wood",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

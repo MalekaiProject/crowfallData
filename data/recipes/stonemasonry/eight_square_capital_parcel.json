@@ -1,0 +1,30 @@
+{
+  "Name": "Eight Square Capital Parcel",
+  "Profession": "Stonemasonry",
+  "Category": "Geomancy",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Four Square Parcel",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Four Square Parcel",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Earth",
+      "amount": 5,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

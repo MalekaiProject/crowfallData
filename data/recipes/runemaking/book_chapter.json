@@ -1,0 +1,30 @@
+{
+  "Name": "Book Chapter",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Book Chapter",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": false,
+      "wildcard": true
+    },
+    {
+      "name": "Hide",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

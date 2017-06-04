@@ -1,0 +1,42 @@
+{
+  "Name": "Siege Banner Post",
+  "Profession": "Woodworking",
+  "Category": "Siege Warfare",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Heartwood",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Heartwood",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Heartwood",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Heartwood",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 150,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

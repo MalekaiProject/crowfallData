@@ -1,0 +1,36 @@
+{
+  "Name": "Staff",
+  "Profession": "Woodworking",
+  "Category": "",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.53,
+  "Difficulty": 50.0,
+  "Components": [
+    {
+      "name": "Staff Limb",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Staff Head",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Staff Heel",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hunger Shard",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    }
+  ]
+}

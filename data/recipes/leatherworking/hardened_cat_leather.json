@@ -1,0 +1,30 @@
+{
+  "Name": "Hardened Cat Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Hardened Leather",
+  "Attribute": "Stealth",
+  "Impact": 0.05,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

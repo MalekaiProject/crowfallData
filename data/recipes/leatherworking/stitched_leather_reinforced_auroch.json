@@ -1,0 +1,30 @@
+{
+  "Name": "Stitched Leather: Reinforced Auroch",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Stitched Leather",
+  "Attribute": "Health regen: Out of combat",
+  "Impact": 0.4,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

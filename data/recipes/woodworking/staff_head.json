@@ -1,0 +1,42 @@
+{
+  "Name": "Staff Head",
+  "Profession": "Woodworking",
+  "Category": "",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.68,
+  "Difficulty": 35.0,
+  "Components": [
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Runestone: Death",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Runestone: Life",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

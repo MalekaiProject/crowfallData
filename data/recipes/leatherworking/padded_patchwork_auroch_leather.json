@@ -1,0 +1,30 @@
+{
+  "Name": "Padded Patchwork Auroch Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Reinforced Padding",
+  "Attribute": "Stamina regen: Out of combat",
+  "Impact": 0.02,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

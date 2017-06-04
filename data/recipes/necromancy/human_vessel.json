@@ -1,0 +1,54 @@
+{
+  "Name": "Human Vessel",
+  "Profession": "Necromancy",
+  "Category": "Vessel",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.53,
+  "Difficulty": 50.0,
+  "Components": [
+    {
+      "name": "Restored Human Head",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Restored Human Torso",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Restored Human Arm",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Restored Human Arm",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Restored Human Leg",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Restored Human Leg",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Philosopher Stone",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    }
+  ]
+}

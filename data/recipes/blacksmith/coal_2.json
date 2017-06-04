@@ -1,0 +1,18 @@
+{
+  "Name": "Coal (2)",
+  "Profession": "Blacksmith",
+  "Category": "Fuel",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.95,
+  "Difficulty": 1.0,
+  "Components": [
+    {
+      "name": "Wood",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

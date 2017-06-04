@@ -1,0 +1,24 @@
+{
+  "Name": "Basic Paired Long Daggers",
+  "Profession": "Basic crafting",
+  "Category": "Basic Weapon",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.95,
+  "Difficulty": 5.0,
+  "Components": [
+    {
+      "name": "Wood",
+      "amount": 6,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Stone",
+      "amount": 6,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

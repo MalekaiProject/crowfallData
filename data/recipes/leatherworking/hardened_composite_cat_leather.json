@@ -1,0 +1,30 @@
+{
+  "Name": "Hardened Composite Cat Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Hardened Leather",
+  "Attribute": "Critical hit damage",
+  "Impact": 0.16,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Catapult MK2",
+  "Profession": "Woodworking",
+  "Category": "variant",
+  "variantOf": "Catapult MK2",
+  "Attribute": null,
+  "Impact": 2.0,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Carmine Scroll",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

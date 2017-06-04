@@ -1,0 +1,48 @@
+{
+  "Name": "Leather Helmet",
+  "Profession": "Leatherworking",
+  "Category": "Leatherworking Armor",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.68,
+  "Difficulty": 35.0,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 4,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hide",
+      "amount": 15,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hardened Leather",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    },
+    {
+      "name": "Hardened Leather",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    },
+    {
+      "name": "Hardened Leather",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    },
+    {
+      "name": "Reinforced Padding",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    }
+  ]
+}

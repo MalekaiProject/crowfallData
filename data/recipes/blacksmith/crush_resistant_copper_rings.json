@@ -1,0 +1,30 @@
+{
+  "Name": "Crush Resistant Copper Rings",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Metal Rings",
+  "Attribute": "Crush resist",
+  "Impact": 0.02,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Tin",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

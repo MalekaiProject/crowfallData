@@ -1,0 +1,30 @@
+{
+  "Name": "Stitched Leather: Ice Resistant",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Plain Stitched Leather",
+  "Attribute": "Ice resist",
+  "Impact": 0.02,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Bear Hide",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

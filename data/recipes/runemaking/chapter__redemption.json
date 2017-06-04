@@ -1,0 +1,30 @@
+{
+  "Name": "Chapter : Redemption",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Book Chapter",
+  "Attribute": "Damage Bonus: Fire",
+  "Impact": 0.08,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Travertine",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hide",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

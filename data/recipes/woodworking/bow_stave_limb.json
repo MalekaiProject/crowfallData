@@ -1,0 +1,30 @@
+{
+  "Name": "Bow Stave Limb",
+  "Profession": "Woodworking",
+  "Category": "",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.65,
+  "Difficulty": 35.0,
+  "Components": [
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

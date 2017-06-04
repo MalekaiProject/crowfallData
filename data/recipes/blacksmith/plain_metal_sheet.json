@@ -1,0 +1,30 @@
+{
+  "Name": "Plain Metal Sheet",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Sheet",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Tin",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Silver",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Gold",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

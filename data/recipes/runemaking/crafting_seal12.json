@@ -1,0 +1,24 @@
+{
+  "Name": "Crafting Seal12",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Specialty Seal",
+  "Attribute": null,
+  "Impact": 120.05,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Marble",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

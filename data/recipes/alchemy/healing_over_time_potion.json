@@ -1,0 +1,30 @@
+{
+  "Name": "Healing Over Time Potion",
+  "Profession": "Alchemy",
+  "Category": "Alchemy Potions",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Grind Resource",
+  "Profession": "Alchemy",
+  "Category": "variant",
+  "variantOf": "Grind Resource",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": false,
+      "wildcard": true
+    }
+  ]
+}

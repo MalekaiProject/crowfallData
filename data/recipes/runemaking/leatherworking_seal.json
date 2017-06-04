@@ -1,0 +1,24 @@
+{
+  "Name": "Leatherworking Seal",
+  "Profession": "Runemaking",
+  "Category": "variant",
+  "variantOf": "Specialty Seal",
+  "Attribute": "Leather Experimentation",
+  "Impact": 0.5,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Travertine",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Copper",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

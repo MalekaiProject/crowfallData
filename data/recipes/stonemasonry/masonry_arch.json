@@ -1,0 +1,30 @@
+{
+  "Name": "Masonry Arch",
+  "Profession": "Stonemasonry",
+  "Category": "Geomancy",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.93,
+  "Difficulty": 10.0,
+  "Components": [
+    {
+      "name": "Bricks",
+      "amount": 20,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Architectural Frame",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Carpentry Nails",
+      "amount": 40,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

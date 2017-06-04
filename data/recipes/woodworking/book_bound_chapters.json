@@ -1,0 +1,42 @@
+{
+  "Name": "Book Bound Chapters",
+  "Profession": "Woodworking",
+  "Category": "",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.68,
+  "Difficulty": 35.0,
+  "Components": [
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Roof Segment",
+  "Profession": "Stonemasonry",
+  "Category": "Geomancy",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.93,
+  "Difficulty": 10.0,
+  "Components": [
+    {
+      "name": "Roof Shingles",
+      "amount": 100,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Insulation",
+      "amount": 10,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Carpentry Nails",
+      "amount": 100,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

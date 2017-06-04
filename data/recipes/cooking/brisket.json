@@ -1,0 +1,18 @@
+{
+  "Name": "Brisket",
+  "Profession": "Cooking",
+  "Category": "Meat",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.9,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Animal meat",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Armor Layer",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Armor Layer",
+  "Attribute": null,
+  "Impact": null,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Stone",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

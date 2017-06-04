@@ -1,0 +1,30 @@
+{
+  "Name": "Poisonous Tin Bar",
+  "Profession": "Blacksmith",
+  "Category": "variant",
+  "variantOf": "Plain Metal Bar",
+  "Attribute": "Damage bonus: Poison",
+  "Impact": 0.06,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Tin",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Tin",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Gold",
+      "amount": 3,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

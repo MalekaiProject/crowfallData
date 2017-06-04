@@ -1,0 +1,30 @@
+{
+  "Name": "Padded Elk Leather",
+  "Profession": "Leatherworking",
+  "Category": "variant",
+  "variantOf": "Reinforced Padding",
+  "Attribute": "Support power",
+  "Impact": 0.4,
+  "Chance": null,
+  "Difficulty": null,
+  "Components": [
+    {
+      "name": "Elk Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2,
+      "required": false,
+      "wildcard": false
+    }
+  ]
+}

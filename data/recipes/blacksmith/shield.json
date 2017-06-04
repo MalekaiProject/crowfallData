@@ -1,0 +1,36 @@
+{
+  "Name": "Shield",
+  "Profession": "Blacksmith",
+  "Category": "Blacksmith Armor",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.53,
+  "Difficulty": 50.0,
+  "Components": [
+    {
+      "name": "Shield Cover",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Shield Base",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Enarmes",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Hunger Shard",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    }
+  ]
+}

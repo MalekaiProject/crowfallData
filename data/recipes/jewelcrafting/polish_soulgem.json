@@ -1,0 +1,30 @@
+{
+  "Name": "Polish Soulgem",
+  "Profession": "Jewelcrafting",
+  "Category": "Jewelcrafting component",
+  "variantOf": null,
+  "Attribute": null,
+  "Impact": null,
+  "Chance": 0.78,
+  "Difficulty": 25.0,
+  "Components": [
+    {
+      "name": "Rough Soulgem",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Polishing Paste",
+      "amount": 1,
+      "required": false,
+      "wildcard": false
+    },
+    {
+      "name": "Water Flask",
+      "amount": 1,
+      "required": true,
+      "wildcard": false
+    }
+  ]
+}
