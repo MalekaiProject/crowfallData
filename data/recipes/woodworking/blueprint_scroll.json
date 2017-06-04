@@ -26,8 +26,7 @@
       "Components": [
         {
           "name": "Oak Heartwood",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -40,8 +39,7 @@
       "Components": [
         {
           "name": "Birch Heartwood",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -54,8 +52,7 @@
       "Components": [
         {
           "name": "Spruce Heartwood",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -68,8 +65,7 @@
       "Components": [
         {
           "name": "Ash Heartwood",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -82,8 +78,7 @@
       "Components": [
         {
           "name": "Yew Heartwood",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     }

@@ -21,8 +21,7 @@
       "Components": [
         {
           "name": "Cobblestone",
-          "amount": 2,
-          "required": true
+          "amount": 2
         }
       ]
     },
@@ -35,8 +34,7 @@
       "Components": [
         {
           "name": "Granite",
-          "amount": 2,
-          "required": true
+          "amount": 2
         }
       ]
     },
@@ -49,8 +47,7 @@
       "Components": [
         {
           "name": "Limestone",
-          "amount": 2,
-          "required": true
+          "amount": 2
         }
       ]
     },
@@ -63,8 +60,7 @@
       "Components": [
         {
           "name": "Travertine",
-          "amount": 2,
-          "required": true
+          "amount": 2
         }
       ]
     },
@@ -77,8 +73,7 @@
       "Components": [
         {
           "name": "Slate",
-          "amount": 2,
-          "required": true
+          "amount": 2
         }
       ]
     },
@@ -91,8 +86,7 @@
       "Components": [
         {
           "name": "Marble",
-          "amount": 2,
-          "required": true
+          "amount": 2
         }
       ]
     }

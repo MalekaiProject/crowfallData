@@ -31,18 +31,15 @@
       "Components": [
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Cat Hide",
-          "amount": 5,
-          "required": true
+          "amount": 5
         }
       ]
     },
@@ -55,18 +52,15 @@
       "Components": [
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Boar Hide",
-          "amount": 5,
-          "required": true
+          "amount": 5
         }
       ]
     },
@@ -79,18 +73,15 @@
       "Components": [
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Auroch Hide",
-          "amount": 5,
-          "required": true
+          "amount": 5
         }
       ]
     },
@@ -103,18 +94,15 @@
       "Components": [
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Elk Hide",
-          "amount": 5,
-          "required": true
+          "amount": 5
         }
       ]
     },
@@ -127,18 +115,15 @@
       "Components": [
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Ore",
-          "amount": 2,
-          "required": true
+          "amount": 2
         },
         {
           "name": "Bear Hide",
-          "amount": 5,
-          "required": true
+          "amount": 5
         }
       ]
     }

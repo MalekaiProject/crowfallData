@@ -36,18 +36,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -60,18 +57,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -84,18 +78,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -108,18 +99,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -132,18 +120,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -156,18 +141,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -180,18 +162,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -204,18 +183,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -228,18 +204,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -252,18 +225,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -276,18 +246,15 @@
       "Components": [
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -300,18 +267,15 @@
       "Components": [
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -324,18 +288,15 @@
       "Components": [
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -348,18 +309,15 @@
       "Components": [
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -372,18 +330,15 @@
       "Components": [
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -396,18 +351,15 @@
       "Components": [
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -420,18 +372,15 @@
       "Components": [
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -444,18 +393,15 @@
       "Components": [
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -468,18 +414,15 @@
       "Components": [
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -492,18 +435,15 @@
       "Components": [
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -516,18 +456,15 @@
       "Components": [
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -540,18 +477,15 @@
       "Components": [
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -564,18 +498,15 @@
       "Components": [
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -588,18 +519,15 @@
       "Components": [
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -612,18 +540,15 @@
       "Components": [
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -636,18 +561,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -660,18 +582,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -684,18 +603,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -708,18 +624,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -732,18 +645,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -756,18 +666,15 @@
       "Components": [
         {
           "name": "Cat Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -780,18 +687,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -804,18 +708,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -828,18 +729,15 @@
       "Components": [
         {
           "name": "Boar Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -852,18 +750,15 @@
       "Components": [
         {
           "name": "Auroch Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Elk Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         },
         {
           "name": "Bear Hide",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     }

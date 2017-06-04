@@ -31,8 +31,7 @@
       "Components": [
         {
           "name": "Biege Scroll",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -45,8 +44,7 @@
       "Components": [
         {
           "name": "Ivory Scroll",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -59,8 +57,7 @@
       "Components": [
         {
           "name": "Taupe Scroll",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -73,8 +70,7 @@
       "Components": [
         {
           "name": "Ashen Scroll",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -87,8 +83,7 @@
       "Components": [
         {
           "name": "Carmine Scroll",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     }

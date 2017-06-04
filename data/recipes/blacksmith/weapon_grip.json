@@ -21,8 +21,7 @@
       "Components": [
         {
           "name": "Leather",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     },
@@ -35,8 +34,7 @@
       "Components": [
         {
           "name": "Plank",
-          "amount": 1,
-          "required": true
+          "amount": 1
         }
       ]
     }

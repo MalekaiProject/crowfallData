@@ -21,8 +21,7 @@
       "Components": [
         {
           "name": "Oak wood",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -35,8 +34,7 @@
       "Components": [
         {
           "name": "Birch wood",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -49,8 +47,7 @@
       "Components": [
         {
           "name": "Spruce wood",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -63,8 +60,7 @@
       "Components": [
         {
           "name": "Ash wood",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -77,8 +73,7 @@
       "Components": [
         {
           "name": "Yew wood",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     }

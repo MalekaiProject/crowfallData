@@ -31,18 +31,15 @@
       "Components": [
         {
           "name": "Granite",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Hide",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Ore",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -55,18 +52,15 @@
       "Components": [
         {
           "name": "Limestone",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Hide",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Ore",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -79,18 +73,15 @@
       "Components": [
         {
           "name": "Travertine",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Hide",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Ore",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -103,18 +94,15 @@
       "Components": [
         {
           "name": "Slate",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Hide",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Ore",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     },
@@ -127,18 +115,15 @@
       "Components": [
         {
           "name": "Marble",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Hide",
-          "amount": 3,
-          "required": true
+          "amount": 3
         },
         {
           "name": "Ore",
-          "amount": 3,
-          "required": true
+          "amount": 3
         }
       ]
     }
