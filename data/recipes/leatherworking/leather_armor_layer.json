@@ -1,10 +1,10 @@
 {
-  "Name": "Leather Armor Layer",
-  "Profession": "Leatherworking",
-  "Category": "Leatherworking Armor",
-  "Chance": 0.93,
-  "Difficulty": 10.0,
-  "Components": [
+  "name": "Leather Armor Layer",
+  "profession": "Leatherworking",
+  "category": "Leatherworking Armor",
+  "success_chance": 0.93,
+  "difficulty": 10.0,
+  "components": [
     {
       "name": "Ore",
       "amount": 2,
@@ -23,12 +23,12 @@
   ],
   "Variants": [
     {
-      "Name": "Leather Layer: Elemental",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Leather Layer: Elemental",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -44,12 +44,12 @@
       ]
     },
     {
-      "Name": "Leather Layer: Earth",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Leather Layer: Earth",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "Name": "Leather Layer: Organic",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Leather Layer: Organic",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -86,12 +86,12 @@
       ]
     },
     {
-      "Name": "Leather Layer: Elemental",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Leather Layer: Elemental",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -107,12 +107,12 @@
       ]
     },
     {
-      "Name": "Leather Layer: Fire",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Leather Layer: Fire",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2

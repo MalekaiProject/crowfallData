@@ -1,10 +1,10 @@
 {
-  "Name": "Runestone: Harvesting Tool",
-  "Profession": "Runemaking",
-  "Category": "Harvesting Tool",
-  "Chance": 0.95,
-  "Difficulty": 8.0,
-  "Components": [
+  "name": "Runestone: Harvesting Tool",
+  "profession": "Runemaking",
+  "category": "Harvesting Tool",
+  "success_chance": 0.95,
+  "difficulty": 8.0,
+  "components": [
     {
       "name": "Sigil",
       "amount": 1,

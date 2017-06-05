@@ -1,10 +1,10 @@
 {
-  "Name": "Ring",
-  "Profession": "Jewelcrafting",
-  "Category": "Accessory",
-  "Chance": 0.28,
-  "Difficulty": 75.0,
-  "Components": [
+  "name": "Ring",
+  "profession": "Jewelcrafting",
+  "category": "Accessory",
+  "success_chance": 0.28,
+  "difficulty": 75.0,
+  "components": [
     {
       "name": "[Wild Card]",
       "amount": 1,

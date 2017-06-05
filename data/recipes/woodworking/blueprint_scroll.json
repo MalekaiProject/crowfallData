@@ -1,10 +1,10 @@
 {
-  "Name": "Blueprint Scroll",
-  "Profession": "Woodworking",
-  "Category": "Siege Warfare",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Blueprint Scroll",
+  "profession": "Woodworking",
+  "category": "Siege Warfare",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
@@ -18,12 +18,12 @@
   ],
   "Variants": [
     {
-      "Name": "Biege Scroll",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Biege Scroll",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Oak Heartwood",
           "amount": 1
@@ -31,12 +31,12 @@
       ]
     },
     {
-      "Name": "Ivory Scroll",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Ivory Scroll",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Birch Heartwood",
           "amount": 1
@@ -44,12 +44,12 @@
       ]
     },
     {
-      "Name": "Taupe Scroll",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Taupe Scroll",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Spruce Heartwood",
           "amount": 1
@@ -57,12 +57,12 @@
       ]
     },
     {
-      "Name": "Ashen Scroll",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Ashen Scroll",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ash Heartwood",
           "amount": 1
@@ -70,12 +70,12 @@
       ]
     },
     {
-      "Name": "Carmine Scroll",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Carmine Scroll",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Yew Heartwood",
           "amount": 1

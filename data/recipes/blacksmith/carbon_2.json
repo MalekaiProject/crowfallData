@@ -1,10 +1,10 @@
 {
-  "Name": "Carbon (2)",
-  "Profession": "Blacksmith",
-  "Category": "Fuel",
-  "Chance": 0.95,
-  "Difficulty": 1.0,
-  "Components": [
+  "name": "Carbon (2)",
+  "profession": "Blacksmith",
+  "category": "Fuel",
+  "success_chance": 0.95,
+  "difficulty": 1.0,
+  "components": [
     {
       "name": "Animal meat",
       "amount": 5,

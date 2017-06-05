@@ -1,10 +1,10 @@
 {
-  "Name": "Deed: Villa",
-  "Profession": "Stonemasonry",
-  "Category": "Geomancy",
-  "Chance": 0.53,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Deed: Villa",
+  "profession": "Stonemasonry",
+  "category": "Geomancy",
+  "success_chance": 0.53,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Deed: Cottage",
       "amount": 1,

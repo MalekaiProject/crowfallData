@@ -1,10 +1,10 @@
 {
-  "Name": "Metal Bar",
-  "Profession": "Blacksmith",
-  "Category": "Blacksmith Weapon",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Metal Bar",
+  "profession": "Blacksmith",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Ore",
       "amount": 3,
@@ -28,12 +28,12 @@
   ],
   "Variants": [
     {
-      "Name": "Copper Bar",
-      "Attribute": "Critical hit chance",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Copper Bar",
+      "attribute": "Critical hit chance",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "Name": "Charged Copper Bar",
-      "Attribute": "Damage bonus: Electricity",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Charged Copper Bar",
+      "attribute": "Damage bonus: Electricity",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -70,12 +70,12 @@
       ]
     },
     {
-      "Name": "Heavy Copper Bar",
-      "Attribute": "Damage bonus: Crushing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Heavy Copper Bar",
+      "attribute": "Damage bonus: Crushing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -91,12 +91,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -133,12 +133,12 @@
       ]
     },
     {
-      "Name": "Stony Iron Bar",
-      "Attribute": "Damage bonus: Nature",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stony Iron Bar",
+      "attribute": "Damage bonus: Nature",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -154,12 +154,12 @@
       ]
     },
     {
-      "Name": "Iron Bar",
-      "Attribute": "Atk power",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Iron Bar",
+      "attribute": "Atk power",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -175,12 +175,12 @@
       ]
     },
     {
-      "Name": "Blue Steel Bar",
-      "Attribute": "Damage bonus: Bleed",
-      "Impact": 0.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Blue Steel Bar",
+      "attribute": "Damage bonus: Bleed",
+      "impact": 0.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -196,12 +196,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -217,12 +217,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -238,12 +238,12 @@
       ]
     },
     {
-      "Name": "Bronze Bar",
-      "Attribute": "Stamina regen: In combat",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Bronze Bar",
+      "attribute": "Stamina regen: In combat",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -259,12 +259,12 @@
       ]
     },
     {
-      "Name": "Sharp Tin Bar",
-      "Attribute": "Damage bonus: Piercing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Sharp Tin Bar",
+      "attribute": "Damage bonus: Piercing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -280,12 +280,12 @@
       ]
     },
     {
-      "Name": "Tin Bar",
-      "Attribute": "Stamina",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Tin Bar",
+      "attribute": "Stamina",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -301,12 +301,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -322,12 +322,12 @@
       ]
     },
     {
-      "Name": "Poisonous Tin Bar",
-      "Attribute": "Damage bonus: Poison",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Poisonous Tin Bar",
+      "attribute": "Damage bonus: Poison",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -343,12 +343,12 @@
       ]
     },
     {
-      "Name": "Sterling Bar",
-      "Attribute": "Resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Sterling Bar",
+      "attribute": "Resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -364,12 +364,12 @@
       ]
     },
     {
-      "Name": "Icy Silver Bar",
-      "Attribute": "Damage bonus: Ice",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Icy Silver Bar",
+      "attribute": "Damage bonus: Ice",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -385,12 +385,12 @@
       ]
     },
     {
-      "Name": "Diseased Silver Bar",
-      "Attribute": "Damage bonus: Disease",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Diseased Silver Bar",
+      "attribute": "Damage bonus: Disease",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -406,12 +406,12 @@
       ]
     },
     {
-      "Name": "Silver Bar",
-      "Attribute": "Resource",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Silver Bar",
+      "attribute": "Resource",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -427,12 +427,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -448,12 +448,12 @@
       ]
     },
     {
-      "Name": "Rose Gold Bar",
-      "Attribute": "Critical hit damage",
-      "Impact": 0.16,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Rose Gold Bar",
+      "attribute": "Critical hit damage",
+      "impact": 0.16,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -469,12 +469,12 @@
       ]
     },
     {
-      "Name": "Fiery gold bar",
-      "Attribute": "bonus dmg : Fire",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Fiery gold bar",
+      "attribute": "bonus dmg : Fire",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -490,12 +490,12 @@
       ]
     },
     {
-      "Name": "Crown gold bar",
-      "Attribute": "Stamina regen: Out of combat",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crown gold bar",
+      "attribute": "Stamina regen: Out of combat",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -511,12 +511,12 @@
       ]
     },
     {
-      "Name": "Green gold bar",
-      "Attribute": "Stamina regen: In combat",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Green gold bar",
+      "attribute": "Stamina regen: In combat",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -532,12 +532,12 @@
       ]
     },
     {
-      "Name": "Gold Bar",
-      "Attribute": "Support power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Gold Bar",
+      "attribute": "Support power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -553,12 +553,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -574,12 +574,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -595,12 +595,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -616,12 +616,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -637,77 +637,14 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
-          "amount": 3
-        },
-        {
-          "name": "Tin",
-          "amount": 3
-        },
-        {
-          "name": "Gold",
-          "amount": 3
-        }
-      ]
-    },
-    {
-      "Name": "Electrum Bar",
-      "Attribute": "Stealth",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Copper",
-          "amount": 3
-        },
-        {
-          "name": "Silver",
-          "amount": 3
-        },
-        {
-          "name": "Gold",
-          "amount": 3
-        }
-      ]
-    },
-    {
-      "Name": "Honed Iron Bar",
-      "Attribute": "Damage bonus: Slashing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Iron",
-          "amount": 3
-        },
-        {
-          "name": "Tin",
-          "amount": 3
-        },
-        {
-          "name": "Silver",
-          "amount": 3
-        }
-      ]
-    },
-    {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Iron",
           "amount": 3
         },
         {
@@ -721,12 +658,75 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Electrum Bar",
+      "attribute": "Stealth",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Copper",
+          "amount": 3
+        },
+        {
+          "name": "Silver",
+          "amount": 3
+        },
+        {
+          "name": "Gold",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Honed Iron Bar",
+      "attribute": "Damage bonus: Slashing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Iron",
+          "amount": 3
+        },
+        {
+          "name": "Tin",
+          "amount": 3
+        },
+        {
+          "name": "Silver",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Iron",
+          "amount": 3
+        },
+        {
+          "name": "Tin",
+          "amount": 3
+        },
+        {
+          "name": "Gold",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -742,12 +742,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Bar",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Bar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3

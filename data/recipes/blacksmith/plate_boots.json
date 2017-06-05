@@ -1,10 +1,10 @@
 {
-  "Name": "Plate Boots",
-  "Profession": "Blacksmith",
-  "Category": "Blacksmith Armor",
-  "Chance": 0.68,
-  "Difficulty": 35.0,
-  "Components": [
+  "name": "Plate Boots",
+  "profession": "Blacksmith",
+  "category": "Blacksmith Armor",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "components": [
     {
       "name": "Iron",
       "amount": 25,

@@ -1,10 +1,10 @@
 {
-  "Name": "Hardened Leather",
-  "Profession": "Leatherworking",
-  "Category": "Leatherworking Armor",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Hardened Leather",
+  "profession": "Leatherworking",
+  "category": "Leatherworking Armor",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Hide",
       "amount": 2,
@@ -48,12 +48,12 @@
   ],
   "Variants": [
     {
-      "Name": "Hardened Cat Leather",
-      "Attribute": "Stealth",
-      "Impact": 0.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Cat Leather",
+      "attribute": "Stealth",
+      "impact": 0.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "Name": "Hardened Composite Cat Leather",
-      "Attribute": "Critical hit damage",
-      "Impact": 0.16,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Composite Cat Leather",
+      "attribute": "Critical hit damage",
+      "impact": 0.16,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -90,12 +90,12 @@
       ]
     },
     {
-      "Name": "Hardened Honed Cat Leather",
-      "Attribute": "Damage bonus: Slashing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Honed Cat Leather",
+      "attribute": "Damage bonus: Slashing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -111,12 +111,12 @@
       ]
     },
     {
-      "Name": "Hardened Voltaic Cat Leather",
-      "Attribute": "Damage bonus: Electricity",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Voltaic Cat Leather",
+      "attribute": "Damage bonus: Electricity",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -132,12 +132,12 @@
       ]
     },
     {
-      "Name": "Hardened Bonded Cat Leather",
-      "Attribute": "Critical hit chance",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Bonded Cat Leather",
+      "attribute": "Critical hit chance",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -153,12 +153,12 @@
       ]
     },
     {
-      "Name": "Hardened Earthen Boar Leather",
-      "Attribute": "Damage bonus: Nature",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Earthen Boar Leather",
+      "attribute": "Damage bonus: Nature",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -174,12 +174,12 @@
       ]
     },
     {
-      "Name": "Hardened Boar Leather",
-      "Attribute": "Resource",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Boar Leather",
+      "attribute": "Resource",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -195,12 +195,12 @@
       ]
     },
     {
-      "Name": "Hardened Toxic Boar Leather",
-      "Attribute": "Damage bonus: Poison",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Toxic Boar Leather",
+      "attribute": "Damage bonus: Poison",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -216,12 +216,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Boar Leather",
-      "Attribute": "Resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Boar Leather",
+      "attribute": "Resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -237,12 +237,12 @@
       ]
     },
     {
-      "Name": "Hardened Reinforced Boar Leather",
-      "Attribute": "Combat resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Reinforced Boar Leather",
+      "attribute": "Combat resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -258,12 +258,12 @@
       ]
     },
     {
-      "Name": "Hardened Fiery Auroch Leather",
-      "Attribute": "Damage bonus: Fire",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Fiery Auroch Leather",
+      "attribute": "Damage bonus: Fire",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -279,12 +279,12 @@
       ]
     },
     {
-      "Name": "Hardened Heavy Auroch Leather",
-      "Attribute": "Damage bonus: Crushing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Heavy Auroch Leather",
+      "attribute": "Damage bonus: Crushing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -300,12 +300,12 @@
       ]
     },
     {
-      "Name": "Hardened Auroch Leather",
-      "Attribute": "Max stamina",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Auroch Leather",
+      "attribute": "Max stamina",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -321,12 +321,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Auroch Leather",
-      "Attribute": "Stamina regen: Out of combat",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Auroch Leather",
+      "attribute": "Stamina regen: Out of combat",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -342,12 +342,12 @@
       ]
     },
     {
-      "Name": "Hardened Reinforced Auroch Leather",
-      "Attribute": "Stamina regen: In combat",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Reinforced Auroch Leather",
+      "attribute": "Stamina regen: In combat",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -363,12 +363,12 @@
       ]
     },
     {
-      "Name": "Hardened Sharp Elk Leather",
-      "Attribute": "Damage bonus: Piercing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Sharp Elk Leather",
+      "attribute": "Damage bonus: Piercing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -384,12 +384,12 @@
       ]
     },
     {
-      "Name": "Hardened Diseased Elk Leather",
-      "Attribute": "Damage bonus: Disease",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Diseased Elk Leather",
+      "attribute": "Damage bonus: Disease",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -405,12 +405,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -426,12 +426,12 @@
       ]
     },
     {
-      "Name": "Hardened Elk Leather",
-      "Attribute": "Support power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Elk Leather",
+      "attribute": "Support power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -447,12 +447,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -468,12 +468,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -489,12 +489,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -510,12 +510,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -531,12 +531,12 @@
       ]
     },
     {
-      "Name": "Hardened Icy Bear Leather",
-      "Attribute": "Damage bonus: Ice",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Icy Bear Leather",
+      "attribute": "Damage bonus: Ice",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -552,12 +552,12 @@
       ]
     },
     {
-      "Name": "Hardened Bear Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Bear Leather",
+      "attribute": "Attack power",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -573,12 +573,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -594,12 +594,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -615,12 +615,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -636,12 +636,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -657,12 +657,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -678,12 +678,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -699,12 +699,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -720,12 +720,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -741,12 +741,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -762,12 +762,12 @@
       ]
     },
     {
-      "Name": "Hardened Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hardened Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2

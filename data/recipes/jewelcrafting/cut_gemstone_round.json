@@ -1,10 +1,10 @@
 {
-  "Name": "Cut Gemstone: Round",
-  "Profession": "Jewelcrafting",
-  "Category": "Jewelcrafting component",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Cut Gemstone: Round",
+  "profession": "Jewelcrafting",
+  "category": "Jewelcrafting component",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "[Wild Card]",
       "amount": 1,

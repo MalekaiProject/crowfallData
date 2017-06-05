@@ -1,10 +1,10 @@
 {
-  "Name": "Siege Catapult Blueprint",
-  "Profession": "Woodworking",
-  "Category": "Siege Warfare",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Siege Catapult Blueprint",
+  "profession": "Woodworking",
+  "category": "Siege Warfare",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
@@ -23,12 +23,12 @@
   ],
   "Variants": [
     {
-      "Name": "Catapult MK1",
-      "Attribute": null,
-      "Impact": 1.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Catapult MK1",
+      "attribute": null,
+      "impact": 1.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Biege Scroll",
           "amount": 1
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "Name": "Catapult MK1",
-      "Attribute": null,
-      "Impact": 1.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Catapult MK1",
+      "attribute": null,
+      "impact": 1.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ivory Scroll",
           "amount": 1
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "Name": "Catapult MK1",
-      "Attribute": null,
-      "Impact": 1.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Catapult MK1",
+      "attribute": null,
+      "impact": 1.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Taupe Scroll",
           "amount": 1
@@ -62,12 +62,12 @@
       ]
     },
     {
-      "Name": "Catapult MK2",
-      "Attribute": null,
-      "Impact": 2.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Catapult MK2",
+      "attribute": null,
+      "impact": 2.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ashen Scroll",
           "amount": 1
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "Name": "Catapult MK2",
-      "Attribute": null,
-      "Impact": 2.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Catapult MK2",
+      "attribute": null,
+      "impact": 2.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Carmine Scroll",
           "amount": 1

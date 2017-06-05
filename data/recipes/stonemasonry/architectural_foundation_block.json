@@ -1,10 +1,10 @@
 {
-  "Name": "Architectural Foundation Block",
-  "Profession": "Stonemasonry",
-  "Category": "Geomancy",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Architectural Foundation Block",
+  "profession": "Stonemasonry",
+  "category": "Geomancy",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Bricks",
       "amount": 20,

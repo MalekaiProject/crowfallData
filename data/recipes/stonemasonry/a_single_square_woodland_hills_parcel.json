@@ -1,10 +1,10 @@
 {
-  "Name": "A Single Square Woodland Hills Parcel",
-  "Profession": "Stonemasonry",
-  "Category": "Geomancy",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "A Single Square Woodland Hills Parcel",
+  "profession": "Stonemasonry",
+  "category": "Geomancy",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Earth",
       "amount": 10,

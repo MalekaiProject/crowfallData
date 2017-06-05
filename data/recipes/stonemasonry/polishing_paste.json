@@ -1,10 +1,10 @@
 {
-  "Name": "Polishing Paste",
-  "Profession": "Stonemasonry",
-  "Category": "Stonemasonry Component",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Polishing Paste",
+  "profession": "Stonemasonry",
+  "category": "Stonemasonry Component",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Powdered Stone",
       "amount": 2,

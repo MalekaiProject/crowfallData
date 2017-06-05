@@ -1,10 +1,10 @@
 {
-  "Name": "Earth",
-  "Profession": "Stonemasonry",
-  "Category": "Geomancy",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Earth",
+  "profession": "Stonemasonry",
+  "category": "Geomancy",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Mulch",
       "amount": 10,

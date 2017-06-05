@@ -1,10 +1,10 @@
 {
-  "Name": "Book Bound Chapters",
-  "Profession": "Woodworking",
-  "Category": "",
-  "Chance": 0.68,
-  "Difficulty": 35.0,
-  "Components": [
+  "name": "Book Bound Chapters",
+  "profession": "Woodworking",
+  "category": "",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "components": [
     {
       "name": "Chapter",
       "amount": 1,

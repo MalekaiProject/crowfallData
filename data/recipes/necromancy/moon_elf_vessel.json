@@ -1,10 +1,10 @@
 {
-  "Name": "Moon-Elf Vessel",
-  "Profession": "Necromancy",
-  "Category": "Vessel",
-  "Chance": 0.53,
-  "Difficulty": 50.0,
-  "Components": [
+  "name": "Moon-Elf Vessel",
+  "profession": "Necromancy",
+  "category": "Vessel",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "components": [
     {
       "name": "Restored Elven Head",
       "amount": 1,

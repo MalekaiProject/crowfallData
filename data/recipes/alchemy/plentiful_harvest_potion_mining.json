@@ -1,10 +1,10 @@
 {
-  "Name": "Plentiful Harvest Potion: Mining",
-  "Profession": "Alchemy",
-  "Category": "Alchemy Potions",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Plentiful Harvest Potion: Mining",
+  "profession": "Alchemy",
+  "category": "Alchemy Potions",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Empty Flask",
       "amount": 1,

@@ -1,10 +1,10 @@
 {
-  "Name": "Stitched Leather",
-  "Profession": "Leatherworking",
-  "Category": "Leatherworking Component",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Stitched Leather",
+  "profession": "Leatherworking",
+  "category": "Leatherworking Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Hide",
       "amount": 1,
@@ -28,12 +28,12 @@
   ],
   "Variants": [
     {
-      "Name": "Composite Cat Leather",
-      "Attribute": "Damage bonus: Retribution",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Composite Cat Leather",
+      "attribute": "Damage bonus: Retribution",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "Name": "Cat Leather",
-      "Attribute": "Stealth",
-      "Impact": 0.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Cat Leather",
+      "attribute": "Stealth",
+      "impact": 0.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -70,12 +70,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Slash Resist",
-      "Attribute": "Slash resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Slash Resist",
+      "attribute": "Slash resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -91,12 +91,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Charge Resist",
-      "Attribute": "Charge resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Charge Resist",
+      "attribute": "Charge resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Reinforced Cat",
-      "Attribute": "Lifesteal",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Reinforced Cat",
+      "attribute": "Lifesteal",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -133,12 +133,12 @@
       ]
     },
     {
-      "Name": "Earth Resistant Boar Leather",
-      "Attribute": "Earth resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Earth Resistant Boar Leather",
+      "attribute": "Earth resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 1
@@ -154,12 +154,12 @@
       ]
     },
     {
-      "Name": "Boar Leather",
-      "Attribute": "Resource",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Boar Leather",
+      "attribute": "Resource",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 1
@@ -175,12 +175,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Poison Resist",
-      "Attribute": "Poison resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Poison Resist",
+      "attribute": "Poison resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 1
@@ -196,12 +196,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Bonded Boar",
-      "Attribute": "Resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Bonded Boar",
+      "attribute": "Resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 1
@@ -217,12 +217,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Reinforced Boar",
-      "Attribute": "Combat resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Reinforced Boar",
+      "attribute": "Combat resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 1
@@ -238,12 +238,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Fire Resistant",
-      "Attribute": "Fire resistant",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Fire Resistant",
+      "attribute": "Fire resistant",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 1
@@ -259,12 +259,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Crush Resistant",
-      "Attribute": "Crush resistant",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Crush Resistant",
+      "attribute": "Crush resistant",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 1
@@ -280,12 +280,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Auroch",
-      "Attribute": "Max hitpoint",
-      "Impact": 21.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Auroch",
+      "attribute": "Max hitpoint",
+      "impact": 21.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 1
@@ -301,12 +301,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Bonded Auroch",
-      "Attribute": "Health regen: In combat",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Bonded Auroch",
+      "attribute": "Health regen: In combat",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 1
@@ -322,12 +322,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Reinforced Auroch",
-      "Attribute": "Health regen: Out of combat",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Reinforced Auroch",
+      "attribute": "Health regen: Out of combat",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 1
@@ -343,12 +343,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Pierce Resistant",
-      "Attribute": "Pierce resist",
-      "Impact": 0.2,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Pierce Resistant",
+      "attribute": "Pierce resist",
+      "impact": 0.2,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 1
@@ -364,12 +364,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Disease Resistant",
-      "Attribute": "Disease resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Disease Resistant",
+      "attribute": "Disease resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 1
@@ -385,12 +385,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 1
@@ -406,12 +406,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Elk",
-      "Attribute": "Support power",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Elk",
+      "attribute": "Support power",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 1
@@ -427,12 +427,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 1
@@ -448,12 +448,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 1
@@ -469,12 +469,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 1
@@ -490,12 +490,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 1
@@ -511,12 +511,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Ice Resistant",
-      "Attribute": "Ice resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Ice Resistant",
+      "attribute": "Ice resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 1
@@ -532,12 +532,12 @@
       ]
     },
     {
-      "Name": "Stitched Leather: Bear",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stitched Leather: Bear",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 1
@@ -553,12 +553,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -574,12 +574,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -595,12 +595,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -616,12 +616,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 1
@@ -637,77 +637,14 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
-          "amount": 1
-        },
-        {
-          "name": "Auroch Hide",
-          "amount": 1
-        },
-        {
-          "name": "Bear Hide",
-          "amount": 1
-        }
-      ]
-    },
-    {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Cat Hide",
-          "amount": 1
-        },
-        {
-          "name": "Elk Hide",
-          "amount": 1
-        },
-        {
-          "name": "Bear Hide",
-          "amount": 1
-        }
-      ]
-    },
-    {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Boar Hide",
-          "amount": 1
-        },
-        {
-          "name": "Auroch Hide",
-          "amount": 1
-        },
-        {
-          "name": "Elk Hide",
-          "amount": 1
-        }
-      ]
-    },
-    {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Boar Hide",
           "amount": 1
         },
         {
@@ -721,12 +658,75 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Cat Hide",
+          "amount": 1
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1
+        },
+        {
+          "name": "Elk Hide",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Boar Hide",
+          "amount": 1
+        },
+        {
+          "name": "Auroch Hide",
+          "amount": 1
+        },
+        {
+          "name": "Bear Hide",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 1
@@ -742,12 +742,12 @@
       ]
     },
     {
-      "Name": "Plain Stitched Leather",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Stitched Leather",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 1

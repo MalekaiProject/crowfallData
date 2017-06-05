@@ -1,10 +1,10 @@
 {
-  "Name": "Grind Resource",
-  "Profession": "Alchemy",
-  "Category": "Alchemy Component",
-  "Chance": 0.97,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Grind Resource",
+  "profession": "Alchemy",
+  "category": "Alchemy Component",
+  "success_chance": 0.97,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
@@ -13,12 +13,12 @@
   ],
   "Variants": [
     {
-      "Name": "Sand",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Sand",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cobblestone",
           "amount": 2
@@ -26,12 +26,12 @@
       ]
     },
     {
-      "Name": "Powdered Granite",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Powdered Granite",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Granite",
           "amount": 2
@@ -39,12 +39,12 @@
       ]
     },
     {
-      "Name": "Powdered Limestone",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Powdered Limestone",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Limestone",
           "amount": 2
@@ -52,12 +52,12 @@
       ]
     },
     {
-      "Name": "Powdered Travertine",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Powdered Travertine",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Travertine",
           "amount": 2
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "Name": "Powdered Slate",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Powdered Slate",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Slate",
           "amount": 2
@@ -78,12 +78,12 @@
       ]
     },
     {
-      "Name": "Powdered Marble",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Powdered Marble",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Marble",
           "amount": 2

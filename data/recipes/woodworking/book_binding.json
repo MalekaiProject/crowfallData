@@ -1,10 +1,10 @@
 {
-  "Name": "Book Binding",
-  "Profession": "Woodworking",
-  "Category": "",
-  "Chance": 0.68,
-  "Difficulty": 35.0,
-  "Components": [
+  "name": "Book Binding",
+  "profession": "Woodworking",
+  "category": "",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "components": [
     {
       "name": "Plank",
       "amount": 1,

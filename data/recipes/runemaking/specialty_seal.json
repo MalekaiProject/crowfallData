@@ -1,10 +1,10 @@
 {
-  "Name": "Specialty Seal",
-  "Profession": "Runemaking",
-  "Category": "Runemaking Component",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Specialty Seal",
+  "profession": "Runemaking",
+  "category": "Runemaking Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Stone",
       "amount": 1,
@@ -18,12 +18,12 @@
   ],
   "Variants": [
     {
-      "Name": "Mining Seal",
-      "Attribute": "Beneficial Harvest Power: Ore",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Mining Seal",
+      "attribute": "Beneficial Harvest Power: Ore",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Granite",
           "amount": 1
@@ -35,12 +35,12 @@
       ]
     },
     {
-      "Name": "Chopping Seal",
-      "Attribute": "Beneficial Harvest Power: Wood",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Chopping Seal",
+      "attribute": "Beneficial Harvest Power: Wood",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Granite",
           "amount": 1
@@ -52,12 +52,12 @@
       ]
     },
     {
-      "Name": "Prospecting Seal",
-      "Attribute": "Beneficial Harvest Power: Stone",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Prospecting Seal",
+      "attribute": "Beneficial Harvest Power: Stone",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Granite",
           "amount": 1
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal1",
-      "Attribute": null,
-      "Impact": 10.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal1",
+      "attribute": null,
+      "impact": 10.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Granite",
           "amount": 1
@@ -86,12 +86,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal2",
-      "Attribute": null,
-      "Impact": 20.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal2",
+      "attribute": null,
+      "impact": 20.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Granite",
           "amount": 1
@@ -103,12 +103,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal3",
-      "Attribute": null,
-      "Impact": 30.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal3",
+      "attribute": null,
+      "impact": 30.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Limestone",
           "amount": 1
@@ -120,12 +120,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal4",
-      "Attribute": null,
-      "Impact": 40.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal4",
+      "attribute": null,
+      "impact": 40.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Limestone",
           "amount": 1
@@ -137,12 +137,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal5",
-      "Attribute": null,
-      "Impact": 50.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal5",
+      "attribute": null,
+      "impact": 50.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Limestone",
           "amount": 1
@@ -154,12 +154,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal6",
-      "Attribute": null,
-      "Impact": 60.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal6",
+      "attribute": null,
+      "impact": 60.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Limestone",
           "amount": 1
@@ -171,12 +171,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal7",
-      "Attribute": null,
-      "Impact": 70.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal7",
+      "attribute": null,
+      "impact": 70.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Limestone",
           "amount": 1
@@ -188,12 +188,12 @@
       ]
     },
     {
-      "Name": "Leatherworking Seal",
-      "Attribute": "Leather Experimentation",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Leatherworking Seal",
+      "attribute": "Leather Experimentation",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Travertine",
           "amount": 1
@@ -205,12 +205,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal8",
-      "Attribute": null,
-      "Impact": 80.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal8",
+      "attribute": null,
+      "impact": 80.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Travertine",
           "amount": 1
@@ -222,12 +222,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal9",
-      "Attribute": null,
-      "Impact": 90.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal9",
+      "attribute": null,
+      "impact": 90.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Travertine",
           "amount": 1
@@ -239,12 +239,12 @@
       ]
     },
     {
-      "Name": "Skinning Seal",
-      "Attribute": "Beneficial Harvest Power: Animal",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Skinning Seal",
+      "attribute": "Beneficial Harvest Power: Animal",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Travertine",
           "amount": 1
@@ -256,12 +256,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal10",
-      "Attribute": null,
-      "Impact": 100.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal10",
+      "attribute": null,
+      "impact": 100.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Travertine",
           "amount": 1
@@ -273,12 +273,12 @@
       ]
     },
     {
-      "Name": "Stonemasonry Seal",
-      "Attribute": "Stonemasonry Experimentation",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Stonemasonry Seal",
+      "attribute": "Stonemasonry Experimentation",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Slate",
           "amount": 1
@@ -290,12 +290,12 @@
       ]
     },
     {
-      "Name": "Blacksmith Seal",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Blacksmith Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Slate",
           "amount": 1
@@ -307,12 +307,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal11",
-      "Attribute": null,
-      "Impact": 110.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal11",
+      "attribute": null,
+      "impact": 110.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Slate",
           "amount": 1
@@ -324,12 +324,12 @@
       ]
     },
     {
-      "Name": "Woodworking Seal",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Woodworking Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Slate",
           "amount": 1
@@ -341,12 +341,12 @@
       ]
     },
     {
-      "Name": "Jewelcrafting Seal",
-      "Attribute": "Jewelcrafting Speed",
-      "Impact": 0.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Jewelcrafting Seal",
+      "attribute": "Jewelcrafting Speed",
+      "impact": 0.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Slate",
           "amount": 1
@@ -358,12 +358,12 @@
       ]
     },
     {
-      "Name": "Crafting Seal12",
-      "Attribute": null,
-      "Impact": 120.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crafting Seal12",
+      "attribute": null,
+      "impact": 120.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Marble",
           "amount": 1
@@ -375,12 +375,12 @@
       ]
     },
     {
-      "Name": "Enchanting Seal",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Enchanting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Marble",
           "amount": 1
@@ -392,12 +392,12 @@
       ]
     },
     {
-      "Name": "Necromancy Seal",
-      "Attribute": "Necromancy",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Necromancy Seal",
+      "attribute": "Necromancy",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Marble",
           "amount": 1
@@ -409,12 +409,12 @@
       ]
     },
     {
-      "Name": "Runemaking Seal",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Runemaking Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Marble",
           "amount": 1
@@ -426,12 +426,12 @@
       ]
     },
     {
-      "Name": "Alchemy Seal",
-      "Attribute": "Alchemy Craft Speed",
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Alchemy Seal",
+      "attribute": "Alchemy Craft Speed",
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Marble",
           "amount": 1

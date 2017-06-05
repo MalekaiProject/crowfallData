@@ -1,10 +1,10 @@
 {
-  "Name": "Bow String",
-  "Profession": "Leatherworking",
-  "Category": "Leatherworking Component",
-  "Chance": 0.65,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Bow String",
+  "profession": "Leatherworking",
+  "category": "Leatherworking Component",
+  "success_chance": 0.65,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Stitched Leather",
       "amount": 1,

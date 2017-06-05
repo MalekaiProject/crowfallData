@@ -1,10 +1,10 @@
 {
-  "Name": "Lacing Sinew (4)",
-  "Profession": "Leatherworking",
-  "Category": "Leatherworking Component",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Lacing Sinew (4)",
+  "profession": "Leatherworking",
+  "category": "Leatherworking Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Animal Meat",
       "amount": 2,

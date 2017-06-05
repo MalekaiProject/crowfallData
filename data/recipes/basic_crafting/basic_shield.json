@@ -1,10 +1,10 @@
 {
-  "Name": "Basic Shield",
-  "Profession": "Basic crafting",
-  "Category": "Basic Weapon",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Basic Shield",
+  "profession": "Basic crafting",
+  "category": "Basic Weapon",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Wood",
       "amount": 6,

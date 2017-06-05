@@ -1,10 +1,10 @@
 {
-  "Name": "Polish Gemstone",
-  "Profession": "Jewelcrafting",
-  "Category": "Jewelcrafting component",
-  "Chance": 0.28,
-  "Difficulty": 75.0,
-  "Components": [
+  "name": "Polish Gemstone",
+  "profession": "Jewelcrafting",
+  "category": "Jewelcrafting component",
+  "success_chance": 0.28,
+  "difficulty": 75.0,
+  "components": [
     {
       "name": "Grind Gem",
       "amount": 1,

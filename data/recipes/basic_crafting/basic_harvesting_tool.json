@@ -1,10 +1,10 @@
 {
-  "Name": "Basic Harvesting Tool",
-  "Profession": "Basic crafting",
-  "Category": "Basic Harvesting Tool",
-  "Chance": 0.97,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Basic Harvesting Tool",
+  "profession": "Basic crafting",
+  "category": "Basic Harvesting Tool",
+  "success_chance": 0.97,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Wood",
       "amount": 1,
@@ -23,12 +23,12 @@
   ],
   "Variants": [
     {
-      "Name": "Hammer Runestone",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Hammer Runestone",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Wood",
           "amount": 1
@@ -44,12 +44,12 @@
       ]
     },
     {
-      "Name": "Pick Runestone",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Pick Runestone",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Wood",
           "amount": 1
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "Name": "Knife Runestone",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Knife Runestone",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Wood",
           "amount": 1

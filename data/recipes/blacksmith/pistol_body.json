@@ -1,10 +1,10 @@
 {
-  "Name": "Pistol Body",
-  "Profession": "Blacksmith",
-  "Category": "Blacksmith Weapon",
-  "Chance": 0.68,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Pistol Body",
+  "profession": "Blacksmith",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.68,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Pistol Hammer and Frizzen",
       "amount": 1,

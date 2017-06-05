@@ -1,10 +1,10 @@
 {
-  "Name": "Basic Boots",
-  "Profession": "Basic crafting",
-  "Category": "Basic Weapon",
-  "Chance": 0.95,
-  "Difficulty": 10.0,
-  "Components": [
+  "name": "Basic Boots",
+  "profession": "Basic crafting",
+  "category": "Basic Weapon",
+  "success_chance": 0.95,
+  "difficulty": 10.0,
+  "components": [
     {
       "name": "Wood",
       "amount": 3,

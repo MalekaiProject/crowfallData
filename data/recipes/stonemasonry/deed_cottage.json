@@ -1,10 +1,10 @@
 {
-  "Name": "Deed: Cottage",
-  "Profession": "Stonemasonry",
-  "Category": "Geomancy",
-  "Chance": 0.53,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Deed: Cottage",
+  "profession": "Stonemasonry",
+  "category": "Geomancy",
+  "success_chance": 0.53,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Foundation Segment",
       "amount": 10,

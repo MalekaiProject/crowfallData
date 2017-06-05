@@ -1,10 +1,10 @@
 {
-  "Name": "Philosopher Solution",
-  "Profession": "Alchemy",
-  "Category": "Alchemy Component",
-  "Chance": 0.53,
-  "Difficulty": 50.0,
-  "Components": [
+  "name": "Philosopher Solution",
+  "profession": "Alchemy",
+  "category": "Alchemy Component",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "components": [
     {
       "name": "[Wild Card]",
       "amount": 1,

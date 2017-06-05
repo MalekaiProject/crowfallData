@@ -1,10 +1,10 @@
 {
-  "Name": "Philosopher Stone",
-  "Profession": "Alchemy",
-  "Category": "Alchemy Component",
-  "Chance": 0.28,
-  "Difficulty": 75.0,
-  "Components": [
+  "name": "Philosopher Stone",
+  "profession": "Alchemy",
+  "category": "Alchemy Component",
+  "success_chance": 0.28,
+  "difficulty": 75.0,
+  "components": [
     {
       "name": "Philosopher Solution",
       "amount": 1,

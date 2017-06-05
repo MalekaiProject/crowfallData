@@ -1,10 +1,10 @@
 {
-  "Name": "Roof Segment",
-  "Profession": "Stonemasonry",
-  "Category": "Geomancy",
-  "Chance": 0.93,
-  "Difficulty": 10.0,
-  "Components": [
+  "name": "Roof Segment",
+  "profession": "Stonemasonry",
+  "category": "Geomancy",
+  "success_chance": 0.93,
+  "difficulty": 10.0,
+  "components": [
     {
       "name": "Roof Shingles",
       "amount": 100,

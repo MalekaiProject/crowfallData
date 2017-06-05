@@ -1,10 +1,10 @@
 {
-  "Name": "Staff Heel",
-  "Profession": "Blacksmith",
-  "Category": "Blacksmith Weapon",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Staff Heel",
+  "profession": "Blacksmith",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Metal Bar",
       "amount": 1,

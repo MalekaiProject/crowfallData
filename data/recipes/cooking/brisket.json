@@ -1,10 +1,10 @@
 {
-  "Name": "Brisket",
-  "Profession": "Cooking",
-  "Category": "Meat",
-  "Chance": 0.9,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Brisket",
+  "profession": "Cooking",
+  "category": "Meat",
+  "success_chance": 0.9,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Animal meat",
       "amount": 1,

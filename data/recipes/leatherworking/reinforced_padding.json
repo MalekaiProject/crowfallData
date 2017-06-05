@@ -1,10 +1,10 @@
 {
-  "Name": "Reinforced Padding",
-  "Profession": "Leatherworking",
-  "Category": "Leatherworking Armor",
-  "Chance": 0.68,
-  "Difficulty": 35.0,
-  "Components": [
+  "name": "Reinforced Padding",
+  "profession": "Leatherworking",
+  "category": "Leatherworking Armor",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "components": [
     {
       "name": "Bear Hide",
       "amount": 2,
@@ -33,12 +33,12 @@
   ],
   "Variants": [
     {
-      "Name": "Padded Cat Leather",
-      "Attribute": "Stealth",
-      "Impact": 0.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Cat Leather",
+      "attribute": "Stealth",
+      "impact": 0.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -54,12 +54,12 @@
       ]
     },
     {
-      "Name": "Padded Composite Cat Leather",
-      "Attribute": "Critical hit damage",
-      "Impact": 0.16,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Composite Cat Leather",
+      "attribute": "Critical hit damage",
+      "impact": 0.16,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "Name": "Padded Honed Cat Leather",
-      "Attribute": "Damage bonus: Slashing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Honed Cat Leather",
+      "attribute": "Damage bonus: Slashing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -96,12 +96,12 @@
       ]
     },
     {
-      "Name": "Padded Voltaic Cat Leather",
-      "Attribute": "Damage bonus: Electricity",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Voltaic Cat Leather",
+      "attribute": "Damage bonus: Electricity",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -117,12 +117,12 @@
       ]
     },
     {
-      "Name": "Padded Bonded Cat Leather",
-      "Attribute": "Critical hit chance",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Bonded Cat Leather",
+      "attribute": "Critical hit chance",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -138,12 +138,12 @@
       ]
     },
     {
-      "Name": "Padded Earthen Boar Leather",
-      "Attribute": "Damage bonus: Nature",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Earthen Boar Leather",
+      "attribute": "Damage bonus: Nature",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -159,12 +159,12 @@
       ]
     },
     {
-      "Name": "Padded Boar Leather",
-      "Attribute": "Resource",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Boar Leather",
+      "attribute": "Resource",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -180,12 +180,12 @@
       ]
     },
     {
-      "Name": "Padded Toxic Boar Leather",
-      "Attribute": "Damage bonus: Poison",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Toxic Boar Leather",
+      "attribute": "Damage bonus: Poison",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -201,12 +201,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Boar Leather",
-      "Attribute": "Resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Boar Leather",
+      "attribute": "Resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -222,12 +222,12 @@
       ]
     },
     {
-      "Name": "Padded Reinforced Boar Leather",
-      "Attribute": "Combat resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Reinforced Boar Leather",
+      "attribute": "Combat resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -243,12 +243,12 @@
       ]
     },
     {
-      "Name": "Padded Fiery Auroch Leather",
-      "Attribute": "Damage bonus: Fire",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Fiery Auroch Leather",
+      "attribute": "Damage bonus: Fire",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -264,12 +264,12 @@
       ]
     },
     {
-      "Name": "Padded Heavy Auroch Leather",
-      "Attribute": "Damage bonus: Crushing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Heavy Auroch Leather",
+      "attribute": "Damage bonus: Crushing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -285,12 +285,12 @@
       ]
     },
     {
-      "Name": "Padded Auroch Leather",
-      "Attribute": "Max stamina",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Auroch Leather",
+      "attribute": "Max stamina",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -306,12 +306,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Auroch Leather",
-      "Attribute": "Stamina regen: Out of combat",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Auroch Leather",
+      "attribute": "Stamina regen: Out of combat",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -327,12 +327,12 @@
       ]
     },
     {
-      "Name": "Padded Reinforced Auroch Leather",
-      "Attribute": "Stamina regen: In combat",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Reinforced Auroch Leather",
+      "attribute": "Stamina regen: In combat",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2
@@ -348,12 +348,12 @@
       ]
     },
     {
-      "Name": "Padded Sharp Elk Leather",
-      "Attribute": "Damage bonus: Piercing",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Sharp Elk Leather",
+      "attribute": "Damage bonus: Piercing",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -369,12 +369,12 @@
       ]
     },
     {
-      "Name": "Padded Diseased Elk Leather",
-      "Attribute": "Damage bonus: Disease",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Diseased Elk Leather",
+      "attribute": "Damage bonus: Disease",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -390,12 +390,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -411,12 +411,12 @@
       ]
     },
     {
-      "Name": "Padded Elk Leather",
-      "Attribute": "Support power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Elk Leather",
+      "attribute": "Support power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -432,12 +432,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Elk Hide",
           "amount": 2
@@ -453,12 +453,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -474,12 +474,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -495,12 +495,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -516,12 +516,12 @@
       ]
     },
     {
-      "Name": "Padded Icy Bear Leather",
-      "Attribute": "Damage bonus: Ice",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Icy Bear Leather",
+      "attribute": "Damage bonus: Ice",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -537,12 +537,12 @@
       ]
     },
     {
-      "Name": "Padded Bear Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Bear Leather",
+      "attribute": "Attack power",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -558,12 +558,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -579,12 +579,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -600,12 +600,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -621,12 +621,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -642,12 +642,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -663,12 +663,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Cat Hide",
           "amount": 2
@@ -684,12 +684,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -705,12 +705,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Bear Hide",
           "amount": 2
@@ -726,12 +726,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Boar Hide",
           "amount": 2
@@ -747,12 +747,12 @@
       ]
     },
     {
-      "Name": "Padded Patchwork Leather",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Padded Patchwork Leather",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Auroch Hide",
           "amount": 2

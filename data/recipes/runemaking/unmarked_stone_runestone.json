@@ -1,10 +1,10 @@
 {
-  "Name": "Unmarked Stone Runestone",
-  "Profession": "Runemaking",
-  "Category": "Runemaking Component",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Unmarked Stone Runestone",
+  "profession": "Runemaking",
+  "category": "Runemaking Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Stone",
       "amount": 1,

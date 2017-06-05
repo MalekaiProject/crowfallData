@@ -1,10 +1,10 @@
 {
-  "Name": "Arrow Shaft Bundle(10)",
-  "Profession": "Woodworking",
-  "Category": "",
-  "Chance": 0.88,
-  "Difficulty": 15.0,
-  "Components": [
+  "name": "Arrow Shaft Bundle(10)",
+  "profession": "Woodworking",
+  "category": "",
+  "success_chance": 0.88,
+  "difficulty": 15.0,
+  "components": [
     {
       "name": "Wood",
       "amount": 3,

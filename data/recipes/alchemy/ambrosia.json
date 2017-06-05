@@ -1,10 +1,10 @@
 {
-  "Name": "Ambrosia",
-  "Profession": "Alchemy",
-  "Category": "Alchemy Component",
-  "Chance": 0.97,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Ambrosia",
+  "profession": "Alchemy",
+  "category": "Alchemy Component",
+  "success_chance": 0.97,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Apple",
       "amount": 2,

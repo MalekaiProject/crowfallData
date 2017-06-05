@@ -1,10 +1,10 @@
 {
-  "Name": "Book Chapter",
-  "Profession": "Runemaking",
-  "Category": "Runemaking Component",
-  "Chance": 0.68,
-  "Difficulty": 35.0,
-  "Components": [
+  "name": "Book Chapter",
+  "profession": "Runemaking",
+  "category": "Runemaking Component",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "components": [
     {
       "name": "[Wild Card]",
       "amount": 1,
@@ -23,12 +23,12 @@
   ],
   "Variants": [
     {
-      "Name": "Chapter : Fervor",
-      "Attribute": "Mana Regen: In Combat",
-      "Impact": 0.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Chapter : Fervor",
+      "attribute": "Mana Regen: In Combat",
+      "impact": 0.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Granite",
           "amount": 3
@@ -44,12 +44,12 @@
       ]
     },
     {
-      "Name": "Chapter : Indulgence",
-      "Attribute": "Max Mana",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Chapter : Indulgence",
+      "attribute": "Max Mana",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Limestone",
           "amount": 3
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "Name": "Chapter : Redemption",
-      "Attribute": "Damage Bonus: Fire",
-      "Impact": 0.08,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Chapter : Redemption",
+      "attribute": "Damage Bonus: Fire",
+      "impact": 0.08,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Travertine",
           "amount": 3
@@ -86,12 +86,12 @@
       ]
     },
     {
-      "Name": "Chapter : Absolution",
-      "Attribute": "Offense Stun",
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Chapter : Absolution",
+      "attribute": "Offense Stun",
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Slate",
           "amount": 3
@@ -107,12 +107,12 @@
       ]
     },
     {
-      "Name": "Chapter : Sin",
-      "Attribute": "Attack Power",
-      "Impact": 0.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Chapter : Sin",
+      "attribute": "Attack Power",
+      "impact": 0.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Marble",
           "amount": 3

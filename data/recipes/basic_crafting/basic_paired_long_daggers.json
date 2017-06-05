@@ -1,10 +1,10 @@
 {
-  "Name": "Basic Paired Long Daggers",
-  "Profession": "Basic crafting",
-  "Category": "Basic Weapon",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Basic Paired Long Daggers",
+  "profession": "Basic crafting",
+  "category": "Basic Weapon",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Wood",
       "amount": 6,

@@ -1,10 +1,10 @@
 {
-  "Name": "Siege Banner",
-  "Profession": "Woodworking",
-  "Category": "Siege Warfare",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Siege Banner",
+  "profession": "Woodworking",
+  "category": "Siege Warfare",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Siege Banner Post",
       "amount": 1,

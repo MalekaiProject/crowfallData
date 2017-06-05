@@ -1,10 +1,10 @@
 {
-  "Name": "Armor Layer",
-  "Profession": "Blacksmith",
-  "Category": "Blacksmith Armor",
-  "Chance": 0.93,
-  "Difficulty": 10.0,
-  "Components": [
+  "name": "Armor Layer",
+  "profession": "Blacksmith",
+  "category": "Blacksmith Armor",
+  "success_chance": 0.93,
+  "difficulty": 10.0,
+  "components": [
     {
       "name": "Ore",
       "amount": 2,
@@ -28,12 +28,12 @@
   ],
   "Variants": [
     {
-      "Name": "Physical Armor Layer",
-      "Attribute": "All physical mitigation",
-      "Impact": 0.19,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Physical Armor Layer",
+      "attribute": "All physical mitigation",
+      "impact": 0.19,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "Name": "Physical Armor Layer",
-      "Attribute": "All physical mitigation",
-      "Impact": 0.19,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Physical Armor Layer",
+      "attribute": "All physical mitigation",
+      "impact": 0.19,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -70,12 +70,12 @@
       ]
     },
     {
-      "Name": "Piercing Armor Layer",
-      "Attribute": "Piercing mitigation",
-      "Impact": 0.32,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Piercing Armor Layer",
+      "attribute": "Piercing mitigation",
+      "impact": 0.32,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -91,12 +91,12 @@
       ]
     },
     {
-      "Name": "Crushing Armor Layer",
-      "Attribute": "Crushing mitigation",
-      "Impact": 0.32,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crushing Armor Layer",
+      "attribute": "Crushing mitigation",
+      "impact": 0.32,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "Name": "Slashing Armor Layer",
-      "Attribute": "Slashing mitigation",
-      "Impact": 0.32,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Slashing Armor Layer",
+      "attribute": "Slashing mitigation",
+      "impact": 0.32,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ore",
           "amount": 2

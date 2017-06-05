@@ -1,10 +1,10 @@
 {
-  "Name": "Plank",
-  "Profession": "Woodworking",
-  "Category": "Component",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Plank",
+  "profession": "Woodworking",
+  "category": "Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Wood",
       "amount": 3,
@@ -13,12 +13,12 @@
   ],
   "Variants": [
     {
-      "Name": "Oak plank",
-      "Attribute": "Critical chance",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Oak plank",
+      "attribute": "Critical chance",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Oak wood",
           "amount": 3
@@ -26,12 +26,12 @@
       ]
     },
     {
-      "Name": "Birch plank",
-      "Attribute": "Max Stamina",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Birch plank",
+      "attribute": "Max Stamina",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Birch wood",
           "amount": 3
@@ -39,12 +39,12 @@
       ]
     },
     {
-      "Name": "Spruce plank",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Spruce plank",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Spruce wood",
           "amount": 3
@@ -52,12 +52,12 @@
       ]
     },
     {
-      "Name": "Ash plank",
-      "Attribute": "Hit Point",
-      "Impact": 21.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Ash plank",
+      "attribute": "Hit Point",
+      "impact": 21.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Ash wood",
           "amount": 3
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "Name": "Yew plank",
-      "Attribute": "Life Steal",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Yew plank",
+      "attribute": "Life Steal",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Yew wood",
           "amount": 3

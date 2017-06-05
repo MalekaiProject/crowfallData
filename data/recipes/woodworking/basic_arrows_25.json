@@ -1,10 +1,10 @@
 {
-  "Name": "Basic Arrows (25)",
-  "Profession": "Woodworking",
-  "Category": "",
-  "Chance": 0.95,
-  "Difficulty": 10.0,
-  "Components": [
+  "name": "Basic Arrows (25)",
+  "profession": "Woodworking",
+  "category": "",
+  "success_chance": 0.95,
+  "difficulty": 10.0,
+  "components": [
     {
       "name": "Wood",
       "amount": 1,

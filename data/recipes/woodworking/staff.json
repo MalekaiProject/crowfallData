@@ -1,10 +1,10 @@
 {
-  "Name": "Staff",
-  "Profession": "Woodworking",
-  "Category": "",
-  "Chance": 0.53,
-  "Difficulty": 50.0,
-  "Components": [
+  "name": "Staff",
+  "profession": "Woodworking",
+  "category": "",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "components": [
     {
       "name": "Staff Limb",
       "amount": 1,

@@ -1,10 +1,10 @@
 {
-  "Name": "Metal Rings",
-  "Profession": "Blacksmith",
-  "Category": "Blacksmith Armor",
-  "Chance": 0.95,
-  "Difficulty": 5.0,
-  "Components": [
+  "name": "Metal Rings",
+  "profession": "Blacksmith",
+  "category": "Blacksmith Armor",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "components": [
     {
       "name": "Ore",
       "amount": 3,
@@ -53,12 +53,12 @@
   ],
   "Variants": [
     {
-      "Name": "Copper Rings",
-      "Attribute": "Max hitpoint",
-      "Impact": 21.0,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Copper Rings",
+      "attribute": "Max hitpoint",
+      "impact": 21.0,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -74,12 +74,12 @@
       ]
     },
     {
-      "Name": "Electricity Resistant Copper Rings",
-      "Attribute": "Electricity resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Electricity Resistant Copper Rings",
+      "attribute": "Electricity resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -95,12 +95,12 @@
       ]
     },
     {
-      "Name": "Crush Resistant Copper Rings",
-      "Attribute": "Crush resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crush Resistant Copper Rings",
+      "attribute": "Crush resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -116,12 +116,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -137,12 +137,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -158,12 +158,12 @@
       ]
     },
     {
-      "Name": "Earth Resistant Iron Rings",
-      "Attribute": "Earth resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Earth Resistant Iron Rings",
+      "attribute": "Earth resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -179,12 +179,12 @@
       ]
     },
     {
-      "Name": "Iron Rings",
-      "Attribute": "Attack power",
-      "Impact": 0.5,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Iron Rings",
+      "attribute": "Attack power",
+      "impact": 0.5,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -200,12 +200,12 @@
       ]
     },
     {
-      "Name": "Blue Steel Rings",
-      "Attribute": "Attack power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Blue Steel Rings",
+      "attribute": "Attack power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -221,12 +221,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -242,12 +242,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -263,12 +263,12 @@
       ]
     },
     {
-      "Name": "Bronze Ring",
-      "Attribute": "Lifesteal",
-      "Impact": 0.06,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Bronze Ring",
+      "attribute": "Lifesteal",
+      "impact": 0.06,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -284,12 +284,12 @@
       ]
     },
     {
-      "Name": "Pierce Resistant Tin Rings",
-      "Attribute": "Pierce resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Pierce Resistant Tin Rings",
+      "attribute": "Pierce resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -305,12 +305,12 @@
       ]
     },
     {
-      "Name": "Tin Rings",
-      "Attribute": "Damage bonus: Retribution",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Tin Rings",
+      "attribute": "Damage bonus: Retribution",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -326,12 +326,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -347,12 +347,12 @@
       ]
     },
     {
-      "Name": "Poison Resistant Tin Rings",
-      "Attribute": "Poison resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Poison Resistant Tin Rings",
+      "attribute": "Poison resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3
@@ -368,12 +368,12 @@
       ]
     },
     {
-      "Name": "Sterling Rings",
-      "Attribute": "Resource regen",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Sterling Rings",
+      "attribute": "Resource regen",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -389,12 +389,12 @@
       ]
     },
     {
-      "Name": "Ice Resistant Silver Rings",
-      "Attribute": "Ice resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Ice Resistant Silver Rings",
+      "attribute": "Ice resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -410,12 +410,12 @@
       ]
     },
     {
-      "Name": "Disease Resistant Silver Rings",
-      "Attribute": "Disease resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Disease Resistant Silver Rings",
+      "attribute": "Disease resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -431,12 +431,12 @@
       ]
     },
     {
-      "Name": "Silver Rings",
-      "Attribute": "Resource",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Silver Rings",
+      "attribute": "Resource",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -452,12 +452,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Silver",
           "amount": 3
@@ -473,12 +473,12 @@
       ]
     },
     {
-      "Name": "Rose Gold Rings",
-      "Attribute": "Health regen: Out of combat",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Rose Gold Rings",
+      "attribute": "Health regen: Out of combat",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -494,12 +494,12 @@
       ]
     },
     {
-      "Name": "Fire Resistant Gold Rings",
-      "Attribute": "Fire resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Fire Resistant Gold Rings",
+      "attribute": "Fire resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -515,12 +515,12 @@
       ]
     },
     {
-      "Name": "Crown Gold Rings",
-      "Attribute": "Perception",
-      "Impact": 0.05,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Crown Gold Rings",
+      "attribute": "Perception",
+      "impact": 0.05,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -536,12 +536,12 @@
       ]
     },
     {
-      "Name": "Green Gold Rings",
-      "Attribute": "Combat resource regen",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Green Gold Rings",
+      "attribute": "Combat resource regen",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -557,12 +557,12 @@
       ]
     },
     {
-      "Name": "Gold Rings",
-      "Attribute": "Support power",
-      "Impact": 0.4,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Gold Rings",
+      "attribute": "Support power",
+      "impact": 0.4,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Gold",
           "amount": 3
@@ -578,12 +578,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -599,12 +599,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -620,12 +620,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -641,12 +641,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
           "amount": 3
@@ -662,77 +662,14 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Copper",
-          "amount": 3
-        },
-        {
-          "name": "Tin",
-          "amount": 3
-        },
-        {
-          "name": "Gold",
-          "amount": 3
-        }
-      ]
-    },
-    {
-      "Name": "Electrum Rings",
-      "Attribute": "Health regen: In combat",
-      "Impact": 0.04,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Copper",
-          "amount": 3
-        },
-        {
-          "name": "Silver",
-          "amount": 3
-        },
-        {
-          "name": "Gold",
-          "amount": 3
-        }
-      ]
-    },
-    {
-      "Name": "Slash Resistant Iron Rings",
-      "Attribute": "Slash resist",
-      "Impact": 0.02,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Iron",
-          "amount": 3
-        },
-        {
-          "name": "Tin",
-          "amount": 3
-        },
-        {
-          "name": "Silver",
-          "amount": 3
-        }
-      ]
-    },
-    {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
-        {
-          "name": "Iron",
           "amount": 3
         },
         {
@@ -746,12 +683,75 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Electrum Rings",
+      "attribute": "Health regen: In combat",
+      "impact": 0.04,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Copper",
+          "amount": 3
+        },
+        {
+          "name": "Silver",
+          "amount": 3
+        },
+        {
+          "name": "Gold",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Slash Resistant Iron Rings",
+      "attribute": "Slash resist",
+      "impact": 0.02,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Iron",
+          "amount": 3
+        },
+        {
+          "name": "Tin",
+          "amount": 3
+        },
+        {
+          "name": "Silver",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Iron",
+          "amount": 3
+        },
+        {
+          "name": "Tin",
+          "amount": 3
+        },
+        {
+          "name": "Gold",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Iron",
           "amount": 3
@@ -767,12 +767,12 @@
       ]
     },
     {
-      "Name": "Plain Metal Rings",
-      "Attribute": null,
-      "Impact": null,
-      "Chance": null,
-      "Difficulty": null,
-      "Components": [
+      "name": "Plain Metal Rings",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
         {
           "name": "Tin",
           "amount": 3

@@ -1,10 +1,10 @@
 {
-  "Name": "Ring Band",
-  "Profession": "Jewelcrafting",
-  "Category": "Accessory",
-  "Chance": 0.78,
-  "Difficulty": 25.0,
-  "Components": [
+  "name": "Ring Band",
+  "profession": "Jewelcrafting",
+  "category": "Accessory",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "components": [
     {
       "name": "Ore",
       "amount": 2,
