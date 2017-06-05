@@ -1,7 +1,7 @@
 exports.power = {
   name: "Coalesce Nature",
   source: "Druid",
-  type: "Non-Aggresive",
+  type: "Heal",
   cast_type: "Ground Aimed",
   duration: 0,
   cooldown: 0,
