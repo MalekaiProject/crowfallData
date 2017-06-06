@@ -1,7 +1,7 @@
 exports.power = {
   name: "Leaching Seed",
   source: "Druid",
-  type: "Ranged Attack",
+  type: "Debuff",
   cast_type: "Instant",
   duration: 8,
   cooldown: 30,

@@ -2,7 +2,7 @@ exports.power = {
   name: "Will o' Wisps",
   source: "Druid",
   type: "Heal",
-  cast_type: "Hold Channeled",
+  cast_type: "Charged",
   duration: 0,
   cooldown: 25,
   targeting: "Reticle",

@@ -2,7 +2,7 @@ exports.power = {
   name: "Nature's Avatar",
   source: "Druid",
   type: "Buff",
-  cast_type: "Hold Channeled",
+  cast_type: "Charged",
   duration: 10,
   cooldown: 0,
   targeting: "Reticle",
