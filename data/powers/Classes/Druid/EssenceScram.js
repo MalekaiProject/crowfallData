@@ -1,7 +1,7 @@
 exports.power = {
   name: "Essence Scram",
   source: "Druid",
-  type: "Buff",
+  type: "Ultimate",
   cast_type: "Channeled",
   duration: 7,
   cooldown: 180,
