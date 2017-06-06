@@ -1,0 +1,18 @@
+exports.power = {
+  name: "Forced Confession",
+  source: "Confessor",
+  type: ["Crowd Control"],
+  cast_type: "Instant",
+  duration: "",
+  cooldown: 30,
+  targeting: "Sphere",
+  max_targets: 1,
+  range: 30,
+  next_chain: [],
+  cost: {
+    pips: 0,
+    resource: 55
+  },
+  tooltip: "Consumes Flame of the Truth on your reticle target, which instantly exploded for 47 - 71 + 59% Weapon Damage, and stuns the target. Does nothing againts target without Flames of Truth.",
+  icon: ""
+};
