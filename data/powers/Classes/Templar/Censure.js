@@ -1,7 +1,7 @@
 exports.power = {
   name: "Censure",
   source: "Templar",
-  type: "Movement",
+  type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,
   cooldown: 9,
