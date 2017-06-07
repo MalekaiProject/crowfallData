@@ -1,7 +1,7 @@
 exports.power = {
   name: "Healing Rain",
   source: "Druid",
-  type: "Heal",
+  type: "Non-Agressive",
   cast_type: "Ground Aimed",
   duration: 0,
   cooldown: 25,

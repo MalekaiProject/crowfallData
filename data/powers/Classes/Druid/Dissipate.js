@@ -1,7 +1,7 @@
 exports.power = {
   name: "Dissipate",
   source: "Druid",
-  type: "Movement",
+  type: "Non-Agressive",
   cast_type: "Instant",
   duration: 0,
   cooldown: 0,

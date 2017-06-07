@@ -1,7 +1,7 @@
 exports.power = {
   name: "Sacrifice",
   source: "Druid",
-  type: "Buff",
+  type: "Non-Aggressive",
   cast_type: "Instant",
   duration: "",
   cooldown: 5,

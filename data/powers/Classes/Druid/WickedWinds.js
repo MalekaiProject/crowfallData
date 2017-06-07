@@ -1,7 +1,7 @@
 exports.power = {
   name: "Wicked Winds",
   source: "Druid",
-  type: "Debuff",
+  type: "Ranged Attack",
   cast_type: "Instant",
   duration: "",
   cooldown: 24,
