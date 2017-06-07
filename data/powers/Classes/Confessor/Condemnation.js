@@ -1,7 +1,7 @@
 exports.power = {
   name: "Condemnation",
   source: "Confessor",
-  type: "Ranged Attack",
+  type: "Melee Attack",
   cast_type: "Hold Channeled",
   duration: "",
   cooldown: 9,

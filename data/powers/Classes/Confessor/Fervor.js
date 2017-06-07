@@ -1,7 +1,7 @@
 exports.power = {
   name: "Fervor",
   source: "Confessor",
-  type: "Buff",
+  type: "Non-Aggressive",
   cast_type: "Channeled",
   duration: 5,
   cooldown: "",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Zealot Rush",
   source: "Confessor",
-  type: "Movement",
+  type: "Non-Aggressive",
   cast_type: "Instant",
   duration: "",
   cooldown: "",
