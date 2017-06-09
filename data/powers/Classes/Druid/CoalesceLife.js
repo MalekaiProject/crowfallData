@@ -2,7 +2,7 @@ exports.power = {
   name: "Coalesce Life",
   source: "Druid",
   type: "Non-Agressive",
-  cast_type: "Ground Aimed",
+  cast_type: "Instant",
   duration: 0,
   cooldown: 0,
   targeting: "Area",
@@ -11,7 +11,7 @@ exports.power = {
   next_chain: ["Coalesce Life 2"],
   cost: {
     pips: 0,
-    resource: 0
+    resource: 46
   },
   tooltip: "Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage.",
   icon: ""

@@ -3,7 +3,7 @@ exports.power = {
   source: "Druid",
   type: "Ranged Attack",
   cast_type: "Instant",
-  duration: "",
+  duration: 0,
   cooldown: 24,
   targeting: "Ray",
   max_targets: 5,

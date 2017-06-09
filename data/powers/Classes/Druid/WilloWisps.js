@@ -5,7 +5,7 @@ exports.power = {
   cast_type: "Charged",
   duration: 0,
   cooldown: 25,
-  targeting: "Reticle",
+  targeting: "Area",
   max_targets: 5,
   range: "",
   next_chain: [],

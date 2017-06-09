@@ -3,7 +3,7 @@ exports.power = {
   source: "Druid",
   type: "Buff",
   cast_type: "Charged",
-  duration: 10,
+  duration: 0,
   cooldown: 0,
   targeting: "Reticle",
   max_targets: 1,
