@@ -1,0 +1,18 @@
+exports.power = {
+  name: "Second Wind",
+  source: "Champion",
+  type: "Passive",
+  cast_type: "Passive",
+  duration: 4,
+  cooldown: 0,
+  targeting: "Self",
+  max_targets: 1,
+  range: "",
+  next_chain: [],
+  cost: {
+    pips: 0,
+    resource: 0
+  },
+  tooltip: "After not taking damage for 4 seconds and falling below 50% Health, Health Regeneration is greatly increased until reaching 50% Health.",
+  icon: ""
+};
