@@ -13,6 +13,6 @@ exports.power = {
     pips: 0,
     resource: 47
   },
-  tooltip: "",
-  icon: "Slash in front of you, critically striking for 118 - 160 + 139% Weapon Damage."
+  tooltip: "Slash in front of you, critically striking for 118 - 160 + 139% Weapon Damage.",
+  icon: ""
 };

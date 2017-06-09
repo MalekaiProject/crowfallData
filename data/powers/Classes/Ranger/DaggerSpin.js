@@ -13,6 +13,6 @@ exports.power = {
     pips: 0,
     resource: 34
   },
-  tooltip: "",
-  icon: "Spin in place and deal 41 - 55 + 48% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power."
+  tooltip: "Spin in place and deal 41 - 55 + 48% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power.",
+  icon: ""
 };
