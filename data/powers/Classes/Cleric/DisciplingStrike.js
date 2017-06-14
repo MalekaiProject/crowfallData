@@ -1,5 +1,5 @@
 exports.power = {
-  name: "Discipling Strike",
+  name: "Discipling Strikes",
   source: "Legionare",
   type: "Melee Attack",
   cast_type: "Instant",
