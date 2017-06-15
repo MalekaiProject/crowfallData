@@ -1,7 +1,7 @@
 exports.power = {
   name: "Faerie Fire",
   source: "Druid",
-  type: ["Ranged Attacked", "Debuff"],
+  type: "Debuff",
   cast_type: "Instant",
   duration: 12,
   cooldown: 45,
