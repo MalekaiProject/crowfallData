@@ -13,6 +13,6 @@ exports.power = {
     pips: 0,
     resource: 34
   },
-  tooltip: "",
-  icon: "Slash in front of you for 86 - 117 + 101% Weapon Damage. Applies a Moderate Bleed effect."
+  tooltip: "Slash in front of you for 86 - 117 + 101% Weapon Damage. Applies a Moderate Bleed effect.",
+  icon: ""
 };

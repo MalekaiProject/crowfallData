@@ -13,6 +13,6 @@ exports.power = {
     pips: 0,
     resource: 25
   },
-  tooltip: "",
-  icon: "Slash in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice."
+  tooltip: "Slash in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.",
+  icon: ""
 };

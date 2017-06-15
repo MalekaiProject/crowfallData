@@ -13,6 +13,6 @@ exports.power = {
     pips: 0,
     resource: 34
   },
-  tooltip: "",
-  icon: "Slash in front of you for 93 - 126 + 110% Weapon Damage. Applies a Weapon Break which reduces all damage by 20% for 15 seconds."
+  tooltip: "Slash in front of you for 93 - 126 + 110% Weapon Damage. Applies a Weapon Break which reduces all damage by 20% for 15 seconds.",
+  icon: ""
 };

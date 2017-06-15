@@ -1,5 +1,5 @@
 exports.power = {
-  name: "BattleCry",
+  name: "Battle Cry",
   source: "Cleric",
   type: "Buff",
   cast_type: "Instant",

@@ -13,6 +13,6 @@ exports.power = {
     pips: 0,
     resource: 100
   },
-  tooltip: "",
-  icon: "Leap backwards dealing 244 - 331 + 287% Weapon Damage. Places your Power Tray into Ranged Mode."
+  tooltip: "Leap backwards dealing 244 - 331 + 287% Weapon Damage. Places your Power Tray into Ranged Mode.",
+  icon: ""
 };
