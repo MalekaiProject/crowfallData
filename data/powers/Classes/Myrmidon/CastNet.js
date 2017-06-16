@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Reticle",
   max_targets: 1,
   range: 30,
-  next_chain: ["Net Pull", "Charge"],
+  next_chain: ["net-pull", "charge"],
   cost: {
     pips: 0,
     resource: 17

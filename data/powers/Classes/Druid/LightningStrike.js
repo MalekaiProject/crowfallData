@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Ray",
   max_targets: 5,
   range: 35,
-  next_chain: ["Aurora Emitter"],
+  next_chain: ["aurora-emitter"],
   cost: {
     pips: 0,
     resource: 46

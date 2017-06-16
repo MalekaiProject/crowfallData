@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Sphere",
   max_targets: 5,
   range: 4.3,
-  next_chain: ["Cancel Combo"],
+  next_chain: ["cancel-combo"],
   cost: {
     pips: 0,
     resource: 11

@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Sphere",
   max_targets: 5,
   range: 6,
-  next_chain: ["Dagger Spin 2"],
+  next_chain: ["dagger-spin-2"],
   cost: {
     pips: 0,
     resource: 34

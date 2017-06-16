@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Oath of Will"],
+  next_chain: ["oath-of-will"],
   cost: {
     pips: 0,
     resource: 22

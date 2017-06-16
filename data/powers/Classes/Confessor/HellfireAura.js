@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Sphere",
   max_targets: 5,
   range: 3.6,
-  next_chain: ["Fire Tornados"],
+  next_chain: ["fire-tornados"],
   cost: {
     pips: 0,
     resource: 80

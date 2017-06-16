@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 1,
   range: 25,
-  next_chain: ["Hellfire Aura", "Fire Wave"],
+  next_chain: ["hellfire-aura", "fire-wave"],
   cost: {
     pips: 0,
     resource: 55

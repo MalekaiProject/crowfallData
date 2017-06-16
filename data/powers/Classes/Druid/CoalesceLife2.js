@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Area",
   max_targets: 1,
   range: "",
-  next_chain: ["Coalesce Nature"],
+  next_chain: ["coalesce-nature"],
   cost: {
     pips: 0,
     resource: 46

@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Aegis of Salvation 2"],
+  next_chain: ["aegis-of-salvation-2"],
   cost: {
     pips: 0,
     resource: 10

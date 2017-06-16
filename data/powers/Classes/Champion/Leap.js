@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Sphere",
   max_targets: 5,
   range: 4,
-  next_chain: ["Leap 2"],
+  next_chain: ["leap-2"],
   cost: {
     pips: 0,
     resource: 0

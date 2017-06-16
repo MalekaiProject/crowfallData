@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Area",
   max_targets: 1,
   range: 35,
-  next_chain: ["Form Life 2"],
+  next_chain: ["form-life-2"],
   cost: {
     pips: 0,
     resource: 0

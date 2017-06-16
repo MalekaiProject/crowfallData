@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Rectange",
   max_targets: 5,
   range: 18,
-  next_chain: ["Hellfire Blast"],
+  next_chain: ["hellfire-blast"],
   cost: {
     pips: 0,
     resource: 60

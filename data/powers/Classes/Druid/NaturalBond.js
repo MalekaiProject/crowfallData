@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Group",
   max_targets: 5,
   range: "",
-  next_chain: ["Contain Essence", "Empower"],
+  next_chain: ["contain-essence", "empower"],
   cost: {
     pips: 0,
     resource: 18

@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Grabthars Hammer 2"],
+  next_chain: ["grabthars-hammer-2"],
   cost: {
     pips: 0,
     resource: 11

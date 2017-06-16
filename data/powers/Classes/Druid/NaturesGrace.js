@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 5,
   range: "",
-  next_chain: ["Natural Bond"],
+  next_chain: ["natural-bond"],
   cost: {
     pips: 0,
     resource: 22

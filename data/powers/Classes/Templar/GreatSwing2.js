@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Great Swing 3"],
+  next_chain: ["great-swing-3"],
   cost: {
     pips: 0,
     resource: 0

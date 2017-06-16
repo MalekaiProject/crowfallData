@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Reticle",
   max_targets: 1,
   range: 25,
-  next_chain: ["Fireball 2"],
+  next_chain: ["fireball-2"],
   cost: {
     pips: 0,
     resource: 0

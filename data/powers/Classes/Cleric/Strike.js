@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Side Strike"],
+  next_chain: ["side-strike"],
   cost: {
     pips: 0,
     resource: 0

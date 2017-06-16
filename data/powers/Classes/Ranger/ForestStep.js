@@ -10,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 1,
   range: "",
-  next_chain: ["Tendon Slice"],
+  next_chain: ["tendon-slice"],
   cost: {
     pips: 0,
     resource: 34
