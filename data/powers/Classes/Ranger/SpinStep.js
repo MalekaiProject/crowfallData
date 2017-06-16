@@ -1,20 +1,20 @@
 exports.power = {
-  name: "Spint Step",
+  name: 'Spin Step',
   sources: [
-    { type: "class", id: "ranger" }
+    { type: 'class', id: 'ranger' }
   ],
-  type: "Non-Aggressive",
-  cast_type: "Instant",
+  type: 'Non-Aggressive',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
-  range: "",
+  range: '',
   next_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Roll quickly in the current WASD direction.",
-  icon: ""
+  tooltip: 'Roll quickly in the current WASD direction.',
+  icon: ''
 };

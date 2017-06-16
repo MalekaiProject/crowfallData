@@ -1,5 +1,5 @@
 exports.power = {
-  name: "Leaching Seed",
+  name: "Leeching Seed",
   sources: [
     { type: "class", id: "druid" }
   ],

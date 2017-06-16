@@ -1,5 +1,5 @@
 exports.power = {
-  name: "Dodge",
+  name: "Dodge (Duelist)",
   sources: [
     { type: "class", id: "duelist" }
   ],

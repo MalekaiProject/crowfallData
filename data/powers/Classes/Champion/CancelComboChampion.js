@@ -1,20 +1,21 @@
+
 exports.power = {
-  name: 'Leap 2',
+  name: 'Cancel Combo (Champion)',
   sources: [
     { type: 'class', id: 'champion' }
   ],
-  type: 'Melee Attack',
+  type: 'Non-Aggressive',
   cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: 'Sphere',
-  max_targets: 5,
-  range: 4,
+  targeting: 'Self',
+  max_targets: 1,
+  range: '',
   next_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: 'Leap forward, dealing 80 - 108 + 94% Weapon Damage as Crushing Damage as you land.',
+  tooltip: 'Cancels the current combo power being executed.',
   icon: ''
 };

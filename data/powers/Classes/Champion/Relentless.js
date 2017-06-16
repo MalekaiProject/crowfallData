@@ -1,5 +1,5 @@
 exports.power = {
-  name: "Relentless",
+  name: "Relentless (Champion)",
   sources: [
     { type: "class", id: "champion" }
   ],

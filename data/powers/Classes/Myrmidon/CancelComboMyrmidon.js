@@ -1,5 +1,5 @@
 exports.power = {
-  name: 'Dodge (Myrmidon)',
+  name: 'Cancel Combo (Myrmidon)',
   sources: [
     { type: 'class', id: 'myrmidon' }
   ],
@@ -7,14 +7,14 @@ exports.power = {
   cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: 'Sphere',
-  max_targets: 5,
-  range: 4,
+  targeting: 'Self',
+  max_targets: 1,
+  range: '',
   next_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: 'Leap away causing 71 - 87 + 79% Weapon Damage to nearby enemies where you land.',
+  tooltip: 'Cancels the current combo power being executed.',
   icon: ''
 };
