@@ -1,7 +1,7 @@
 exports.power = {
   name: "Payback",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Underdog" }
+    { type: "discipline", sub_type: "major", id: "underdog" }
   ],
   type: "Buff",
   cast_type: "Passive",

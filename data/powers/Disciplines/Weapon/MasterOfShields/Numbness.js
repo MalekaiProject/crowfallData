@@ -1,7 +1,7 @@
 exports.power = {
   name: "Numbness",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Shields" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-shields" }
   ],
   type: "Passive",
   cast_type: "",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Found Resources",
   sources: [
-    { type: "discipline", sub_type: "minor", id: "Found Resources" }
+    { type: "discipline", sub_type: "minor", id: "found-resources" }
   ],
   type: "Passive",
   cast_type: "Passive",

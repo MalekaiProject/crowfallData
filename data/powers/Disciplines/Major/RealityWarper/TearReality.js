@@ -1,7 +1,7 @@
 exports.power = {
   name: "Tear Reality",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Reality Warper" }
+    { type: "discipline", sub_type: "major", id: "reality-warper" }
   ],
   type: "Debuff",
   cast_type: "Instant",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Sturdy",
   sources: [
-    { type: "discipline", sub_type: "minor", id: "Sturdy" }
+    { type: "discipline", sub_type: "minor", id: "sturdy" }
   ],
   type: "Passive",
   cast_type: "Instant",

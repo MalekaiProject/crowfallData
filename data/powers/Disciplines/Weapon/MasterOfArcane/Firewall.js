@@ -1,7 +1,7 @@
 exports.power = {
   name: "Firewall",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Arcane" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-arcane" }
   ],
   type: "Debuff",
   cast_type: "Instant",

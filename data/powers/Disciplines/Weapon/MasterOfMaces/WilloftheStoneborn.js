@@ -1,7 +1,7 @@
 exports.power = {
   name: "Will of the Stoneborn",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Maces" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-maces" }
   ],
   type: "Buff",
   cast_type: "Instant",

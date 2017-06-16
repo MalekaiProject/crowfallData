@@ -1,7 +1,7 @@
 exports.power = {
   name: "Concentration",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Arcane" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-arcane" }
   ],
   type: "Passive",
   cast_type: "Passive",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Crippling Stab 2",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Daggers" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-daggers" }
   ],
   type: "Buff",
   cast_type: "Instant",

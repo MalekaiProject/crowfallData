@@ -1,7 +1,7 @@
 exports.power = {
   name: "Poison Food",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Poisoner" }
+    { type: "discipline", sub_type: "major", id: "poisoner" }
   ],
   type: "Buff",
   cast_type: "Instant",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Skullcracker",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Maces" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-maces" }
   ],
   type: "Melee Attack",
   cast_type: "Instant",

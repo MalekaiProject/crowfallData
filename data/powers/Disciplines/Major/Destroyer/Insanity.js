@@ -1,7 +1,7 @@
 exports.power = {
   name: "Insanity",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Destroyer" }
+    { type: "discipline", sub_type: "major", id: "destroyer" }
   ],
   type: "Buff",
   cast_type: "Instant",

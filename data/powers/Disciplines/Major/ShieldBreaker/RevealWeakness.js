@@ -1,7 +1,7 @@
 exports.power = {
   name: "Reveal Weakness",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Shield Breaker" }
+    { type: "discipline", sub_type: "major", id: "shield-breaker" }
   ],
   type: "Buff",
   cast_type: "Instant",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Brutal Slam",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Shield Fighter" }
+    { type: "discipline", sub_type: "major", id: "shield-fighter" }
   ],
   type: "Debuff",
   cast_type: "Instant",

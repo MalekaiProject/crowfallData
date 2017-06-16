@@ -1,7 +1,7 @@
 exports.power = {
   name: "Jelly Skin",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Mudman" }
+    { type: "discipline", sub_type: "major", id: "mudman" }
   ],
   type: "Buff",
   cast_type: "Instant",

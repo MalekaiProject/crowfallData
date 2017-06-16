@@ -1,7 +1,7 @@
 exports.power = {
   name: "Soothing Winds",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Mystical Staves" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-mystical-staves" }
   ],
   type: "Buff",
   cast_type: "Instant",

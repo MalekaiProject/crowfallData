@@ -1,7 +1,7 @@
 exports.power = {
   name: "Pistol Shot 2",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Pistols" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-pistols" }
   ],
   type: "Ranged Attack",
   cast_type: "Instant",

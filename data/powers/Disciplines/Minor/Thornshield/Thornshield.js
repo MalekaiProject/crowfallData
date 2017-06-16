@@ -1,7 +1,7 @@
 exports.power = {
   name: "Thornshield",
   sources: [
-    { type: "discipline", sub_type: "minor", id: "Thornshield" }
+    { type: "discipline", sub_type: "minor", id: "thornshield" }
   ],
   type: "Buff",
   cast_type: "Instant",

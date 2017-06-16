@@ -1,7 +1,7 @@
 exports.power = {
   name: "Shield Glare",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Shields" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-shields" }
   ],
   type: "Melee Attack",
   cast_type: "Instant",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Dig In",
   sources: [
-    { type: "discipline", sub_type: "minor", id: "Dig In!" }
+    { type: "discipline", sub_type: "minor", id: "dig-in-" }
   ],
   type: "Passive",
   cast_type: "Passive",

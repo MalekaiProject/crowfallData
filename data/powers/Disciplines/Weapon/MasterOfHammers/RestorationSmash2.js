@@ -1,7 +1,7 @@
 exports.power = {
   name: "Restoration Smash 2",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Hammers" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-hammers" }
   ],
   type: "Melee Attack",
   cast_type: "Instant",

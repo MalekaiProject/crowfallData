@@ -1,7 +1,7 @@
 exports.power = {
   name: "Call Storm",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Scimitars" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-scimitars" }
   ],
   type: "Debuff",
   cast_type: "Instant",

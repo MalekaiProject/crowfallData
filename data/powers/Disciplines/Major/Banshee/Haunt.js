@@ -1,7 +1,7 @@
 exports.power = {
   name: "Haunt",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Banshee" }
+    { type: "discipline", sub_type: "major", id: "banshee" }
   ],
   type: "Debuff",
   cast_type: "Instant",

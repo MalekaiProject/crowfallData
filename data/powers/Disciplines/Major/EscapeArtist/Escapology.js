@@ -1,7 +1,7 @@
 exports.power = {
   name: "Escapology",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Escape Artist" }
+    { type: "discipline", sub_type: "major", id: "escape-artist" }
   ],
   type: "Passive",
   cast_type: "Passive",

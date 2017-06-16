@@ -1,7 +1,7 @@
 exports.power = {
   name: "Reverberating Blow",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Maces" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-maces" }
   ],
   type: "Debuff",
   cast_type: "Instant",

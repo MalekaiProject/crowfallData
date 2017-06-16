@@ -1,7 +1,7 @@
 exports.power = {
   name: "Suns of Worvan",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Holy Avenger" }
+    { type: "discipline", sub_type: "major", id: "holy-avenger" }
   ],
   type: "Buff",
   cast_type: "Instant",

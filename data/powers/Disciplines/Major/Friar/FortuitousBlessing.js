@@ -1,7 +1,7 @@
 exports.power = {
   name: "Fortuitous Blessings",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Friar" }
+    { type: "discipline", sub_type: "major", id: "friar" }
   ],
   type: "Passive",
   cast_type: "Passive",

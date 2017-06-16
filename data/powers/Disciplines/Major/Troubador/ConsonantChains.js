@@ -1,7 +1,7 @@
 exports.power = {
   name: "Consonant Chains",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Troubadour" }
+    { type: "discipline", sub_type: "major", id: "troubadour" }
   ],
   type: "Debuff",
   cast_type: "Toggle",

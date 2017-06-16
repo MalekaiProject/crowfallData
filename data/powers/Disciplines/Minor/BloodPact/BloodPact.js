@@ -1,7 +1,7 @@
 exports.power = {
   name: "Blood Pact",
   sources: [
-    { type: "discipline", sub_type: "minor", id: "Blood Pact" }
+    { type: "discipline", sub_type: "minor", id: "blood-pact" }
   ],
   type: "Hanging Buff",
   cast_type: "Instant",

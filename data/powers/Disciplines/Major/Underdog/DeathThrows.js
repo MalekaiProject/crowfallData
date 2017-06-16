@@ -1,7 +1,7 @@
 exports.power = {
   name: "Death Throws",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Underdog" }
+    { type: "discipline", sub_type: "major", id: "underdog" }
   ],
   type: "Passive",
   cast_type: "Passive",

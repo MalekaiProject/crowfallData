@@ -1,7 +1,7 @@
 exports.power = {
   name: "Rupture Barrier",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Shield Breaker" }
+    { type: "discipline", sub_type: "major", id: "shield-breaker" }
   ],
   type: "Passive",
   cast_type: "Passive",

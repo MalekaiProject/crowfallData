@@ -1,7 +1,7 @@
 exports.power = {
   name: "Grabthars Hammer",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Holy Avenger" }
+    { type: "discipline", sub_type: "major", id: "holy-avenger" }
   ],
   type: "Melee Attack",
   cast_type: "Instant",

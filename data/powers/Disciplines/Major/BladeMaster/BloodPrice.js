@@ -1,7 +1,7 @@
 exports.power = {
   name: "Blood Price",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Blade Master" }
+    { type: "discipline", sub_type: "major", id: "blade-master" }
   ],
   type: "Passive",
   cast_type: "Passive",

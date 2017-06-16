@@ -1,7 +1,7 @@
 exports.power = {
   name: "Pin Cushion",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Scarecrow" }
+    { type: "discipline", sub_type: "major", id: "scarecrow" }
   ],
   type: "Buff",
   cast_type: "Instant",

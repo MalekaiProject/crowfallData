@@ -1,7 +1,7 @@
 exports.power = {
   name: "Dazzling Blades",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Blade Master" }
+    { type: "discipline", sub_type: "major", id: "blade-master" }
   ],
   type: "Debuff",
   cast_type: "Instant",

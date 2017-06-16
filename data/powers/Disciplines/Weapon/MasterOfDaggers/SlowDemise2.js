@@ -1,7 +1,7 @@
 exports.power = {
   name: "Slow Demise 2",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Daggers" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-daggers" }
   ],
   type: "Debuff",
   cast_type: "Instant",

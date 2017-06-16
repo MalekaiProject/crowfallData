@@ -1,7 +1,7 @@
 exports.power = {
   name: "Matching Leather",
   sources: [
-    { type: "discipline", sub_type: "minor", id: "Matching Leather" }
+    { type: "discipline", sub_type: "minor", id: "matching-leather" }
   ],
   type: "Passive",
   cast_type: "Passive",

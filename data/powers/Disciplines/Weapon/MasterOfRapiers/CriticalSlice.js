@@ -1,7 +1,7 @@
 exports.power = {
   name: "Critical Slice",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Rapiers" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-rapiers" }
   ],
   type: "Melee Attack",
   cast_type: "Instant",

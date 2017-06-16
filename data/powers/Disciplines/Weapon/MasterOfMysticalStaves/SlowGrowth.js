@@ -1,7 +1,7 @@
 exports.power = {
   name: "Slow Growth",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Mystical Staves" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-mystical-staves" }
   ],
   type: "Passive",
   cast_type: "Passive",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Frighten",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Destroyer" }
+    { type: "discipline", sub_type: "major", id: "destroyer" }
   ],
   type: "Debuff",
   cast_type: "Instant",

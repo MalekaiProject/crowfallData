@@ -1,7 +1,7 @@
 exports.power = {
   name: "Muck Spatter",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Mudman" }
+    { type: "discipline", sub_type: "major", id: "mudman" }
   ],
   type: "Debuff",
   cast_type: "Instant",

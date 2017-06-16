@@ -1,7 +1,7 @@
 exports.power = {
   name: "Sanctuary",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Rune Caster" }
+    { type: "discipline", sub_type: "major", id: "rune-caster" }
   ],
   type: "Buff",
   cast_type: "Instant",

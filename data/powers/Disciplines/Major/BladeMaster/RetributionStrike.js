@@ -1,7 +1,7 @@
 exports.power = {
   name: "Retribution Slash",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Blade Master" }
+    { type: "discipline", sub_type: "major", id: "blade-master" }
   ],
   type: "Buff",
   cast_type: "Instant",

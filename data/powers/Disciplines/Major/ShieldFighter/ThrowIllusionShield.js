@@ -1,7 +1,7 @@
 exports.power = {
   name: "Throw Illusion Shield",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Shield Fighter" }
+    { type: "discipline", sub_type: "major", id: "shield-fighter" }
   ],
   type: "Melee Attack",
   cast_type: "Instant",

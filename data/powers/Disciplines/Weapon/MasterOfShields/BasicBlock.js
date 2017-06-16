@@ -1,7 +1,7 @@
 exports.power = {
   name: "Basic Block",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Shields" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-shields" }
   ],
   type: "Buff",
   cast_type: "Instant",

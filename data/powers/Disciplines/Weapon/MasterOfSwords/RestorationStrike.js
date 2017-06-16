@@ -1,7 +1,7 @@
 exports.power = {
   name: "Restoration Strike",
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "Master of Swords" }
+    { type: "discipline", sub_type: "weapon", id: "master-of-swords" }
   ],
   type: "Melee Attack",
   cast_type: "Instant",

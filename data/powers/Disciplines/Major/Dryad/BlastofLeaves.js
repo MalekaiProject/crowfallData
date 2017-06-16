@@ -1,7 +1,7 @@
 exports.power = {
   name: "Blast of Leaves",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Dryad" }
+    { type: "discipline", sub_type: "major", id: "dryad" }
   ],
   type: "Buff",
   cast_type: "Instant",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Grabthars Hammer 2",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Holy Avenger" }
+    { type: "discipline", sub_type: "major", id: "holy-avenger" }
   ],
   type: "Debuff",
   cast_type: "Instant",

@@ -1,7 +1,7 @@
 exports.power = {
   name: "Shield Breaker",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Shield Breaker" }
+    { type: "discipline", sub_type: "major", id: "shield-breaker" }
   ],
   type: "Debuff",
   cast_type: "Instant",

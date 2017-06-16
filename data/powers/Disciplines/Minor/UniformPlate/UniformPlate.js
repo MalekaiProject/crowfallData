@@ -1,7 +1,7 @@
 exports.power = {
   name: "Uniform Plate",
   sources: [
-    { type: "discipline", sub_type: "minor", id: "Uniform Plate" }
+    { type: "discipline", sub_type: "minor", id: "uniform-plate" }
   ],
   type: "Passive",
   cast_type: "Passive",

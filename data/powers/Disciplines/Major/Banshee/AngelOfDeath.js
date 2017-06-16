@@ -1,7 +1,7 @@
 exports.power = {
   name: "Angel of Death",
   sources: [
-    { type: "discipline", sub_type: "major", id: "Banshee" }
+    { type: "discipline", sub_type: "major", id: "banshee" }
   ],
   type: "Passive",
   cast_type: "Passive",
