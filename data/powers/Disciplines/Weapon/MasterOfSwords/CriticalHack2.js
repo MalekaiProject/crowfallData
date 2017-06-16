@@ -1,11 +1,13 @@
 exports.power = {
-  name: "Critical Hack",
-  source: "Master of Swords",
-  type: "Buff",
-  cast_type: "Instant",
+  name: 'Critical Hack 2',
+  sources: [
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-swords' }
+  ],
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 15,
   cooldown: 23,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 5,
   range: 5,
   next_chain: [],
@@ -13,6 +15,6 @@ exports.power = {
     pips: 0,
     resource: 10
   },
-  tooltip: "Strike an enemy twice for 87-118 +103% Weapon Damage and increase your Critical Hit Chance",
-  icon: ""
+  tooltip: 'Strike an enemy twice for 87-118 +103% Weapon Damage and increase your Critical Hit Chance',
+  icon: ''
 };

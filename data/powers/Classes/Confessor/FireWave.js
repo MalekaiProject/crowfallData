@@ -1,6 +1,8 @@
 exports.power = {
   name: "Fire Wave",
-  source: "Confessor",
+  sources: [
+    { type: "class", id: "confessor" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Rectange",
   max_targets: 5,
   range: 18,
-  next_chain: ["Hellfire Blast"],
+  next_chain: ["hellfire-blast"],
   cost: {
     pips: 0,
     resource: 60

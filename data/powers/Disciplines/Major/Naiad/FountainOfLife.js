@@ -1,6 +1,8 @@
 exports.power = {
   name: "Fountain of Life",
-  source: "Naiad",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "naiad" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 10,

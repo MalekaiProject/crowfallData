@@ -1,6 +1,8 @@
 exports.power = {
   name: "Fortification",
-  source: "Rune Caster",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "rune-caster" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 30,

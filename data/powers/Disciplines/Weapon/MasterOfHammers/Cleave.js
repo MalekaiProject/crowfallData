@@ -1,6 +1,8 @@
 exports.power = {
   name: "Cleave",
-  source: "Master of Hammers",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-hammers" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

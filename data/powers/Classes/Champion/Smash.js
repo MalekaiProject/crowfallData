@@ -1,6 +1,8 @@
 exports.power = {
   name: "Smash",
-  source: "Champion",
+  sources: [
+    { type: "class", id: "champion" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Giant Smash"],
+  next_chain: ["giant-smash"],
   cost: {
     pips: 0,
     resource: 0

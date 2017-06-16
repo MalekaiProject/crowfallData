@@ -1,6 +1,8 @@
 exports.power = {
   name: "Massive Cleave",
-  source: "Champion",
+  sources: [
+    { type: "class", id: "champion" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Whirling Pain"],
+  next_chain: ["whirling-pain"],
   cost: {
     pips: 0,
     resource: 15

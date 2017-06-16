@@ -1,7 +1,9 @@
 exports.power = {
   name: "Pistol Shot 3",
-  source: "Master of Pistols",
-  type: "Debuff", 
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-pistols" }
+  ],
+  type: "Debuff",
   cast_type: "Instant",
   duration: 0,
   cooldown: 0,

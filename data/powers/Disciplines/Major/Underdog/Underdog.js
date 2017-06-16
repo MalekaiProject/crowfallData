@@ -1,6 +1,8 @@
 exports.power = {
   name: "Underdog",
-  source: "Underdog",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "underdog" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 30,

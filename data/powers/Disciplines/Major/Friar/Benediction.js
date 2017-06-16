@@ -1,6 +1,8 @@
 exports.power = {
   name: "Benediction",
-  source: "Friar",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "friar" }
+  ],
   type: "Temporary Buff",
   cast_type: "Instant",
   duration: 30,

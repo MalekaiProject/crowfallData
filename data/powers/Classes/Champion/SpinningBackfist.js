@@ -1,6 +1,8 @@
 exports.power = {
   name: "Spinning Backfist",
-  source: "Champion",
+  sources: [
+    { type: "class", id: "champion" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Kick Sand"],
+  next_chain: ["kick-sand"],
   cost: {
     pips: 0,
     resource: 11

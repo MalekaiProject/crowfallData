@@ -1,6 +1,8 @@
 exports.power = {
-  name: "Dodge",
-  source: "Cleric",
+  name: "Dodge (Cleric)",
+  sources: [
+    { type: "class", id: "cleric" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

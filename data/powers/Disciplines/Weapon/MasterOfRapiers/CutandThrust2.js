@@ -1,6 +1,8 @@
 exports.power = {
   name: "Cut and Thrust 2",
-  source: "Master of Pistols",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-pistols" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

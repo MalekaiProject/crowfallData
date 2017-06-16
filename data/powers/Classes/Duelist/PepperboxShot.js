@@ -1,6 +1,8 @@
 exports.power = {
   name: "Pepperbox Shot",
-  source: "Duelist",
+  sources: [
+    { type: "class", id: "duelist" }
+  ],
   type: "Crowd Control",
   cast_type: "Instant",
   duration: 0,

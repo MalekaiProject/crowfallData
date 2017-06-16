@@ -1,6 +1,8 @@
 exports.power = {
   name: "Shrivel",
-  source: "Plague Lord",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "plague-lord" }
+  ],
   type: "Debuff",
   cast_type: "Charged",
   duration: 0,

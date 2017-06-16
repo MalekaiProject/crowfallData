@@ -1,6 +1,8 @@
 exports.power = {
   name: "Critical Hack",
-  source: "Master of Swords",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-swords" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 5,
   range: 5,
-  next_chain: ["CriticalHack2"],
+  next_chain: ["criticalhack2"],
   cost: {
     pips: 0,
     resource: 18

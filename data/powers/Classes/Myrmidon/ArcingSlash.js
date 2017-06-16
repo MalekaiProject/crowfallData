@@ -1,6 +1,8 @@
 exports.power = {
   name: "Arcing Slash",
-  source: "Myrmidon",
+  sources: [
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 5,
   range: 5.5,
-  next_chain: ["Whirlwind"],
+  next_chain: ["whirlwind"],
   cost: {
     pips: 0,
     resource: 16

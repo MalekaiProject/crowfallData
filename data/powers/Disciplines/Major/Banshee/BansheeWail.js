@@ -1,11 +1,13 @@
 exports.power = {
-  name: "Angel of Death",
-  source: "Banshee",
-  type: "Passive",
-  cast_type: "Passive",
+  name: 'Banshee Wail',
+  sources: [
+    { type: 'discipline', sub_type: 'major', id: 'banshee' }
+  ],
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -13,6 +15,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Deal 30% more Damage to enemies below 30% Health.",
-  icon: ""
+  tooltip: 'Deal 30% more Damage to enemies below 30% Health.',
+  icon: ''
 };

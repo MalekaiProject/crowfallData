@@ -1,6 +1,8 @@
 exports.power = {
   name: "Pistol Shot 2",
-  source: "Master of Pistols",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-pistols" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Ray",
   max_targets: 1,
   range: 15,
-  next_chain: ["Pistol Shot 3"],
+  next_chain: ["pistol-shot-3"],
   cost: {
     pips: 0,
     resource: 21

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Strike",
-  source: "Cleric",
+  sources: [
+    { type: "class", id: "cleric" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Side Strike"],
+  next_chain: ["side-strike"],
   cost: {
     pips: 0,
     resource: 0

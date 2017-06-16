@@ -1,6 +1,8 @@
 exports.power = {
   name: "Rend",
-  source: "Champion",
+  sources: [
+    { type: "class", id: "champion" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

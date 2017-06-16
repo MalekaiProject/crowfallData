@@ -1,6 +1,8 @@
 exports.power = {
   name: "Bellow of Triumph",
-  source: "Cleric",
+  sources: [
+    { type: "class", id: "cleric" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 8,

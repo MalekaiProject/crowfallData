@@ -1,6 +1,8 @@
 exports.power = {
   name: "Rallying Cry",
-  source: "Cleric",
+  sources: [
+    { type: "class", id: "cleric" }
+  ],
   type: "Ultimate",
   cast_type: "Instant",
   duration: 0,

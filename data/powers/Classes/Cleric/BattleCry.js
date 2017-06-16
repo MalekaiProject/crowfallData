@@ -1,6 +1,8 @@
 exports.power = {
   name: "Battle Cry",
-  source: "Cleric",
+  sources: [
+    { type: "class", id: "cleric" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

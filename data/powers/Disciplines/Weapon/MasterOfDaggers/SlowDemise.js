@@ -1,6 +1,8 @@
 exports.power = {
   name: "Slow Demise",
-  source: "Master of Daggers",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-daggers" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Slow Demise 2"], 
+  next_chain: ["slow-demise-2"],
   cost: {
     pips: 0,
     resource: 12

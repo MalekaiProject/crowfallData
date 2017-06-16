@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sweep",
-  source: "Ranger",
+  sources: [
+    { type: "class", id: "ranger" }
+  ],
   type: "Crowd Control Self",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Jab", "Disengage"],
+  next_chain: ["jab", "disengage"],
   cost: {
     pips: 0,
     resource: 31

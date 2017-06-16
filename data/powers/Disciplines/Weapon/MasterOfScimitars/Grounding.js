@@ -1,6 +1,8 @@
 exports.power = {
   name: "Grounding",
-  source: "Master of Scimitars",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-scimitars" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

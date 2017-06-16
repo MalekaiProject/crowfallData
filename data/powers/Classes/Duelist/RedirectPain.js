@@ -1,6 +1,8 @@
 exports.power = {
   name: "Redirect Pain",
-  source: "Duelist",
+  sources: [
+    { type: "class", id: "duelist" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

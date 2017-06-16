@@ -1,6 +1,8 @@
 exports.power = {
   name: "Supreme Element",
-  source: "Naiad",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "naiad" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

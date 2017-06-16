@@ -1,6 +1,8 @@
 exports.power = {
   name: "Form Life",
-  source: "Dryad",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "dryad" }
+  ],
   type: "Non-Aggresive",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Area",
   max_targets: 1,
   range: 35,
-  next_chain: ["Form Life 2"],
+  next_chain: ["form-life-2"],
   cost: {
     pips: 0,
     resource: 0

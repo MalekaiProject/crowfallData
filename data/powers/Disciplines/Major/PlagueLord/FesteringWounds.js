@@ -1,7 +1,9 @@
 exports.power = {
   name: "Festering Wounds",
-  source: "Plague Lord",
-  type: "Debuff",  
+  sources: [
+    { type: "discipline", sub_type: "major", id: "plague-lord" }
+  ],
+  type: "Debuff",
   cast_type: "Charged",
   duration: 0,
   cooldown: 45,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Coalesce Life",
-  source: "Druid",
+  sources: [
+    { type: "class", id: "druid" }
+  ],
   type: "Non-Agressive",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Area",
   max_targets: 1,
   range: "",
-  next_chain: ["Coalesce Life 2"],
+  next_chain: ["coalesce-life-2"],
   cost: {
     pips: 0,
     resource: 46

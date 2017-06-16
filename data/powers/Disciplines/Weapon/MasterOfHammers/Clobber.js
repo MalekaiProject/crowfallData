@@ -1,6 +1,8 @@
 exports.power = {
   name: "Clobber",
-  source: "Master of Hammers",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-hammers" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Clobber 2"], 
+  next_chain: ["clobber-2"],
   cost: {
     pips: 0,
     resource: 10

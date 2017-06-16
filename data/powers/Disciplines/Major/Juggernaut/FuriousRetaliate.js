@@ -1,6 +1,8 @@
 exports.power = {
   name: "Furious Retaliate",
-  source: "Juggernaut",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "juggernaut" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

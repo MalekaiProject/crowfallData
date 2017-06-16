@@ -1,6 +1,8 @@
 exports.power = {
   name: "Skullcracker",
-  source: "Master of Maces",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-maces" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Skullcracker 2"],
+  next_chain: ["skullcracker-2"],
   cost: {
     pips: 0,
     resource: 10

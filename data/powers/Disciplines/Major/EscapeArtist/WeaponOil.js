@@ -1,6 +1,8 @@
 exports.power = {
   name: "Weapon Oil",
-  source: "Escape Artist",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "escape-artist" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 5,

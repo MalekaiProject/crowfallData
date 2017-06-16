@@ -1,11 +1,13 @@
 exports.power = {
   name: "Battle Chant",
-  source: "Holy Avenger",
-  type: "Melee Attack",  
+  sources: [
+    { type: "discipline", sub_type: "major", id: "holy-avenger" }
+  ],
+  type: "Melee Attack",
   cast_type: "Instant",
   duration: 12,
   cooldown: 24,
-  targeting: "Self", 
+  targeting: "Self",
   max_targets: 0,
   range: 5,
   next_chain: [],

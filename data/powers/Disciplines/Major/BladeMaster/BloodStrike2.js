@@ -1,6 +1,8 @@
 exports.power = {
   name: "Blood Strike 2",
-  source: "Blade Master",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "blade-master" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 5,
   range: 5,
-  next_chain: ["Blood Strike 3"],
+  next_chain: ["blood-strike-3"],
   cost: {
     pips: 0,
     resource: 12

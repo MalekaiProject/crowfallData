@@ -1,6 +1,8 @@
 exports.power = {
   name: "No Quarter",
-  source: "Cleric",
+  sources: [
+    { type: "class", id: "cleric" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 6,
-  next_chain: ["Uppercut"],
+  next_chain: ["uppercut"],
   cost: {
     pips: 0,
     resource: 10

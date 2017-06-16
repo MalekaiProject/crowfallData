@@ -1,6 +1,8 @@
 exports.power = {
   name: "Spite",
-  source: "Juggernaut",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "juggernaut" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 5,

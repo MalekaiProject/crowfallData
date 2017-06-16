@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sinister Slash",
-  source: "Ranger",
+  sources: [
+    { type: "class", id: "ranger" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Wicked Slash"],
+  next_chain: ["wicked-slash"],
   cost: {
     pips: 0,
     resource: 0

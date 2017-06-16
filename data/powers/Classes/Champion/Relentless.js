@@ -1,6 +1,8 @@
 exports.power = {
-  name: "Relentless",
-  source: "Champion",
+  name: "Relentless (Champion)",
+  sources: [
+    { type: "class", id: "champion" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

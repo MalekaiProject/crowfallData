@@ -1,6 +1,8 @@
 exports.power = {
   name: "Ricochet Shot",
-  source: "Ranger",
+  sources: [
+    { type: "class", id: "ranger" }
+  ],
   type: "Ranged Attack",
   cast_type: "Charged",
   duration: 10,

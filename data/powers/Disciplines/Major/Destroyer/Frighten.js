@@ -1,6 +1,8 @@
 exports.power = {
   name: "Frighten",
-  source: "Destroyer",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "destroyer" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 13

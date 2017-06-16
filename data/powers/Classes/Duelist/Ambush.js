@@ -1,6 +1,8 @@
 exports.power = {
   name: "Ambush",
-  source: "Duelist",
+  sources: [
+    { type: "class", id: "duelist" }
+  ],
   type: "Crowd Control Self",
   cast_type: "Instant",
   duration: 0,

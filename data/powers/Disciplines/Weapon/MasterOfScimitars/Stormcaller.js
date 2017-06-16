@@ -1,6 +1,8 @@
 exports.power = {
   name: "Stormcaller",
-  source: "Master of Scimitars",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-scimitars" }
+  ],
   type: "Passive",
   cast_type: "",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 0,
   range: 0,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 0

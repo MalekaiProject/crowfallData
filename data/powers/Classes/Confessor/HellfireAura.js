@@ -1,6 +1,8 @@
 exports.power = {
   name: "Hellfire Aura",
-  source: "Confessor",
+  sources: [
+    { type: "class", id: "confessor" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 10,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Sphere",
   max_targets: 5,
   range: 3.6,
-  next_chain: ["Fire Tornados"],
+  next_chain: ["fire-tornados"],
   cost: {
     pips: 0,
     resource: 80

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Uniform Leather",
-  source: "Uniform Leather",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "uniform-leather" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

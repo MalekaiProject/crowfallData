@@ -1,6 +1,8 @@
 exports.power = {
   name: "Vicious Stomp",
-  source: "Champion",
+  sources: [
+    { type: "class", id: "champion" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 6,
-  next_chain: ["Disarming Shout", "Rend"],
+  next_chain: ["disarming-shout", "rend"],
   cost: {
     pips: 0,
     resource: 7

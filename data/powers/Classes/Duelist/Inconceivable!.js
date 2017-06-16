@@ -1,6 +1,8 @@
 exports.power = {
   name: "Inconceivable!",
-  source: "Duelist",
+  sources: [
+    { type: "class", id: "duelist" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

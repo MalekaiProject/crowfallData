@@ -1,6 +1,8 @@
 exports.power = {
   name: "Power Shot",
-  source: "Ranger",
+  sources: [
+    { type: "class", id: "ranger" }
+  ],
   type: "Ranged Attack",
   cast_type: "Charged",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Reticle",
   max_targets: 1,
   range: 40,
-  next_chain: ["Multi-Purpose Shot"],
+  next_chain: ["multi-purpose-shot"],
   cost: {
     pips: 0,
     resource: 0

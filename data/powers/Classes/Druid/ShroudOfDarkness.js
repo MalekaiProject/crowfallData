@@ -1,6 +1,8 @@
 exports.power = {
   name: "Shroud of Darkness",
-  source: "Druid",
+  sources: [
+    { type: "class", id: "druid" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: "",
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: "",
   range: "",
-  next_chain: ["Wicked Winds"],
+  next_chain: ["wicked-winds"],
   cost: {
     pips: 0,
     resource: 31

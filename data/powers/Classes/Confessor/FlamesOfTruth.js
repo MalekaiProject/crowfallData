@@ -1,6 +1,8 @@
 exports.power = {
   name: "Flames of Truth",
-  source: "Confessor",
+  sources: [
+    { type: "class", id: "confessor" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: "",
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Sphere",
   max_targets: 1,
   range: 40,
-  next_chain: ["Forced Confession"],
+  next_chain: ["forced-confession"],
   cost: {
     pips: 0,
     resource: 70

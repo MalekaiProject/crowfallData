@@ -1,6 +1,8 @@
 exports.power = {
   name: "Tunnel",
-  source: "Duelist",
+  sources: [
+    { type: "class", id: "duelist" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

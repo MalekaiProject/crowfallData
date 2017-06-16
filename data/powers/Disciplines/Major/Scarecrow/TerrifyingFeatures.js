@@ -1,6 +1,8 @@
 exports.power = {
   name: "Terrifying Features",
-  source: "Scarecrow",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "scarecrow" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

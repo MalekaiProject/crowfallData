@@ -1,6 +1,8 @@
 exports.power = {
   name: "Great Swing 2",
-  source: "Templar",
+  sources: [
+    { type: "class", id: "templar" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Great Swing 3"],
+  next_chain: ["great-swing-3"],
   cost: {
     pips: 0,
     resource: 0

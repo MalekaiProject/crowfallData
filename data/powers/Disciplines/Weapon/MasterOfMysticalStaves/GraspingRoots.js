@@ -1,6 +1,8 @@
 exports.power = {
   name: "Grasping Roots",
-  source: "Master of Mystical Staves",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-mystical-staves" }
+  ],
   type: "Debuff",
   cast_type: "Ground Aimed",
   duration: 0,

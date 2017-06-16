@@ -1,6 +1,8 @@
 exports.power = {
   name: "Song of Speed",
-  source: "Bard",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "bard" }
+  ],
   type: "Temporary Buff",
   cast_type: "Toggle",
   duration: 12,

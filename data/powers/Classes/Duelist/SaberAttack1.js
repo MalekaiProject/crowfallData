@@ -1,6 +1,8 @@
 exports.power = {
   name: "Saber Attack 1",
-  source: "Duelist",
+  sources: [
+    { type: "class", id: "duelist" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Saber Attack 2"],
+  next_chain: ["saber-attack-2"],
   cost: {
     pips: 0,
     resource: 0

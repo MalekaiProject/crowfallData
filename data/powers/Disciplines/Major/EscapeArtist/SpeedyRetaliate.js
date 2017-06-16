@@ -1,6 +1,8 @@
 exports.power = {
   name: "Speedy Retaliate",
-  source: "Escape Artist",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "escape-artist" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 8,

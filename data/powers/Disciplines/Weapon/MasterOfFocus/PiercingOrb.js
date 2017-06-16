@@ -1,6 +1,8 @@
 exports.power = {
   name: "Piercing Orb",
-  source: "Master of Focus",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-focus" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 0,

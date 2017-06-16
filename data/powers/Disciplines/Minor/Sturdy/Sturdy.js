@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sturdy",
-  source: "Sturdy",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "sturdy" }
+  ],
   type: "Passive",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 0,
   range: 0,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 0

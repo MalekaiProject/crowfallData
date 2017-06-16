@@ -1,7 +1,9 @@
 exports.power = {
   name: "Long Live the Fighter",
-  source: "Knife Grinder",
-  type: "Passive",  
+  sources: [
+    { type: "discipline", sub_type: "major", id: "knife-grinder" }
+  ],
+  type: "Passive",
   cast_type: "",
   duration: 0,
   cooldown: 0,

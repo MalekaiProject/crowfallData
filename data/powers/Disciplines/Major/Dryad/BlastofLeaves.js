@@ -1,6 +1,8 @@
 exports.power = {
   name: "Blast of Leaves",
-  source: "Dryad",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "dryad" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Rectangle",
   max_targets: 5,
   range: 7.5,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 70

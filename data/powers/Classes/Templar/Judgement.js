@@ -1,6 +1,8 @@
 exports.power = {
   name: "Judgement",
-  source: "Templar",
+  sources: [
+    { type: "class", id: "templar" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Execute"],
+  next_chain: ["execute"],
   cost: {
     pips: 0,
     resource: 1

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Caltrops",
-  source: "Agent Provocateur",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "agent-provocateur" }
+  ],
   type: "Crowd Control",
   cast_type: "Ground Aimed",
   duration: 15,

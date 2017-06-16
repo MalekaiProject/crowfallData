@@ -1,6 +1,8 @@
 exports.power = {
   name: "Hellfire Blast",
-  source: "Confessor",
+  sources: [
+    { type: "class", id: "confessor" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 0,

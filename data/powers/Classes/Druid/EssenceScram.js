@@ -1,6 +1,8 @@
 exports.power = {
   name: "Essence Scram",
-  source: "Druid",
+  sources: [
+    { type: "class", id: "druid" }
+  ],
   type: "Ultimate",
   cast_type: "Channeled",
   duration: 7,

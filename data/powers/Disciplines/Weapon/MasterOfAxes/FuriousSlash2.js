@@ -1,6 +1,8 @@
 exports.power = {
   name: "Furious Slash 2",
-  source: "Master of Axes",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-axes" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 15,

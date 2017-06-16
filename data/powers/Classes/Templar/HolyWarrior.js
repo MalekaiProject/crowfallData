@@ -1,6 +1,8 @@
 exports.power = {
   name: "Holy Warrior",
-  source: "Templar",
+  sources: [
+    { type: "class", id: "templar" }
+  ],
   type: "Transformation",
   cast_type: "Instant",
   duration: 30,

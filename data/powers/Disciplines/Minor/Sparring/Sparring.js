@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sparring",
-  source: "Sparring",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "sparring" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

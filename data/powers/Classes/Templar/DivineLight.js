@@ -1,6 +1,8 @@
 exports.power = {
   name: "Divine Light",
-  source: "Templar",
+  sources: [
+    { type: "class", id: "templar" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 12,

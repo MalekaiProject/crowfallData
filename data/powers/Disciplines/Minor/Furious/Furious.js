@@ -1,6 +1,8 @@
 exports.power = {
   name: "Furious",
-  source: "Furious",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "furious" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 15,

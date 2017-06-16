@@ -1,7 +1,9 @@
 exports.power = {
   name: "Remold",
-  source: "Mudman",
-  type: "Buff",  
+  sources: [
+    { type: "discipline", sub_type: "major", id: "mudman" }
+  ],
+  type: "Buff",
   cast_type: "Instant",
   duration: 15,
   cooldown: 45,

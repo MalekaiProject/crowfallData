@@ -1,6 +1,8 @@
 exports.power = {
   name: "Furious Slash",
-  source: "Master of Axes",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-axes" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 0,
-  next_chain: ["Furious Slash 2"],
+  next_chain: ["furious-slash-2"],
   cost: {
     pips: 0,
     resource: 16

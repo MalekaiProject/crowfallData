@@ -1,6 +1,8 @@
 exports.power = {
   name: "Resolution",
-  source: "Resolution",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "resolution" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

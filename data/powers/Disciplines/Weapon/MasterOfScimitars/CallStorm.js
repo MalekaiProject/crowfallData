@@ -1,6 +1,8 @@
 exports.power = {
   name: "Call Storm",
-  source: "Master of Scimitars",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-scimitars" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Ray",
   max_targets: 5,
   range: 35,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 12

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Restoration Strike",
-  source: "Master of Swords",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-swords" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Restoration Strike 2"],
+  next_chain: ["restoration-strike-2"],
   cost: {
     pips: 0,
     resource: 17

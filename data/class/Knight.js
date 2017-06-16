@@ -1,8 +1,8 @@
 
 exports.class = {
-  name: "Knight",
-  description: "",
-  icon: "https://crowfall.wiki/images/class/knight.png",
-  powers_granted: ["Block", "BloodStone Spin", "Brutal Strike", "Chain Attack", "Emerald Slash", "Noble Blood", "Oath Of Will", "Obliterate", "Pursuit", "Retaliate (Knight)", "Ruby Slash", "Second Wind", "Shield Bash", "Shield Slam", "Shield Stun", "Shield Swipe", "Shockwave", "Twin Assault", " Whirling Leap"],
-  races: ["Human","High-Elf","Stoneborn","Elken","Centaur","Guineacean"]
+  name: 'Knight',
+  description: '',
+  icon: 'https://crowfall.wiki/images/class/knight.png',
+  powers_granted: ['block', 'bloodstone-spin', 'brutal-strike', 'chain-attack', 'emerald-slash', 'noble-blood', 'oath-of-will', 'obliterate', 'onslaught', 'pursuit', 'retaliate-knight', 'ruby-slash', 'second-wind-knight', 'shield-bash', 'shield-slam', 'shield-stun', 'shield-swipe', 'shockwave', 'twin-assault', 'whirling-leap'],
+  races: ['Human', 'High-Elf', 'Stoneborn', 'Elken', 'Centaur', 'Guineacean']
 };

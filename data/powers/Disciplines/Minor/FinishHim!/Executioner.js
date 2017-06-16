@@ -1,6 +1,8 @@
 exports.power = {
   name: "Executioner",
-  source: "Finish Him",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "finish-him" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

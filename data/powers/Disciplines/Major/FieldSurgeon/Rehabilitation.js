@@ -1,6 +1,8 @@
 exports.power = {
   name: "Rehabilitation",
-  source: "Field Surgeon",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "field-surgeon" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 6,

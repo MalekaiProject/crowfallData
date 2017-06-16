@@ -1,6 +1,8 @@
 exports.power = {
   name: "Will o' Wisps",
-  source: "Druid",
+  sources: [
+    { type: "class", id: "druid" }
+  ],
   type: "Non-Agressive",
   cast_type: "Charged",
   duration: 0,

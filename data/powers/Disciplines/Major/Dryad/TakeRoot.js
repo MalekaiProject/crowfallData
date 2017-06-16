@@ -1,6 +1,8 @@
 exports.power = {
   name: "Take Root",
-  source: "Dryad",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "dryad" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 2,

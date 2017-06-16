@@ -1,6 +1,8 @@
 exports.power = {
   name: "Censure",
-  source: "Templar",
+  sources: [
+    { type: "class", id: "templar" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

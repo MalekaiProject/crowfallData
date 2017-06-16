@@ -1,6 +1,8 @@
 exports.power = {
   name: "Redemption",
-  source: "Master of Arcane",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-arcane" }
+  ],
   type: "Ranged Attack",
   cast_type: "Channeled",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Reticle",
   max_targets: 1,
   range: 30,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 0

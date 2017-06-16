@@ -1,6 +1,8 @@
 exports.power = {
   name: "Cross Slash",
-  source: "Ranger",
+  sources: [
+    { type: "class", id: "ranger" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Cross Slash 2"],
+  next_chain: ["cross-slash-2"],
   cost: {
     pips: 0,
     resource: 31

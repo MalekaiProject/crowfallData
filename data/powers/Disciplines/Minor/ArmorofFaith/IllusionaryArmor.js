@@ -1,6 +1,8 @@
 exports.power = {
   name: "Illusionary Armor",
-  source: "Armor of Faith",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "armor-of-faith" }
+  ],
   type: "Hanging Buff",
   cast_type: "Instant",
   duration: 20,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Nature's Grace",
-  source: "Druid",
+  sources: [
+    { type: "class", id: "druid" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 45,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 5,
   range: "",
-  next_chain: ["Natural Bond"],
+  next_chain: ["natural-bond"],
   cost: {
     pips: 0,
     resource: 22

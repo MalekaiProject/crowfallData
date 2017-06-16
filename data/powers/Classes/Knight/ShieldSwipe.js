@@ -1,6 +1,8 @@
 exports.power = {
   name: "Shield Swipe",
-  source: "Knight",
+  sources: [
+    { type: "class", id: "knight" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Shield Stun"],
+  next_chain: ["shield-stun"],
   cost: {
     pips: 0,
     resource: 18

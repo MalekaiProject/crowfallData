@@ -1,6 +1,8 @@
 exports.power = {
   name: "Dagger Spin 2",
-  source: "Ranger",
+  sources: [
+    { type: "class", id: "ranger" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Sphere",
   max_targets: 5,
   range: 6,
-  next_chain: ["Dagger Spin 3"],
+  next_chain: ["dagger-spin-3"],
   cost: {
     pips: 0,
     resource: 34

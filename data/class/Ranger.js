@@ -1,8 +1,8 @@
 
 exports.class = {
-  name: "Ranger",
-  description: "",
-  icon: "https://crowfall.wiki/images/class/ranger.png",
-  powers_granted: ["Archers Stake", "Barrage", "Cross Slash", "Cross Slash 2", "Dagger Spin", "Dagger Spin 2", "Dagger Spin 3", "Dagger Spin 4", "Disengage", "Explosive  Trap", "Forest Step", "Gleeful Strike", "Jab", "Laceration", "Launch Explosive Trap", "Multi-Purpose Shot", "Power Shot", "Rapid Fire", "Retaliate (Ranger)", "Ricochet Shot", "Sinister Slash", "Spin Step", "Straight Shot", "Suppression Shot", "Sustain", "Sweep", "Tendon Slice", "Twin Surge", "Vile Slash", "Wicked Slash"],
-  races: ["Human","Half-Elf","Wood-Elf","Elken","Minotaur"]
+  name: 'Ranger',
+  description: '',
+  icon: 'https://crowfall.wiki/images/class/ranger.png',
+  powers_granted: ['archers-stake', 'barrage', 'cross-slash', 'cross-slash-2', 'dagger-spin', 'dagger-spin-2', 'dagger-spin-3', 'dagger-spin-4', 'disengage', 'explosive-trap', 'forest-step', 'gleeful-strike', 'jab', 'laceration', 'launch-explosive-trap', 'multi-purpose-shot', 'power-shot', 'rapid-fire-ranger', 'retaliate-ranger', 'ricochet-shot', 'sinister-slash', 'spin-step', 'straight-shot', 'suppression-shot', 'sustain', 'sweep', 'tendon-slice', 'twin-surge', 'vile-slash', 'wicked-slash'],
+  races: ['Human', 'Half-Elf', 'Wood-Elf', 'Elken', 'Minotaur']
 };

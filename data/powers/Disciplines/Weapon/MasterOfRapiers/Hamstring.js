@@ -1,6 +1,8 @@
 exports.power = {
   name: "Hamstring",
-  source: "Master of Rapiers",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-rapiers" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

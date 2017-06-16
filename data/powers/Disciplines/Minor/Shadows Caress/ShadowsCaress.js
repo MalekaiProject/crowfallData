@@ -1,6 +1,8 @@
 exports.power = {
   name: "Shadows Caress",
-  source: "Shadows Caress",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "shadows-caress" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

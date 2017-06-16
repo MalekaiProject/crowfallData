@@ -1,6 +1,8 @@
 exports.power = {
   name: "Shield Whiz",
-  source: "Shield Whiz",
+  sources: [
+    { type: "discipline", sub_type: "minor", id: "shield-whiz" }
+  ],
   type: "Passive",
   cast_type: "",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 0,
   range: 0,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 0

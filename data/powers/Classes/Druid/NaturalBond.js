@@ -1,6 +1,8 @@
 exports.power = {
   name: "Natural Bond",
-  source: "Druid",
+  sources: [
+    { type: "class", id: "druid" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 45,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Group",
   max_targets: 5,
   range: "",
-  next_chain: ["Contain Essence", "Empower"],
+  next_chain: ["contain-essence", "empower"],
   cost: {
     pips: 0,
     resource: 18

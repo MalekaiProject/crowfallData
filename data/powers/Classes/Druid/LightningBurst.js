@@ -1,6 +1,8 @@
 exports.power = {
   name: "Lightning Burst",
-  source: "Druid",
+  sources: [
+    { type: "class", id: "druid" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: "",
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Ray",
   max_targets: 5,
   range: 35,
-  next_chain: ["Lightning Strike"],
+  next_chain: ["lightning-strike"],
   cost: {
     pips: 0,
     resource: 68

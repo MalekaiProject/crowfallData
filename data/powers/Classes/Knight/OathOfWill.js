@@ -1,6 +1,8 @@
 exports.power = {
   name: "Oath of Will",
-  source: "Knight",
+  sources: [
+    { type: "class", id: "knight" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

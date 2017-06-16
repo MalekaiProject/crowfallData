@@ -1,6 +1,8 @@
 exports.power = {
   name: "Cut and Thrust",
-  source: "Master of Rapiers",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-rapiers" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: ["Cut and Thrust 2"],
+  next_chain: ["cut-and-thrust-2"],
   cost: {
     pips: 0,
     resource: 10

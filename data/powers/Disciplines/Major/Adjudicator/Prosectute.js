@@ -1,6 +1,8 @@
 exports.power = {
   name: "Prosecute",
-  source: "Adjudicator",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "adjudicator" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

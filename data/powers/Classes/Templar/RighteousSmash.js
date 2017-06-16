@@ -1,6 +1,8 @@
 exports.power = {
   name: "Righteous Smash",
-  source: "Templar",
+  sources: [
+    { type: "class", id: "templar" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Brilliance",
-  source: "Templar",
+  sources: [
+    { type: "class", id: "templar" }
+  ],
   type: "Ultimate",
   cast_type: "Instant",
   duration: 0,

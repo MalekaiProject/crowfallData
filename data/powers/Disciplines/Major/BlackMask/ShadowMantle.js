@@ -1,6 +1,8 @@
 exports.power = {
   name: "Shadow Mantle",
-  source: "Black Mask",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "black-mask" }
+  ],
   type: "Ranged Attack",
   cast_type: "",
   duration: 0,

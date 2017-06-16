@@ -1,6 +1,8 @@
 exports.power = {
   name: "Nova",
-  source: "Master of Focus",
+  sources: [
+    { type: "discipline", sub_type: "weapon", id: "master-of-focus" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

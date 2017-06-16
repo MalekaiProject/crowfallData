@@ -1,6 +1,8 @@
 exports.power = {
   name: "Mithradatism",
-  source: "Poisoner",
+  sources: [
+    { type: "discipline", sub_type: "major", id: "poisoner" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,
