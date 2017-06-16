@@ -1,6 +1,8 @@
 exports.power = {
   name: "Lament of Sadness",
-  source: "Troubadour",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Troubadour" }
+	],
   type: "Debuff",
   cast_type: "Toggle",
   duration: 12,

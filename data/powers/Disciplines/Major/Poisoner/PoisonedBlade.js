@@ -1,6 +1,8 @@
 exports.power = {
   name: "Poisoned Blade",
-  source: "Poisoner",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Poisoner" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

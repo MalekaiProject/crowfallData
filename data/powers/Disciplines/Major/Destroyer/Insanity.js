@@ -1,6 +1,8 @@
 exports.power = {
   name: "Insanity",
-  source: "Destroyer",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Destroyer" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Self",
   max_targets: 3,
   range: 12,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 12

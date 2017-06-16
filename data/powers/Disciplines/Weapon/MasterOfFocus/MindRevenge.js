@@ -1,6 +1,8 @@
 exports.power = {
   name: "Mind Revenge",
-  source: "Master of Focus",
+  sources: [
+		{ type: "discipline", sub_type: "weapon", id: "Master of Focus" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Finery",
-  source: "Illusionist",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Illusionist" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

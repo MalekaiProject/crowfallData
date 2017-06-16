@@ -1,6 +1,8 @@
 exports.power = {
   name: "Form Life",
-  source: "Dryad",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Dryad" }
+	],
   type: "Non-Aggresive",
   cast_type: "Instant",
   duration: 0,

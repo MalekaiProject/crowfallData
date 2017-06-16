@@ -1,6 +1,8 @@
 exports.power = {
   name: "Chain Heal",
-  source: "Friar",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Friar" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

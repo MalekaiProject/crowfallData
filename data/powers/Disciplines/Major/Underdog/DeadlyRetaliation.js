@@ -1,6 +1,8 @@
 exports.power = {
   name: "Deadly Retaliation",
-  source: "Underdog",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Underdog" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Rescue",
-  source: "Field Surgeon",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Field Surgeon" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 10,

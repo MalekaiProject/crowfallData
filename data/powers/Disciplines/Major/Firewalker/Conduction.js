@@ -1,6 +1,8 @@
 exports.power = {
   name: "Conduction",
-  source: "Firewalker",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Firewalker" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

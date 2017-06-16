@@ -1,6 +1,8 @@
 exports.power = {
   name: "Tenderize 2",
-  source: "Knife Grinder",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Knife Grinder" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 15,

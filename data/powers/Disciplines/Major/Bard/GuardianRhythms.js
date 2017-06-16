@@ -1,6 +1,8 @@
 exports.power = {
   name: "Guardian Rhythms",
-  source: "Bard",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Bard" }
+	],
   type: "Buff",
   cast_type: "Toggle",
   duration: 12,

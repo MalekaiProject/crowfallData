@@ -1,6 +1,8 @@
 exports.power = {
   name: "Unstoppable",
-  source: "Juggernaut",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Juggernaut" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

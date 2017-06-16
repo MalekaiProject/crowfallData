@@ -1,6 +1,8 @@
 exports.power = {
   name: "You Shall Be Avenged",
-  source: "Holy Avenger",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Holy Avenger" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

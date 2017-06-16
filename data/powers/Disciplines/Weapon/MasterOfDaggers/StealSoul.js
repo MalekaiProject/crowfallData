@@ -1,6 +1,8 @@
 exports.power = {
   name: "Steal Soul",
-  source: "Master of Daggers",
+  sources: [
+		{ type: "discipline", sub_type: "weapon", id: "Master of Daggers" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

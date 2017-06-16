@@ -1,6 +1,8 @@
 exports.power = {
   name: "First Wind",
-  source: "Runescarred Gladiator",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Runescarred Gladiator" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 4,

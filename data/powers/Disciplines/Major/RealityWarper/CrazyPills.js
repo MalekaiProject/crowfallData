@@ -1,6 +1,8 @@
 exports.power = {
   name: "Crazy Pills",
-  source: "Reality Warper",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Reality Warper" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

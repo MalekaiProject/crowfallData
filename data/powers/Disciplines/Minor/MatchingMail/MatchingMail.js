@@ -1,6 +1,8 @@
 exports.power = {
   name: "Matching Mail",
-  source: "Matching Mail",
+  sources: [
+		{ type: "discipline", sub_type: "minor", id: "Matching Mail" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

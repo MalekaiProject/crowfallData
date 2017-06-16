@@ -1,6 +1,8 @@
 exports.power = {
   name: "Critical Hack",
-  source: "Master of Swords",
+  sources: [
+		{ type: "discipline", sub_type: "weapon", id: "Master of Swords" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 15,

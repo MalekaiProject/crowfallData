@@ -1,7 +1,9 @@
 exports.power = {
   name: "Blade Turning",
-  source: "Militant Mage",
-  type: "Buff",  
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Militant Mage" }
+	],
+  type: "Buff",
   cast_type: "Instant",
   duration: 15,
   cooldown: 45,

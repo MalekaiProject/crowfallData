@@ -1,6 +1,8 @@
 exports.power = {
   name: "Mana Shield",
-  source: "Master of Focus",
+  sources: [
+		{ type: "discipline", sub_type: "weapon", id: "Master of Focus" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 15,

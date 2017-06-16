@@ -1,9 +1,11 @@
 exports.power = {
   name: "Adjudicate",
-  source: "Adjudicator",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Adjudicator" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
-  duration: 0,
+  duration: 0,ws
   cooldown: 9,
   targeting: "Cone",
   max_targets: 1,

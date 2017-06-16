@@ -1,6 +1,8 @@
 exports.power = {
   name: "Mighty Shield Slam",
-  source: "Shield Fighter",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Shield Fighter" }
+	],
   type: "Debuff",
   cast_type: "Charged",
   duration: 0,
@@ -15,4 +17,4 @@ exports.power = {
   },
   tooltip: "Deliver a shield attack using all your might to consume all Stamina and scale damage with stamina spent.  MIGHTY SHIELD SLAM inflicts 32 Damage Bonus per Stamina spent + 97% Crushing Weapon Damage to multiple enemies, pushing them back.  While charging the attack you are considered Blocking.  The attack is guaranteed to crit when more than 2/3rds charged.",
   icon: ""
-};  
+};

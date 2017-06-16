@@ -1,6 +1,8 @@
 exports.power = {
   name: "Skullcracker 2",
-  source: "Master of Maces",
+  sources: [
+		{ type: "discipline", sub_type: "weapon", id: "Master of Maces" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

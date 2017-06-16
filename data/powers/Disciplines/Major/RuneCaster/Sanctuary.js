@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sanctuary",
-  source: "Rune Caster",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Rune Caster" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 30,

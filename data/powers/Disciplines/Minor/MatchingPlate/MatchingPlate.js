@@ -1,6 +1,8 @@
 exports.power = {
   name: "Matching Plate",
-  source: "Matching Plate",
+  sources: [
+		{ type: "discipline", sub_type: "minor", id: "Matching Plate" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

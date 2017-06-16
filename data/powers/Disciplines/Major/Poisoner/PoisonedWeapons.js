@@ -1,6 +1,8 @@
 exports.power = {
   name: "Poisoned Weapons",
-  source: "Poisoner",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Poisoner" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

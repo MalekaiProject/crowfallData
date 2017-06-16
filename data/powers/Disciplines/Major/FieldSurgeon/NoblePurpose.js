@@ -1,6 +1,8 @@
 exports.power = {
   name: "Noble Purpose",
-  source: "Field Surgeon",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Field Surgeon" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

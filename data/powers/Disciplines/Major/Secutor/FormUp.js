@@ -1,6 +1,8 @@
 exports.power = {
   name: "Form Up",
-  source: "Secutor",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Secutor" }
+	],
   type: "Buff",
   cast_type: "",
   duration: 0,

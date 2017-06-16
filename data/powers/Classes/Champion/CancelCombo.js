@@ -1,7 +1,9 @@
 
 exports.power = {
   name: "Cancel Combo",
-  source: "Champion",
+  source: [
+    { type: "class", id: "champion" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

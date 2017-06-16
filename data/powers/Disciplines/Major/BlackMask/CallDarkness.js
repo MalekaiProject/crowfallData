@@ -1,6 +1,8 @@
 exports.power = {
   name: "Call Darkness",
-  source: "Black Mask",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Black Mask" }
+	],
   type: "Ranged Attack",
   cast_type: "",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Indulgence",
-  source: "Friar",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Friar" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 30,

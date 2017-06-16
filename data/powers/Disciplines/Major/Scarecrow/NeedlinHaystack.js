@@ -1,6 +1,8 @@
 exports.power = {
   name: "Needlin Haystack",
-  source: "Scarecrow",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Scarecrow" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 15,

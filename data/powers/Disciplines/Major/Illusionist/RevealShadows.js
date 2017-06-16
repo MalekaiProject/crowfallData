@@ -1,6 +1,8 @@
 exports.power = {
   name: "Reveal Shadows",
-  source: "Illusionist",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Illusionist" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 12,

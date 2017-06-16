@@ -1,6 +1,8 @@
 exports.power = {
   name: "Song Twisting",
-  source: "Twisting",
+  sources: [
+		{ type: "discipline", sub_type: "minor", id: "Twisting" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 6,

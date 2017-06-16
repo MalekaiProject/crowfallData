@@ -1,6 +1,8 @@
 exports.power = {
   name: "Molon Labe",
-  source: "Shield Fighter",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Shield Fighter" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

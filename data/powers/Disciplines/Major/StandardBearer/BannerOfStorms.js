@@ -1,6 +1,8 @@
 exports.power = {
   name: "Banner of Storms",
-  source: "Standard Bearer",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Standard Bearer" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

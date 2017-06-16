@@ -1,6 +1,8 @@
 exports.power = {
   name: "Clobber 2",
-  source: "Master of Hammers",
+  sources: [
+		{ type: "discipline", sub_type: "weapon", id: "Master of Hammers" }
+	],
   type: "Crowd Control",
   cast_type: "Instant",
   duration: 0,

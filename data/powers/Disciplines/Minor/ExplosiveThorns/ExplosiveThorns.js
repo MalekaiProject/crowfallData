@@ -1,6 +1,8 @@
 exports.power = {
   name: "Explosive Thorns",
-  source: "Explosive Thorns",
+  sources: [
+		{ type: "discipline", sub_type: "minor", id: "Explosive Thorns" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

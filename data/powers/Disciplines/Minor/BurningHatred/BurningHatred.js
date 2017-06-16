@@ -1,6 +1,8 @@
 exports.power = {
   name: "Burning Hatred",
-  source: "Burning Hatred",
+  sources: [
+		{ type: "discipline", sub_type: "minor", id: "Burning Hatred" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Demolish Armor",
-  source: "Master of Axes",
+  sources: [
+		{ type: "discipline", sub_type: "weapon", id: "Master of Axes" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 15,
@@ -8,7 +10,7 @@ exports.power = {
   targeting: "Cone",
   max_targets: 1,
   range: 0,
-  next_chain: [], 
+  next_chain: [],
   cost: {
     pips: 0,
     resource: 17

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sword Ward",
-  source: "Militant Mage",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Militant Mage" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Aegis of Salvation 2",
-  source: "Destroyer",
+  sources: [
+		{ type: "discipline", sub_type: "major", id: "Destroyer" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,
