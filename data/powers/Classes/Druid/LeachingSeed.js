@@ -1,6 +1,8 @@
 exports.power = {
   name: "Leaching Seed",
-  source: "Druid",
+  sources: [
+		{ type: "class", id: "druid" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 8,

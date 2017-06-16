@@ -1,6 +1,8 @@
 exports.power = {
   name: "Lightning Burst",
-  source: "Druid",
+  sources: [
+		{ type: "class", id: "druid" }
+	],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: "",

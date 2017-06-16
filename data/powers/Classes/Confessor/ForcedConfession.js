@@ -1,6 +1,8 @@
 exports.power = {
   name: "Forced Confession",
-  source: "Confessor",
+  sources: [
+		{ type: "class", id: "confessor" }
+	],
   type: ["Crowd Control"],
   cast_type: "Instant",
   duration: "",

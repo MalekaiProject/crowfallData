@@ -1,6 +1,8 @@
 exports.power = {
   name: "Saber Attack 3",
-  source: "Duelist",
+  sources: [
+		{ type: "class", id: "duelist" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

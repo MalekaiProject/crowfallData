@@ -1,6 +1,8 @@
 exports.power = {
   name: "Pulverize",
-  source: "Myrmidon",
+  sources: [
+		{ type: "class", id: "myrmidon" }
+	],
   type: "Crowd Control",
   cast_type: "Charged",
   duration: 0,

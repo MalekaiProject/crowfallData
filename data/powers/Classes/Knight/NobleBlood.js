@@ -1,6 +1,8 @@
 exports.power = {
   name: "Noble Blood",
-  source: "Knight",
+  sources: [
+		{ type: "class", id: "knight" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

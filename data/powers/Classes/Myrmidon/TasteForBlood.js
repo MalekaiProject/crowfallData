@@ -1,6 +1,8 @@
 exports.power = {
   name: "Taste For Blood",
-  source: "Myrmidon",
+  sources: [
+		{ type: "class", id: "myrmidon" }
+	],
   type: "Passive",
   cast_type: "Passive",
   duration: 20,

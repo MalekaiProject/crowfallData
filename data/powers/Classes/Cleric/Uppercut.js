@@ -1,6 +1,8 @@
 exports.power = {
   name: "Uppercut",
-  source: "Cleric",
+  sources: [
+		{ type: "class", id: "cleric" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

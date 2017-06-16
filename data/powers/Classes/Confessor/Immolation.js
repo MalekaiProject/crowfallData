@@ -1,6 +1,8 @@
 exports.power = {
   name: "Immolation",
-  source: "Confessor",
+  sources: [
+		{ type: "class", id: "confessor" }
+	],
   type: "Ultimate",
   cast_type: "Instant",
   duration: "",

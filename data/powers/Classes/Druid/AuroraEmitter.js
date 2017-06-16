@@ -1,6 +1,8 @@
 exports.power = {
   name: "Aurora Emitter",
-  source: "Druid",
+  sources: [
+		{ type: "class", id: "druid" }
+	],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 15,

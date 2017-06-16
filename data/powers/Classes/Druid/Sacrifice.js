@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sacrifice",
-  source: "Druid",
+  sources: [
+		{ type: "class", id: "druid" }
+	],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: "",

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Brutal Strike",
-  source: "Knight",
+  sources: [
+		{ type: "class", id: "knight" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

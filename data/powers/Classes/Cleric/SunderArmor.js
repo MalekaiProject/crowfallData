@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sunder Armor",
-  source: "Cleric",
+  sources: [
+		{ type: "class", id: "cleric" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

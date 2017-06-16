@@ -1,6 +1,8 @@
 exports.power = {
   name: "Twin Surge",
-  source: "Ranger",
+  sources: [
+		{ type: "class", id: "ranger" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

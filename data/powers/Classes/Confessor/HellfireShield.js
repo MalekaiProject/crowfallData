@@ -1,6 +1,8 @@
 exports.power = {
   name: "Hellfire Shield",
-  source: "Confessor",
+  sources: [
+		{ type: "class", id: "confessor" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 15,

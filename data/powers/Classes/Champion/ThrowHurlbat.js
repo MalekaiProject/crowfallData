@@ -1,6 +1,8 @@
 exports.power = {
   name: "Throw Hurlbat",
-  source: "Champion",
+  sources: [
+		{ type: "class", id: "champion" }
+	],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 1.1,

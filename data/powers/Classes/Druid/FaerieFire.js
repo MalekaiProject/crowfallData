@@ -1,6 +1,8 @@
 exports.power = {
   name: "Faerie Fire",
-  source: "Druid",
+  sources: [
+		{ type: "class", id: "druid" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 12,

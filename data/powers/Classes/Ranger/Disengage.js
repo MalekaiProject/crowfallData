@@ -1,6 +1,8 @@
 exports.power = {
   name: "Disengage",
-  source: "Ranger",
+  sources: [
+		{ type: "class", id: "ranger" }
+	],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Leap",
-  source: "Champion",
+  sources: [
+		{ type: "class", id: "champion" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Meteor Purge",
-  source: "Confessor",
+  sources: [
+		{ type: "class", id: "confessor" }
+	],
   type: "Ranged Attack",
   cast_type: "Charged",
   duration: 30,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Condemnation",
-  source: "Confessor",
+  sources: [
+		{ type: "class", id: "confessor" }
+	],
   type: "Melee Attack",
   cast_type: "Hold Channeled",
   duration: "",

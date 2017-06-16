@@ -1,6 +1,8 @@
 exports.power = {
   name: "Coalesce Life 2",
-  source: "Druid",
+  sources: [
+		{ type: "class", id: "druid" }
+	],
   type: "Non-Agressive",
   cast_type: "Instant",
   duration: 0,

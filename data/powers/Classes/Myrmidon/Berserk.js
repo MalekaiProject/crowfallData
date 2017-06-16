@@ -1,6 +1,8 @@
 exports.power = {
   name: "Berserk",
-  source: "Myrmidon",
+  sources: [
+		{ type: "class", id: "myrmidon" }
+	],
   type: "Transformation",
   cast_type: "Instant",
   duration: 20,

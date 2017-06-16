@@ -1,6 +1,8 @@
 exports.power = {
   name: "Shroud of Darkness",
-  source: "Druid",
+  sources: [
+		{ type: "class", id: "druid" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: "",

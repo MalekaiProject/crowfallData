@@ -1,6 +1,8 @@
 exports.power = {
   name: "Sweep",
-  source: "Ranger",
+  sources: [
+		{ type: "class", id: "ranger" }
+	],
   type: "Crowd Control Self",
   cast_type: "Instant",
   duration: 0,

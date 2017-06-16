@@ -1,6 +1,8 @@
 exports.power = {
   name: "Fervor",
-  source: "Confessor",
+  sources: [
+		{ type: "class", id: "confessor" }
+	],
   type: "Non-Aggressive",
   cast_type: "Channeled",
   duration: 5,

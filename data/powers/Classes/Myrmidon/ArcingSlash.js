@@ -1,6 +1,8 @@
 exports.power = {
   name: "Arcing Slash",
-  source: "Myrmidon",
+  sources: [
+		{ type: "class", id: "myrmidon" }
+	],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

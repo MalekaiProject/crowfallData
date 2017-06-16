@@ -1,6 +1,8 @@
 exports.power = {
   name: "Recon",
-  source: "Duelist",
+  sources: [
+		{ type: "class", id: "duelist" }
+	],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

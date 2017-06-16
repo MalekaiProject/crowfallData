@@ -1,6 +1,8 @@
 exports.power = {
   name: "Cancel Combo",
-  source: "Myrmidon",
+  sources: [
+		{ type: "class", id: "myrmidon" }
+	],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

@@ -1,6 +1,8 @@
 exports.power = {
   name: "Devotion",
-  source: "Templar",
+  sources: [
+		{ type: "class", id: "templar" }
+	],
   type: "Buff",
   cast_type: "Instant",
   duration: 15,

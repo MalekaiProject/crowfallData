@@ -1,6 +1,8 @@
 exports.power = {
   name: "Zealot Rush",
-  source: "Confessor",
+  sources: [
+		{ type: "class", id: "confessor" }
+	],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: "",
