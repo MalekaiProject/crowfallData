@@ -5,7 +5,7 @@ exports.power = {
 	],
   type: "Melee Attack",
   cast_type: "Instant",
-  duration: 0,ws
+  duration: 0,
   cooldown: 9,
   targeting: "Cone",
   max_targets: 1,

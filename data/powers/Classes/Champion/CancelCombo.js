@@ -1,7 +1,7 @@
 
 exports.power = {
   name: "Cancel Combo",
-  source: [
+  sources: [
     { type: "class", id: "champion" }
   ],
   type: "Non-Aggressive",
