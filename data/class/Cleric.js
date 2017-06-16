@@ -3,6 +3,6 @@ exports.class = {
   name: "Cleric",
   description: "",
   icon: "https://crowfall.wiki/images/class/cleric.png",
-  powers_granted: ["Battle Cry", "Bellow Of Triumph", "Discipling Strikes", "Dodge", "Drive", "Eternal Rage", "No Quarter", "Rallying Cry", "Relentless", "Retaliate (Cleric)", "Scatter Horde", "Side Strike", "Strength of the Legion", "Strike", "Sunder Armor", "Uppercut", "Wild Charge"],
+  powers_granted: ["battle-cry", "bellow-of-triumph", "discipling-strikes", "dodge", "drive", "eternal-rage", "no-quarter", "rallying-cry", "relentless", "retaliate-cleric-", "scatter-horde", "side-strike", "strength-of-the-legion", "strike", "sunder-armor", "uppercut", "wild-charge"],
   races: ["Human","Stoneborn","Half-Giant","Centaur","Guinecean"]
 };

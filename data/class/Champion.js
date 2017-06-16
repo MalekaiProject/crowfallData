@@ -3,6 +3,6 @@ exports.class = {
   name: "Champion",
   description: "",
   icon: "https://crowfall.wiki/images/class/champion.png",
-  powers_granted: ["Cancel Combo", "Disarming Shout", "Dodge Roll", "Giant Smash", "Kick Sand", "Leap", "Leap 2", "Massive Cleave", "Massive Smash", "Neck Breaker", "Relentless", "Rend", "Retaliate (Champion)", "Second Wind", "Smash", "Spinning Backfist", "Throw Hurlbat", "Ultimate Warrior", "Vicious Stomp", "Whirling Pain"],
+  powers_granted: ["cancel-combo", "disarming-shout", "dodge-roll", "giant-smash", "kick-sand", "leap", "leap-2", "massive-cleave", "massive-smash", "neck-breaker", "relentless", "rend", "retaliate-champion-", "second-wind", "smash", "spinning-backfist", "throw-hurlbat", "ultimate-warrior", "vicious-stomp", "whirling-pain"],
   races: ["Stoneborn","Half-Giant","Minotaur","Centaur"]
 };

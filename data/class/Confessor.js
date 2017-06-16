@@ -3,6 +3,6 @@ exports.class = {
   name: "Confessor",
   description: "",
   icon: "https://crowfall.wiki/images/class/confessor.png",
-  powers_granted: ["Absolution", "Condemnation", "Fervor", "Fireball", "Fireball 2", "Fire Tornados", "Fire Wave", "Flames of Truth", "Force Confession", "Hellfire Aura", "Hellfire Blast", "Hellfire Shield", "Immolation", "Meteor Purge", "Multi-Fireball", "Righteousness", "Zealot Rush"],
+  powers_granted: ["absolution", "condemnation", "fervor", "fireball", "fireball-2", "fire-tornados", "fire-wave", "flames-of-truth", "force-confession", "hellfire-aura", "hellfire-blast", "hellfire-shield", "immolation", "meteor-purge", "multi-fireball", "righteousness", "zealot-rush"],
   races: ["Nethari","High-Elf","Elken"]
 };
