@@ -1,8 +1,8 @@
 exports.power = {
   name: "Wee One",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Pixie" }
-	],
+    { type: "discipline", sub_type: "major", id: "Pixie" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 25,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Verses of Victory",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Bard" }
-	],
+    { type: "discipline", sub_type: "major", id: "Bard" }
+  ],
   type: "Temporary Buff",
   cast_type: "Toggle",
   duration: 12,

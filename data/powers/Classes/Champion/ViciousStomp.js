@@ -1,8 +1,8 @@
 exports.power = {
   name: "Vicious Stomp",
   sources: [
-		{ type: "class", id: "champion" }
-	],
+    { type: "class", id: "champion" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

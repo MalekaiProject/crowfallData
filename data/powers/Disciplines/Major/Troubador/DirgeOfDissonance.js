@@ -1,8 +1,8 @@
 exports.power = {
   name: "Dirge of Dissonance",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Troubadour" }
-	],
+    { type: "discipline", sub_type: "major", id: "Troubadour" }
+  ],
   type: "Melee Attack",
   cast_type: "Toggle",
   duration: 12,

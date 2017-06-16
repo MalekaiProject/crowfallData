@@ -1,8 +1,8 @@
 exports.power = {
   name: "Block",
   sources: [
-		{ type: "class", id: "knight" }
-	],
+    { type: "class", id: "knight" }
+  ],
   type: "Crowd Control Self",
   cast_type: "Hold Channeled",
   duration: 5,

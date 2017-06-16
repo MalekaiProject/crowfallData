@@ -1,8 +1,8 @@
 exports.power = {
   name: "Second Wind",
   sources: [
-		{ type: "class", id: "knight" }
-	],
+    { type: "class", id: "knight" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

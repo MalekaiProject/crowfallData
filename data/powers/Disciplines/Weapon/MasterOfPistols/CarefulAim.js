@@ -1,8 +1,8 @@
 exports.power = {
   name: "Careful Aim",
   sources: [
-		{ type: "discipline", sub_type: "weapon", id: "Master of Pistols" }
-	],
+    { type: "discipline", sub_type: "weapon", id: "Master of Pistols" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Flintlock Shot",
   sources: [
-		{ type: "class", id: "duelist" }
-	],
+    { type: "class", id: "duelist" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 0,

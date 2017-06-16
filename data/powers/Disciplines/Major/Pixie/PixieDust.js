@@ -1,8 +1,8 @@
 exports.power = {
   name: "Pixie Dust",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Pixie" }
-	],
+    { type: "discipline", sub_type: "major", id: "Pixie" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 25,

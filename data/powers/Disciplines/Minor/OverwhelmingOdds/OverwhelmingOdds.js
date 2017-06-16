@@ -1,8 +1,8 @@
 exports.power = {
   name: "Overwhelming Odds",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Overwhelming Odds" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Overwhelming Odds" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

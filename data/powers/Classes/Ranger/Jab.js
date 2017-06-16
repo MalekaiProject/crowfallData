@@ -1,8 +1,8 @@
 exports.power = {
   name: "Jab",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Melee attack",
   cast_type: "Instant",
   duration: 0,

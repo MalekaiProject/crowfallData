@@ -1,8 +1,8 @@
 exports.power = {
   name: "Wild Charge",
   sources: [
-		{ type: "class", id: "cleric" }
-	],
+    { type: "class", id: "cleric" }
+  ],
   type: "Melee Attack",
   cast_type: "Hold Channeled",
   duration: 0,

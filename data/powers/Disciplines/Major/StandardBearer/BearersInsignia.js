@@ -1,8 +1,8 @@
 exports.power = {
   name: "Bearers Insignia",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Standard Bearer" }
-	],
+    { type: "discipline", sub_type: "major", id: "Standard Bearer" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

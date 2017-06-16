@@ -1,8 +1,8 @@
 exports.power = {
   name: "Focused Spark",
   sources: [
-		{ type: "class", id: "druid" }
-	],
+    { type: "class", id: "druid" }
+  ],
   type: "Ranged Attack",
   cast_type: "Channeled",
   duration: "",

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Redemption",
   sources: [
-		{ type: "discipline", sub_type: "weapon", id: "Master of Arcane" }
-	],
+    { type: "discipline", sub_type: "weapon", id: "Master of Arcane" }
+  ],
   type: "Ranged Attack",
   cast_type: "Channeled",
   duration: 0,

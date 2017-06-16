@@ -1,8 +1,8 @@
 exports.power = {
   name: "Forest Step",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Movement",
   cast_type: "Instant",
   duration: 3,

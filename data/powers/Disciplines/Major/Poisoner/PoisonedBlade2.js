@@ -1,8 +1,8 @@
 exports.power = {
   name: "Poisoned Blade 2",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Poisoner" }
-	],
+    { type: "discipline", sub_type: "major", id: "Poisoner" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

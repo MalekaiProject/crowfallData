@@ -1,8 +1,8 @@
 exports.power = {
   name: "Flames of Truth",
   sources: [
-		{ type: "class", id: "confessor" }
-	],
+    { type: "class", id: "confessor" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: "",

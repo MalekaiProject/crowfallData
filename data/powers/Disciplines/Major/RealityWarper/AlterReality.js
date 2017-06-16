@@ -1,8 +1,8 @@
 exports.power = {
   name: "Alter Reality",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Reality Warper" }
-	],
+    { type: "discipline", sub_type: "major", id: "Reality Warper" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 15,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Revenge",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Mole Hunter" }
-	],
+    { type: "discipline", sub_type: "major", id: "Mole Hunter" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 30,

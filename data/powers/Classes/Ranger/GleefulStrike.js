@@ -1,8 +1,8 @@
 exports.power = {
   name: "Gleeful Strike",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

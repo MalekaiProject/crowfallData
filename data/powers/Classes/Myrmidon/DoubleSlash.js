@@ -1,8 +1,8 @@
 exports.power = {
   name: "Double Slash",
   sources: [
-		{ type: "class", id: "myrmidon" }
-	],
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Neck Breaker",
   sources: [
-		{ type: "class", id: "champion" }
-	],
+    { type: "class", id: "champion" }
+  ],
   type: "Ultimate",
   cast_type: "Instant",
   duration: 0,

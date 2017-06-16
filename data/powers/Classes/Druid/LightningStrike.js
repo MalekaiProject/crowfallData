@@ -1,8 +1,8 @@
 exports.power = {
   name: "Lightning Strike",
   sources: [
-		{ type: "class", id: "druid" }
-	],
+    { type: "class", id: "druid" }
+  ],
   type: "Ranged Attack",
   cast_type: "Instant",
   duration: 0,

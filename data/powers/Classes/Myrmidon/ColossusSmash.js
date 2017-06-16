@@ -1,8 +1,8 @@
 exports.power = {
   name: "Colossus Smash",
   sources: [
-		{ type: "class", id: "myrmidon" }
-	],
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Crowd Control",
   cast_type: "Instant",
   duration: 0,

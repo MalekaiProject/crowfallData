@@ -1,8 +1,8 @@
 exports.power = {
   name: "Nature's Avatar",
   sources: [
-		{ type: "class", id: "druid" }
-	],
+    { type: "class", id: "druid" }
+  ],
   type: "Buff",
   cast_type: "Charged",
   duration: 0,

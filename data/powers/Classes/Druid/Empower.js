@@ -1,8 +1,8 @@
 exports.power = {
   name: "Empower",
   sources: [
-		{ type: "class", id: "druid" }
-	],
+    { type: "class", id: "druid" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 45,

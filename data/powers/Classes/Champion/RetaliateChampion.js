@@ -1,8 +1,8 @@
 exports.power = {
   name: "Retaliate (Champion)",
   sources: [
-		{ type: "class", id: "champion" }
-	],
+    { type: "class", id: "champion" }
+  ],
   type: "Retaliate",
   cast_type: "Instant",
   duration: 0,

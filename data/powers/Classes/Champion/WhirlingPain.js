@@ -1,8 +1,8 @@
 exports.power = {
   name: "Whirling Pain",
   sources: [
-		{ type: "class", id: "champion" }
-	],
+    { type: "class", id: "champion" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

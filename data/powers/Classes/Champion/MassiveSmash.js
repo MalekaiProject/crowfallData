@@ -1,8 +1,8 @@
 exports.power = {
   name: "Massive Smash",
   sources: [
-		{ type: "class", id: "champion" }
-	],
+    { type: "class", id: "champion" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 15,

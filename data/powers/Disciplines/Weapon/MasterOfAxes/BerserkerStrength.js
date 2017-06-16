@@ -1,8 +1,8 @@
 exports.power = {
   name: "Berserker Strength",
   sources: [
-		{ type: "discipline", sub_type: "weapon", id: "Master of Axes" }
-	],
+    { type: "discipline", sub_type: "weapon", id: "Master of Axes" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

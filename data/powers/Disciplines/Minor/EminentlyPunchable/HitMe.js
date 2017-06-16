@@ -1,8 +1,8 @@
 exports.power = {
   name: "Hit Me",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Eminently Punchable" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Eminently Punchable" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

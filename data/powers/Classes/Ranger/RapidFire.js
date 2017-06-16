@@ -1,8 +1,8 @@
 exports.power = {
   name: "Rapid Fire",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Ranged Attack",
   cast_type: "Hold Channeled",
   duration: 2,

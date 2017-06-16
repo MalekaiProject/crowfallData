@@ -1,8 +1,8 @@
 exports.power = {
   name: "Whirling Leap",
   sources: [
-		{ type: "class", id: "knight" }
-	],
+    { type: "class", id: "knight" }
+  ],
   type: "Ultimate",
   cast_type: "Instant",
   duration: 0,

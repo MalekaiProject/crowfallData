@@ -1,8 +1,8 @@
 exports.power = {
   name: "Launch Explosive Trap",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Ranged Attack",
   cast_type: "Ground Aimed",
   duration: 0,

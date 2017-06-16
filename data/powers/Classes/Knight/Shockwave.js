@@ -1,8 +1,8 @@
 exports.power = {
   name: "Shockwave",
   sources: [
-		{ type: "class", id: "knight" }
-	],
+    { type: "class", id: "knight" }
+  ],
   type: "Crowd Control",
   cast_type: "Instant",
   duration: 0,

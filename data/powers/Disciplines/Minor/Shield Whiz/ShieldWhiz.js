@@ -1,8 +1,8 @@
 exports.power = {
   name: "Shield Whiz",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Shield Whiz" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Shield Whiz" }
+  ],
   type: "Passive",
   cast_type: "",
   duration: 0,

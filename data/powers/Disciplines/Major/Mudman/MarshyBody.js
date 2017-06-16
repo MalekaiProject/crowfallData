@@ -1,8 +1,8 @@
 exports.power = {
   name: "Marshy Body",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Mudman" }
-	],
+    { type: "discipline", sub_type: "major", id: "Mudman" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

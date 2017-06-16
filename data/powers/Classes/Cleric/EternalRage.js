@@ -1,8 +1,8 @@
 exports.power = {
   name: "Eternal Rage",
   sources: [
-		{ type: "class", id: "cleric" }
-	],
+    { type: "class", id: "cleric" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 5,

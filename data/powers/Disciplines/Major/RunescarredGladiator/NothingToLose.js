@@ -1,8 +1,8 @@
 exports.power = {
   name: "Nothing to Lose",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Runescarred Gladiator" }
-	],
+    { type: "discipline", sub_type: "major", id: "Runescarred Gladiator" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 20,

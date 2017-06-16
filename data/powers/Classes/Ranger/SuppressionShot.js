@@ -1,8 +1,8 @@
 exports.power = {
   name: "Suppression Shot",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Crowd Control",
   cast_type: "Ground Aimed",
   duration: 0,

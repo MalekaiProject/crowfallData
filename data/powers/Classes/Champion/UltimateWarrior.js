@@ -1,8 +1,8 @@
 exports.power = {
   name: "Ultimate Warrior",
   sources: [
-		{ type: "class", id: "champion" }
-	],
+    { type: "class", id: "champion" }
+  ],
   type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,

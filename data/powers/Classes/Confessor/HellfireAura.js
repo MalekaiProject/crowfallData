@@ -1,8 +1,8 @@
 exports.power = {
   name: "Hellfire Aura",
   sources: [
-		{ type: "class", id: "confessor" }
-	],
+    { type: "class", id: "confessor" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 10,

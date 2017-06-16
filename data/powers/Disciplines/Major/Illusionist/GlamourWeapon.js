@@ -1,8 +1,8 @@
 exports.power = {
   name: "Glamour Weapon",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Illusionist" }
-	],
+    { type: "discipline", sub_type: "major", id: "Illusionist" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 180,

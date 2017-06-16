@@ -1,8 +1,8 @@
 exports.power = {
   name: "Scatter Horde",
   sources: [
-		{ type: "class", id: "cleric" }
-	],
+    { type: "class", id: "cleric" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

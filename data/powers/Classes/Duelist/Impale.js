@@ -1,8 +1,8 @@
 exports.power = {
   name: "Impale",
   sources: [
-		{ type: "class", id: "duelist" }
-	],
+    { type: "class", id: "duelist" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

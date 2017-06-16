@@ -1,8 +1,8 @@
 exports.power = {
   name: "Strength of the Legion",
   sources: [
-		{ type: "class", id: "cleric" }
-	],
+    { type: "class", id: "cleric" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

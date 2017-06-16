@@ -1,8 +1,8 @@
 exports.power = {
   name: "Cauterize",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Knife Grinder" }
-	],
+    { type: "discipline", sub_type: "major", id: "Knife Grinder" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

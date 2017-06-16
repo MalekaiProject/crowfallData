@@ -1,8 +1,8 @@
 exports.power = {
   name: "Flare",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Mole Hunter" }
-	],
+    { type: "discipline", sub_type: "major", id: "Mole Hunter" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

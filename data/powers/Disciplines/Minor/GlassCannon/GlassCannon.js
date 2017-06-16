@@ -1,8 +1,8 @@
 exports.power = {
   name: "Glass Cannon",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Glass Cannon" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Glass Cannon" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

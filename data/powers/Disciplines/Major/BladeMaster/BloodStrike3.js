@@ -1,8 +1,8 @@
 exports.power = {
   name: "Blood Strike 3",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Blade Master" }
-	],
+    { type: "discipline", sub_type: "major", id: "Blade Master" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Retaliate (Myrmidon)",
   sources: [
-		{ type: "class", id: "myrmidon" }
-	],
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Retaliate",
   cast_type: "Instant",
   duration: 0,

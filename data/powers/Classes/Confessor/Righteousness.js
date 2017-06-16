@@ -1,8 +1,8 @@
 exports.power = {
   name: "Righteousness",
   sources: [
-		{ type: "class", id: "confessor" }
-	],
+    { type: "class", id: "confessor" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 15,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Sinister Slash",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

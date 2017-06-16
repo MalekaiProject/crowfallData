@@ -1,8 +1,8 @@
 exports.power = {
   name: "Go For Broke",
   sources: [
-		{ type: "class", id: "duelist" }
-	],
+    { type: "class", id: "duelist" }
+  ],
   type: "Ranged Attack",
   cast_type: "Channeled",
   duration: 0,

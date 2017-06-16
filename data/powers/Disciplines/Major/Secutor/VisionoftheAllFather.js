@@ -1,8 +1,8 @@
 exports.power = {
   name: "Vision of the All Father",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Secutor" }
-	],
+    { type: "discipline", sub_type: "major", id: "Secutor" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

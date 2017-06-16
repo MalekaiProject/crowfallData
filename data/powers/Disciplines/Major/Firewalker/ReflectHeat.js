@@ -1,8 +1,8 @@
 exports.power = {
   name: "Reflect Heat",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Firewalker" }
-	],
+    { type: "discipline", sub_type: "major", id: "Firewalker" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Stormcaller",
   sources: [
-		{ type: "discipline", sub_type: "weapon", id: "Master of Scimitars" }
-	],
+    { type: "discipline", sub_type: "weapon", id: "Master of Scimitars" }
+  ],
   type: "Passive",
   cast_type: "",
   duration: 0,

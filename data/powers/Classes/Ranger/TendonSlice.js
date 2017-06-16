@@ -1,8 +1,8 @@
 exports.power = {
   name: "Tendon Slice",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Pound of Flesh",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Pound of Flesh" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Pound of Flesh" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

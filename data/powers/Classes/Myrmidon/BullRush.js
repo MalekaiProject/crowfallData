@@ -1,8 +1,8 @@
 exports.power = {
   name: "Bull Rush",
   sources: [
-		{ type: "class", id: "myrmidon" }
-	],
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Crowd Control",
   cast_type: "Hold Channeled",
   duration: 0,

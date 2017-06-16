@@ -1,8 +1,8 @@
 exports.power = {
   name: "Righteous Stand",
   sources: [
-		{ type: "class", id: "templar" }
-	],
+    { type: "class", id: "templar" }
+  ],
   type: "Crowd Control Self",
   cast_type: "Hold Channeled",
   duration: 0,

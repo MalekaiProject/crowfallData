@@ -1,8 +1,8 @@
 exports.power = {
   name: "Minor Accompaniment",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Minor Accompaniment" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Minor Accompaniment" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Opportunist",
   sources: [
-		{ type: "class", id: "duelist" }
-	],
+    { type: "class", id: "duelist" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

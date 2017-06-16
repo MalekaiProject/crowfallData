@@ -1,8 +1,8 @@
 exports.power = {
   name: "Decay",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Plague Lord" }
-	],
+    { type: "discipline", sub_type: "major", id: "Plague Lord" }
+  ],
   type: "Debuff",
   cast_type: "Charged",
   duration: 0,

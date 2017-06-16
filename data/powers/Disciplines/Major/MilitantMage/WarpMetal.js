@@ -1,8 +1,8 @@
 exports.power = {
   name: "Warp Metal",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Militant Mage" }
-	],
+    { type: "discipline", sub_type: "major", id: "Militant Mage" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 8,

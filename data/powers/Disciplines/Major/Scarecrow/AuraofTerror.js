@@ -1,8 +1,8 @@
 exports.power = {
   name: "Aura of Terror",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Scarecrow" }
-	],
+    { type: "discipline", sub_type: "major", id: "Scarecrow" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: 15,

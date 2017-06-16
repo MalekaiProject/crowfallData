@@ -1,8 +1,8 @@
 exports.power = {
   name: "Ruby Slash",
   sources: [
-		{ type: "class", id: "knight" }
-	],
+    { type: "class", id: "knight" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

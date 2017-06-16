@@ -1,8 +1,8 @@
 exports.power = {
   name: "Gore",
   sources: [
-		{ type: "class", id: "myrmidon" }
-	],
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 20,

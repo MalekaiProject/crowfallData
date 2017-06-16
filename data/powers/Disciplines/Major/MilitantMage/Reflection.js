@@ -1,8 +1,8 @@
 exports.power = {
   name: "Reflection",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Militant Mage" }
-	],
+    { type: "discipline", sub_type: "major", id: "Militant Mage" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 15,

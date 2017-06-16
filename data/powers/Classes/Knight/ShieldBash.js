@@ -1,8 +1,8 @@
 exports.power = {
   name: "Shield Bash",
   sources: [
-		{ type: "class", id: "knight" }
-	],
+    { type: "class", id: "knight" }
+  ],
   type: "Crowd Control",
   cast_type: "Instant",
   duration: 5,

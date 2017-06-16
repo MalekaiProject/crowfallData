@@ -1,8 +1,8 @@
 exports.power = {
   name: "Disarming Shout",
   sources: [
-		{ type: "class", id: "champion" }
-	],
+    { type: "class", id: "champion" }
+  ],
   type: "Crowd Control",
   cast_type: "Instant",
   duration: 0,

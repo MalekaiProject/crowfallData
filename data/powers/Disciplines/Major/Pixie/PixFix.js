@@ -1,8 +1,8 @@
 exports.power = {
   name: "Pix Fix",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Pixie" }
-	],
+    { type: "discipline", sub_type: "major", id: "Pixie" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Shadows Linger",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Black Mask" }
-	],
+    { type: "discipline", sub_type: "major", id: "Black Mask" }
+  ],
   type: "Passive",
   cast_type: "",
   duration: 0,

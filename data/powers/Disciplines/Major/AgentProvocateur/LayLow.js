@@ -1,8 +1,8 @@
 exports.power = {
   name: "Lay Low",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Agent Provocateur" }
-	],
+    { type: "discipline", sub_type: "major", id: "Agent Provocateur" }
+  ],
   type: "Non Aggressive",
   cast_type: "Instant",
   duration: 6,

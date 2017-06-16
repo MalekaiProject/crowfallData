@@ -1,8 +1,8 @@
 exports.power = {
   name: "Last Resort",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Last Resort" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Last Resort" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 15,

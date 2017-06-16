@@ -1,8 +1,8 @@
 exports.power = {
   name: "Stink Bomb",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Agent Provocateur" }
-	],
+    { type: "discipline", sub_type: "major", id: "Agent Provocateur" }
+  ],
   type: "Crowd Control",
   cast_type: "Ground Aimed",
   duration: 0,

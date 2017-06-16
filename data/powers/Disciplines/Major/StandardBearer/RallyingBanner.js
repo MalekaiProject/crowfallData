@@ -1,8 +1,8 @@
 exports.power = {
   name: "Rallying Banner",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Standard Bearer" }
-	],
+    { type: "discipline", sub_type: "major", id: "Standard Bearer" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 0,

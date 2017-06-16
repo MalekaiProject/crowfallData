@@ -1,8 +1,8 @@
 exports.power = {
   name: "Archers Stake",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 35,

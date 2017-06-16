@@ -1,8 +1,8 @@
 exports.power = {
   name: "Sustain",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Ultimate",
   cast_type: "Instant",
   duration: 0,

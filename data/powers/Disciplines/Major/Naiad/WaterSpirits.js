@@ -1,8 +1,8 @@
 exports.power = {
   name: "Water Spirits",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Naiad" }
-	],
+    { type: "discipline", sub_type: "major", id: "Naiad" }
+  ],
   type: "Buff",
   cast_type: "Charged",
   duration: 20,

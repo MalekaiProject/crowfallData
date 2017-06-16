@@ -1,8 +1,8 @@
 exports.power = {
   name: "Mortal Sin",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Mortal Sin" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Mortal Sin" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 0,

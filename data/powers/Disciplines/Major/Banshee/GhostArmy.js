@@ -1,8 +1,8 @@
 exports.power = {
   name: "Ghost Army",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Banshee" }
-	],
+    { type: "discipline", sub_type: "major", id: "Banshee" }
+  ],
   type: "Ranged Attack",
   cast_type: "Hold Channeled",
   duration: 0,

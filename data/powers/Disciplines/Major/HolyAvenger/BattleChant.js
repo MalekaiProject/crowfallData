@@ -1,8 +1,8 @@
 exports.power = {
   name: "Battle Chant",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Holy Avenger" }
-	],
+    { type: "discipline", sub_type: "major", id: "Holy Avenger" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 12,

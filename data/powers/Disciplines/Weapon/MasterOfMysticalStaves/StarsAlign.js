@@ -1,8 +1,8 @@
 exports.power = {
   name: "Stars Align",
   sources: [
-		{ type: "discipline", sub_type: "weapon", id: "Master of Mystical Staves" }
-	],
+    { type: "discipline", sub_type: "weapon", id: "Master of Mystical Staves" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 20,

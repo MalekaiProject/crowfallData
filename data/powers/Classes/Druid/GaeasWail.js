@@ -1,8 +1,8 @@
 exports.power = {
   name: "Gaea's Wail",
   sources: [
-		{ type: "class", id: "druid" }
-	],
+    { type: "class", id: "druid" }
+  ],
   type: "Ranged Attack",
   cast_type: "Charged",
   duration: 12,

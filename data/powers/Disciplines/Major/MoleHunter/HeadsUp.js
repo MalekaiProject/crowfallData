@@ -1,8 +1,8 @@
 exports.power = {
   name: "Heads Up",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Mole Hunter" }
-	],
+    { type: "discipline", sub_type: "major", id: "Mole Hunter" }
+  ],
   type: "Buff",
   cast_type: "Instant",
   duration: 30,

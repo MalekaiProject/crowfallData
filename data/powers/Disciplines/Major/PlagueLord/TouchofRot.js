@@ -1,8 +1,8 @@
 exports.power = {
   name: "Touch of Rot",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Plague Lord" }
-	],
+    { type: "discipline", sub_type: "major", id: "Plague Lord" }
+  ],
   type: "Passive",
   cast_type: "",
   duration: 0,

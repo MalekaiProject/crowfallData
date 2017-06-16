@@ -1,8 +1,8 @@
 exports.power = {
   name: "Straight Shot",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Ranged Attack",
   cast_type: "Charged",
   duration: 0,

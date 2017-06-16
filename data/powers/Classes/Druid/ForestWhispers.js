@@ -1,8 +1,8 @@
 exports.power = {
   name: "Forest Whispers",
   sources: [
-		{ type: "class", id: "druid" }
-	],
+    { type: "class", id: "druid" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 20,

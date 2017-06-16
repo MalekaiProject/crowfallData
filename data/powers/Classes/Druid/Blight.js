@@ -1,8 +1,8 @@
 exports.power = {
   name: "Blight",
   sources: [
-		{ type: "class", id: "druid" }
-	],
+    { type: "class", id: "druid" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: "",

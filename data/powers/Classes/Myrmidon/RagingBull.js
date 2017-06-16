@@ -1,8 +1,8 @@
 exports.power = {
   name: "Raging Bull",
   sources: [
-		{ type: "class", id: "myrmidon" }
-	],
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Ultimate",
   cast_type: "Instant",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Leave Burrow",
   sources: [
-		{ type: "class", id: "duelist" }
-	],
+    { type: "class", id: "duelist" }
+  ],
   type: "Transformation",
   cast_type: "Instant",
   duration: 0,

@@ -1,8 +1,8 @@
 exports.power = {
   name: "Careless Whisper",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Careless Whisper" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Careless Whisper" }
+  ],
   type: "Passive",
   cast_type: "Passive",
   duration: 6,

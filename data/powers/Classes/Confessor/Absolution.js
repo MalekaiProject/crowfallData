@@ -1,8 +1,8 @@
 exports.power = {
   name: "Absolution",
   sources: [
-		{ type: "class", id: "confessor" }
-	],
+    { type: "class", id: "confessor" }
+  ],
   type: "Debuff",
   cast_type: "Instant",
   duration: "",

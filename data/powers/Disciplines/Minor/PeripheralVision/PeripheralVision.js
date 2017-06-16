@@ -1,8 +1,8 @@
 exports.power = {
   name: "Peripheral Vision",
   sources: [
-		{ type: "discipline", sub_type: "minor", id: "Peripheral Vision" }
-	],
+    { type: "discipline", sub_type: "minor", id: "Peripheral Vision" }
+  ],
   type: "Passive",
   cast_type: "",
   duration: 0,

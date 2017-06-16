@@ -1,8 +1,8 @@
 exports.power = {
   name: "Blood Strike",
   sources: [
-		{ type: "discipline", sub_type: "major", id: "Blade Master" }
-	],
+    { type: "discipline", sub_type: "major", id: "Blade Master" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,

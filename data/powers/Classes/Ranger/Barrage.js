@@ -1,8 +1,8 @@
 exports.power = {
   name: "Barrage",
   sources: [
-		{ type: "class", id: "ranger" }
-	],
+    { type: "class", id: "ranger" }
+  ],
   type: "Ranged Attack",
   cast_type: "Ground Aimed",
   duration: 0,

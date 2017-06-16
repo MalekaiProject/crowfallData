@@ -1,8 +1,8 @@
 exports.power = {
   name: "Bloodied Swipe",
   sources: [
-		{ type: "class", id: "myrmidon" }
-	],
+    { type: "class", id: "myrmidon" }
+  ],
   type: "Melee Attack",
   cast_type: "Instant",
   duration: 0,
