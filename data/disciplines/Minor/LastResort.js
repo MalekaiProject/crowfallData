@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "Let's test your threshold of pain and let's see how long you last.",
   icon: "",
-  can_equip: ["Assassin", "Champion", "Cleric", "Confessor", "Druid", "Duelist", "Frostweaver", "Knight", "Myrmidon", "Ranger", "Templar"],
+  classes: ["assassin", "champion", "cleric", "confessor", "druid", "duelist", "frostweaver", "knight", "myrmidon", "ranger", "templar"],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],

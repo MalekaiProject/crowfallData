@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Weapon",
   description: "Crafted with care and the utmost consideration for personalization, the Mystical Stave is one of the most unique items used for magical and combative purposes.  A key element for rooting the enemy, enchantment, and conjuration, the stave can also be used similar to a polearm in close-quarters combat.",
   icon: "",
-  can_equip: ["Druid"],
+  classes: ["druid"],
   stats_granted: ["Damage Bonus: Electricity"],
   stats_values: [6],
   equips_granted: [],

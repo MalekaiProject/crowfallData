@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Weapon",
   description: "The ultimate power of focus allows for an expansion of one's own capability.  With fixation and intent, the power of the mind allows for the ultimate weapon to take form.  Novas, piercing orbs, and revenge are just a few of the aspects of concentration a master can wield.",
   icon: "",
-  can_equip: ["Confessor","Frostweaver"],
+  classes: ["confessor","frostweaver"],
   stats_granted: ["Damage Bonus: Fire","Damage Bonus: Ice"],
   stats_values: [6,6],
   equips_granted: [],

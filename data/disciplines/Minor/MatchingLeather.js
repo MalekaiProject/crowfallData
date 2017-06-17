@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "Making a statement doesn't always mean having to give up functionality, or those well worn leather boots.",
   icon: "",
-  can_equip: ["Assassin", "Champion", "Cleric", "Confessor", "Druid", "Duelist", "Frostweaver", "Knight", "Myrmidon", "Ranger", "Templar"],
+  classes: ["assassin", "champion", "cleric", "confessor", "druid", "duelist", "frostweaver", "knight", "myrmidon", "ranger", "templar"],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],

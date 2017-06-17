@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "For an immortal there is no surrender, no mercy asked, none given.  With the rules of battle as such, they fight no matter the odds.",
   icon: "",
-  can_equip: ["Assassin", "Champion", "Cleric", "Confessor", "Druid", "Duelist", "Frostweaver", "Knight", "Myrmidon", "Ranger", "Templar"],
+  classes: ["assassin", "champion", "cleric", "confessor", "druid", "duelist", "frostweaver", "knight", "myrmidon", "ranger", "templar"],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],

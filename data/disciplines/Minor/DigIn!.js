@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "Stay strong and make them wonder how you're still standing.",
   icon: "",
-  can_equip: ["Assassin", "Champion", "Cleric", "Confessor", "Druid", "Duelist", "Frostweaver", "Knight", "Myrmidon", "Ranger", "Templar"],
+  classes: ["assassin", "champion", "cleric", "confessor", "druid", "duelist", "frostweaver", "knight", "myrmidon", "ranger", "templar"],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],

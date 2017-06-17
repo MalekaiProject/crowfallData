@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "I pity the fool",
   icon: "",
-  can_equip: ["Assassin", "Champion", "Cleric", "Confessor", "Druid", "Duelist", "Frostweaver", "Knight", "Myrmidon", "Ranger", "Templar"],
+  classes: ["assassin", "champion", "cleric", "confessor", "druid", "duelist", "frostweaver", "knight", "myrmidon", "ranger", "templar"],
   stats_granted: ["Stealth"],
   stats_values: [-25],
   equips_granted: [],

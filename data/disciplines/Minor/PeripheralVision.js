@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "Through my peripheral I see ya scheming.",
   icon: "",
-  can_equip: ["Assassin", "Champion", "Cleric", "Confessor", "Druid", "Duelist", "Frostweaver", "Knight", "Myrmidon", "Ranger", "Templar"],
+  classes: ["assassin", "champion", "cleric", "confessor", "druid", "duelist", "frostweaver", "knight", "myrmidon", "ranger", "templar"],
   stats_granted: ["Peripheral Vision"],
   stats_values: [1.15],
   equips_granted: [],
