@@ -1,9 +1,9 @@
 exports.power = {
   name: "Healing Rain",
   sources: [
-    { type: "class", id: "druid" }
-  ],
-  type: "Non-Agressive",
+		{ type: "class", id: "druid" }
+	],
+  type: "Non-Aggressive",
   cast_type: "Instant",
   duration: 0,
   cooldown: 0,
