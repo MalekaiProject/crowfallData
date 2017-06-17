@@ -1,6 +1,6 @@
 
 exports.race = {
-  classes: ["Ranger","Champion","Myrmidon"],
+  classes: ["ranger","champion","myrmidon"],
   name: "Minotaur",
   description: "",
   icon: "https://crowfall.wiki/images/race/minotaur.png"
