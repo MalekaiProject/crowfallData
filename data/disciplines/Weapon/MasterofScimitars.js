@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "Life Tray",
-  powers_granted: ["Call Storm","Grounding","Stormcaller"]
+  powers: ["Call Storm","Grounding","Stormcaller"]
 }

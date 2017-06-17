@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Poisoned Blade","Mithradatism","Poison Food","Poisoned Weapons"]
+  powers: ["Poisoned Blade","Mithradatism","Poison Food","Poisoned Weapons"]
 }

@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Skullcracker","Reverberating Blow","Will of the Stoneborn"]
+  powers: ["Skullcracker","Reverberating Blow","Will of the Stoneborn"]
 }

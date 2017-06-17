@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Shield Glare","Basic Block","Numbness"]
+  powers: ["Shield Glare","Basic Block","Numbness"]
 }

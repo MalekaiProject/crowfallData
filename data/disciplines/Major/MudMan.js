@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Jelly Skin", "Muck Spatter", "Remold", "Marshy Body"]
+  powers: ["Jelly Skin", "Muck Spatter", "Remold", "Marshy Body"]
 }

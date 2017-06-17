@@ -10,5 +10,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Indulgence", "Benediction","Chain Heal","Fortuitous Blessings"]
+  powers: ["Indulgence", "Benediction","Chain Heal","Fortuitous Blessings"]
 }

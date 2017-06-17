@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Consonant Chains","Requiem","Dirge of Dissonance","Lament of Sadness"]
+  powers: ["Consonant Chains","Requiem","Dirge of Dissonance","Lament of Sadness"]
 }
