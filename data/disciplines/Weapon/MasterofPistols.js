@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Pistol Shot","Rapid Fire","Critical Dodge","Careful Aim"]
+  powers: ["pistol-shot","rapid-fire","critical-dodge","careful-aim"]
 }

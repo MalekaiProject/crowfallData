@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Aura of Terror","Needlin Haystack","Pin Cushion","Terrifying Features"]
+  powers: ["aura-of-terror","needlin-haystack","pin-cushion","terrifying-features"]
 }

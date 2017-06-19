@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Shield Breaker", "Dispel", "Reveal Weakness", "Rupture Barrier"]
+  powers: ["shield-breaker","dispel","reveal-weakness","rupture-barrier"]
 }

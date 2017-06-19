@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Uniform Leather"]
+  powers: ["uniform-leather"]
 }

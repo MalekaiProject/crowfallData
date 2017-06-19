@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Furious Slash","Demolish Armor","Berserker Strength"]
+  powers: ["furious-slash","demolish-armor","berserker-strength"]
 }

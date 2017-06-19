@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Grasping Roots","Soothing Winds","Stars Align","Quick Burn","Slow Growth"]
+  powers: ["grasping-roots","soothing-winds","stars-align","quick-burn","slow-growth"]
 }

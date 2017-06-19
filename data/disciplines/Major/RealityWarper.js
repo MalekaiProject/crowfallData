@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Alter Reality", "Tear Reality", "Crazy Pills"]
+  powers: ["alter-reality","tear-reality","crazy-pills"]
 }

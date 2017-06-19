@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Banner of Storms", "Rallying Banner", "Bearers Insignia"]
+  powers: ["banner-of-storms","rallying-banner","bearers-insignia"]
 }

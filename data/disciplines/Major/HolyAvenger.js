@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Grabthars Hammer", "Battle Chant", "Suns of Worvan", "You Shall Be Avenged"]
+  powers: ["grabthars-hammer","battle-chant","suns-of-worvan","you-shall-be-avenged"]
 }

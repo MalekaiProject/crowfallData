@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Shrivel","Decay","Festering Wounds","Touch of Rot"]
+  powers: ["shrivel","decay","festering-wounds","touch-of-rot"]
 }

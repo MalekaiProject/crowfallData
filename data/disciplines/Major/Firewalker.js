@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Fire Eater", "Reflect Heat", "Conduction"]
+  powers: ["fire-eater","reflect-heat","conduction"]
 }

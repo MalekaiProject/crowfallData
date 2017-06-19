@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Nova","Piercing Orb","Mana Shield","Mind Revenge"]
+  powers: ["nova","piercing-orb","mana-shield","mind-revenge"]
 }

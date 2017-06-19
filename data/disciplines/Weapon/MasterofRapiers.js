@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Critical Slice","Cut and Thrust","Hamstring"]
+  powers: ["critical-slice","cut-and-thrust","hamstring"]
 }

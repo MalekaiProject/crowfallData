@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Brutal Slam","Throw Illusion Shield","Mighty Shield Slam","Molon Labe"]
+  powers: ["brutal-slam","throw-illusion-shield","mighty-shield-slam","molon-labe"]
 }

@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers: ["Song of Speed","Guardian Rhythms","Hymn of Restoration","Verses of Victory"]
+  powers: ["song-of-speed","guardian-rhythms","hymn-of-restoration","verses-of-victory"]
 }
