@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Illusionary Armor",
+  name: 'Illusionary Armor',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "armor-of-faith" }
+    { type: 'discipline', sub_type: 'minor', id: 'armor-of-faith' }
   ],
-  type: "Hanging Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 20,
   cooldown: 45,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -15,6 +15,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Conjure an illusion effective enough to reduce incoming damage by 20% for 20 seconds.",
-  icon: ""
+  tooltip: 'Conjure an illusion effective enough to reduce incoming damage by 20% for 20 seconds.',
+  icon: ''
 };
