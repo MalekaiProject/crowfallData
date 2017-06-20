@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: 4.3,
   next_chain: ['cancel-combo-champion'],
+  previous_chain: ['massive-cleave'],
   cost: {
     pips: 0,
     resource: 11

@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: "",
   next_chain: ["coalesce-nature"],
+  previous_chain: ['coalesce-life'],
   cost: {
     pips: 0,
     resource: 46

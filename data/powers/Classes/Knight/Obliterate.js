@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 3,
   range: 5,
   next_chain: [],
+  previous_chain: ['brutal-strike, twin-assault'],
   cost: {
     pips: 0,
     resource: 10

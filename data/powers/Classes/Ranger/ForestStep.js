@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: "",
   next_chain: ["tendon-slice"],
+  previous_chain: [],
   cost: {
     pips: 0,
     resource: 34

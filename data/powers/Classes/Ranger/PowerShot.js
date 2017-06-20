@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 40,
   next_chain: ["multi-purpose-shot"],
+  previous_chain: ['straight-shot'],
   cost: {
     pips: 0,
     resource: 0

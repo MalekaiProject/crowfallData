@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 5,
   next_chain: [],
+  previous_chain: ['saber-attack-2'],
   cost: {
     pips: 0,
     resource: 0

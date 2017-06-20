@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: "",
   next_chain: [],
+  previous_chain: ['shroud-of-darkness'],
   cost: {
     pips: 0,
     resource: 79

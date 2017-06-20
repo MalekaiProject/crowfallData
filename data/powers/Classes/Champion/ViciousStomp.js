@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 6,
   next_chain: ["disarming-shout", "rend"],
+  previous_chain: [],
   cost: {
     pips: 0,
     resource: 7

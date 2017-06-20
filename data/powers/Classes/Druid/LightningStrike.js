@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: 35,
   next_chain: ["aurora-emitter"],
+  previous_chain: ['lightning-burst'],
   cost: {
     pips: 0,
     resource: 46

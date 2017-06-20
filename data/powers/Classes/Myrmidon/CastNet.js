@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 30,
   next_chain: ["net-pull", "charge"],
+  previous_chain: [],
   cost: {
     pips: 0,
     resource: 17

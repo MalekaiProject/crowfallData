@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: 6,
   next_chain: ["dagger-spin-3"],
+  previous_chain: ['dagger-spin'],
   cost: {
     pips: 0,
     resource: 34

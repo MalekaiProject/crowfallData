@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: 5,
   next_chain: ['cancel-combo-myrmidon'],
+  previous_chain: ['arcing-slash'],
   cost: {
     pips: 0,
     resource: 9

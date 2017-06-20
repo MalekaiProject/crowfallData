@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 5,
   next_chain: ["great-swing-3"],
+  previous_chain: ['great-swing-1'],
   cost: {
     pips: 0,
     resource: 0

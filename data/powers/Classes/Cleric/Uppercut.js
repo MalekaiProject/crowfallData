@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 6,
   next_chain: ["sunder-armor", "drive"],
+  previous_chain: ['no-quarter'],
   cost: {
     pips: 0,
     resource: 11
