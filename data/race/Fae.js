@@ -1,6 +1,6 @@
 
 exports.race = {
-  classes: ["Assassin","Druid","Frostweaver"],
+  classes: ["assassin","druid","frostweaver"],
   name: "Fae",
   description: "",
   icon: "https://crowfall.wiki/images/race/fae.png"

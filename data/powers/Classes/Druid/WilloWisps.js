@@ -1,9 +1,9 @@
 exports.power = {
   name: "Will o' Wisps",
   sources: [
-    { type: "class", id: "druid" }
-  ],
-  type: "Non-Agressive",
+		{ type: "class", id: "druid" }
+	],
+  type: "Non-Aggressive",
   cast_type: "Charged",
   duration: 0,
   cooldown: 25,

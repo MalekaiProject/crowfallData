@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "Until you learn to master your rage, your rage will become your master.",
   icon: "",
-  can_equip: ["Champion"],
+  classes: ["champion"],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],
@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Furious"]
+  powers: ["furious"]
 }

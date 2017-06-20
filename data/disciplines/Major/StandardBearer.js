@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Major",
   description: "A Standard Bearer is a member of a combat group that is responsible for carrying a distinctive mark, often times a flag, as a rallying sign. The added motivation a standard can bring is substantial enough to excite and inspire even the most fatigued of allies while acting as a waypoint for those in their company.",
   icon: "",
-  can_equip: ["Assassin","Champion","Cleric","Confessor","Druid","Duelist","Frostweaver","Knight","Myrmidon","Ranger","Templar"],
+  classes: ["assassin","champion","cleric","confessor","druid","duelist","frostweaver","knight","myrmidon","ranger","templar"],
   stats_granted: ["Physical Mitigation"],
   stats_values: [3.75],
   equips_granted: [],
@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Banner of Storms", "Rallying Banner", "Bearers Insignia"]
+  powers: ["banner-of-storms","rallying-banner","bearers-insignia"]
 }

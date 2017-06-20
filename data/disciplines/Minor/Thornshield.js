@@ -3,7 +3,7 @@ exports.discipline = {
   type: 'Minor',
   description: 'The Elken tend to view Thorns as a minor annoyance, a garnish, or something to eat around as they devour their victims.',
   icon: '',
-  can_equip: ['Assassin', 'Champion', 'Cleric', 'Confessor', 'Druid', 'Duelist', 'Frostweaver', 'Knight', 'Myrmidon', 'Ranger', 'Templar'],
+  classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],
@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: '',
   trays_removed: '',
-  powers_granted: ['Thornshield']
+  powers: ['thornshield']
 };

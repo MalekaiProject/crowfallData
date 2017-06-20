@@ -1,6 +1,6 @@
 
 exports.race = {
-  classes: ["Knight","Confessor","Templar","Ranger"],
+  classes: ["knight","confessor","templar","ranger"],
   name: "Elken",
   description: "",
   icon: "https://crowfall.wiki/images/race/elken.png"

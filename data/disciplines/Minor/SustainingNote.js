@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor",
   description: "Sometimes the wrists just need a break.",
   icon: "",
-  can_equip: ["Assassin", "Champion", "Cleric", "Confessor", "Druid", "Duelist", "Frostweaver", "Knight", "Myrmidon", "Ranger", "Templar"],
+  classes: ["assassin", "champion", "cleric", "confessor", "druid", "duelist", "frostweaver", "knight", "myrmidon", "ranger", "templar"],
   stats_granted: ["Song Duration"],
   stats_values: [6],
   equips_granted: [],
@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: []
+  powers: []
 }

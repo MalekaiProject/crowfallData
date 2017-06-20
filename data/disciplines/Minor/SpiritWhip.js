@@ -3,7 +3,7 @@ exports.discipline = {
   type: "Minor", 
   description: "Crack that whip and give the past the slip.  It's not too late... To spirit whip it!",
   icon: "",
-  can_equip: ["Assassin","Champion","Cleric","Confessor","Duelist","Knight","Myrmidon","Ranger","Templar"],
+  classes: ["assassin","champion","cleric","confessor","duelist","knight","myrmidon","ranger","templar"],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],
@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Spirit Whip"]
+  powers: ["spirit-whip"]
 }
