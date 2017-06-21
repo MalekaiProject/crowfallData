@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Retaliate (Knight)",
+  name: 'Retaliate (Knight)',
   sources: [
-    { type: "class", id: "knight" }
+    { type: 'class', id: 'knight' }
   ],
-  type: "Retaliate",
-  cast_type: "Instant",
+  type: 'Retaliate',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 30,
-  targeting: "Sphere",
+  targeting: 'Sphere',
   max_targets: 1,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down.",
-  icon: ""
+  tooltip: 'Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down.',
+  icon: ''
 };

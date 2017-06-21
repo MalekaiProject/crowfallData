@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Mortal Sin",
+  name: 'Mortal Sin',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "mortal-sin" }
+    { type: 'discipline', sub_type: 'minor', id: 'mortal-sin' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "You now apply Mortal Sin instead of Sin.  For each stack of Mortal Sin the target becomes more vulnerable to being Critically Hit by 2% per stack.  All powers that require Sin will also benefit from Mortal Sin.",
-  icon: ""
+  tooltip: 'You now apply Mortal Sin instead of Sin.  For each stack of Mortal Sin the target becomes more vulnerable to being Critically Hit by 2% per stack.  All powers that require Sin will also benefit from Mortal Sin.',
+  icon: ''
 };

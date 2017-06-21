@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Saber Attack 3",
+  name: 'Saber Attack 3',
   sources: [
-    { type: "class", id: "duelist" }
+    { type: 'class', id: 'duelist' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Attack for 69 - 104 + 86% Weapon Damage.",
-  icon: ""
+  tooltip: 'Attack for 69 - 104 + 86% Weapon Damage.',
+  icon: ''
 };

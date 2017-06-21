@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Lay Low",
+  name: 'Lay Low',
   sources: [
-    { type: "discipline", sub_type: "major", id: "agent-provocateur" }
+    { type: 'discipline', sub_type: 'major', id: 'agent-provocateur' }
   ],
-  type: "Non Aggressive",
-  cast_type: "Instant",
+  type: 'Non Aggressive',
+  cast_type: 'Instant',
   duration: 6,
   cooldown: 23,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Take it easy tending to your wounds and recovering 32-39 + 35% Weapon Damage a second for 6 seconds while maintaining Stealth.",
-  icon: ""
+  tooltip: 'Take it easy tending to your wounds and recovering 32-39 + 35% Weapon Damage a second for 6 seconds while maintaining Stealth.',
+  icon: ''
 };

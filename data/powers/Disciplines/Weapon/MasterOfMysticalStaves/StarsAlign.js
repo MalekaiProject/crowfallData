@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Stars Align",
+  name: 'Stars Align',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-mystical-staves" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-mystical-staves' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 20,
   cooldown: 45,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 5,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds.",
-  icon: ""
+  tooltip: 'Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds.',
+  icon: ''
 };

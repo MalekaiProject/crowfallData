@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Critical Slice",
+  name: 'Critical Slice',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-rapiers" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-rapiers' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["critical-slice-2"],
+  next_chain: ['critical-slice-2'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 11
   },
-  tooltip: "Slice an enemy for 77 - 105 + 91% Weapon Damage.",
-  icon: ""
+  tooltip: 'Slice an enemy for 77 - 105 + 91% Weapon Damage.',
+  icon: ''
 };

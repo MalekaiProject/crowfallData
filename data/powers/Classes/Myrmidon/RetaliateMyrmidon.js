@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Retaliate (Myrmidon)",
+  name: 'Retaliate (Myrmidon)',
   sources: [
-    { type: "class", id: "myrmidon" }
+    { type: 'class', id: 'myrmidon' }
   ],
-  type: "Retaliate",
-  cast_type: "Instant",
+  type: 'Retaliate',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 30,
-  targeting: "Sphere",
+  targeting: 'Sphere',
   max_targets: 3,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Jump to your feet, dealing 39 - 48 + 33% Weapon Damage to nearby enemies.",
-  icon: ""
+  tooltip: 'Jump to your feet, dealing 39 - 48 + 33% Weapon Damage to nearby enemies.',
+  icon: ''
 };

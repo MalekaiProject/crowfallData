@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Bloodstone Spin",
+  name: 'Bloodstone Spin',
   sources: [
-    { type: "class", id: "knight" }
+    { type: 'class', id: 'knight' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["bloodstone-spin"],
-  previous_chain: ['bloodstone-spin, emerald-slash'],
+  next_chain: ['bloodstone-spin'],
+  previous_chain: ['bloodstone-spin', 'emerald-slash'],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "A basic attack slashing spinning in front of you for 88 - 119 + 103% Weapon Damage and reducing movement speed by 50%. Scoring three or more consecutive basic attack hits activates SHIELD BASH.",
-  icon: ""
+  tooltip: 'A basic attack slashing spinning in front of you for 88 - 119 + 103% Weapon Damage and reducing movement speed by 50%. Scoring three or more consecutive basic attack hits activates SHIELD BASH.',
+  icon: ''
 };

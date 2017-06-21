@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Haunt",
+  name: 'Haunt',
   sources: [
-    { type: "discipline", sub_type: "major", id: "banshee" }
+    { type: 'discipline', sub_type: 'major', id: 'banshee' }
   ],
-  type: "Debuff",
-  cast_type: "Instant",
+  type: 'Debuff',
+  cast_type: 'Instant',
   duration: 20,
   cooldown: 23,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 3,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 14
   },
-  tooltip: "Haunt 3 enemies, reflecting 35% of their attack damage as Nature damage (max 1050) and healing you for 35% of damage taken.",
-  icon: ""
+  tooltip: 'Haunt 3 enemies, reflecting 35% of their attack damage as Nature damage (max 1050) and healing you for 35% of damage taken.',
+  icon: ''
 };

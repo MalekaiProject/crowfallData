@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Noble Purpose",
+  name: 'Noble Purpose',
   sources: [
-    { type: "discipline", sub_type: "major", id: "field-surgeon" }
+    { type: 'discipline', sub_type: 'major', id: 'field-surgeon' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Inspire yourself, taking stock of your life saving endeavors and recover Resource for every 10000 Health you restore.",
-  icon: ""
+  tooltip: 'Inspire yourself, taking stock of your life saving endeavors and recover Resource for every 10000 Health you restore.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Dodge (Duelist)",
+  name: 'Dodge (Duelist)',
   sources: [
-    { type: "class", id: "duelist" }
+    { type: 'class', id: 'duelist' }
   ],
-  type: "Non-Aggressive",
-  cast_type: "Instant",
+  type: 'Non-Aggressive',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Leap away from danger using your WASD direction.",
-  icon: ""
+  tooltip: 'Leap away from danger using your WASD direction.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "First Wind",
+  name: 'First Wind',
   sources: [
-    { type: "discipline", sub_type: "major", id: "runescarred-gladiator" }
+    { type: 'discipline', sub_type: 'major', id: 'runescarred-gladiator' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 4,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "After falling below 30% Health you heal rapidly if you avoid damage for 4 seconds until reaching 30% Health.",
-  icon: ""
+  tooltip: 'After falling below 30% Health you heal rapidly if you avoid damage for 4 seconds until reaching 30% Health.',
+  icon: ''
 };

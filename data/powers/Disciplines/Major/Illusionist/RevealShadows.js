@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Reveal Shadows",
+  name: 'Reveal Shadows',
   sources: [
-    { type: "discipline", sub_type: "major", id: "illusionist" }
+    { type: 'discipline', sub_type: 'major', id: 'illusionist' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 12,
   cooldown: 23,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 32
   },
-  tooltip: "Activates Shadow Sight for 12 seconds.",
-  icon: ""
+  tooltip: 'Activates Shadow Sight for 12 seconds.',
+  icon: ''
 };

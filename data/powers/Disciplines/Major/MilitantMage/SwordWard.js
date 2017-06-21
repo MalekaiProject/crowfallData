@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Sword Ward",
+  name: 'Sword Ward',
   sources: [
-    { type: "discipline", sub_type: "major", id: "militant-mage" }
+    { type: 'discipline', sub_type: 'major', id: 'militant-mage' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Enchant your armor with a ward against Slashing attacks increasing your Slashing Armor by 25.  Slashing attacks cause Sword Ward to slowly weaken temporarily.",
-  icon: ""
+  tooltip: 'Enchant your armor with a ward against Slashing attacks increasing your Slashing Armor by 25.  Slashing attacks cause Sword Ward to slowly weaken temporarily.',
+  icon: ''
 };

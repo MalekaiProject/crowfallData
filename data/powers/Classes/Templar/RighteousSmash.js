@@ -1,16 +1,16 @@
 exports.power = {
-  name: "Righteous Smash",
+  name: 'Righteous Smash',
   sources: [
     {
-      type: "class",
-      id: "templar"
+      type: 'class',
+      id: 'templar'
     }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 5,
   range: 5,
   next_chain: [],
@@ -19,6 +19,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Spin with an overhead chop hitting multiple enemies for 117 - 176 + 146% Weapon Damage and generating Righteousness for each hit.",
-  icon: ""
+  tooltip: 'Spin with an overhead chop hitting multiple enemies for 117 - 176 + 146% Weapon Damage and generating Righteousness for each hit.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Shadows Caress",
+  name: 'Shadows Caress',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "shadows-caress" }
+    { type: 'discipline', sub_type: 'minor', id: 'shadows-caress' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Increase your Health Regeneration by 350 while in Stealth.",
-  icon: ""
+  tooltip: 'Increase your Health Regeneration by 350 while in Stealth.',
+  icon: ''
 };

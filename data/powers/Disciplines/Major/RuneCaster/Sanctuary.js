@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Sanctuary",
+  name: 'Sanctuary',
   sources: [
-    { type: "discipline", sub_type: "major", id: "rune-caster" }
+    { type: 'discipline', sub_type: 'major', id: 'rune-caster' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 30,
   cooldown: 23,
-  targeting: "Area",
+  targeting: 'Area',
   max_targets: 5,
   range: 10,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 12
   },
-  tooltip: "Defend an area with a runic symbol increasing allies' All Armor by 20%.",
-  icon: ""
+  tooltip: 'Defend an area with a runic symbol increasing allies\' All Armor by 20%.',
+  icon: ''
 };

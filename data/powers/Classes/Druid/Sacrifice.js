@@ -1,15 +1,15 @@
 exports.power = {
-  name: "Sacrifice",
+  name: 'Sacrifice',
   sources: [
-    { type: "class", id: "druid" }
+    { type: 'class', id: 'druid' }
   ],
-  type: "Non-Aggressive",
-  cast_type: "Instant",
-  duration: "",
+  type: 'Non-Aggressive',
+  cast_type: 'Instant',
+  duration: '',
   cooldown: 5,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
@@ -17,6 +17,6 @@ exports.power = {
     resource: 0,
     health: 55
   },
-  tooltip: "Sacrifice 55 Health for 15% Essence.",
-  icon: ""
+  tooltip: 'Sacrifice 55 Health for 15% Essence.',
+  icon: ''
 };

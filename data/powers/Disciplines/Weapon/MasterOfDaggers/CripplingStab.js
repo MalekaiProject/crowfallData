@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Crippling Stab",
+  name: 'Crippling Stab',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-daggers" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-daggers' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 5,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["crippling-stab-2"],
+  next_chain: ['crippling-stab-2'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 7
   },
-  tooltip: "Stab an enemy for 48 - 64 + 56% Weapon Damage.",
-  icon: ""
+  tooltip: 'Stab an enemy for 48 - 64 + 56% Weapon Damage.',
+  icon: ''
 };

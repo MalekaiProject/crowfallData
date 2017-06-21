@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Suns of Worvan",
+  name: 'Suns of Worvan',
   sources: [
-    { type: "discipline", sub_type: "major", id: "holy-avenger" }
+    { type: 'discipline', sub_type: 'major', id: 'holy-avenger' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 15,
   cooldown: 23,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 13
   },
-  tooltip: "Gain a Fire damage immune Barrier for 15 seconds.",
-  icon: ""
+  tooltip: 'Gain a Fire damage immune Barrier for 15 seconds.',
+  icon: ''
 };

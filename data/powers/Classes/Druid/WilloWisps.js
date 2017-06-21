@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Will o' Wisps",
+  name: 'Will o\' Wisps',
   sources: [
-		{ type: "class", id: "druid" }
-	],
-  type: "Non-Aggressive",
-  cast_type: "Charged",
+		{ type: 'class', id: 'druid' }
+  ],
+  type: 'Non-Aggressive',
+  cast_type: 'Charged',
   duration: 0,
   cooldown: 25,
-  targeting: "Area",
+  targeting: 'Area',
   max_targets: 5,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 63
   },
-  tooltip: "Charge up and fling a Will o' Wisp to heal allies in a #range# area for 270 - 330 + 300% Weapon Damage.",
-  icon: ""
+  tooltip: 'Charge up and fling a Will o\' Wisp to heal allies in a #range# area for 270 - 330 + 300% Weapon Damage.',
+  icon: ''
 };

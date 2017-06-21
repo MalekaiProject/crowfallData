@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Cut and Thrust 2",
+  name: 'Cut and Thrust 2',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-pistols" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-pistols' }
   ],
-  type: "Debuff",
-  cast_type: "Instant",
+  type: 'Debuff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 10
   },
-  tooltip: "Penetrate an enemy's Block or Parry Stunning them and inflicting 70 - 95 + 83% Weapon Damage.",
-  icon: ""
+  tooltip: 'Penetrate an enemy\'s Block or Parry Stunning them and inflicting 70 - 95 + 83% Weapon Damage.',
+  icon: ''
 };

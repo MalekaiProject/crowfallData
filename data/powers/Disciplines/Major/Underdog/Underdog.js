@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Underdog",
+  name: 'Underdog',
   sources: [
-    { type: "discipline", sub_type: "major", id: "underdog" }
+    { type: 'discipline', sub_type: 'major', id: 'underdog' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 30,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Come back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 300 for 30 seconds. This effect can stack with itself.",
-  icon: ""
+  tooltip: 'Come back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 300 for 30 seconds. This effect can stack with itself.',
+  icon: ''
 };

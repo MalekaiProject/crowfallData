@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Crippling Stab 2",
+  name: 'Crippling Stab 2',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-daggers" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-daggers' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 15,
   cooldown: 30,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 6
   },
-  tooltip: "Traumatize an enemy increasing their cooldown times and causing 49 - 67 + 58% Weapon Damage.",
-  icon: ""
+  tooltip: 'Traumatize an enemy increasing their cooldown times and causing 49 - 67 + 58% Weapon Damage.',
+  icon: ''
 };

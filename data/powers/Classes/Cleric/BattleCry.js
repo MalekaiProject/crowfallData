@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Battle Cry",
+  name: 'Battle Cry',
   sources: [
-    { type: "class", id: "cleric" }
+    { type: 'class', id: 'cleric' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 45,
-  targeting: "Group",
+  targeting: 'Group',
   max_targets: 5,
   range: 2,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 12
   },
-  tooltip: "Removes all movement impairing effects. Increases group movement speed by 10%.",
-  icon: ""
+  tooltip: 'Removes all movement impairing effects. Increases group movement speed by 10%.',
+  icon: ''
 };

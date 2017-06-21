@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Numbness",
+  name: 'Numbness',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-shields" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-shields' }
   ],
-  type: "Passive",
-  cast_type: "",
+  type: 'Passive',
+  cast_type: '',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Reduce the cost of Blocking high damage attacks.",
-  icon: ""
+  tooltip: 'Reduce the cost of Blocking high damage attacks.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Mithradatism",
+  name: 'Mithradatism',
   sources: [
-    { type: "discipline", sub_type: "major", id: "poisoner" }
+    { type: 'discipline', sub_type: 'major', id: 'poisoner' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Remove all Poison effects from yourself.",
-  icon: ""
+  tooltip: 'Remove all Poison effects from yourself.',
+  icon: ''
 };

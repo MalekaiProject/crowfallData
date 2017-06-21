@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Charge",
+  name: 'Charge',
   sources: [
-    { type: "class", id: "myrmidon" }
+    { type: 'class', id: 'myrmidon' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Reticle",
+  targeting: 'Reticle',
   max_targets: 1,
   range: 30,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 13
   },
-  tooltip: "Charge toward your target inflicting 72 - 88 + 80% Weapon Damage.",
-  icon: ""
+  tooltip: 'Charge toward your target inflicting 72 - 88 + 80% Weapon Damage.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Pin Cushion",
+  name: 'Pin Cushion',
   sources: [
-    { type: "discipline", sub_type: "major", id: "scarecrow" }
+    { type: 'discipline', sub_type: 'major', id: 'scarecrow' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 15,
   cooldown: 45,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Gain a Piercing damage immune Barrier for 15 seconds.",
-  icon: ""
+  tooltip: 'Gain a Piercing damage immune Barrier for 15 seconds.',
+  icon: ''
 };

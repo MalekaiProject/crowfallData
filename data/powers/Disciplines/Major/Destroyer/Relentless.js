@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Relentless (Destroyer)",
+  name: 'Relentless (Destroyer)',
   sources: [
-    { type: "discipline", sub_type: "major", id: "destroyer" }
+    { type: 'discipline', sub_type: 'major', id: 'destroyer' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "You no longer degenerate Rage.  Instead, you generate 1.5 Rage every 1 second while in Combat.",
-  icon: ""
+  tooltip: 'You no longer degenerate Rage.  Instead, you generate 1.5 Rage every 1 second while in Combat.',
+  icon: ''
 };

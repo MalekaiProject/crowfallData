@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Dagger Spin 4",
+  name: 'Dagger Spin 4',
   sources: [
-    { type: "class", id: "ranger" }
+    { type: 'class', id: 'ranger' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 5,
-  targeting: "Sphere",
+  targeting: 'Sphere',
   max_targets: 5,
   range: 6,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 34
   },
-  tooltip: "Spin in place and deal 57 - 77 + 67% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power.",
-  icon: ""
+  tooltip: 'Spin in place and deal 57 - 77 + 67% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power.',
+  icon: ''
 };

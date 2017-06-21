@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Reproach",
+  name: 'Reproach',
   sources: [
-    { type: "class", id: "templar" }
+    { type: 'class', id: 'templar' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 5,
   range: 5,
-  next_chain: ["castigate"],
+  next_chain: ['castigate'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Slash multiple enemies for 54 - 81 + 67% Weapon Damage.",
-  icon: ""
+  tooltip: 'Slash multiple enemies for 54 - 81 + 67% Weapon Damage.',
+  icon: ''
 };

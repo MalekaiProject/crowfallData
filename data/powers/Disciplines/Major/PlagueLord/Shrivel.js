@@ -1,17 +1,17 @@
 exports.power = {
-  name: "Shrivel",
+  name: 'Shrivel',
   sources: [
     {
-      type: "discipline",
-      sub_type: "major",
-      id: "plague-lord"
+      type: 'discipline',
+      sub_type: 'major',
+      id: 'plague-lord'
     }
   ],
-  type: "Debuff",
-  cast_type: "Charged",
+  type: 'Debuff',
+  cast_type: 'Charged',
   duration: 0,
   cooldown: 45,
-  targeting: "Ray",
+  targeting: 'Ray',
   max_targets: 1,
   range: 30,
   next_chain: [],
@@ -20,6 +20,6 @@ exports.power = {
     pips: 0,
     resource: 13
   },
-  tooltip: "Curse an enemy with Disease and Black Mantle, absorbing up to 500 points of Healing.  If Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
-  icon: ""
+  tooltip: 'Curse an enemy with Disease and Black Mantle, absorbing up to 500 points of Healing.  If Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.',
+  icon: ''
 };

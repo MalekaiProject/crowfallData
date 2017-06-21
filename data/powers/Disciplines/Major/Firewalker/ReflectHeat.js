@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Reflect Heat",
+  name: 'Reflect Heat',
   sources: [
-    { type: "discipline", sub_type: "major", id: "firewalker" }
+    { type: 'discipline', sub_type: 'major', id: 'firewalker' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 45,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 6
   },
-  tooltip: "Reflects 50% Fire Weapon Damage back to the source of a Fire damage attack.",
-  icon: ""
+  tooltip: 'Reflects 50% Fire Weapon Damage back to the source of a Fire damage attack.',
+  icon: ''
 };

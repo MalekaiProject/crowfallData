@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Strike",
+  name: 'Strike',
   sources: [
-    { type: "class", id: "cleric" }
+    { type: 'class', id: 'cleric' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["side-strike"],
+  next_chain: ['side-strike'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Strike in front of you for 90 - 110 + 100% Weapon Damage, generating 0.9 Rage #restore_type_time# if you hit.",
-  icon: ""
+  tooltip: 'Strike in front of you for 90 - 110 + 100% Weapon Damage, generating 0.9 Rage #restore_type_time# if you hit.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Nova",
+  name: 'Nova',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-focus" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-focus' }
   ],
-  type: "Debuff",
-  cast_type: "Instant",
+  type: 'Debuff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Area",
+  targeting: 'Area',
   max_targets: 5,
   range: 15,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 1
   },
-  tooltip: "Draw enemies toward you repeatedly inflicting 2 - 3 + 2% Weapon Damage.",
-  icon: ""
+  tooltip: 'Draw enemies toward you repeatedly inflicting 2 - 3 + 2% Weapon Damage.',
+  icon: ''
 };

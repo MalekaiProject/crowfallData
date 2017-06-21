@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Cleave",
+  name: 'Cleave',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-hammers" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-hammers' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Basic attacks hit one additional target.",
-  icon: ""
+  tooltip: 'Basic attacks hit one additional target.',
+  icon: ''
 };

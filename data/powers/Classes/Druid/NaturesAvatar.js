@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Nature's Avatar",
+  name: 'Nature\'s Avatar',
   sources: [
-    { type: "class", id: "druid" }
+    { type: 'class', id: 'druid' }
   ],
-  type: "Buff",
-  cast_type: "Charged",
+  type: 'Buff',
+  cast_type: 'Charged',
   duration: 0,
   cooldown: 0,
-  targeting: "Reticle",
+  targeting: 'Reticle',
   max_targets: 1,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 35
   },
-  tooltip: "Empowers an ally with a 75% Damage Bonus buff while you channel.",
-  icon: ""
+  tooltip: 'Empowers an ally with a 75% Damage Bonus buff while you channel.',
+  icon: ''
 };

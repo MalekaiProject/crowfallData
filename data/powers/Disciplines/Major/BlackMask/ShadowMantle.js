@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Shadow Mantle",
+  name: 'Shadow Mantle',
   sources: [
-    { type: "discipline", sub_type: "major", id: "black-mask" }
+    { type: 'discipline', sub_type: 'major', id: 'black-mask' }
   ],
-  type: "Ranged Attack",
-  cast_type: "",
+  type: 'Ranged Attack',
+  cast_type: '',
   duration: 0,
   cooldown: 0,
-  targeting: "",
+  targeting: '',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Attack: Reduce Healing Received",
-  icon: ""
+  tooltip: 'Attack: Reduce Healing Received',
+  icon: ''
 };

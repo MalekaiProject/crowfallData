@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Warp Metal",
+  name: 'Warp Metal',
   sources: [
-    { type: "discipline", sub_type: "major", id: "militant-mage" }
+    { type: 'discipline', sub_type: 'major', id: 'militant-mage' }
   ],
-  type: "Debuff",
-  cast_type: "Instant",
+  type: 'Debuff',
+  cast_type: 'Instant',
   duration: 8,
   cooldown: 30,
-  targeting: "Ray",
+  targeting: 'Ray',
   max_targets: 1,
   range: 15,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Curse an enemy with a destructive aura increasing Resource Cost for each Slashing damage attack they commit.",
-  icon: ""
+  tooltip: 'Curse an enemy with a destructive aura increasing Resource Cost for each Slashing damage attack they commit.',
+  icon: ''
 };

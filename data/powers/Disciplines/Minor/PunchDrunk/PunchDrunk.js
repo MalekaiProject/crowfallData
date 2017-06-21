@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Punch Drunk",
+  name: 'Punch Drunk',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "punch-drunk" }
+    { type: 'discipline', sub_type: 'minor', id: 'punch-drunk' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "If you take more than 15% of your maximum health as damage in 2 seconds, reset the cooldowns on all powers currently on cooldown.",
-  icon: ""
+  tooltip: 'If you take more than 15% of your maximum health as damage in 2 seconds, reset the cooldowns on all powers currently on cooldown.',
+  icon: ''
 };

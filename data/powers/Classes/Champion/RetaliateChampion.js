@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Retaliate (Champion)",
+  name: 'Retaliate (Champion)',
   sources: [
-    { type: "class", id: "champion" }
+    { type: 'class', id: 'champion' }
   ],
-  type: "Retaliate",
-  cast_type: "Instant",
+  type: 'Retaliate',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 30,
-  targeting: "Sphere",
+  targeting: 'Sphere',
   max_targets: 3,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.",
-  icon: ""
+  tooltip: 'Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.',
+  icon: ''
 };

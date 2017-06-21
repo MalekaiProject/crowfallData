@@ -1,15 +1,15 @@
 exports.discipline = {
-  name: "Mortal Sin",
-  type: "Minor",
-  description: "Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.",
-  icon: "",
-  classes: ["confessor", "templar"],
+  name: 'Mortal Sin',
+  type: 'Minor',
+  description: 'Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.',
+  icon: '',
+  classes: ['confessor', 'templar'],
   stats_granted: [],
   stats_values: [],
   equips_granted: [],
   slots_granted: [],
   slots_removed: [],
-  trays_granted: "",
-  trays_removed: "",
-  powers: ["mortal-sin"]
-}
+  trays_granted: '',
+  trays_removed: '',
+  powers: ['mortal-sin']
+};

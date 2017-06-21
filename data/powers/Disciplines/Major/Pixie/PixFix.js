@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Pix Fix",
+  name: 'Pix Fix',
   sources: [
-    { type: "discipline", sub_type: "major", id: "pixie" }
+    { type: 'discipline', sub_type: 'major', id: 'pixie' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "All 'chain type' heals jump to 1 additional target.  Also reduces the amount of healing falloff per jump by 50%.",
-  icon: ""
+  tooltip: 'All \'chain type\' heals jump to 1 additional target.  Also reduces the amount of healing falloff per jump by 50%.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Critical Dodge",
+  name: 'Critical Dodge',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-pistols" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-pistols' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Recover one Dodge when hitting critically.  This effect can occur twice in 45 seconds.",
-  icon: ""
+  tooltip: 'Recover one Dodge when hitting critically.  This effect can occur twice in 45 seconds.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Quick Burn",
+  name: 'Quick Burn',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-mystical-staves" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-mystical-staves' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 5,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Tip the scales towards Death increasing your Essence Gain by 50%.",
-  icon: ""
+  tooltip: 'Tip the scales towards Death increasing your Essence Gain by 50%.',
+  icon: ''
 };

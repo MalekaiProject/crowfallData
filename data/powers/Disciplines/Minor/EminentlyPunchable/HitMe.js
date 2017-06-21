@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Hit Me",
+  name: 'Hit Me',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "eminently-punchable" }
+    { type: 'discipline', sub_type: 'minor', id: 'eminently-punchable' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Irritate your ennemies by recovering Resource when they hit you with non-periodic damage.",
-  icon: ""
+  tooltip: 'Irritate your ennemies by recovering Resource when they hit you with non-periodic damage.',
+  icon: ''
 };

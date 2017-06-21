@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Grabthars Hammer",
+  name: 'Grabthars Hammer',
   sources: [
-    { type: "discipline", sub_type: "major", id: "holy-avenger" }
+    { type: 'discipline', sub_type: 'major', id: 'holy-avenger' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["grabthars-hammer-2"],
+  next_chain: ['grabthars-hammer-2'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 11
   },
-  tooltip: "Smite an enemy for 91 - 124 + 108% Weapon Damage.",
-  icon: ""
+  tooltip: 'Smite an enemy for 91 - 124 + 108% Weapon Damage.',
+  icon: ''
 };
