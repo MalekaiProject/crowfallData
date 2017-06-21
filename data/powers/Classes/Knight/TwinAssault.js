@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 7.5,
   next_chain: ["shockwave", "obliterate"],
+  previous_chain: ['onslaught'],
   cost: {
     pips: 0,
     resource: 14

@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 30,
   next_chain: [],
+  previous_chain: ['cast-net'],
   cost: {
     pips: 0,
     resource: 13

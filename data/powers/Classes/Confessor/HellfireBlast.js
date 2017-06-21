@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: 30,
   next_chain: [],
+  previous_chain: ['fire-wave'],
   cost: {
     pips: 0,
     resource: 80

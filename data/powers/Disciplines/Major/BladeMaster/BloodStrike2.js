@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: 5,
   next_chain: ["blood-strike-3"],
+  previous_chain: ['blood-strike'],
   cost: {
     pips: 0,
     resource: 12

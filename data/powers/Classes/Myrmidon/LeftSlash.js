@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 5.5,
   next_chain: ["double-slash"],
+  previous_chain: ['right-slash'],
   cost: {
     pips: 0,
     resource: 19

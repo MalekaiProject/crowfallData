@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: '',
   next_chain: [],
+  previous_chain: ['whirlwind'],
   cost: {
     pips: 0,
     resource: 0

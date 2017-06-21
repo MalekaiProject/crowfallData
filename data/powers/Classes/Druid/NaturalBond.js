@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: "",
   next_chain: ["contain-essence", "empower"],
+  previous_chain: ['natures-grace'],
   cost: {
     pips: 0,
     resource: 18

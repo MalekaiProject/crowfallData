@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 35,
   next_chain: [],
+  previous_chain: ['form-life'],
   cost: {
     pips: 0,
     resource: 0

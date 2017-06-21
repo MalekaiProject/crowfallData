@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 5,
   next_chain: ["discipling-strike"],
+  previous_chain: ['strike'],
   cost: {
     pips: 0,
     resource: 0

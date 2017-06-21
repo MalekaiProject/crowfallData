@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 40,
   next_chain: ["forced-confession"],
+  previous_chain: [],
   cost: {
     pips: 0,
     resource: 70

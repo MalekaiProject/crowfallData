@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 1,
   range: 25,
   next_chain: ["multi-fireball"],
+  previous_chain: ['fireball'],
   cost: {
     pips: 0,
     resource: 0

@@ -11,6 +11,7 @@ exports.power = {
   max_targets: 5,
   range: 3.6,
   next_chain: ["fire-tornados"],
+  previous_chain: ['hellfire-shield'],
   cost: {
     pips: 0,
     resource: 80
