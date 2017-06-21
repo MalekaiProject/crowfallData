@@ -1,5 +1,5 @@
 exports.power = {
-  name: 'Shield Whiz',
+  name: 'Infinite Angles',
   sources: [
     { type: 'discipline', sub_type: 'minor', id: 'shield-whiz' }
   ],
