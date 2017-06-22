@@ -3,7 +3,7 @@ exports.power = {
   sources: [
     { type: 'discipline', sub_type: 'major', id: 'agent-provocateur' }
   ],
-  type: 'Non Aggressive',
+  type: 'Non-Aggressive',
   cast_type: 'Instant',
   duration: 6,
   cooldown: 23,
