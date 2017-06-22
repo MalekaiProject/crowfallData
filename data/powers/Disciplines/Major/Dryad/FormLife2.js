@@ -3,7 +3,7 @@ exports.power = {
   sources: [
     { type: 'discipline', sub_type: 'major', id: 'dryad' }
   ],
-  type: 'Non-Aggresive',
+  type: 'Non-Aggressive',
   cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
