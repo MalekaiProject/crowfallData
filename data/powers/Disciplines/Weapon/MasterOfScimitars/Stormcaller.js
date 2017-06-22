@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Stormcaller",
+  name: 'Stormcaller',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-scimitars" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-scimitars' }
   ],
-  type: "Passive",
-  cast_type: "",
+  type: 'Passive',
+  cast_type: '',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Forgoing access to Life abilities, your focus on Death allows you to generate Essence while in Combat.  In order to maintain balance, damaging enemies has a chance to Coalesce Life.",
-  icon: ""
+  tooltip: 'Forgoing access to Life abilities, your focus on Death allows you to generate Essence while in Combat.  In order to maintain balance, damaging enemies has a chance to Coalesce Life.',
+  icon: ''
 };

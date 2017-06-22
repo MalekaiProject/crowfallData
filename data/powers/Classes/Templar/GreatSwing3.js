@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Great Swing 3",
+  name: 'Great Swing 3',
   sources: [
-    { type: "class", id: "templar" }
+    { type: 'class', id: 'templar' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Attack for 74 - 111 + 93% Weapon Damage and generates a point of Righteousness.",
-  icon: ""
+  tooltip: 'Attack for 74 - 111 + 93% Weapon Damage and generates a point of Righteousness.',
+  icon: ''
 };

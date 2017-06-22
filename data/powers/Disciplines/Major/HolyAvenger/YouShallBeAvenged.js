@@ -1,13 +1,13 @@
 exports.power = {
-  name: "You Shall Be Avenged",
+  name: 'You Shall Be Avenged',
   sources: [
-    { type: "discipline", sub_type: "major", id: "holy-avenger" }
+    { type: 'discipline', sub_type: 'major', id: 'holy-avenger' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Increase your Attack Power when a group member dies.",
-  icon: ""
+  tooltip: 'Increase your Attack Power when a group member dies.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Weapon Oil",
+  name: 'Weapon Oil',
   sources: [
-    { type: "discipline", sub_type: "major", id: "escape-artist" }
+    { type: 'discipline', sub_type: 'major', id: 'escape-artist' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 5,
   cooldown: 45,
-  targeting: "Group",
+  targeting: 'Group',
   max_targets: 5,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Restore group members and yourself to full combat readiness removing and gaining immunity to Attack Crowd Control effects for 5 seconds. Weapon Oil can be used while Suppressed.",
-  icon: ""
+  tooltip: 'Restore group members and yourself to full combat readiness removing and gaining immunity to Attack Crowd Control effects for 5 seconds. Weapon Oil can be used while Suppressed.',
+  icon: ''
 };

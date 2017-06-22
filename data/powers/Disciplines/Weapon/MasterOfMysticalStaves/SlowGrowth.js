@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Slow Growth",
+  name: 'Slow Growth',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-mystical-staves" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-mystical-staves' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 5,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Favor the forces of Life reducing your Essence Gain by 50%.",
-  icon: ""
+  tooltip: 'Favor the forces of Life reducing your Essence Gain by 50%.',
+  icon: ''
 };

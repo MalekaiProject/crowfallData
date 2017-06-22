@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Side Strike",
+  name: 'Side Strike',
   sources: [
-    { type: "class", id: "cleric" }
+    { type: 'class', id: 'cleric' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["discipling-strike"],
+  next_chain: ['discipling-strike'],
   previous_chain: ['strike'],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Strike in front of you for 108 - 132 + 120% Weapon Damage.",
-  icon: ""
+  tooltip: 'Strike in front of you for 108 - 132 + 120% Weapon Damage.',
+  icon: ''
 };

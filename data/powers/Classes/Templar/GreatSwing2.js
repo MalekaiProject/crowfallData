@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Great Swing 2",
+  name: 'Great Swing 2',
   sources: [
-    { type: "class", id: "templar" }
+    { type: 'class', id: 'templar' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["great-swing-3"],
+  next_chain: ['great-swing-3'],
   previous_chain: ['great-swing-1'],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Attack for 58 - 87 + 73% Weapon Damage.",
-  icon: ""
+  tooltip: 'Attack for 58 - 87 + 73% Weapon Damage.',
+  icon: ''
 };

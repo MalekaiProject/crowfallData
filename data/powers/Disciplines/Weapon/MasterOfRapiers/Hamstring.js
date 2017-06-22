@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Hamstring",
+  name: 'Hamstring',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-rapiers" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-rapiers' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Your last basic attack will cripple an enemy, applying a Movement Debuff.",
-  icon: ""
+  tooltip: 'Your last basic attack will cripple an enemy, applying a Movement Debuff.',
+  icon: ''
 };

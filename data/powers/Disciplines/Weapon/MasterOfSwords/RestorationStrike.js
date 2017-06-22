@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Restoration Strike",
+  name: 'Restoration Strike',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-swords" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-swords' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["restoration-strike-2"],
+  next_chain: ['restoration-strike-2'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 17
   },
-  tooltip: "Slice an enemy for 117-159 + 138% Weapon Damage.",
-  icon: ""
+  tooltip: 'Slice an enemy for 117-159 + 138% Weapon Damage.',
+  icon: ''
 };

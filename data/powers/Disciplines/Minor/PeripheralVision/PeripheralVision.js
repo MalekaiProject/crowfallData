@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Peripheral Vision",
+  name: 'Peripheral Vision',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "peripheral-vision" }
+    { type: 'discipline', sub_type: 'minor', id: 'peripheral-vision' }
   ],
-  type: "Passive",
-  cast_type: "",
+  type: 'Passive',
+  cast_type: '',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Allows you to see into the shadows while actively harvesting.",
-  icon: ""
+  tooltip: 'Allows you to see into the shadows while actively harvesting.',
+  icon: ''
 };

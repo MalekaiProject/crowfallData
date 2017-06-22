@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Preparation",
+  name: 'Preparation',
   sources: [
-    { type: "discipline", sub_type: "major", id: "agent-provocateur" }
+    { type: 'discipline', sub_type: 'major', id: 'agent-provocateur' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 30,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Plan your next attack when entering Stealth immediately recovering a pip if you don't have one and periodically gaining additional Pips every 30 seconds as you maintain Stealth.",
-  icon: ""
+  tooltip: 'Plan your next attack when entering Stealth immediately recovering a pip if you don\'t have one and periodically gaining additional Pips every 30 seconds as you maintain Stealth.',
+  icon: ''
 };

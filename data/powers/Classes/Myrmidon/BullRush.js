@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Bull Rush",
+  name: 'Bull Rush',
   sources: [
-    { type: "class", id: "myrmidon" }
+    { type: 'class', id: 'myrmidon' }
   ],
-  type: "Crowd Control",
-  cast_type: "Hold Channeled",
+  type: 'Crowd Control',
+  cast_type: 'Hold Channeled',
   duration: 0,
   cooldown: 9,
-  targeting: "Rectangle",
+  targeting: 'Rectangle',
   max_targets: 3,
   range: 7,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 33
   },
-  tooltip: "Charge forward dragging enemies along with you and causing 82 - 100 + 91% Weapon Damage. Enemies are flung into the air if the attack is over 65% charged.",
-  icon: ""
+  tooltip: 'Charge forward dragging enemies along with you and causing 82 - 100 + 91% Weapon Damage. Enemies are flung into the air if the attack is over 65% charged.',
+  icon: ''
 };

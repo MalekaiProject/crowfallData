@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Vision of the All Father",
+  name: 'Vision of the All Father',
   sources: [
-    { type: "discipline", sub_type: "major", id: "secutor" }
+    { type: 'discipline', sub_type: 'major', id: 'secutor' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Gain Immunity to Blind effects.",
-  icon: ""
+  tooltip: 'Gain Immunity to Blind effects.',
+  icon: ''
 };

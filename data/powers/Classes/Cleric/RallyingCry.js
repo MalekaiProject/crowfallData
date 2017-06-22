@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Rallying Cry",
+  name: 'Rallying Cry',
   sources: [
-    { type: "class", id: "cleric" }
+    { type: 'class', id: 'cleric' }
   ],
-  type: "Ultimate",
-  cast_type: "Instant",
+  type: 'Ultimate',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Group",
+  targeting: 'Group',
   max_targets: 5,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Instantly Heal up to 5 group members and yourself for 563 - 688. Applies Rally to group members which increases Critical Hit Change by 15%.",
-  icon: ""
+  tooltip: 'Instantly Heal up to 5 group members and yourself for 563 - 688. Applies Rally to group members which increases Critical Hit Change by 15%.',
+  icon: ''
 };

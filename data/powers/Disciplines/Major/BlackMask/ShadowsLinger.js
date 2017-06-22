@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Shadows Linger",
+  name: 'Shadows Linger',
   sources: [
-    { type: "discipline", sub_type: "major", id: "black-mask" }
+    { type: 'discipline', sub_type: 'major', id: 'black-mask' }
   ],
-  type: "Passive",
-  cast_type: "",
+  type: 'Passive',
+  cast_type: '',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Coming Soon",
-  icon: ""
+  tooltip: 'Coming Soon',
+  icon: ''
 };

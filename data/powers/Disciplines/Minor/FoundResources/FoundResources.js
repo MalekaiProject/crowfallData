@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Found Resources",
+  name: 'Found Resources',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "found-resources" }
+    { type: 'discipline', sub_type: 'minor', id: 'found-resources' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Return to a minimum of two pips when entering stealth.",
-  icon: ""
+  tooltip: 'Return to a minimum of two pips when entering stealth.',
+  icon: ''
 };

@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Faith",
+  name: 'Faith',
   sources: [
-    { type: "class", id: "templar" }
+    { type: 'class', id: 'templar' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Dropping under 35% Health automatically activates the effects of Holy Warrior. Activating Holy Warrior at the same time prevents death until the effect has ended.",
-  icon: ""
+  tooltip: 'Dropping under 35% Health automatically activates the effects of Holy Warrior. Activating Holy Warrior at the same time prevents death until the effect has ended.',
+  icon: ''
 };

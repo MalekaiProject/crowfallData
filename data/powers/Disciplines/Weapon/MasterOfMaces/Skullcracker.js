@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Skullcracker",
+  name: 'Skullcracker',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-maces" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-maces' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["skullcracker-2"],
+  next_chain: ['skullcracker-2'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 10
   },
-  tooltip: "Strike an enemy with your mace for 68 - 92 + 80% Weapon Damage.",
-  icon: ""
+  tooltip: 'Strike an enemy with your mace for 68 - 92 + 80% Weapon Damage.',
+  icon: ''
 };

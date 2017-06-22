@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Leave Burrow",
+  name: 'Leave Burrow',
   sources: [
-    { type: "class", id: "duelist" }
+    { type: 'class', id: 'duelist' }
   ],
-  type: "Transformation",
-  cast_type: "Instant",
+  type: 'Transformation',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Leave your Burrow, becoming fully visible and switching to your normal power tray.",
-  icon: ""
+  tooltip: 'Leave your Burrow, becoming fully visible and switching to your normal power tray.',
+  icon: ''
 };

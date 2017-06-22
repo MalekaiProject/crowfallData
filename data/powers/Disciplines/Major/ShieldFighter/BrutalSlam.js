@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Brutal Slam",
+  name: 'Brutal Slam',
   sources: [
-    { type: "discipline", sub_type: "major", id: "shield-fighter" }
+    { type: 'discipline', sub_type: 'major', id: 'shield-fighter' }
   ],
-  type: "Debuff",
-  cast_type: "Instant",
+  type: 'Debuff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 45,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 5,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Strike with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Armor by 20.",
-  icon: ""
+  tooltip: 'Strike with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Armor by 20.',
+  icon: ''
 };

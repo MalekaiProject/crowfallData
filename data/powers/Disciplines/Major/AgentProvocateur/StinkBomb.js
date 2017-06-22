@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Stink Bomb",
+  name: 'Stink Bomb',
   sources: [
-    { type: "discipline", sub_type: "major", id: "agent-provocateur" }
+    { type: 'discipline', sub_type: 'major', id: 'agent-provocateur' }
   ],
-  type: "Crowd Control",
-  cast_type: "Ground Aimed",
+  type: 'Crowd Control',
+  cast_type: 'Ground Aimed',
   duration: 0,
   cooldown: 30,
-  targeting: "Area",
+  targeting: 'Area',
   max_targets: 5,
   range: 35,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 13
   },
-  tooltip: "Torment enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth.",
-  icon: ""
+  tooltip: 'Torment enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth.',
+  icon: ''
 };

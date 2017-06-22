@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Relentless (Champion)",
+  name: 'Relentless (Champion)',
   sources: [
-    { type: "class", id: "champion" }
+    { type: 'class', id: 'champion' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "You no longer degenerate Rage. Instead, you generate 1.5 Rage every 1 second while in Combat.",
-  icon: ""
+  tooltip: 'You no longer degenerate Rage. Instead, you generate 1.5 Rage every 1 second while in Combat.',
+  icon: ''
 };

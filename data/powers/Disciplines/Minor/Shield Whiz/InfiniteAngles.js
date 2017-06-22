@@ -1,10 +1,10 @@
 exports.power = {
-  name: 'Uniform Leather',
+  name: 'Infinite Angles',
   sources: [
-    { type: 'discipline', sub_type: 'minor', id: 'uniform-leather' }
+    { type: 'discipline', sub_type: 'minor', id: 'shield-whiz' }
   ],
   type: 'Passive',
-  cast_type: 'Passive',
+  cast_type: '',
   duration: 0,
   cooldown: 0,
   targeting: 'Self',
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: 'Increase your Attack Power by 350 when wearing a full set of Leather armor.',
+  tooltip: 'Shield Throws now apply a movement speed reduction to all targets hit.',
   icon: ''
 };

@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Furious Slash",
+  name: 'Furious Slash',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-axes" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-axes' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 0,
-  next_chain: ["furious-slash-2"],
+  next_chain: ['furious-slash-2'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 16
   },
-  tooltip: "Hack at an enemy for 110 - 149 + 129% Weapon Damage.",
-  icon: ""
+  tooltip: 'Hack at an enemy for 110 - 149 + 129% Weapon Damage.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Minor Accompaniment",
+  name: 'Minor Accompaniment',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "minor-accompaniment" }
+    { type: 'discipline', sub_type: 'minor', id: 'minor-accompaniment' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Increase your Song Damage by 20%.",
-  icon: ""
+  tooltip: 'Increase your Song Damage by 20%.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Scatter Horde",
+  name: 'Scatter Horde',
   sources: [
-    { type: "class", id: "cleric" }
+    { type: 'class', id: 'cleric' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 24,
-  targeting: "Sphere",
+  targeting: 'Sphere',
   max_targets: 5,
   range: 6,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 23
   },
-  tooltip: "Rear and smash into the ground damaging 8 enemies in the area for 120 - 146 + 133% Weapon Damage, and pushing them back.",
-  icon: ""
+  tooltip: 'Rear and smash into the ground damaging 8 enemies in the area for 120 - 146 + 133% Weapon Damage, and pushing them back.',
+  icon: ''
 };

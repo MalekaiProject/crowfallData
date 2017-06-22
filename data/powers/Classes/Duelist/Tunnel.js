@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Tunnel",
+  name: 'Tunnel',
   sources: [
-    { type: "class", id: "duelist" }
+    { type: 'class', id: 'duelist' }
   ],
-  type: "Non-Aggressive",
-  cast_type: "Instant",
+  type: 'Non-Aggressive',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
-  range: "",
+  range: '',
   next_chain: [],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Quickly excavate a path directly ahead of you, ignoring walls and object in your path.",
-  icon: ""
+  tooltip: 'Quickly excavate a path directly ahead of you, ignoring walls and object in your path.',
+  icon: ''
 };

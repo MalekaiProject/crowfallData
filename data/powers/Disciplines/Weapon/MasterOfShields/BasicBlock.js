@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Basic Block",
+  name: 'Basic Block',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-shields" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-shields' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 12
   },
-  tooltip: "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.",
-  icon: ""
+  tooltip: 'Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.',
+  icon: ''
 };

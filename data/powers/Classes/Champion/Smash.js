@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Smash",
+  name: 'Smash',
   sources: [
-    { type: "class", id: "champion" }
+    { type: 'class', id: 'champion' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["giant-smash"],
+  next_chain: ['giant-smash'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 0
   },
-  tooltip: "Strike in front of you for 68 - 92 + 80% Weapon Damage, generating 4 Rage if you hit.",
-  icon: ""
+  tooltip: 'Strike in front of you for 68 - 92 + 80% Weapon Damage, generating 4 Rage if you hit.',
+  icon: ''
 };

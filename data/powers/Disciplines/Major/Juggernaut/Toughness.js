@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Toughness",
+  name: 'Toughness',
   sources: [
-    { type: "discipline", sub_type: "major", id: "juggernaut" }
+    { type: 'discipline', sub_type: 'major', id: 'juggernaut' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 45,
   cooldown: 68,
-  targeting: "Group",
+  targeting: 'Group',
   max_targets: 5,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Strengthen group members and yourself increasing their Maximum Health by 20% for 45 seconds.",
-  icon: ""
+  tooltip: 'Strengthen group members and yourself increasing their Maximum Health by 20% for 45 seconds.',
+  icon: ''
 };

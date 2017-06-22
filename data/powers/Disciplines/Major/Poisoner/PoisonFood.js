@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Poison Food",
+  name: 'Poison Food',
   sources: [
-    { type: "discipline", sub_type: "major", id: "poisoner" }
+    { type: 'discipline', sub_type: 'major', id: 'poisoner' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Coming Soon",
-  icon: ""
+  tooltip: 'Coming Soon',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Pound of Flesh",
+  name: 'Pound of Flesh',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "pound-of-flesh" }
+    { type: 'discipline', sub_type: 'minor', id: 'pound-of-flesh' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Increase your Damage Bonus by 30% when an enemy's Health is above 90%.",
-  icon: ""
+  tooltip: 'Increase your Damage Bonus by 30% when an enemy\'s Health is above 90%.',
+  icon: ''
 };

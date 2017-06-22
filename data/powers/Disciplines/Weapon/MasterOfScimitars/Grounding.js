@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Grounding",
+  name: 'Grounding',
   sources: [
-    { type: "discipline", sub_type: "weapon", id: "master-of-scimitars" }
+    { type: 'discipline', sub_type: 'weapon', id: 'master-of-scimitars' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 45,
-  targeting: "Group",
+  targeting: 'Group',
   max_targets: 5,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Protect group members and yourself with increased Electricity Armor.",
-  icon: ""
+  tooltip: 'Protect group members and yourself with increased Electricity Armor.',
+  icon: ''
 };

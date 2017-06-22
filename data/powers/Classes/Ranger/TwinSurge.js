@@ -1,21 +1,21 @@
 exports.power = {
-  name: "Twin Surge",
+  name: 'Twin Surge',
   sources: [
-    { type: "class", id: "ranger" }
+    { type: 'class', id: 'ranger' }
   ],
-  type: "Melee Attack",
-  cast_type: "Instant",
+  type: 'Melee Attack',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 5,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
-  next_chain: ["laceration"],
+  next_chain: ['laceration'],
   previous_chain: [],
   cost: {
     pips: 0,
     resource: 25
   },
-  tooltip: "Slash in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.",
-  icon: ""
+  tooltip: 'Slash in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.',
+  icon: ''
 };

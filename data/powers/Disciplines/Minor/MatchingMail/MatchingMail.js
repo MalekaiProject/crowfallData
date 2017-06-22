@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Matching Mail",
+  name: 'Matching Mail',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "matching-mail" }
+    { type: 'discipline', sub_type: 'minor', id: 'matching-mail' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Increase your Support Power by 350 when wearing a full set of Mail armor.",
-  icon: ""
+  tooltip: 'Increase your Support Power by 350 when wearing a full set of Mail armor.',
+  icon: ''
 };

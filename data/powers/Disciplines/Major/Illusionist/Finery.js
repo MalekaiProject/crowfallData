@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Finery",
+  name: 'Finery',
   sources: [
-    { type: "discipline", sub_type: "major", id: "illusionist" }
+    { type: 'discipline', sub_type: 'major', id: 'illusionist' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Each piece of Epic or Legendary quality armor equipped increases Damage Bonus and Healing Bonus by 2%.",
-  icon: ""
+  tooltip: 'Each piece of Epic or Legendary quality armor equipped increases Damage Bonus and Healing Bonus by 2%.',
+  icon: ''
 };

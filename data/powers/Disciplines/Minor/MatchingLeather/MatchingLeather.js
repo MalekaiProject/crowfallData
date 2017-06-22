@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Matching Leather",
+  name: 'Matching Leather',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "matching-leather" }
+    { type: 'discipline', sub_type: 'minor', id: 'matching-leather' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Increase your Support Power by 350 when wearing a full set of Leather armor.",
-  icon: ""
+  tooltip: 'Increase your Support Power by 350 when wearing a full set of Leather armor.',
+  icon: ''
 };

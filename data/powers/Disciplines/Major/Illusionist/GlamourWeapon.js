@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Glamour Weapon",
+  name: 'Glamour Weapon',
   sources: [
-    { type: "discipline", sub_type: "major", id: "illusionist" }
+    { type: 'discipline', sub_type: 'major', id: 'illusionist' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 180,
   cooldown: 23,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 1,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Add a Glamour to your weapon increasing Maximum Weapon Damage by 50 for 30 seconds.",
-  icon: ""
+  tooltip: 'Add a Glamour to your weapon increasing Maximum Weapon Damage by 50 for 30 seconds.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Matching Plate",
+  name: 'Matching Plate',
   sources: [
-    { type: "discipline", sub_type: "minor", id: "matching-plate" }
+    { type: 'discipline', sub_type: 'minor', id: 'matching-plate' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Increase your Support Power by 350 when wearing a full set of Plate armor.",
-  icon: ""
+  tooltip: 'Increase your Support Power by 350 when wearing a full set of Plate armor.',
+  icon: ''
 };

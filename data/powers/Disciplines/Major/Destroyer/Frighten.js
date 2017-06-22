@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Frighten",
+  name: 'Frighten',
   sources: [
-    { type: "discipline", sub_type: "major", id: "destroyer" }
+    { type: 'discipline', sub_type: 'major', id: 'destroyer' }
   ],
-  type: "Debuff",
-  cast_type: "Instant",
+  type: 'Debuff',
+  cast_type: 'Instant',
   duration: 0,
   cooldown: 23,
-  targeting: "Cone",
+  targeting: 'Cone',
   max_targets: 1,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 13
   },
-  tooltip: "Shout at an enemy inflicting 91 - 123 + 107% Weapon Damage and reducing their damage bonus.",
-  icon: ""
+  tooltip: 'Shout at an enemy inflicting 91 - 123 + 107% Weapon Damage and reducing their damage bonus.',
+  icon: ''
 };

@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Blade Turning",
+  name: 'Blade Turning',
   sources: [
-    { type: "discipline", sub_type: "major", id: "militant-mage" }
+    { type: 'discipline', sub_type: 'major', id: 'militant-mage' }
   ],
-  type: "Buff",
-  cast_type: "Instant",
+  type: 'Buff',
+  cast_type: 'Instant',
   duration: 15,
   cooldown: 45,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Gain a Slashing damage immune Barrier for 15 seconds.",
-  icon: ""
+  tooltip: 'Gain a Slashing damage immune Barrier for 15 seconds.',
+  icon: ''
 };

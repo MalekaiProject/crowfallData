@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Caltrops",
+  name: 'Caltrops',
   sources: [
-    { type: "discipline", sub_type: "major", id: "agent-provocateur" }
+    { type: 'discipline', sub_type: 'major', id: 'agent-provocateur' }
   ],
-  type: "Crowd Control",
-  cast_type: "Ground Aimed",
+  type: 'Crowd Control',
+  cast_type: 'Ground Aimed',
   duration: 15,
   cooldown: 24,
-  targeting: "Area",
+  targeting: 'Area',
   max_targets: 5,
   range: 35,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 13
   },
-  tooltip: "Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth.",
-  icon: ""
+  tooltip: 'Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth.',
+  icon: ''
 };

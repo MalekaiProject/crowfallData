@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Terrifying Features",
+  name: 'Terrifying Features',
   sources: [
-    { type: "discipline", sub_type: "major", id: "scarecrow" }
+    { type: 'discipline', sub_type: 'major', id: 'scarecrow' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 0,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Protect yourself with a powerful enchantment periodically stunning attackers.",
-  icon: ""
+  tooltip: 'Protect yourself with a powerful enchantment periodically stunning attackers.',
+  icon: ''
 };

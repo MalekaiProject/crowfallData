@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Blood Price",
+  name: 'Blood Price',
   sources: [
-    { type: "discipline", sub_type: "major", id: "blade-master" }
+    { type: 'discipline', sub_type: 'major', id: 'blade-master' }
   ],
-  type: "Passive",
-  cast_type: "Passive",
+  type: 'Passive',
+  cast_type: 'Passive',
   duration: 15,
   cooldown: 0,
-  targeting: "Self",
+  targeting: 'Self',
   max_targets: 0,
   range: 0,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 0
   },
-  tooltip: "Extract Blood Orbs from your enemies as you attack.  Picking up Blood Orbs heals you for 113 - 153 + 133% Weapon Damage and increases your Attack Power by 150 for 15 seconds.",
-  icon: ""
+  tooltip: 'Extract Blood Orbs from your enemies as you attack.  Picking up Blood Orbs heals you for 113 - 153 + 133% Weapon Damage and increases your Attack Power by 150 for 15 seconds.',
+  icon: ''
 };

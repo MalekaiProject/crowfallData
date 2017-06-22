@@ -1,13 +1,13 @@
 exports.power = {
-  name: "Form Up",
+  name: 'Form Up',
   sources: [
-    { type: "discipline", sub_type: "major", id: "secutor" }
+    { type: 'discipline', sub_type: 'major', id: 'secutor' }
   ],
-  type: "Buff",
-  cast_type: "",
+  type: 'Buff',
+  cast_type: '',
   duration: 0,
   cooldown: 30,
-  targeting: "",
+  targeting: '',
   max_targets: 0,
   range: 5,
   next_chain: [],
@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 16
   },
-  tooltip: "Coming Soon",
-  icon: ""
+  tooltip: 'Coming Soon',
+  icon: ''
 };
