@@ -3,7 +3,7 @@ exports.power = {
   sources: [
     { type: 'class', id: 'ranger' }
   ],
-  type: 'Melee attack',
+  type: 'Melee Attack',
   cast_type: 'Instant',
   duration: 0,
   cooldown: 9,
