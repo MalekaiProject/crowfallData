@@ -17,5 +17,5 @@ exports.power = {
     resource: 80
   },
   tooltip: 'Consumes your Hellfire Shield and surrounds you in a pulsing Hellfire Aura which damages all players within 4m of you every second for 15 - 18 Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/hellfire-aura.png'
 };

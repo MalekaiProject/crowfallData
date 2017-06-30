@@ -17,5 +17,5 @@ exports.power = {
     resource: 18
   },
   tooltip: 'Buffs Damage Bonus by 5% for group members and yourself for 45 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/natural-bond.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Stop an enemy in its tracks causing 85 - 115 + 100% Weapon Damage and Rooting them. If Get \'Em hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/get-em.png'
 };

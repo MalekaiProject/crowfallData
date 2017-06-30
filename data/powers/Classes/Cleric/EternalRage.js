@@ -17,5 +17,5 @@ exports.power = {
     resource: 29
   },
   tooltip: 'Instantly generates 35 Rage while allies recover their native resource over time. Allies and you also heal for 158 - 193 + 175% Weapon Damage 2 times over 5 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/eternal-rage.png'
 };

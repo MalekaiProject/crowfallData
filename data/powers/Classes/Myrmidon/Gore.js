@@ -17,5 +17,5 @@ exports.power = {
     resource: 23
   },
   tooltip: 'Strike overhead with both axes before continuing the carnage with a second bloody slice, inflicting 63 - 77 + 70% Weapon Damage for each hit. If you connect, recover 5 Fury per second for 20 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/gore.png'
 };

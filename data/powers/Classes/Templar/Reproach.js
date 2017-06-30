@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Slash multiple enemies for 54 - 81 + 67% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/reproach.png'
 };

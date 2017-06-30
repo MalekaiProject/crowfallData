@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Aid group members and yourself increasing Health by 1000.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/fortification.png'
 };

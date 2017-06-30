@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Slash in front of you twice for 37 - 51 + 44% Weapon Damage. Applies an Armor Crack to all hit, which reduces all Physical Mitigations by 5% for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/sinister-slash.png'
 };

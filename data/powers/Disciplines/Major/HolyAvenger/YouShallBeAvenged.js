@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Attack Power when a group member dies.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/you-shall-be-avenged.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 32
   },
   tooltip: 'Sing for 12 seconds, affecting up to 5 enemies within 10m. Decreases their Attack Power by 150 as well as Support Power by 150. Type 4 Song.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/lament-of-sadness.png'
 };

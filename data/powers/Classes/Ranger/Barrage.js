@@ -17,5 +17,5 @@ exports.power = {
     resource: 6
   },
   tooltip: 'Shoot 6 volley of arrows at a ground location, dealing 30 - 40 + 35% Weapon Damage per volley, up to 5 targets within 8m.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/barrage.png'
 };

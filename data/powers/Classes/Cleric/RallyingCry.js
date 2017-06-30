@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Instantly Heal up to 5 group members and yourself for 563 - 688. Applies Rally to group members which increases Critical Hit Change by 15%.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/rallying-cry.png'
 };

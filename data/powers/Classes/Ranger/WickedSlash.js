@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Slash in front of you twice for 50 - 68 + 59% Weapon Damage. Applies an Armor Fracture to all hit, which reduces all Physical Mitigations by 10% for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/wicked-slash.png'
 };

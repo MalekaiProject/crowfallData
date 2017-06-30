@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Damage Bonus by 15% when three or more enemies are within 15m.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/resolution.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 31
   },
   tooltip: 'Slash in front of you for 68 - 92 - 80% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds 15% Bonus Damage to their next attack.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/sweep.png'
 };

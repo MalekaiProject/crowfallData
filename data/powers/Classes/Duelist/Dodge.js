@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Leap away from danger using your WASD direction.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/dodge-duelist.png'
 };

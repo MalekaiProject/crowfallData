@@ -17,5 +17,5 @@ exports.power = {
     resource: 20
   },
   tooltip: 'Shout colorful epithets healing yourself and an ally in front of you for 52 - 64 + 58% Weapon Damage over 8 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/bellow-of-triumph.png'
 };

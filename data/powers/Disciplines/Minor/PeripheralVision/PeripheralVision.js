@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Allows you to see into the shadows while actively harvesting.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/peripheral-vision.png'
 };

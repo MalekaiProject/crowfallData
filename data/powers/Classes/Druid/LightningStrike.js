@@ -17,5 +17,5 @@ exports.power = {
     resource: 46
   },
   tooltip: 'Strike enemies with lightning for 109 - 163 + 136% Weapon Damage and Dazing them.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/lightning-strike.png'
 };

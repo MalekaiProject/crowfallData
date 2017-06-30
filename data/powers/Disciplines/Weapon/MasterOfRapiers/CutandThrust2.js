@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Penetrate an enemy\'s Block or Parry Stunning them and inflicting 70 - 95 + 83% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/cut-and-thrust-2.png'
 };

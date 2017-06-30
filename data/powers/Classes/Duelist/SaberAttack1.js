@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Attack for 41 - 61 + 51% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/saber-attack-1.png'
 };

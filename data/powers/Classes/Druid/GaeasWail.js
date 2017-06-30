@@ -17,5 +17,5 @@ exports.power = {
     resource: 105
   },
   tooltip: 'Unleash a bear spirit at the enemy causing 168 - 252 + 210% and an addtional 133 - 200 over 12 seconds The attack may chain to two additional enemies.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/gaeas-wail.png'
 };

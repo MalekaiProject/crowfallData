@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Test your luck gaining between one and six buffs! Buff duration and your luck scale with Pips spent. Humiliations Galore: Every Pip generator earn and additional Pip. Bonetti\'s Defense: Adds 250 in Combat Health Regeneration. Capo Ferro: Gain a chance to attack twice with Saber Attack. Prepare to Die: Increase damage by 9%.  Agrippa: Increase Critial Hit Chance by 9%. Thibault: Increase Critial Hit Amount by 19%.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/inconceivable.png'
 };

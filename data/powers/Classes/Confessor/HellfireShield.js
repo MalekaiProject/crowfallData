@@ -17,5 +17,5 @@ exports.power = {
     resource: 55
   },
   tooltip: 'Surrounds your skin an a Hellfire Shield to 15 seconds damaging all who cause damage to your for 15 - 18 damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/hellfire-shield.png'
 };

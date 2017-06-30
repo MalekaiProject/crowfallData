@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Your basic attacks apply a stacking Support Power debuff.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/touch-of-rot.png'
 };

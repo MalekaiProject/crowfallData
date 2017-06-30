@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Throw a projectile forward, dealing 113 - 153 + 133% Weapon Damage as Piercing Damage. Applies a 50% movement speed reduction to those hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/throw-hurlbat.png'
 };

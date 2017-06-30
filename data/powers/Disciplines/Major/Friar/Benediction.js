@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Benediction Bless group members and yourself increasing Bleed Armor by 50 for 30 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/benediction.png'
 };

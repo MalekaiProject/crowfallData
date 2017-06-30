@@ -18,5 +18,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Cancels the current combo power being executed.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/cancel-combo-champion.png'
 };

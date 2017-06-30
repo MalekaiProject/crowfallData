@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Furiously knock down nearby enemies when you use a Retaliate ability if your Health is under 50%',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/death-throws.png'
 };

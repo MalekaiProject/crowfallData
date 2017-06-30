@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Attack Power for 30 seconds when damaged by Fire.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/conduction.png'
 };

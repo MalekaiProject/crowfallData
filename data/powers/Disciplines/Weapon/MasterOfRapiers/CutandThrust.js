@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Stab an enemy twice for 70 - 95 + 82% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/cut-and-thrust.png'
 };

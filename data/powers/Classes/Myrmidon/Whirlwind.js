@@ -17,5 +17,5 @@ exports.power = {
     resource: 9
   },
   tooltip: 'Spin around rapidly hitting nearby enemies multiple times for 24 - 29 + 26% Weapon Damage and causing them to Bleed for 18 -24 damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/whirlwind.png'
 };

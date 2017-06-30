@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Lunge forward with a sword strike stunning an enemy and causing 100 - 149 + 124% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/censure.png'
 };

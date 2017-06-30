@@ -17,5 +17,5 @@ exports.power = {
     resource: 18
   },
   tooltip: 'Attack in front of you for 91 - 123 + 107% Crushing Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shield-swipe.png'
 };

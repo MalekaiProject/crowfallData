@@ -21,5 +21,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Cause an additional 50% Weapon Damage when striking a Barrier and restore your Resource.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/rupture-barrier.png'
 };

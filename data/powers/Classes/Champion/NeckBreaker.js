@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Leap straight up. When you land, Knock Down all enemies in the area dealing 288 - 389 + 339% Weapon Damage as Crushing Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/neck-breaker.png'
 };

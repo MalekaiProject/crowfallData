@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Attack for 86 - 117 + 101% Weapon Damage and cause the enemy to become Poisoned taking 8 - 9 + 1% Weapon Damage per tick.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/poisoned-blade-2.png'
 };

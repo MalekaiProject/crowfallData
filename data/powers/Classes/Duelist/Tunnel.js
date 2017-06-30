@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Quickly excavate a path directly ahead of you, ignoring walls and object in your path.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/tunnel.png'
 };

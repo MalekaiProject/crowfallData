@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Jump to your feet dealing 113-153 + 133% Weapon Damage to nearby enemies. This attack is a guaranteed Critical Hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/deadly-retaliation.png'
 };

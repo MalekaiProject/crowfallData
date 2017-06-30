@@ -17,5 +17,5 @@ exports.power = {
     resource: 26
   },
   tooltip: 'Raise your Life affinity reducing your Essence Gain by 35% for 45 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/contain-essence.png'
 };

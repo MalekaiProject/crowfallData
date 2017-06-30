@@ -17,5 +17,5 @@ exports.power = {
     resource: 23
   },
   tooltip: 'Rear and smash into the ground damaging 8 enemies in the area for 120 - 146 + 133% Weapon Damage, and pushing them back.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/scatter-horde.png'
 };

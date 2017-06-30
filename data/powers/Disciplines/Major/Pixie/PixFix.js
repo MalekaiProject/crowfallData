@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'All \'chain type\' heals jump to 1 additional target.  Also reduces the amount of healing falloff per jump by 50%.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/pix-fix.png'
 };

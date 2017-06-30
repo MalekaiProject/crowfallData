@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Gain Immunity to Blind effects.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/vision-of-the-all-father.png'
 };

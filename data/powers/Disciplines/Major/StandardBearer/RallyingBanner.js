@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Fortify nearby group members with a banner increasing Attack Power by 200, healing those under 35% Health and removing Slow effects.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/rallying-banner.png'
 };

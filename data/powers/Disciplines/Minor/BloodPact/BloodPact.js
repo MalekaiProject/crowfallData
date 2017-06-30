@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Grants a Blood Pact for 15 seconds, which all powers to consume Hitpoints instead of their normal ressource type.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/blood-pact.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'You now apply Mortal Sin instead of Sin.  For each stack of Mortal Sin the target becomes more vulnerable to being Critically Hit by 2% per stack.  All powers that require Sin will also benefit from Mortal Sin.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/mortal-sin.png'
 };

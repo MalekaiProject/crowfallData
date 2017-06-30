@@ -17,5 +17,5 @@ exports.power = {
     resource: 47
   },
   tooltip: 'Slash in front of you, critically striking for 118 - 160 + 139% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/jab.png'
 };

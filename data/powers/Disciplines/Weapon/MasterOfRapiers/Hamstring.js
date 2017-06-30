@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Your last basic attack will cripple an enemy, applying a Movement Debuff.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/hamstring.png'
 };

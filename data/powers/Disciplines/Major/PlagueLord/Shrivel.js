@@ -21,5 +21,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Curse an enemy with Disease and Black Mantle, absorbing up to 500 points of Healing.  If Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shrivel.png'
 };

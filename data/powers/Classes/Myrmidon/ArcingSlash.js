@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Slash upward violently inflicting 41 - 50 + 46% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/arcing-slash.png'
 };

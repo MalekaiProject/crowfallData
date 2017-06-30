@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Strike in front of you for 108 - 132 + 120% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/side-strike.png'
 };

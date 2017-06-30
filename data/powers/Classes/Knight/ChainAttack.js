@@ -17,5 +17,5 @@ exports.power = {
     resource: 25
   },
   tooltip: 'Throw a chain forward, applying a large pulling force to any enemy causing 130 - 176 + 153% and dazing the target for 4 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/chain-attack.png'
 };

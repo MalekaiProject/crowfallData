@@ -17,5 +17,5 @@ exports.power = {
     resource: 11
   },
   tooltip: 'Spin in front of you dealing 104 - 141 + 122% Weapon Damage as Crushing Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/spinning-backfist.png'
 };

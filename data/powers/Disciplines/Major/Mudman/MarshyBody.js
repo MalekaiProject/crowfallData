@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Cover yourself with a boggy enchantment that increase your Crushing Armor by 0.2 for each point of Stamina.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/marshy-body.png'
 };

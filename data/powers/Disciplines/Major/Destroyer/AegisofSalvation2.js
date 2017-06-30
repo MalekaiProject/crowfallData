@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Attack causing 76 - 103 + 89% Weapon Damage and applies a barrier to you.  When it is removed you recover 10% to 15% to your Health',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/aegis-of-salvation-2.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 33
   },
   tooltip: 'Charge forward dragging enemies along with you and causing 82 - 100 + 91% Weapon Damage. Enemies are flung into the air if the attack is over 65% charged.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/bull-rush.png'
 };

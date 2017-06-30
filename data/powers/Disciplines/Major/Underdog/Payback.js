@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Get even with your opponents after using a Retaliate ability by increasing your Critical Hit Chance by 50 for 30 seconds or until you crit three times.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/payback.png'
 };

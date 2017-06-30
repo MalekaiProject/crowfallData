@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Shoots 3 fireballs towards your reticle that explodes for 35 - 53 + 44% Weapon Damage as Fire Damage. Applies Sin to anyone damaged.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/multi-fireball.png'
 };

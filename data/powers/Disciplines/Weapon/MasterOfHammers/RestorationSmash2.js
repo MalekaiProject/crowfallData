@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Crush an enemy for 116 - 156 + 136% Weapon Damage while restoring your Resource.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/restoration-smash-2.png'
 };

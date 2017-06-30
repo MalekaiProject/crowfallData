@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Bash an enemy Dazing them and inflicting 76 - 103 + 90% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/clobber-2.png'
 };

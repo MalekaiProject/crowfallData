@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Out of Combat Regeneration by 10.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/bearers-insignia.png'
 };

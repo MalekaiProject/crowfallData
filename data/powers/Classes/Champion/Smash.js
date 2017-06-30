@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Strike in front of you for 68 - 92 + 80% Weapon Damage, generating 4 Rage if you hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/smash.png'
 };

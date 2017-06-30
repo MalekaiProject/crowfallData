@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/basic-block.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 6
   },
   tooltip: 'Reflects 50% Fire Weapon Damage back to the source of a Fire damage attack.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/reflect-heat.png'
 };

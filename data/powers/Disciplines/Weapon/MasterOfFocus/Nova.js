@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Draw enemies toward you repeatedly inflicting 2 - 3 + 2% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/nova.png'
 };

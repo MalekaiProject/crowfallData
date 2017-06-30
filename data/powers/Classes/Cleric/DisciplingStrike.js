@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Strike in front of you for 126 - 154 + 150% Weapon Damage, snaring the enemy if you hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/discipling-strikes.png'
 };

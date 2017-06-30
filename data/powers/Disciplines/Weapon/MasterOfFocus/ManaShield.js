@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Surround yourself with a protective barrier that drains your mana as it prevents damage as well as increasing your Damage Bonus by 5% for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/mana-shield.png'
 };

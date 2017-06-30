@@ -17,5 +17,5 @@ exports.power = {
     resource: 34
   },
   tooltip: 'Slash in front of you for 86 - 117 + 101% Weapon Damage. Applies a Moderate Bleed effect.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/cross-slash-2.png'
 };

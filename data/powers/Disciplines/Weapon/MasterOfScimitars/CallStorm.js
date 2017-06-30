@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Call lightning to strike a target stunning them and causing 60 - 90 + 75% Electric Weapon Damage.  Afterward they suffer Severe Electrocution taking 17 - 25 + 2% Electric Weapon Damage per tick.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/call-storm.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Whenever you reach 100 Rage, your Damage Bonus is increased by 15% for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/furious.png'
 };

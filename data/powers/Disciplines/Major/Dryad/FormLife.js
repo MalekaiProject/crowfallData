@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/form-life.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Recite a benediction healing group members and you based on the damage you inflict and revealing Sin within enemies attacked for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/devotion.png'
 };

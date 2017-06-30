@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Strike an enemy twice for 87-118 +103% Weapon Damage and increase your Critical Hit Chance',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/critical-hack-2.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Reflect 50% Slashing Weapon Damage back to the source of a Slashing damage attack.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/reflection.png'
 };

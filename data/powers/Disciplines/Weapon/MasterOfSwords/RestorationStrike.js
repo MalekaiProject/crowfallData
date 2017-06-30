@@ -17,5 +17,5 @@ exports.power = {
     resource: 17
   },
   tooltip: 'Slice an enemy for 117-159 + 138% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/restoration-strike.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Standing still for 2 seconds increases Healing Bonus by 20% and Physical Mitigations by 5% until you move.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/take-root.png'
 };

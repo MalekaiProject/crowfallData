@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Attack for 74 - 111 + 93% Weapon Damage and generates a point of Righteousness.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/great-swing-3.png'
 };

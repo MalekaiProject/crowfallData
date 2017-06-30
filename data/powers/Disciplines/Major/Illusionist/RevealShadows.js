@@ -17,5 +17,5 @@ exports.power = {
     resource: 32
   },
   tooltip: 'Activates Shadow Sight for 12 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/reveal-shadows.png'
 };

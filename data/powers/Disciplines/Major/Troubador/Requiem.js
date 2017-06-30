@@ -17,5 +17,5 @@ exports.power = {
     resource: 32
   },
   tooltip: 'Sing for 12 seconds, affecting up to 5 enemies within 10m. Increases their Damage Taken by 15%. Type 2 Song.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/requiem.png'
 };

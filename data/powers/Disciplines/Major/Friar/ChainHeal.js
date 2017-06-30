@@ -17,5 +17,5 @@ exports.power = {
     resource: 22
   },
   tooltip: 'Heals a targeted ally for 158 - 193 + 175% Weapon Damage, then jumps to heal a nearby ally. Chain Heal will jump to as many as 2 with healing reduced by 30% each jump.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/chain-heal.png'
 };

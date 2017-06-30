@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase the damage of Execution abilities.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/executioner.png'
 };

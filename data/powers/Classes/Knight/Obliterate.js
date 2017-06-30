@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Attack and knock down enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/obliterate.png'
 };

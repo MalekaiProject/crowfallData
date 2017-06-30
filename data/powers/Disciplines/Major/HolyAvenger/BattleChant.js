@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Summon spinning hammers lasting 12 seconds to damage nearby enemies for 85 - 115 + 100% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/battle-chant.png'
 };

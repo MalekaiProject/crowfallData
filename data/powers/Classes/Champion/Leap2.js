@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Leap forward, dealing 80 - 108 + 94% Weapon Damage as Crushing Damage as you land.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/leap-2.png'
 };

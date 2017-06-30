@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Conjure an illusion effective enough to reduce incoming damage by 20% for 20 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/illusionary-armor.png'
 };

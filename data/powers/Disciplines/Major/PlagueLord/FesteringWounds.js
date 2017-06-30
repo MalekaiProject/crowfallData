@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Plague an enemy with Disease and for 30 seconds any Heal ability they use leaves them in an Exposed state.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/festering-wounds.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 120
   },
   tooltip: 'Consumes your Hellfire Aura and launches 2 Hellfire Tornados forward which pull nearby object into them and damages them for 105 - 157 + 131% Weapon Damage as Fire Damage. Each tornado last 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/fire-tornados.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Slice an enemy for 68 - 92 + 80% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/tenderize.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'When dropping below 25% Health you become immune to being Critically Hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/dig-in.png'
 };
