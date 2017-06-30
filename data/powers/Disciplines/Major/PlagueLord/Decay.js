@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Infect an enemy with a Disease and reduce Healing Received.  If Decay hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/decay.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Strike with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Armor by 20.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/brutal-slam.png'
 };

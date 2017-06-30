@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Bonus Thorns 10.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/prickly-skin.png'
 };

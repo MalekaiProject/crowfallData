@@ -17,5 +17,5 @@ exports.power = {
     resource: 8
   },
   tooltip: 'Conjure a slow moving doom-filled projectile that passes through enemies to damage them repeatedly for 53 - 80 + 67% Piercing Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/piercing-orb.png'
 };

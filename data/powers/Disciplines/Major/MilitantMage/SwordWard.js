@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Enchant your armor with a ward against Slashing attacks increasing your Slashing Armor by 25.  Slashing attacks cause Sword Ward to slowly weaken temporarily.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/sword-ward.png'
 };

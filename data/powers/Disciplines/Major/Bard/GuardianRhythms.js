@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Reduces the groups Damage Taken by 15% for 12 seconds. Type 2 Song.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/guardian-rhythms.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Torment enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/stink-bomb.png'
 };

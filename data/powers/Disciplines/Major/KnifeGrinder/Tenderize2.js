@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Cut an enemy for 76 - 103 + 90% Weapon Damage and reducing their Bleed Armor for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/tenderize-2.png'
 };

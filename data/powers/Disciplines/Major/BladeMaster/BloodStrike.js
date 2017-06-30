@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Slash enemies for 45 - 60 + 53% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/blood-strike.png'
 };

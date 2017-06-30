@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Gain the advantage over an enemy increasing your Critical Hit Damage and causing 94 - 127 + 111% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/critical-slice-2.png'
 };

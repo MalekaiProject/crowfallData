@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'A basic attack slashing in front of you for 60 - 82 + 71% Weapon Damage. Scoring three or more consecutive basic attack hits activates SHIELD BASH.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/ruby-slash.png'
 };

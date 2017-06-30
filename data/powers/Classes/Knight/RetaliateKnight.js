@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/retaliate-knight.png'
 };

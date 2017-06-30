@@ -17,5 +17,5 @@ exports.power = {
     resource: 70
   },
   tooltip: 'Blasts Leaves to all allies in front of you healing for 102 - 138 + 120% Weapon Damage multiple times per second.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/blast-of-leaves.png'
 };

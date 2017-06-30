@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increases your groups Attack Power by 150 as well as Support Power by 150 for 12 seconds. Type 4 Song.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/verses-of-victory.png'
 };

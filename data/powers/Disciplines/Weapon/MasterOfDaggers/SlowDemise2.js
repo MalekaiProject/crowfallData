@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Torment an enemy reducing their Healing Bonus and inflicting 79 - 108 + 94% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/slow-demise-2.png'
 };

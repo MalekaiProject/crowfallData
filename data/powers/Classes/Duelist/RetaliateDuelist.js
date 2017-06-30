@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Jump to your feet, damaging all nearby enemies for 105 - 158 + 132% Weapon Damage. Retaliating an Exposed enemy generates an additional Pip and reset Relaliate\'s cooldown.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/retaliate-duelist.png'
 };

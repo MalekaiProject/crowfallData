@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Cover your body with sharp needle-like straws increasing your Piercing Armor by 25.  Piercing attacks reflect 133% weapon damage and cause Severe Bleeding.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/needlin-haystack.png'
 };

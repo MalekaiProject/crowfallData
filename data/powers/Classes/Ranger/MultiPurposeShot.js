@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage and apply additional effects when using exotic arrows. Check your arrow\'s description for details on additional effects.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/multi-purpose-shot.png'
 };

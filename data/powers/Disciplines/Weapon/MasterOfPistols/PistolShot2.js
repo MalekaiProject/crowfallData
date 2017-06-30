@@ -17,5 +17,5 @@ exports.power = {
     resource: 21
   },
   tooltip: 'Shoot an enemy for 85 - 127 + 106% Weapon Damage while generating a Pip with a chance to reset the cooldown of Rapid Fire.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/pistol-shot-2.png'
 };

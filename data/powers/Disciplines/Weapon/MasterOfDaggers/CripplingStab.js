@@ -17,5 +17,5 @@ exports.power = {
     resource: 7
   },
   tooltip: 'Stab an enemy for 48 - 64 + 56% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/crippling-stab.png'
 };

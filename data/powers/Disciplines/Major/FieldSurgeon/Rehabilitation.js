@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Tend an ally\'s and your wounds relieving 53 + 53% Weapon Damage plus an additional 1.4 Health for every point of Stamina every two seconds for six seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/rehabilitation.png'
 };

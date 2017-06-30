@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Slash without remorse dealing 135 - 202 + 168% Weapon Damage. Enemies under 35% health are critically hit for 202 - 300 + 167% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/execute.png'
 };

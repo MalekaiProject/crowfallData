@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Saber Attacks have a 20% chance to reset the cooldown on Flintlock shot.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/opportunist.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase you All Mitigations by 20% when three or more enemies are within 10m.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/overwhelming-odds.png'
 };

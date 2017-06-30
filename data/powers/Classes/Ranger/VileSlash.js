@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Slash in front of you twice for 45 - 61 + 53% Weapon Damage. Applies an Armor Break to all hit, which reduces all Physical Mitigations by 20% for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/vile-slash.png'
 };

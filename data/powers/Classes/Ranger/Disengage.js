@@ -17,5 +17,5 @@ exports.power = {
     resource: 100
   },
   tooltip: 'Leap backwards dealing 244 - 331 + 287% Weapon Damage. Places your Power Tray into Ranged Mode.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/disengage.png'
 };

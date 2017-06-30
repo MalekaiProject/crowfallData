@@ -17,5 +17,5 @@ exports.power = {
     resource: 77
   },
   tooltip: 'Strike enemies with lightning in an area for 79 - 119 damage. Enemies are left electrified and will inflict and additional 27 to 40 + #weapon_damage_2_value#% Weapon Damage over 15 seconds to nearby friendlies.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/aurora-emitter.png'
 };

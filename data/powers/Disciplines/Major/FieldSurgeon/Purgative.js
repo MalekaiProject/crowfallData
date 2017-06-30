@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Cleanse your group and yourself of damage over time effects healing for 32 - 39 + 35% Weapon Damage for each effect removed.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/purgative.png'
 };

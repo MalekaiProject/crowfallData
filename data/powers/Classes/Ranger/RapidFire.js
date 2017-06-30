@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Hold to shoot up to 10 arrows towards your reticle that deal 40 - 54 + 47% Weapon per arrow.  Adds 10 Critical Hit Change for 2 seconds for each arrow that doe not critically hit, effect is removed when you land a critical hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/rapid-fire-ranger.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Attack in front of you twice for 62 - 84 + 73% Weapon Damage each strike.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/onslaught.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Raise your sword to defend yourself increasing your damage mitigation and becoming immune to crow control effects. Being struck with a melee attack restores Righteousness and triggers Righteous Parry',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/righteous-stand.png'
 };

@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Thornshield',
   type: 'Minor',
   description: 'The Elken tend to view Thorns as a minor annoyance, a garnish, or something to eat around as they devour their victims.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/thornshield.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

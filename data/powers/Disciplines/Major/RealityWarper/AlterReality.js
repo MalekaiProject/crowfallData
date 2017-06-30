@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Place a Heal Absorption shield on the target which absorbs incoming heals. In order to remove the shield the target must be healed for #buff_amount_1#. If the shield is not healed off before 15 seconds, it will explode dealing #min_damage_1# - #max_damage_1# damage to those nearby.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/alter-reality.png'
 };

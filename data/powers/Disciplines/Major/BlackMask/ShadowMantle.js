@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Attack: Reduce Healing Received',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shadow-mantle.png'
 };

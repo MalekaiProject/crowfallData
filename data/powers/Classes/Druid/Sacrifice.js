@@ -18,5 +18,5 @@ exports.power = {
     health: 55
   },
   tooltip: 'Sacrifice 55 Health for 15% Essence.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/sacrifice.png'
 };

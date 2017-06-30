@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Put it all on the line increasing your critical hit chance by 50% when your Health drops below 25%',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/last-resort.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Coming Soon',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/call-darkness.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Empower your barriers to explode when they expire causing nearby enemies to suffer 56 - 84 + 70% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/mind-revenge.png'
 };

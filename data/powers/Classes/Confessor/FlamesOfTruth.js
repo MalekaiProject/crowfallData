@@ -17,5 +17,5 @@ exports.power = {
     resource: 70
   },
   tooltip: 'Applies Flames of Truth to your reticle target, damaging them for 17 - 26. After 10 seconds Flames of Truth explodes dealing 93 - 140 + 117% Weapon Damage as Fire Damage in a 4m radius.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/flames-of-truth.png'
 };

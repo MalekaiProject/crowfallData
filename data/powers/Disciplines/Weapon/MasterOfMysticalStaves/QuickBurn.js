@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Tip the scales towards Death increasing your Essence Gain by 50%.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/quick-burn.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Attack multiple enemies for 58 - 78 + 68% Weapon Damage and causing them to Bleed for 50 - 75 + 6% Weapon Damage per tick.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/blood-strike-3.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Reform like clay easily healing any Crushing damage inflicted upon you and an additional 158 - 193 + 175% every five seconds for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/remold.png'
 };

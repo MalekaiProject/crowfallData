@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Protect group members and yourself with increased Electricity Armor.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/grounding.png'
 };

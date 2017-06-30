@@ -2,7 +2,7 @@
 exports.class = {
   name: 'Druid',
   description: '',
-  icon: 'https://crowfall.wiki/images/class/druid.png',
+  icon: 'IMAGE_ENDPOINT/classes/druid.png',
   powers: ['aurora-emitter', 'bark-skin', 'blight', 'coalesce-life', 'coalesce-life-2', 'coalesce-nature', 'contain-essence', 'dissipate', 'empower', 'essence-scram', 'faerie-fire', 'focused-spark', 'forest-whispers', 'gaeas-wail', 'healing-rain', 'leeching-seed', 'lightning-burst', 'lightning-strike', 'natural-bond', 'natures-avatar', 'natures-grace', 'sacrifice', 'shroud-of-darkness', 'wicked-winds', 'will-o-wisps'],
   races: ['half-elf', 'fae', 'wood-elf']
 };

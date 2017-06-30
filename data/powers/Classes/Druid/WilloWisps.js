@@ -17,5 +17,5 @@ exports.power = {
     resource: 63
   },
   tooltip: 'Charge up and fling a Will o\' Wisp to heal allies in a #range# area for 270 - 330 + 300% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/will-o-wisps.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Forgoing access to Life abilities, your focus on Death allows you to generate Essence while in Combat.  In order to maintain balance, damaging enemies has a chance to Coalesce Life.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/stormcaller.png'
 };

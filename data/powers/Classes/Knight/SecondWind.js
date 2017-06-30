@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Heals you for 4% of your maximum Health every second and recovers Stamina. This effect is automatically triggered when dropping below 20% health.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/second-wind-knight.png'
 };

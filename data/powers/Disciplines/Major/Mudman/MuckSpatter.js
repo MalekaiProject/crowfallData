@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Crushing attacks made against you have a chance to cause nearby enemies to be afflicted with Blindness and Severe Corruption.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/muck-spatter.png'
 };

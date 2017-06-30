@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Vowing never to surrender, you recover 36 Stamina over 3 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/oath-of-will.png'
 };

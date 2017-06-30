@@ -17,5 +17,5 @@ exports.power = {
     resource: 11
   },
   tooltip: 'Smite an enemy for 91 - 124 + 108% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/grabthars-hammer.png'
 };

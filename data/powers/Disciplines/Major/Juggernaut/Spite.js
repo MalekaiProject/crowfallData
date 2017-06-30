@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Seethe dangerously each time you suffer a Knockdown or Stun and recover 4 - 6% of your maximum Health over 5 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/spite.png'
 };

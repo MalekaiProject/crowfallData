@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Coming Soon',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/form-up.png'
 };

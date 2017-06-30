@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Swipe in front of you for 94 - 115 + 105 Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/no-quarter.png'
 };

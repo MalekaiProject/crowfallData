@@ -17,5 +17,5 @@ exports.power = {
     resource: 14
   },
   tooltip: 'Kick sand at nearby enemies, blinding them for 4 seconds while dealing 151 - 205 + 178% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/kick-sand.png'
 };

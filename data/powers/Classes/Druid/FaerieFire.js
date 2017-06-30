@@ -17,5 +17,5 @@ exports.power = {
     resource: 50
   },
   tooltip: 'Engulf an enemy in Faerie Fire reducing Slashing, Piercing and Crushing armor and causing 44 - 67 Nature damage + 6% Weapon Damage over 12 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/faerie-fire.png'
 };

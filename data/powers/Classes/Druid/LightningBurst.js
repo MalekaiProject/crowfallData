@@ -17,5 +17,5 @@ exports.power = {
     resource: 68
   },
   tooltip: 'Blast enemies with lightning for 110 - 165 + 138% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/lightning-burst.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Crush an enemy who is actively using Block or Parry causing a Knockdown and dealing 91 - 123 + 107% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shield-breaker.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 22
   },
   tooltip: 'Shout and deal 60 - 81 + 70% Weapon Damage to enemies in a sphere around you. If any enemy is hit, you gain an Absorption Barrier for 12 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/noble-blood.png'
 };

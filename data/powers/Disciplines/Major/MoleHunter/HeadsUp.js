@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Increase the Perception of group members and yourself by 25 for 30 seconds and removes the Exposed state.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/heads-up.png'
 };

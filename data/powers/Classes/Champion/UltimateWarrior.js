@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Harness your Hatred, growing in size and increasing Bonus Damage by 10%. This effect can stack twice.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/ultimate-warrior.png'
 };

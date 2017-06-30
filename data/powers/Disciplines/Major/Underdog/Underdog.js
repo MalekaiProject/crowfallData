@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Come back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 300 for 30 seconds. This effect can stack with itself.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/underdog.png'
 };

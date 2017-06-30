@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Basic attacks hit one additional target.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/cleave.png'
 };

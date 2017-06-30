@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Carve Runes into your flesh absorbing 50% of damage taken for 6 seconds and then exploding to inflict 35% of total damage taken (max 1050) to nearby enemies as Fire damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/runecarve-flesh.png'
 };

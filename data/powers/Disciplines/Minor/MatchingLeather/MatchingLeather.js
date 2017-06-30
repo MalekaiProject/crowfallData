@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Support Power by 350 when wearing a full set of Leather armor.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/matching-leather.png'
 };

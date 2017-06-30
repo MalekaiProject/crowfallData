@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Deal 30% more Damage to enemies below 30% Health.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/banshee-wail.png'
 };

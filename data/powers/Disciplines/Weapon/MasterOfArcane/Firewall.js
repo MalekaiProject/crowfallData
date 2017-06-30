@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Summon a raging inferno to slow and damage any enemies for 30 - 40 + 35% Fire Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/firewall.png'
 };

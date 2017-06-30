@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Harden your skin increasing your Slashing Armor and reducing Weapon Resource Cost.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/iron-skin.png'
 };

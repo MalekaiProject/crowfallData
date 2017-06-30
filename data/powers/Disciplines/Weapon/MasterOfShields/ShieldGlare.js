@@ -17,5 +17,5 @@ exports.power = {
     resource: 15
   },
   tooltip: 'Smash an enemy if the face for 110 - 148 + 129% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shield-glare.png'
 };

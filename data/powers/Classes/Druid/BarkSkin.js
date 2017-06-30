@@ -17,5 +17,5 @@ exports.power = {
     resource: 35
   },
   tooltip: 'Toughen the hide of group members and yourself applying Barrier for 20 seconds preventing 175 to 325 damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/bark-skin.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Protect yourself increasing Elemental Armor by 20.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/rune-shield.png'
 };

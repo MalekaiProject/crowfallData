@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Furious',
   type: 'Minor',
   description: 'Until you learn to master your rage, your rage will become your master.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/furious.png',
   classes: ['champion'],
   stats_granted: [],
   stats_values: [],

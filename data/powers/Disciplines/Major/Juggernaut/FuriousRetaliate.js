@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Recover immediately from Knockdown and Stun effects inflicting 113 - 153 + 133% Weapon Damage. Furious Retaliate also increases your Resolve, reducing the duration of subsequent Control Effects or triggering temporary immunity to Control Effects.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/furious-retaliate.png'
 };

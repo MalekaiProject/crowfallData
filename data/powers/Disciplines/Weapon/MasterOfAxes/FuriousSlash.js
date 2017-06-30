@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Hack at an enemy for 110 - 149 + 129% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/furious-slash.png'
 };

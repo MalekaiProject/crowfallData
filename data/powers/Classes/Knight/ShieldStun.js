@@ -17,5 +17,5 @@ exports.power = {
     resource: 18
   },
   tooltip: 'Attack and stune those in front of you for 105 - 142 + 124% Crushing Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shield-stun.png'
 };

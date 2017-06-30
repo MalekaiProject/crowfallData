@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Sparring',
   type: 'Minor',
   description: 'It\'s the thrill of the fight and rising up to the challenge of your rival.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/sparring.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

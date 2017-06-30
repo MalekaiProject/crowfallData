@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Charge toward your target inflicting 72 - 88 + 80% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/charge.png'
 };

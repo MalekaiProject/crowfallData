@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Leap away causing 71 - 87 + 79% Weapon Damage to nearby enemies where you land.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/dodge-myrmidon.png'
 };

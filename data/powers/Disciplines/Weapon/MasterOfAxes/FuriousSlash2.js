@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Slash furiously at an enemy for 113 - 152 + 132% Weapon Damage while reducing your short and long cooldown times.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/furious-slash-2.png'
 };

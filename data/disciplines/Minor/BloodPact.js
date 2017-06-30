@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Blood Pact',
   type: 'Minor',
   description: 'Quid pro quo.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/blood-pact.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

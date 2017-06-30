@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Gain a Slashing damage immune Barrier for 15 seconds.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/blade-turning.png'
 };

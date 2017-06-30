@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Remove Bleeding effects.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/cauterize.png'
 };

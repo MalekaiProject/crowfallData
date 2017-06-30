@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Matching Mail',
   type: 'Minor',
   description: 'You\'ve got mail!',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/matching-mail.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

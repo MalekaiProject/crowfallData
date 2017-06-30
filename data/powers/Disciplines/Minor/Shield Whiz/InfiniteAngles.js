@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Shield Throws now apply a movement speed reduction to all targets hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/infinite-angles.png'
 };

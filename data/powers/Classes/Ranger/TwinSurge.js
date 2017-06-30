@@ -17,5 +17,5 @@ exports.power = {
     resource: 25
   },
   tooltip: 'Slash in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/twin-surge.png'
 };

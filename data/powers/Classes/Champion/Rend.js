@@ -17,5 +17,5 @@ exports.power = {
     resource: 23
   },
   tooltip: 'Rend in front of you, dealing 234 - 316 + 275% Weapon Damage. Applies a Severe Bleed to all hit.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/rend.png'
 };

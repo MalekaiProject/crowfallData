@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Mortal Sin',
   type: 'Minor',
   description: 'Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/mortal-sin.png',
   classes: ['confessor', 'templar'],
   stats_granted: [],
   stats_values: [],

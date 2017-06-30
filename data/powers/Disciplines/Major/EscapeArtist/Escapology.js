@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Formulate your escape plan increasing your Resolve by 33% reducting Crowd Control durations and making it more likely that Crowd Control immunity triggers after being the victim of multiple Control effects.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/escapology.png'
 };

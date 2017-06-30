@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Sturdy',
   type: 'Minor',
   description: 'The only thing said to unsettle a Stoneborn, is the sight of an immortal summoning a Runestone Hammer...',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/sturdy.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

@@ -17,5 +17,5 @@ exports.power = {
     resource: 19
   },
   tooltip: 'Attack with your left weapon for 8 - 9 + 9% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/left-slash.png'
 };

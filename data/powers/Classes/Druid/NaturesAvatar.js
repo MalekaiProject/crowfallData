@@ -17,5 +17,5 @@ exports.power = {
     resource: 35
   },
   tooltip: 'Empowers an ally with a 75% Damage Bonus buff while you channel.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/natures-avatar.png'
 };

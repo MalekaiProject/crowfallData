@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Deploy a flare revealing any Stealth users entering the area. Stealth users revealed in this way are Exposed, take 170 - 230 + 200% Fire Weapon Damage and begin Burning.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/flare.png'
 };

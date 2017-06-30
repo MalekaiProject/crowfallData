@@ -17,5 +17,5 @@ exports.power = {
     resource: 30
   },
   tooltip: 'Charge your shield and slam up to 3 enemies in front of you for 82 - 111 + 97% Crushing Weapon Damage based on length of he charge. Charges over 66% guarantee a critical hit and push enemies away.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shield-slam.png'
 };

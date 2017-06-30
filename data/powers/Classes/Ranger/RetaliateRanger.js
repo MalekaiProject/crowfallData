@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/retaliate-ranger.png'
 };

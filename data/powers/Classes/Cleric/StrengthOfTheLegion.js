@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Applies Legion\'s Strength to the group which grants 100 Attack Power. Should the Legionaire die in combat, applies Last Words to all nearby group members, which Heals them and increases their critical hit change, critical hit ammount.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/strength-of-the-legion.png'
 };

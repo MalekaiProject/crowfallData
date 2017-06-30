@@ -17,5 +17,5 @@ exports.power = {
     resource: 17
   },
   tooltip: 'Demolish an enemy\'s Physical armor causing 120 - 163 + 142% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/demolish-armor.png'
 };

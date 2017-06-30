@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'While in Melee Mode all critical hits you land have a chance to restore Energy.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/gleeful-strike.png'
 };

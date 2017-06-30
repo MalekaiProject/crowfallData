@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Attack for 58 - 87 + 73% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/great-swing-2.png'
 };

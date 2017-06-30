@@ -17,5 +17,5 @@ exports.power = {
     resource: 32
   },
   tooltip: 'Sing for 12 seconds, affecting up to 5 enemies within 10m. Deals 100 - 150 + 12% Weapon Damage every 3 seconds. Type 3 Song.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/dirge-of-dissonance.png'
 };

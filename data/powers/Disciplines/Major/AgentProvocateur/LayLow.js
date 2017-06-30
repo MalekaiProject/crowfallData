@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Take it easy tending to your wounds and recovering 32-39 + 35% Weapon Damage a second for 6 seconds while maintaining Stealth.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/lay-low.png'
 };

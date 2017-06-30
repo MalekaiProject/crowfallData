@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Blind an enemy with light reflected from your shield causing 104 - 140 + 122% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/shield-glare-2.png'
 };

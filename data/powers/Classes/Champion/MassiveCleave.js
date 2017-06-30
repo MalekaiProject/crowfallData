@@ -17,5 +17,5 @@ exports.power = {
     resource: 15
   },
   tooltip: 'Strike in front of you for 142 - 192 - 167% Weapon Damage.',
-  icon: ''
+  icon: 'IMAGE_ENDPOINT/powers/massive-cleave.png'
 };
