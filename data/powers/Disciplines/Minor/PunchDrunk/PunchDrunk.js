@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'If you take more than 15% of your maximum health as damage in 2 seconds, reset the cooldowns on all powers currently on cooldown.',
-  icon: 'IMAGE_ENDPOINT/powers/punch-drunk.png'
+  icon: 'https://cdn.malekai.network/images/powers/punch-drunk.png'
 };

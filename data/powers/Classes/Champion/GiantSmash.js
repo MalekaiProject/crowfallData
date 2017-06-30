@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Strike in front of you for 102 - 138 + 120% Weapon Damage, generating 4 Rage if you hit.',
-  icon: 'IMAGE_ENDPOINT/powers/giant-smash.png'
+  icon: 'https://cdn.malekai.network/images/powers/giant-smash.png'
 };

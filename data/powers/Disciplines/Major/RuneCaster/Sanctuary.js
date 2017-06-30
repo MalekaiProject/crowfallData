@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Defend an area with a runic symbol increasing allies\' All Armor by 20%.',
-  icon: 'IMAGE_ENDPOINT/powers/sanctuary.png'
+  icon: 'https://cdn.malekai.network/images/powers/sanctuary.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 22
   },
   tooltip: 'Slash in front of you for 134 - 181 - 158% Weapon Damage. Applies a 50% movement reduction to the target.',
-  icon: 'IMAGE_ENDPOINT/powers/tendon-slice.png'
+  icon: 'https://cdn.malekai.network/images/powers/tendon-slice.png'
 };

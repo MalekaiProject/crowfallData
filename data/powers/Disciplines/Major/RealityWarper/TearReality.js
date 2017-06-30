@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Tear Reality 8m around you every 3 seconds for 9 seconds, all targets hit have all powers with an active cooldown increased by 3 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/tear-reality.png'
+  icon: 'https://cdn.malekai.network/images/powers/tear-reality.png'
 };

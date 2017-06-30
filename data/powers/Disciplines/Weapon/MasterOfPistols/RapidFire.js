@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Unleash a deadly barrage of hot lead causing 28 - 43 + 36% Weapon Damage.  If Rapid Fire hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.',
-  icon: 'IMAGE_ENDPOINT/powers/rapid-fire-pistols.png'
+  icon: 'https://cdn.malekai.network/images/powers/rapid-fire-pistols.png'
 };

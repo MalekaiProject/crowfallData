@@ -17,5 +17,5 @@ exports.power = {
     resource: 20
   },
   tooltip: 'Attack with both weapon simultaneously for 13 - 16 damage, causing your target to Bleed for 18 - 24 + #weapon_damage_2_values#% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/double-slash.png'
+  icon: 'https://cdn.malekai.network/images/powers/double-slash.png'
 };

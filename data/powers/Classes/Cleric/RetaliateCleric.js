@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Jump to your feet, hitting all nearby enemies twice for 60 - 73 + 67% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/retaliate-cleric.png'
+  icon: 'https://cdn.malekai.network/images/powers/retaliate-cleric.png'
 };

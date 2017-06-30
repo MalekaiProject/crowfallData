@@ -17,5 +17,5 @@ exports.power = {
     resource: 17
   },
   tooltip: 'Smash an enemy for 117 - 159 + 138% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/restoration-smash.png'
+  icon: 'https://cdn.malekai.network/images/powers/restoration-smash.png'
 };

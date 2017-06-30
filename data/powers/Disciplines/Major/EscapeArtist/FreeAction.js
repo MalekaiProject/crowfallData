@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Liberate group members and yourself gaining immunity to Movement Crowd Control effects for 5 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/free-action.png'
+  icon: 'https://cdn.malekai.network/images/powers/free-action.png'
 };

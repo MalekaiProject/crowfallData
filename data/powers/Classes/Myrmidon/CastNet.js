@@ -17,5 +17,5 @@ exports.power = {
     resource: 17
   },
   tooltip: 'Fling a net at your target rooting them in place and inflicting 83 - 102 + 93% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/cast-net.png'
+  icon: 'https://cdn.malekai.network/images/powers/cast-net.png'
 };

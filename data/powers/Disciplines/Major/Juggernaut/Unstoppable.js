@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Embrace overwhelming mania, maximuze your Resolve and trigger Crowd Control Immunity for a short time.',
-  icon: 'IMAGE_ENDPOINT/powers/unstoppable.png'
+  icon: 'https://cdn.malekai.network/images/powers/unstoppable.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Return to a minimum of two pips when entering stealth.',
-  icon: 'IMAGE_ENDPOINT/powers/found-resources.png'
+  icon: 'https://cdn.malekai.network/images/powers/found-resources.png'
 };

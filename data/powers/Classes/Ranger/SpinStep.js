@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Roll quickly in the current WASD direction.',
-  icon: 'IMAGE_ENDPOINT/powers/spin-step.png'
+  icon: 'https://cdn.malekai.network/images/powers/spin-step.png'
 };

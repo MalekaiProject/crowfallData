@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth.',
-  icon: 'IMAGE_ENDPOINT/powers/caltrops.png'
+  icon: 'https://cdn.malekai.network/images/powers/caltrops.png'
 };

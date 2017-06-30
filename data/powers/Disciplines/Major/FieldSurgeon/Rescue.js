@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Avert an ally\'s imminent death for 10 seconds preventing them from dropping below 1 Health and healing them for 473 - 578 + 525% Weapon Damage. Recently Rescued allies may not be effected by Rescue.',
-  icon: 'IMAGE_ENDPOINT/powers/rescue.png'
+  icon: 'https://cdn.malekai.network/images/powers/rescue.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Gain a Fire damage immune Barrier for 15 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/suns-of-worvan.png'
+  icon: 'https://cdn.malekai.network/images/powers/suns-of-worvan.png'
 };

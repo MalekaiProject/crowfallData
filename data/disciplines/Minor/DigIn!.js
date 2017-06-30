@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Dig In!',
   type: 'Minor',
   description: 'Stay strong and make them wonder how you\'re still standing.',
-  icon: 'IMAGE_ENDPOINT/disciplines/dig-in.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/dig-in.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

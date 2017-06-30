@@ -16,5 +16,5 @@ exports.power = {
     pips: 0,
     resource: 16 },
   tooltip: 'Fortify your defense increasing your Crushing armor and improving weapon efficiency.',
-  icon: 'IMAGE_ENDPOINT/powers/will-of-the-stoneborn.png'
+  icon: 'https://cdn.malekai.network/images/powers/will-of-the-stoneborn.png'
 };

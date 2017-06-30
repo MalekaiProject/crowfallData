@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Add a Glamour to your weapon increasing Maximum Weapon Damage by 50 for 30 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/glamour-weapon.png'
+  icon: 'https://cdn.malekai.network/images/powers/glamour-weapon.png'
 };

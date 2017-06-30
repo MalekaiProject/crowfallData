@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Minor Accompaniment',
   type: 'Minor',
   description: 'Bach up and compose yourself!',
-  icon: 'IMAGE_ENDPOINT/disciplines/minor-accompaniment.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/minor-accompaniment.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

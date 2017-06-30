@@ -17,5 +17,5 @@ exports.power = {
     resource: 55
   },
   tooltip: 'Consumes Flame of the Truth on your reticle target, which instantly exploded for 47 - 71 + 59% Weapon Damage, and stuns the target. Does nothing againts target without Flames of Truth.',
-  icon: 'IMAGE_ENDPOINT/powers/forced-confession.png'
+  icon: 'https://cdn.malekai.network/images/powers/forced-confession.png'
 };

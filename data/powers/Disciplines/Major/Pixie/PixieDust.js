@@ -17,5 +17,5 @@ exports.power = {
     resource: 14
   },
   tooltip: 'Blanket the targeted area with Pixie Dust, increasing Incoming Healing by 25% for 25 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/pixie-dust.png'
+  icon: 'https://cdn.malekai.network/images/powers/pixie-dust.png'
 };

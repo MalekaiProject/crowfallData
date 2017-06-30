@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Shield Whiz',
   type: 'Minor',
   description: 'Throwing a shield is geometry in its most challenging form; a science of precise angles and forces, not to mention a goddamn massive arm.',
-  icon: 'IMAGE_ENDPOINT/disciplines/shield-whiz.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/shield-whiz.png',
   classes: ['cleric', 'druid', 'knight'],
   stats_granted: ['Shield Throw: Bonus Ricochets', 'Shield Throw: Falloff Bonus'],
   stats_values: [1, 0.06],

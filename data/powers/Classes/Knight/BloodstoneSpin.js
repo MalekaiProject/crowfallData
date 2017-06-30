@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'A basic attack slashing spinning in front of you for 88 - 119 + 103% Weapon Damage and reducing movement speed by 50%. Scoring three or more consecutive basic attack hits activates SHIELD BASH.',
-  icon: 'IMAGE_ENDPOINT/powers/bloodstone-spin.png'
+  icon: 'https://cdn.malekai.network/images/powers/bloodstone-spin.png'
 };

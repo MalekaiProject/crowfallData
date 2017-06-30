@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Protect yourself with a powerful enchantment periodically stunning attackers.',
-  icon: 'IMAGE_ENDPOINT/powers/terrifying-features.png'
+  icon: 'https://cdn.malekai.network/images/powers/terrifying-features.png'
 };

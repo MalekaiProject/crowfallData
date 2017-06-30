@@ -17,5 +17,5 @@ exports.power = {
     resource: 6
   },
   tooltip: 'Traumatize an enemy increasing their cooldown times and causing 49 - 67 + 58% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/crippling-stab-2.png'
+  icon: 'https://cdn.malekai.network/images/powers/crippling-stab-2.png'
 };

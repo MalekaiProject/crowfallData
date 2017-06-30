@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Slash enemies for 51 - 69 + 60% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/blood-strike-2.png'
+  icon: 'https://cdn.malekai.network/images/powers/blood-strike-2.png'
 };

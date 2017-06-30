@@ -17,5 +17,5 @@ exports.power = {
     resource: 79
   },
   tooltip: 'Launch a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/wicked-winds.png'
+  icon: 'https://cdn.malekai.network/images/powers/wicked-winds.png'
 };

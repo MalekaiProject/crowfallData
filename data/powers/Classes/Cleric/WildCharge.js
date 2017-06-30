@@ -17,5 +17,5 @@ exports.power = {
     resource: 21
   },
   tooltip: 'Charge forward while the input key is depressed, dealing 110 - 135 + 123% Weapon Damage to anything in your way.',
-  icon: 'IMAGE_ENDPOINT/powers/wild-charge.png'
+  icon: 'https://cdn.malekai.network/images/powers/wild-charge.png'
 };

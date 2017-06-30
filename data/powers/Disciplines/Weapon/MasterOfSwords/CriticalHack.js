@@ -17,5 +17,5 @@ exports.power = {
     resource: 18
   },
   tooltip: 'Slash an enemy for 131-177 +154% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/critical-hack.png'
+  icon: 'https://cdn.malekai.network/images/powers/critical-hack.png'
 };

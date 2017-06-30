@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Stick an enemy for 85 - 115 + 100% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/slow-demise.png'
+  icon: 'https://cdn.malekai.network/images/powers/slow-demise.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Shoot an explosive trap at a ground location, which explodes when an enemy approaches it dealing 46 - 62 + 54% Weapon Damage as Fire Damage. Knocks Up all hit. Trap will exist for 60 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/launch-explosive-trap.png'
+  icon: 'https://cdn.malekai.network/images/powers/launch-explosive-trap.png'
 };

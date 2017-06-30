@@ -17,5 +17,5 @@ exports.power = {
     resource: 131
   },
   tooltip: 'Create an Archer\'s Stake at the feet of the caster. The Stake grants 100 Attack Power to you as long as you are within 5m.',
-  icon: 'IMAGE_ENDPOINT/powers/archers-stake.png'
+  icon: 'https://cdn.malekai.network/images/powers/archers-stake.png'
 };

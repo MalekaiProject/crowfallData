@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Slash multiple enemies for 61 - 92 + 76% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/castigate.png'
+  icon: 'https://cdn.malekai.network/images/powers/castigate.png'
 };

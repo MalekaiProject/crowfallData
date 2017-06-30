@@ -17,5 +17,5 @@ exports.power = {
     resource: 22
   },
   tooltip: 'Attack in front of you for 144 - 195 + 170% Crushing Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/brutal-strike.png'
+  icon: 'https://cdn.malekai.network/images/powers/brutal-strike.png'
 };

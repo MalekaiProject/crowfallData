@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Carefully studying a target from the comfort of your Burrow, you apply the Exposed debuff to reveal weaknesses you and other specialists may capitalize on.',
-  icon: 'IMAGE_ENDPOINT/powers/recon.png'
+  icon: 'https://cdn.malekai.network/images/powers/recon.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Stab in front of you for 75 - 92 + 83% Weapon Damage as Piercing Damage. Applies a Weapon Break to all hit, which reduces all Damage they deal by 20% for 15 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/drive.png'
+  icon: 'https://cdn.malekai.network/images/powers/drive.png'
 };

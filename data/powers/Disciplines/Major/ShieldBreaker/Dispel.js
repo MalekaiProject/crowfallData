@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Strip away an enemy\'s Barrier inflicting 91 - 123 + 107% Weapon Damage and causing Knockdown if a Barrier is removed.',
-  icon: 'IMAGE_ENDPOINT/powers/dispel.png'
+  icon: 'https://cdn.malekai.network/images/powers/dispel.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Immediately dive into your Burrow becoming immune to damage and control effects for a short time and leaving an explosive decoy in your place that explodes for 213 - 320 + 267% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/vanish.png'
+  icon: 'https://cdn.malekai.network/images/powers/vanish.png'
 };

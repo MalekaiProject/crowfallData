@@ -3,7 +3,7 @@ exports.discipline = {
   name: 'Agent Provocateur',
   type: 'Major',
   description: 'Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.',
-  icon: 'IMAGE_ENDPOINT/disciplines/agent-provocateur.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/agent-provocateur.png',
   classes: ['assassin', 'duelist', 'ranger'],
   stats_granted: ['Stealth'],
   stats_values: [6.25],

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Health Regeneration by 350 while in Stealth.',
-  icon: 'IMAGE_ENDPOINT/powers/shadows-caress.png'
+  icon: 'https://cdn.malekai.network/images/powers/shadows-caress.png'
 };

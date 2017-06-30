@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Have faith and recieve the blessing you need.  Your actions determine whether you receive the Seeker\'s Blessing for movement speed, Charitable Blessing for Support Power or Impoverished Blessing for restoring your resource over time.',
-  icon: 'IMAGE_ENDPOINT/powers/fortuitous-blessings.png'
+  icon: 'https://cdn.malekai.network/images/powers/fortuitous-blessings.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Smash an enemy, stunning them for 106 - 143 + 124% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/grabthars-hammer-2.png'
+  icon: 'https://cdn.malekai.network/images/powers/grabthars-hammer-2.png'
 };

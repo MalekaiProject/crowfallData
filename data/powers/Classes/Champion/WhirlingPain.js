@@ -17,5 +17,5 @@ exports.power = {
     resource: 11
   },
   tooltip: 'Sweep 7 times around you dealing 59 - 79 + 69% Weapon Damage per swing. You may move while spinning.',
-  icon: 'IMAGE_ENDPOINT/powers/whirling-pain.png'
+  icon: 'https://cdn.malekai.network/images/powers/whirling-pain.png'
 };

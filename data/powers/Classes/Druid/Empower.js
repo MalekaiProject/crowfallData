@@ -17,5 +17,5 @@ exports.power = {
     resource: 35
   },
   tooltip: 'Embrace Death increasing your Essence Gain by 35% for 45 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/empower.png'
+  icon: 'https://cdn.malekai.network/images/powers/empower.png'
 };

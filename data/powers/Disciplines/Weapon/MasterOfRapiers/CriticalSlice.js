@@ -17,5 +17,5 @@ exports.power = {
     resource: 11
   },
   tooltip: 'Slice an enemy for 77 - 105 + 91% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/critical-slice.png'
+  icon: 'https://cdn.malekai.network/images/powers/critical-slice.png'
 };

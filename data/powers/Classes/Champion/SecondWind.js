@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'After not taking damage for 4 seconds and falling below 50% Health, Health Regeneration is greatly increased until reaching 50% Health.',
-  icon: 'IMAGE_ENDPOINT/powers/second-wind-champion.png'
+  icon: 'https://cdn.malekai.network/images/powers/second-wind-champion.png'
 };

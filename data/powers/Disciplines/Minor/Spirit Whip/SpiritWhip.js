@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Melee Basic attacks now whip to additional targets with #range#.  Each time the Spirit whips is deals less damage.  50% for the first whip and 25% for the second.',
-  icon: 'IMAGE_ENDPOINT/powers/spirit-whip.png'
+  icon: 'https://cdn.malekai.network/images/powers/spirit-whip.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Coming Soon',
-  icon: 'IMAGE_ENDPOINT/powers/call-darkness.png'
+  icon: 'https://cdn.malekai.network/images/powers/call-darkness.png'
 };

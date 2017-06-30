@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Indulgence Cleanse yourself and become immune to Sin for 30 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/indulgence.png'
+  icon: 'https://cdn.malekai.network/images/powers/indulgence.png'
 };

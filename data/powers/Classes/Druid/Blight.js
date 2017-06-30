@@ -17,5 +17,5 @@ exports.power = {
     resource: 57
   },
   tooltip: 'Deploy a field causing each COALESCE LIFE orb to explode catasrophically for 86 - 120 + 108% Weapon Damage while COALESCE NATURE orbs explode for 90 to 136 + 113% Weapon Damage. Reduces Earth and Electric defenses by 20%.',
-  icon: 'IMAGE_ENDPOINT/powers/blight.png'
+  icon: 'https://cdn.malekai.network/images/powers/blight.png'
 };

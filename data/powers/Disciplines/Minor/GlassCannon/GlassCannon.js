@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Damage Bonus while increasing the damage you take.',
-  icon: 'IMAGE_ENDPOINT/powers/glass-cannon.png'
+  icon: 'https://cdn.malekai.network/images/powers/glass-cannon.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 22
   },
   tooltip: 'Attack and knock down enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/shockwave.png'
+  icon: 'https://cdn.malekai.network/images/powers/shockwave.png'
 };

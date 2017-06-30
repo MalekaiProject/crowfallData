@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Song Damage by 20%.',
-  icon: 'IMAGE_ENDPOINT/powers/minor-accompaniment.png'
+  icon: 'https://cdn.malekai.network/images/powers/minor-accompaniment.png'
 };

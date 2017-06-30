@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Restore group members and yourself to full combat readiness removing and gaining immunity to Attack Crowd Control effects for 5 seconds. Weapon Oil can be used while Suppressed.',
-  icon: 'IMAGE_ENDPOINT/powers/weapon-oil.png'
+  icon: 'https://cdn.malekai.network/images/powers/weapon-oil.png'
 };

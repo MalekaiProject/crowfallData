@@ -18,5 +18,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Cancels the current combo power being executed.',
-  icon: 'IMAGE_ENDPOINT/powers/cancel-combo-champion.png'
+  icon: 'https://cdn.malekai.network/images/powers/cancel-combo-champion.png'
 };

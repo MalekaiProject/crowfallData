@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Leap forward striking twice for 39 - 48 + 43% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/bloodied-swipe.png'
+  icon: 'https://cdn.malekai.network/images/powers/bloodied-swipe.png'
 };

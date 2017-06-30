@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Removes all movement impairing effects. Increases group movement speed by 10%.',
-  icon: 'IMAGE_ENDPOINT/powers/battle-cry.png'
+  icon: 'https://cdn.malekai.network/images/powers/battle-cry.png'
 };

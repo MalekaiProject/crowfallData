@@ -17,5 +17,5 @@ exports.power = {
     resource: 11
   },
   tooltip: 'Swipe in front of you for 121 - 148 + 134% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/uppercut.png'
+  icon: 'https://cdn.malekai.network/images/powers/uppercut.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Leap from your Burrow with full commitment, unleashing a deadly hail of gunfire assaulting up to three targets in a cone multiple times for 39 - 58 + 48% Weapon Damage before returning to your burrow again if you can avoid damage. Striking Exposed targets causes a guaranteed critical hit.',
-  icon: 'IMAGE_ENDPOINT/powers/go-for-broke.png'
+  icon: 'https://cdn.malekai.network/images/powers/go-for-broke.png'
 };

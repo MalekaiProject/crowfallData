@@ -17,5 +17,5 @@ exports.power = {
     resource: 96
   },
   tooltip: 'Blanket the targeted area with Life energy, instantly healing 27 to 33 + 30% Weapon Damage. This Power generates a High amount of Essence',
-  icon: 'IMAGE_ENDPOINT/powers/healing-rain.png'
+  icon: 'https://cdn.malekai.network/images/powers/healing-rain.png'
 };

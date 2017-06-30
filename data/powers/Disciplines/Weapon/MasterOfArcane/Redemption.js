@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Rapidly throw up to ten fireballs in a row for 34 - 46 + 40% Fire Weapon Damage scaling up to 43 - 58 + 50% Weapon Damage based on the enemy\'s Sin.',
-  icon: 'IMAGE_ENDPOINT/powers/redemption.png'
+  icon: 'https://cdn.malekai.network/images/powers/redemption.png'
 };

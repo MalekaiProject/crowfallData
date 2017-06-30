@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Deploy a banner overriding the damage of all nearby group members to Electric and increasing their Electric Armor by 25.',
-  icon: 'IMAGE_ENDPOINT/powers/banner-of-storms.png'
+  icon: 'https://cdn.malekai.network/images/powers/banner-of-storms.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 9
   },
   tooltip: 'Shoot an enemy for 35 - 52 + 43% Weapon Damage while generating a Pip with a chance to reset the cooldown of Rapid Fire.',
-  icon: 'IMAGE_ENDPOINT/powers/pistol-shot.png'
+  icon: 'https://cdn.malekai.network/images/powers/pistol-shot.png'
 };

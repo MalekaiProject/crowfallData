@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Grants 400% Lifesteal for 5 seconds to your attacks, which returns Health for all attacks that damage a Health pool.',
-  icon: 'IMAGE_ENDPOINT/powers/sustain.png'
+  icon: 'https://cdn.malekai.network/images/powers/sustain.png'
 };

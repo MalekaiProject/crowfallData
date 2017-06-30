@@ -17,5 +17,5 @@ exports.power = {
     resource: 80
   },
   tooltip: 'Damages all players in front of you who were hit by the Hellfire Wave for 76 - 114 + 95% Weapon Damage, and knocks them briefly into the air.',
-  icon: 'IMAGE_ENDPOINT/powers/hellfire-blast.png'
+  icon: 'https://cdn.malekai.network/images/powers/hellfire-blast.png'
 };

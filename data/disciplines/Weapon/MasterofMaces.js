@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Master of Maces',
   type: 'Weapon',
   description: 'Created from the most durable of metals and woods the mace is as varied a weapon as those who use it.  Heavy, obtuse, and often times strenuous to use, only those who can proficiently brandish the blunt force of maces successfully can attain the title of a Master.',
-  icon: 'IMAGE_ENDPOINT/disciplines/master-of-maces.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/master-of-maces.png',
   classes: ['assassin', 'cleric', 'knight', 'myrmidon', 'ranger'],
   stats_granted: ['Damage Bonus: Crushing'],
   stats_values: [6],

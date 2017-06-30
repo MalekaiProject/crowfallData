@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Bonus Thorns 10.',
-  icon: 'IMAGE_ENDPOINT/powers/prickly-skin.png'
+  icon: 'https://cdn.malekai.network/images/powers/prickly-skin.png'
 };

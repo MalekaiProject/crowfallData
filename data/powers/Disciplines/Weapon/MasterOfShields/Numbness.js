@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Reduce the cost of Blocking high damage attacks.',
-  icon: 'IMAGE_ENDPOINT/powers/numbness.png'
+  icon: 'https://cdn.malekai.network/images/powers/numbness.png'
 };

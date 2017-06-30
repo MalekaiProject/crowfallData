@@ -17,5 +17,5 @@ exports.power = {
     resource: 11
   },
   tooltip: 'Afflict an enemy with an aura causing other nearby enemies to suffer 15 - 20 + 18% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/reverberating-blow.png'
+  icon: 'https://cdn.malekai.network/images/powers/reverberating-blow.png'
 };

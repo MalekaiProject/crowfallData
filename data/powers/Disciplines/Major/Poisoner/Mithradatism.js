@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Remove all Poison effects from yourself.',
-  icon: 'IMAGE_ENDPOINT/powers/mithradatism.png'
+  icon: 'https://cdn.malekai.network/images/powers/mithradatism.png'
 };

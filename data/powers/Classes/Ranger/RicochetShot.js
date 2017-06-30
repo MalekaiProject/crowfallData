@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Charge an arrow and shoot it towards your reticle dealing 158 - 213 + 186% Weapon Damage. The arrow will chain to a second target within 6m and then chain to a third target. If you hit 3 targets with this power applies 150 Critical Hit Damage for 10 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/ricochet-shot.png'
+  icon: 'https://cdn.malekai.network/images/powers/ricochet-shot.png'
 };

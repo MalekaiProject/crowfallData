@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Envelope yourself with dangerous Thorns for 20 seconds causing any who strike you to take damage.',
-  icon: 'IMAGE_ENDPOINT/powers/thornshield.png'
+  icon: 'https://cdn.malekai.network/images/powers/thornshield.png'
 };

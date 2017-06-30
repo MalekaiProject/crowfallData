@@ -17,5 +17,5 @@ exports.power = {
     resource: 15
   },
   tooltip: 'Absorb heat from incoming Fire damage attacks to heal for 125% of Fire damage inflicted.',
-  icon: 'IMAGE_ENDPOINT/powers/fire-eater.png'
+  icon: 'https://cdn.malekai.network/images/powers/fire-eater.png'
 };

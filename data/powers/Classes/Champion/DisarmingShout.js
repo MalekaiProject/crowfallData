@@ -17,5 +17,5 @@ exports.power = {
     resource: 14
   },
   tooltip: 'Suppress enemies, disabling their powers for 6 seconds. Deals 140 - 190 + 165% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/disarming-shout.png'
+  icon: 'https://cdn.malekai.network/images/powers/disarming-shout.png'
 };

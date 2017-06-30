@@ -17,5 +17,5 @@ exports.power = {
     resource: 17
   },
   tooltip: 'Attack with your right weapon for 3 - 4 + 4% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/right-slash.png'
+  icon: 'https://cdn.malekai.network/images/powers/right-slash.png'
 };

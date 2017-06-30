@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Your last Basic attack inflicts a Bleed.',
-  icon: 'IMAGE_ENDPOINT/powers/long-live-the-fighter.png'
+  icon: 'https://cdn.malekai.network/images/powers/long-live-the-fighter.png'
 };

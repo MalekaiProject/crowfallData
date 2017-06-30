@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Judge an enemy inflicting 76-103 + 90% Holy Weapon Damage and cannot be imitgated normally.',
-  icon: 'IMAGE_ENDPOINT/powers/adjudicate-2.png'
+  icon: 'https://cdn.malekai.network/images/powers/adjudicate-2.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Protect yourself with skin like rubber granting you a barrier with immunity to Crushing damage.',
-  icon: 'IMAGE_ENDPOINT/powers/jelly-skin.png'
+  icon: 'https://cdn.malekai.network/images/powers/jelly-skin.png'
 };

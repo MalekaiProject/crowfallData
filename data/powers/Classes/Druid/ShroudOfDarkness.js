@@ -17,5 +17,5 @@ exports.power = {
     resource: 31
   },
   tooltip: 'Attacks made against you have a chance of Stunning the enemy who struck you.',
-  icon: 'IMAGE_ENDPOINT/powers/shroud-of-darkness.png'
+  icon: 'https://cdn.malekai.network/images/powers/shroud-of-darkness.png'
 };

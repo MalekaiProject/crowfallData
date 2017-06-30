@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Favor the forces of Life reducing your Essence Gain by 50%.',
-  icon: 'IMAGE_ENDPOINT/powers/slow-growth.png'
+  icon: 'https://cdn.malekai.network/images/powers/slow-growth.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Surround yourself with a chilling aura of palpable fear that automatically reveals Stealthed enemies.  Enemies who remain nearby for too long are Suppressed and then afflicted with Frostbite.',
-  icon: 'IMAGE_ENDPOINT/powers/aura-of-terror.png'
+  icon: 'https://cdn.malekai.network/images/powers/aura-of-terror.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 14
   },
   tooltip: 'Attack in front of you twice for 43 - 58 + 51% Weapon Damage each hit.',
-  icon: 'IMAGE_ENDPOINT/powers/twin-assault.png'
+  icon: 'https://cdn.malekai.network/images/powers/twin-assault.png'
 };

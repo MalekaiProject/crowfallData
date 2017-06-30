@@ -20,5 +20,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Spin with an overhead chop hitting multiple enemies for 117 - 176 + 146% Weapon Damage and generating Righteousness for each hit.',
-  icon: 'IMAGE_ENDPOINT/powers/righteous-smash.png'
+  icon: 'https://cdn.malekai.network/images/powers/righteous-smash.png'
 };

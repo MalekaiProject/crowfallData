@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Twisting',
   type: 'Minor',
   description: 'Not for the faint of wrist.',
-  icon: 'IMAGE_ENDPOINT/disciplines/twisting.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/twisting.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

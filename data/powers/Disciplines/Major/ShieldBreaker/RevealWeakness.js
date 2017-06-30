@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Enhance group members and yourself increasing Physical Armor Penetration by 10.',
-  icon: 'IMAGE_ENDPOINT/powers/reveal-weakness.png'
+  icon: 'https://cdn.malekai.network/images/powers/reveal-weakness.png'
 };

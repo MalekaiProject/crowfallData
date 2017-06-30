@@ -17,5 +17,5 @@ exports.power = {
     resource: 35
   },
   tooltip: 'Cause an enemy to become lethargic increasing all Power colldowns and reducing their movement speed for 8 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/leeching-seed.png'
+  icon: 'https://cdn.malekai.network/images/powers/leeching-seed.png'
 };

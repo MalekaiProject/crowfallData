@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Attack causing 70 - 94 + 82% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/aegis-of-salvation.png'
+  icon: 'https://cdn.malekai.network/images/powers/aegis-of-salvation.png'
 };

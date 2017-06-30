@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Knock down multiple enemies dealing 72 - 108 + 90% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/radiant-sweep.png'
+  icon: 'https://cdn.malekai.network/images/powers/radiant-sweep.png'
 };

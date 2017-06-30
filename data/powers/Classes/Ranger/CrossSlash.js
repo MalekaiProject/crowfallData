@@ -17,5 +17,5 @@ exports.power = {
     resource: 31
   },
   tooltip: 'Slash in front of you for 35 - 47 + 41% Weapon Damage. Applies a Moderate Bleed effect.',
-  icon: 'IMAGE_ENDPOINT/powers/cross-slash.png'
+  icon: 'https://cdn.malekai.network/images/powers/cross-slash.png'
 };

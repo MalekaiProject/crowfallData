@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'A basic attack slashing in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attack hits activates SHIELD BASH.',
-  icon: 'IMAGE_ENDPOINT/powers/emerald-slash.png'
+  icon: 'https://cdn.malekai.network/images/powers/emerald-slash.png'
 };

@@ -3,5 +3,5 @@ exports.race = {
   classes: ['knight', 'confessor', 'templar', 'ranger'],
   name: 'Elken',
   description: '',
-  icon: 'IMAGE_ENDPOINT/races/elken.png'
+  icon: 'https://cdn.malekai.network/images/races/elken.png'
 };

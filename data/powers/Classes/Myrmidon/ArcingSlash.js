@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Slash upward violently inflicting 41 - 50 + 46% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/arcing-slash.png'
+  icon: 'https://cdn.malekai.network/images/powers/arcing-slash.png'
 };

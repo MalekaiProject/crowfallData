@@ -17,5 +17,5 @@ exports.power = {
     resource: 34
   },
   tooltip: 'Slash in front of you for 93 - 126 + 110% Weapon Damage. Applies a Weapon Break which reduces all damage by 20% for 15 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/laceration.png'
+  icon: 'https://cdn.malekai.network/images/powers/laceration.png'
 };

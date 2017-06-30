@@ -17,5 +17,5 @@ exports.power = {
     resource: 46
   },
   tooltip: 'Creates a Fountain of Life at the targetted location, which chain heals allies who walk near it. The fountain lasts 10 seconds or 30 heals.',
-  icon: 'IMAGE_ENDPOINT/powers/fountain-of-life.png'
+  icon: 'https://cdn.malekai.network/images/powers/fountain-of-life.png'
 };

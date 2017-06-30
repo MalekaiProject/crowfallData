@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/power-shot.png'
+  icon: 'https://cdn.malekai.network/images/powers/power-shot.png'
 };

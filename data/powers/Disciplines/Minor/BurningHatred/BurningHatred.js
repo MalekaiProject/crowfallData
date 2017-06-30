@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Seethe with anger as your damaging attacks periodically create a Fae Wisp, consumable only by you, restoring 252 - 308 + 280% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/burning-hatred.png'
+  icon: 'https://cdn.malekai.network/images/powers/burning-hatred.png'
 };

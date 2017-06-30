@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'While Out of Combat increases the groups Movement Speed by 35% for 12 seconds. While In Combat increases the groups Movement Speed by 10% for 12 seconds. Type 1 Song.',
-  icon: 'IMAGE_ENDPOINT/powers/song-of-speed.png'
+  icon: 'https://cdn.malekai.network/images/powers/song-of-speed.png'
 };

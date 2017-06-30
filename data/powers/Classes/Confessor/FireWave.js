@@ -17,5 +17,5 @@ exports.power = {
     resource: 60
   },
   tooltip: 'Consumes your Hellfire Shield and transforms it into a fiery wave, which move forward and damages all who are struck by it for 87 - 130 + 109% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/fire-wave.png'
+  icon: 'https://cdn.malekai.network/images/powers/fire-wave.png'
 };

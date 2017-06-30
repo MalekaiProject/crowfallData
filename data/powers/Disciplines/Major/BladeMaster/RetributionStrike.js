@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Turn the tables on enemies with a strike granting 20% Retribution for 15 seconds and causing 113 - 153 + 133% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/retribution-slash.png'
+  icon: 'https://cdn.malekai.network/images/powers/retribution-slash.png'
 };

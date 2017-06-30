@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Reinforce your body reducing Health loss by 20% when your Health is above 80%.',
-  icon: 'IMAGE_ENDPOINT/powers/sturdy.png'
+  icon: 'https://cdn.malekai.network/images/powers/sturdy.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 34
   },
   tooltip: 'Spin in place and deal 57 - 77 + 67% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power.',
-  icon: 'IMAGE_ENDPOINT/powers/dagger-spin-4.png'
+  icon: 'https://cdn.malekai.network/images/powers/dagger-spin-4.png'
 };

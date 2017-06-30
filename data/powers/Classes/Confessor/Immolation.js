@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Blinds up to 8 nearby enemies while rendering you immune to physics impulses and damage effects. Remove all movement impairments.',
-  icon: 'IMAGE_ENDPOINT/powers/immolation.png'
+  icon: 'https://cdn.malekai.network/images/powers/immolation.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'When you execute a Primary Attack which damages an enemy, you gain a stack of Whispers. If you gain 5 Whispers in 12 seconds, Empowered Whispers is applied, which increases your Critical Hit Chance by 20% and your Critical Damage by 35% for 6 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/careless-whisper.png'
+  icon: 'https://cdn.malekai.network/images/powers/careless-whisper.png'
 };

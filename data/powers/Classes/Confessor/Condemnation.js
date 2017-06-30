@@ -17,5 +17,5 @@ exports.power = {
     resource: 20
   },
   tooltip: 'Condemns all targets in front of you dealing 14 -21 + 17% Weapon Damage multiple times per second. If the targets are under the effect of Sin they take increased damage per stack of Sin to a maximum of 18 - 23 + 23% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/condemnation.png'
+  icon: 'https://cdn.malekai.network/images/powers/condemnation.png'
 };

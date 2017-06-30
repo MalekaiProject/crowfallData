@@ -17,5 +17,5 @@ exports.power = {
     resource: 56
   },
   tooltip: 'Overcome with bloodlust you continually recover all lost Health for 20 seconds. When the effect ends your suffer Berserk Crash and all recovered Health is lost again. The Scent of Blood reduces Health loss from Berserk Crash. Health loss is prevented altogether while Raging.',
-  icon: 'IMAGE_ENDPOINT/powers/berserk.png'
+  icon: 'https://cdn.malekai.network/images/powers/berserk.png'
 };

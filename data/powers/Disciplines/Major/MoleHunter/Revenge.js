@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Critical Hit Chance and Critical Hit Damage by 25 for 30 seconds when damaged by a Stealth attack.',
-  icon: 'IMAGE_ENDPOINT/powers/revenge.png'
+  icon: 'https://cdn.malekai.network/images/powers/revenge.png'
 };

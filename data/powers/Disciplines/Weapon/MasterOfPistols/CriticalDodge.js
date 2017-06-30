@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Recover one Dodge when hitting critically.  This effect can occur twice in 45 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/critical-dodge.png'
+  icon: 'https://cdn.malekai.network/images/powers/critical-dodge.png'
 };

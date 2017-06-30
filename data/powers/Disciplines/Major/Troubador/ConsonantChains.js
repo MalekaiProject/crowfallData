@@ -17,5 +17,5 @@ exports.power = {
     resource: 32
   },
   tooltip: 'Damages a targeted enemy for 227 - 307 + 267% Weapon Damage, then jumps to damage a nearby enemy. Consonant Chains will jump to as many as 5 additional targets with damage reduced by 30% each jump. Targets hit will sugger a Movement Speed reduction. Type 1 Song.',
-  icon: 'IMAGE_ENDPOINT/powers/consonant-chains.png'
+  icon: 'https://cdn.malekai.network/images/powers/consonant-chains.png'
 };

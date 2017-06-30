@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Gain a Piercing damage immune Barrier for 15 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/pin-cushion.png'
+  icon: 'https://cdn.malekai.network/images/powers/pin-cushion.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Smash an enemy, stunning them and causing 94 - 127 + 111% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/skullcracker-2.png'
+  icon: 'https://cdn.malekai.network/images/powers/skullcracker-2.png'
 };

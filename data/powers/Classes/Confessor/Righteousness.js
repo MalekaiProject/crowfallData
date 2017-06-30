@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Adds a chance to restore Mana when you deal damage to others. Also buffs Damage Bonus by 5% for 15 seconds whenever you hit reach maximum Zealotry.',
-  icon: 'IMAGE_ENDPOINT/powers/righteousness.png'
+  icon: 'https://cdn.malekai.network/images/powers/righteousness.png'
 };

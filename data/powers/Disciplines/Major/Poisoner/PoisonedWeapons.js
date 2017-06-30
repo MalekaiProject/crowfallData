@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'All your Primary Attacks now deal Poison as their damage type.  In addition your final Primary attack deals an AoE poison damage to nearby enemies.',
-  icon: 'IMAGE_ENDPOINT/powers/poisoned-weapons.png'
+  icon: 'https://cdn.malekai.network/images/powers/poisoned-weapons.png'
 };

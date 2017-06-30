@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Restores 350 Mana over five seconds as you channel. While channeling your physical mitigations are reduced by 15%.',
-  icon: 'IMAGE_ENDPOINT/powers/fervor.png'
+  icon: 'https://cdn.malekai.network/images/powers/fervor.png'
 };

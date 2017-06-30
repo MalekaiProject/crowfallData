@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Smash an enemy for 68 - 92 + 80% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/clobber.png'
+  icon: 'https://cdn.malekai.network/images/powers/clobber.png'
 };

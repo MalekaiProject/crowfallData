@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.',
-  icon: 'IMAGE_ENDPOINT/powers/retaliate-champion.png'
+  icon: 'https://cdn.malekai.network/images/powers/retaliate-champion.png'
 };

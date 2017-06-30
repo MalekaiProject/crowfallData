@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Begin Raging and flinging enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies.',
-  icon: 'IMAGE_ENDPOINT/powers/raging-bull.png'
+  icon: 'https://cdn.malekai.network/images/powers/raging-bull.png'
 };

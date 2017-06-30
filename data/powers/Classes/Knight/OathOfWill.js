@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Vowing never to surrender, you recover 36 Stamina over 3 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/oath-of-will.png'
+  icon: 'https://cdn.malekai.network/images/powers/oath-of-will.png'
 };

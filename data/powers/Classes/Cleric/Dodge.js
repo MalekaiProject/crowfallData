@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Charge in the current WASD direction dealing for 41 - 50 Damage + 46% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/dodge-cleric.png'
+  icon: 'https://cdn.malekai.network/images/powers/dodge-cleric.png'
 };

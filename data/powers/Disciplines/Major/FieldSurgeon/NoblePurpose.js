@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Inspire yourself, taking stock of your life saving endeavors and recover Resource for every 10000 Health you restore.',
-  icon: 'IMAGE_ENDPOINT/powers/noble-purpose.png'
+  icon: 'https://cdn.malekai.network/images/powers/noble-purpose.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Attacks have a chance to increase Attack Power by 150 and add a protective Barrier.',
-  icon: 'IMAGE_ENDPOINT/powers/berserker-strength.png'
+  icon: 'https://cdn.malekai.network/images/powers/berserker-strength.png'
 };

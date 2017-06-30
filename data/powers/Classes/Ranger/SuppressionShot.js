@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Shoot at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit.',
-  icon: 'IMAGE_ENDPOINT/powers/suppression-shot.png'
+  icon: 'https://cdn.malekai.network/images/powers/suppression-shot.png'
 };

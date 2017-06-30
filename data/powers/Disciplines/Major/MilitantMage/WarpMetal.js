@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Curse an enemy with a destructive aura increasing Resource Cost for each Slashing damage attack they commit.',
-  icon: 'IMAGE_ENDPOINT/powers/warp-metal.png'
+  icon: 'https://cdn.malekai.network/images/powers/warp-metal.png'
 };

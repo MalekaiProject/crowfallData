@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Striking a Bleeding target grants you the Scent of Blood, partially reducing Health loss from Berserk Crash. Striking a Bleeding target also has a chance to grant Taste for Blood for 20 seconds, which greatly increased the damage of your basic attacks.',
-  icon: 'IMAGE_ENDPOINT/powers/taste-for-blood.png'
+  icon: 'https://cdn.malekai.network/images/powers/taste-for-blood.png'
 };

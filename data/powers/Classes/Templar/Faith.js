@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Dropping under 35% Health automatically activates the effects of Holy Warrior. Activating Holy Warrior at the same time prevents death until the effect has ended.',
-  icon: 'IMAGE_ENDPOINT/powers/faith.png'
+  icon: 'https://cdn.malekai.network/images/powers/faith.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Strengthen group members and yourself increasing their Maximum Health by 20% for 45 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/toughness.png'
+  icon: 'https://cdn.malekai.network/images/powers/toughness.png'
 };

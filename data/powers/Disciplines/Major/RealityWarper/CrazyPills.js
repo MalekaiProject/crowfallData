@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increases Attack Power the lower your resource is.',
-  icon: 'IMAGE_ENDPOINT/powers/crazy-pills.png'
+  icon: 'https://cdn.malekai.network/images/powers/crazy-pills.png'
 };

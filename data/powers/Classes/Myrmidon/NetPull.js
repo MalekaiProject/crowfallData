@@ -17,5 +17,5 @@ exports.power = {
     resource: 17
   },
   tooltip: 'Pull your target toward you inflicting 95 - 116 + 106% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/net-pull.png'
+  icon: 'https://cdn.malekai.network/images/powers/net-pull.png'
 };

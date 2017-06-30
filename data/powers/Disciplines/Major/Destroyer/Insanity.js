@@ -17,5 +17,5 @@ exports.power = {
     resource: 12
   },
   tooltip: 'Bolster your combat prowess increasing your Health maximum by 17.5 for each point of current Rage.',
-  icon: 'IMAGE_ENDPOINT/powers/insanity.png'
+  icon: 'https://cdn.malekai.network/images/powers/insanity.png'
 };

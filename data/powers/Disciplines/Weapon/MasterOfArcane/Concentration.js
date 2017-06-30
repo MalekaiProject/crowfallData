@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Standing still for 3 seconds restores Mana and Zealotry every second until you move.',
-  icon: 'IMAGE_ENDPOINT/powers/concentration.png'
+  icon: 'https://cdn.malekai.network/images/powers/concentration.png'
 };

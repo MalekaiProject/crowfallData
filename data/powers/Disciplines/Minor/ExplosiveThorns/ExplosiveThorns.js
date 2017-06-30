@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Stretch the effectiveness of Thorns with a chance to cause additional damage to up to five nearby ennemies whenever you are damaged while a Thorns effect is active.',
-  icon: 'IMAGE_ENDPOINT/powers/explosive-thorns.png'
+  icon: 'https://cdn.malekai.network/images/powers/explosive-thorns.png'
 };

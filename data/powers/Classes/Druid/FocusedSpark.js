@@ -17,5 +17,5 @@ exports.power = {
     resource: 28
   },
   tooltip: 'Channel lightning at your target for 64 - 96 + 80% Weapon Damage. Striking with FOCUSED SPARK, three times in sucession triggers Spark Focus, increasing your Critial Hit Chance by 100% for 9 seconds or until your next hit.',
-  icon: 'IMAGE_ENDPOINT/powers/focused-spark.png'
+  icon: 'https://cdn.malekai.network/images/powers/focused-spark.png'
 };

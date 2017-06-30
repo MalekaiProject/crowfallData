@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Allows you to see into the shadows while actively harvesting.',
-  icon: 'IMAGE_ENDPOINT/powers/peripheral-vision.png'
+  icon: 'https://cdn.malekai.network/images/powers/peripheral-vision.png'
 };

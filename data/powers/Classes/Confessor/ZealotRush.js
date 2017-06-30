@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Dash quickly in the current WASD direction.',
-  icon: 'IMAGE_ENDPOINT/powers/zealot-rush.png'
+  icon: 'https://cdn.malekai.network/images/powers/zealot-rush.png'
 };

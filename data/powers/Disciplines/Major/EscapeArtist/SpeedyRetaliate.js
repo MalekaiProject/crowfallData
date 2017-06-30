@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Regain your senses recovering immediately from Knockdown or Stun effects with an attack inflicting #min_damage_1# - #max_damage_1# + #weapon_damage_value#% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/speedy-retaliate.png'
+  icon: 'https://cdn.malekai.network/images/powers/speedy-retaliate.png'
 };

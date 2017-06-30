@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Critical Hit Chance while standing still.',
-  icon: 'IMAGE_ENDPOINT/powers/careful-aim.png'
+  icon: 'https://cdn.malekai.network/images/powers/careful-aim.png'
 };

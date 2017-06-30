@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Attack for 69 - 104 + 86% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/saber-attack-3.png'
+  icon: 'https://cdn.malekai.network/images/powers/saber-attack-3.png'
 };

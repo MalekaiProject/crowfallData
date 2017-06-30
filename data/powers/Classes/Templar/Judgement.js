@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Strike mercillessly inflict 89 - 133 + 111% Weapon Damage. Enemies under 35% health are critically hit for 133 - 200 + 167% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/judgement.png'
+  icon: 'https://cdn.malekai.network/images/powers/judgement.png'
 };

@@ -3,5 +3,5 @@ exports.race = {
   classes: ['assassin', 'druid', 'frostweaver'],
   name: 'Fae',
   description: '',
-  icon: 'IMAGE_ENDPOINT/races/fae.png'
+  icon: 'https://cdn.malekai.network/images/races/fae.png'
 };

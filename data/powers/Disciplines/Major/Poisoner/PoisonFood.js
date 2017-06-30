@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Coming Soon',
-  icon: 'IMAGE_ENDPOINT/powers/poison-food.png'
+  icon: 'https://cdn.malekai.network/images/powers/poison-food.png'
 };

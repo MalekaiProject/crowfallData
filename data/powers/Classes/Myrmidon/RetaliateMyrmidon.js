@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Jump to your feet, dealing 39 - 48 + 33% Weapon Damage to nearby enemies.',
-  icon: 'IMAGE_ENDPOINT/powers/retaliate-myrmidon.png'
+  icon: 'https://cdn.malekai.network/images/powers/retaliate-myrmidon.png'
 };

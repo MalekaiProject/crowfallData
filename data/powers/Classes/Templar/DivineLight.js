@@ -17,5 +17,5 @@ exports.power = {
     resource: 1
   },
   tooltip: 'Declare hallowed ground draining your of Righteousness to purify the area while also earning Righteousness for each enemy standing within the field every four seconds. Enemies within the field periodically suffer 168 - 252 + 210% Fire Weapon Damage.  Allies and your are healed for 168 - 252 + 210% Weapon Damage while you have Righteousness remaining.',
-  icon: 'IMAGE_ENDPOINT/powers/divine-light.png'
+  icon: 'https://cdn.malekai.network/images/powers/divine-light.png'
 };

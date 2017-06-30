@@ -3,5 +3,5 @@ exports.race = {
   classes: ['ranger', 'champion', 'myrmidon'],
   name: 'Minotaur',
   description: '',
-  icon: 'IMAGE_ENDPOINT/races/minotaur.png'
+  icon: 'https://cdn.malekai.network/images/races/minotaur.png'
 };

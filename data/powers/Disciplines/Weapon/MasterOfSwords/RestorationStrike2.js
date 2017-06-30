@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Strike an enemy for 117-159 + 138% Weapon Damage while restoring your Resource.',
-  icon: 'IMAGE_ENDPOINT/powers/restoration-strike-2.png'
+  icon: 'https://cdn.malekai.network/images/powers/restoration-strike-2.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 34
   },
   tooltip: 'Blink through the forest shadows forward and gain 50 Movement Speed for 3 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/forest-step.png'
+  icon: 'https://cdn.malekai.network/images/powers/forest-step.png'
 };

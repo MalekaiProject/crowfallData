@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Shield Throws now apply a movement speed reduction to all targets hit.',
-  icon: 'IMAGE_ENDPOINT/powers/infinite-angles.png'
+  icon: 'https://cdn.malekai.network/images/powers/infinite-angles.png'
 };

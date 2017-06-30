@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Protective Thorns',
   type: 'Minor',
   description: 'We are here to laugh at the odds and live our lives so well that Death will tremble to take us.',
-  icon: 'IMAGE_ENDPOINT/disciplines/protective-thorns.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/protective-thorns.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

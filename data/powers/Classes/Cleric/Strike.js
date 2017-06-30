@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Strike in front of you for 90 - 110 + 100% Weapon Damage, generating 0.9 Rage #restore_type_time# if you hit.',
-  icon: 'IMAGE_ENDPOINT/powers/strike.png'
+  icon: 'https://cdn.malekai.network/images/powers/strike.png'
 };

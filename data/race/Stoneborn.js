@@ -3,5 +3,5 @@ exports.race = {
   classes: ['knight', 'champion', 'myrmidon', 'cleric'],
   name: 'Stoneborn',
   description: '',
-  icon: 'IMAGE_ENDPOINT/races/stoneborn.png'
+  icon: 'https://cdn.malekai.network/images/races/stoneborn.png'
 };

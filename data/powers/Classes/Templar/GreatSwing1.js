@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Attack for 48 - 72 + 60% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/great-swing-1.png'
+  icon: 'https://cdn.malekai.network/images/powers/great-swing-1.png'
 };

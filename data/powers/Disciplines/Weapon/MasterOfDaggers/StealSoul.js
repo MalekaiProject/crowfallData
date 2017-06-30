@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Basic attacks gain the Lifesteal effect.',
-  icon: 'IMAGE_ENDPOINT/powers/steal-soul.png'
+  icon: 'https://cdn.malekai.network/images/powers/steal-soul.png'
 };

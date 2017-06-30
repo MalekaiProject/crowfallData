@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Basic attacks hit one additional target.',
-  icon: 'IMAGE_ENDPOINT/powers/cleave.png'
+  icon: 'https://cdn.malekai.network/images/powers/cleave.png'
 };

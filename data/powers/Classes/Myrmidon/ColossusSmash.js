@@ -17,5 +17,5 @@ exports.power = {
     resource: 31
   },
   tooltip: 'Leap into the air and strike with both axes stunning nearby enemies and causing 165 - 201 + 183% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/colossus-smash.png'
+  icon: 'https://cdn.malekai.network/images/powers/colossus-smash.png'
 };

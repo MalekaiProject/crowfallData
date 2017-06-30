@@ -17,5 +17,5 @@ exports.power = {
     resource: 10
   },
   tooltip: 'Strike an enemy with your mace for 68 - 92 + 80% Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/skullcracker.png'
+  icon: 'https://cdn.malekai.network/images/powers/skullcracker.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Gain Immunity to Blind effects.',
-  icon: 'IMAGE_ENDPOINT/powers/vision-of-the-all-father.png'
+  icon: 'https://cdn.malekai.network/images/powers/vision-of-the-all-father.png'
 };

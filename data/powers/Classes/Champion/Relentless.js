@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'You no longer degenerate Rage. Instead, you generate 1.5 Rage every 1 second while in Combat.',
-  icon: 'IMAGE_ENDPOINT/powers/relentless-champion.png'
+  icon: 'https://cdn.malekai.network/images/powers/relentless-champion.png'
 };

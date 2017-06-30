@@ -17,5 +17,5 @@ exports.power = {
     resource: 29
   },
   tooltip: 'Charge forward striking with your shield, dealing 77 - 105 + 91% Crushing Weapon Damage and stunning the closest enemy.',
-  icon: 'IMAGE_ENDPOINT/powers/pursuit.png'
+  icon: 'https://cdn.malekai.network/images/powers/pursuit.png'
 };

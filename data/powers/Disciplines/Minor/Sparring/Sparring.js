@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your basic attack damage 10.',
-  icon: 'IMAGE_ENDPOINT/powers/sparring.png'
+  icon: 'https://cdn.malekai.network/images/powers/sparring.png'
 };

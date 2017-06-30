@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Support Power by 350 when wearing a full set of Plate armor.',
-  icon: 'IMAGE_ENDPOINT/powers/matching-plate.png'
+  icon: 'https://cdn.malekai.network/images/powers/matching-plate.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 14
   },
   tooltip: 'Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times.',
-  icon: 'IMAGE_ENDPOINT/powers/wee-one.png'
+  icon: 'https://cdn.malekai.network/images/powers/wee-one.png'
 };

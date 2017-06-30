@@ -17,5 +17,5 @@ exports.power = {
     resource: 1000
   },
   tooltip: 'Sacrifice 1,000 Health to increase Critical Hit Chance by 5% and Critical Hit Damage by 50% for 20 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/nothing-to-lose.png'
+  icon: 'https://cdn.malekai.network/images/powers/nothing-to-lose.png'
 };

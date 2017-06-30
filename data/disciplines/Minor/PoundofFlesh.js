@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Pound of Flesh',
   type: 'Minor',
   description: 'Take then thy bond, take thou thy pound of flesh.',
-  icon: 'IMAGE_ENDPOINT/disciplines/pound-of-flesh.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/pound-of-flesh.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Uniform Mail',
   type: 'Minor',
   description: 'The inhabitants of the Dyling Lands have little time to worry about appearances, yet Guinecean\'s always seem poised to strut at a fashion show.',
-  icon: 'IMAGE_ENDPOINT/disciplines/uniform-mail.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/uniform-mail.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

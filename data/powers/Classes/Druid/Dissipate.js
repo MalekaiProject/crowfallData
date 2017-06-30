@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Ride the wind and Blink 18m away.',
-  icon: 'IMAGE_ENDPOINT/powers/dissipate.png'
+  icon: 'https://cdn.malekai.network/images/powers/dissipate.png'
 };

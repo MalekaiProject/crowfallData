@@ -3,5 +3,5 @@ exports.race = {
   classes: ['ranger', 'druid', 'frostweaver'],
   name: 'Wood-Elf',
   description: '',
-  icon: 'IMAGE_ENDPOINT/races/wood-elf.png'
+  icon: 'https://cdn.malekai.network/images/races/wood-elf.png'
 };

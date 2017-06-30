@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increases your groups In Combat Health Regen by 60 as well as Out of Combat Health Regen by 80 for 12 seconds. Type 3 Song.',
-  icon: 'IMAGE_ENDPOINT/powers/hymn-of-restoration.png'
+  icon: 'https://cdn.malekai.network/images/powers/hymn-of-restoration.png'
 };

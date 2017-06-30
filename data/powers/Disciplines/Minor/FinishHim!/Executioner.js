@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase the damage of Execution abilities.',
-  icon: 'IMAGE_ENDPOINT/powers/executioner.png'
+  icon: 'https://cdn.malekai.network/images/powers/executioner.png'
 };

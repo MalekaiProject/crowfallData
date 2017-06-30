@@ -17,5 +17,5 @@ exports.power = {
     resource: 14
   },
   tooltip: 'Haunt 3 enemies, reflecting 35% of their attack damage as Nature damage (max 1050) and healing you for 35% of damage taken.',
-  icon: 'IMAGE_ENDPOINT/powers/haunt.png'
+  icon: 'https://cdn.malekai.network/images/powers/haunt.png'
 };

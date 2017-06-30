@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Deal 30% more Damage to enemies below 30% Health.',
-  icon: 'IMAGE_ENDPOINT/powers/angel-of-death.png'
+  icon: 'https://cdn.malekai.network/images/powers/angel-of-death.png'
 };

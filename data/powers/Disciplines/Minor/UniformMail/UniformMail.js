@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Increase your Attack Power by 350 when wearing a full set of Mail armor.',
-  icon: 'IMAGE_ENDPOINT/powers/uniform-mail.png'
+  icon: 'https://cdn.malekai.network/images/powers/uniform-mail.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Command nature to envelope enemies in the targeted area rooting them in place and inflicting 50 - 75 + 63% Nature Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/grasping-roots.png'
+  icon: 'https://cdn.malekai.network/images/powers/grasping-roots.png'
 };

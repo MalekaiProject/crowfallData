@@ -17,5 +17,5 @@ exports.power = {
     resource: 22
   },
   tooltip: 'Increase Healing by 10% for 45 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/natures-grace.png'
+  icon: 'https://cdn.malekai.network/images/powers/natures-grace.png'
 };

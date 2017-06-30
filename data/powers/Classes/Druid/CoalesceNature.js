@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Manifest an Orb at your targeted location that allies or you may use to heal 216 to 264 + 240% Weapon Damage as well as restoring resources for allies.',
-  icon: 'IMAGE_ENDPOINT/powers/coalesce-nature.png'
+  icon: 'https://cdn.malekai.network/images/powers/coalesce-nature.png'
 };

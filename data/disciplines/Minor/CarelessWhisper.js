@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Careless Whisper',
   type: 'Minor',
   description: 'There\'s no comfort in the truth, Pain is all you\'ll find.',
-  icon: 'IMAGE_ENDPOINT/disciplines/careless-whisper.png',
+  icon: 'https://cdn.malekai.network/images/disciplines/careless-whisper.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

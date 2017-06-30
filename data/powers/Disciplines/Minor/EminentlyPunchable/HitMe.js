@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Irritate your ennemies by recovering Resource when they hit you with non-periodic damage.',
-  icon: 'IMAGE_ENDPOINT/powers/hit-me.png'
+  icon: 'https://cdn.malekai.network/images/powers/hit-me.png'
 };

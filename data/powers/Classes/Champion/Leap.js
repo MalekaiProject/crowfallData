@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Leap forward, dealing 65 - 88 + 77% Weapon Damage as Crushing Damage as you land. Briefly able to perform a second Leap for zero resource cost.',
-  icon: 'IMAGE_ENDPOINT/powers/leap.png'
+  icon: 'https://cdn.malekai.network/images/powers/leap.png'
 };

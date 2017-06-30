@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Leave your Burrow, becoming fully visible and switching to your normal power tray.',
-  icon: 'IMAGE_ENDPOINT/powers/leave-burrow.png'
+  icon: 'https://cdn.malekai.network/images/powers/leave-burrow.png'
 };

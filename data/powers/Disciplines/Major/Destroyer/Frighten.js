@@ -17,5 +17,5 @@ exports.power = {
     resource: 13
   },
   tooltip: 'Shout at an enemy inflicting 91 - 123 + 107% Weapon Damage and reducing their damage bonus.',
-  icon: 'IMAGE_ENDPOINT/powers/frighten.png'
+  icon: 'https://cdn.malekai.network/images/powers/frighten.png'
 };

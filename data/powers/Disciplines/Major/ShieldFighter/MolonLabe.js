@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Block high damage attacks with reduced cost and a 5% increase in bonus damage for 2 additional seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/molon-labe.png'
+  icon: 'https://cdn.malekai.network/images/powers/molon-labe.png'
 };

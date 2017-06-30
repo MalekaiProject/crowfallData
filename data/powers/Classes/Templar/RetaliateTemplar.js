@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Jump to your feet, damaging all nearby enemies for 53 - 80 + 67% Weapon Damage. Retaliating an enemy afflictd with Sin reduces cooldown of RETALIATE.',
-  icon: 'IMAGE_ENDPOINT/powers/retaliate-templar.png'
+  icon: 'https://cdn.malekai.network/images/powers/retaliate-templar.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds.',
-  icon: 'IMAGE_ENDPOINT/powers/stars-align.png'
+  icon: 'https://cdn.malekai.network/images/powers/stars-align.png'
 };

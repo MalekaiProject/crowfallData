@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Each piece of Epic or Legendary quality armor equipped increases Damage Bonus and Healing Bonus by 2%.',
-  icon: 'IMAGE_ENDPOINT/powers/finery.png'
+  icon: 'https://cdn.malekai.network/images/powers/finery.png'
 };

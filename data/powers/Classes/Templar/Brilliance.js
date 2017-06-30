@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Shine with golden light briefly becoming invulnerable, increasing your maximum Health for 20 seconds as well as blinding and damaging nearby enemies for 107 - 160 + 133% Fire Weapon Damage.',
-  icon: 'IMAGE_ENDPOINT/powers/brilliance.png'
+  icon: 'https://cdn.malekai.network/images/powers/brilliance.png'
 };

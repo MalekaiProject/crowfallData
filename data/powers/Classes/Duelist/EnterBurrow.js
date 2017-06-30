@@ -17,5 +17,5 @@ exports.power = {
     resource: 0
   },
   tooltip: 'Tunnel underground to avoid detection and gain access to new abilities. Taking damage forces you out of your Burrow.',
-  icon: 'IMAGE_ENDPOINT/powers/enter-burrow.png'
+  icon: 'https://cdn.malekai.network/images/powers/enter-burrow.png'
 };

@@ -17,5 +17,5 @@ exports.power = {
     resource: 7
   },
   tooltip: 'Stomp the ground in front of you, dealing 63 - 85 + 74% Weapon Damage. Applies a 50% movement speed reduction to all hit.',
-  icon: 'IMAGE_ENDPOINT/powers/vicious-stomp.png'
+  icon: 'https://cdn.malekai.network/images/powers/vicious-stomp.png'
 };

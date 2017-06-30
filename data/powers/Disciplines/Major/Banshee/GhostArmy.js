@@ -17,5 +17,5 @@ exports.power = {
     resource: 16
   },
   tooltip: 'Call forth a Ghost Army in front of you dealing 60-81 + 70% Weapon Damage to 5 per wave of the Army. 50% of the Damage dealt will be returned to you as Health.',
-  icon: 'IMAGE_ENDPOINT/powers/ghost-army.png'
+  icon: 'https://cdn.malekai.network/images/powers/ghost-army.png'
 };
