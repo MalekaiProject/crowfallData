@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Uniform Leather',
   type: 'Minor',
   description: 'You may not always feel like you are your best, but at least you\'re well dressed.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/uniform-leather.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

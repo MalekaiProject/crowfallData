@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Sustaining Note',
   type: 'Minor',
   description: 'Sometimes the wrists just need a break.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/sustaining-note.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: ['Song Duration'],
   stats_values: [6],

@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Uniform Plate',
   type: 'Minor',
   description: 'Some prefer to armour themselves in cloth and leather, but the more dignified and sturdy combatant prefer a bit more shine.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/uniform-plate.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

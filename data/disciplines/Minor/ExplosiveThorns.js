@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Explosive Thorns',
   type: 'Minor',
   description: 'There are very few problems that cannot be solved through a suitable application of explosive thorns.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/explosive-thorns.png',
   classes: ['assassin', 'champion', 'cleric', 'confessor', 'druid', 'duelist', 'frostweaver', 'knight', 'myrmidon', 'ranger', 'templar'],
   stats_granted: [],
   stats_values: [],

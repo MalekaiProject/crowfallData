@@ -2,7 +2,7 @@ exports.discipline = {
   name: 'Master of Daggers',
   type: 'Weapon',
   description: 'No matter the material, be it flint, ivory, bone, or metal, the lethalness of the dagger remains intact.  With a blade smaller than most typical swords and commonly used in close-quarters combat, the dagger is an exceptional tool that requires finesse, quickness, and dexterity in order to properly sap and steal health from a target.',
-  icon: '',
+  icon: 'IMAGE_ENDPOINT/disciplines/master-of-daggers.png',
   classes: ['assassin', 'duelist', 'ranger'],
   stats_granted: ['Damage Bonus: Piercing'],
   stats_values: [6],
