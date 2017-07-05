@@ -16,6 +16,6 @@ exports.power = {
     pips: 0,
     resource: 18
   },
-  tooltip: 'Attack and stune those in front of you for 105 - 142 + 124% Crushing Weapon Damage.',
+  tooltip: 'Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage.',
   icon: 'https://cdn.malekai.network/images/powers/shield-stun.png'
 };
