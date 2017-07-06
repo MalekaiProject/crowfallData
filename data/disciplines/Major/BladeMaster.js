@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: '',
   trays_removed: '',
-  powers: ['blood-strike', 'dazzling-blades', 'retribution-strike', 'blood-price']
+  powers: ['blood-strike', 'dazzling-blades', 'retribution-slash', 'blood-price']
 };
