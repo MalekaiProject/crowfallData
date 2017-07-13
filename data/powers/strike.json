@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/strike.png",
   "max_targets": 1,
   "name": "Strike",
   "next_chain": [

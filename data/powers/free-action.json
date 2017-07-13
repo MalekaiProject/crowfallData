@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 5,
-  "icon": "https://cdn.malekai.network/images/powers/free-action.png",
   "max_targets": 5,
   "name": "Free Action",
   "next_chain": [],

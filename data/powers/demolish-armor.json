@@ -6,7 +6,6 @@
     "resource": 17
   },
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/demolish-armor.png",
   "max_targets": 1,
   "name": "Demolish Armor",
   "next_chain": [],

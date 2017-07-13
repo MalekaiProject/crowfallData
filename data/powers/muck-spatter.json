@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/muck-spatter.png",
   "max_targets": 0,
   "name": "Muck Spatter",
   "next_chain": [],

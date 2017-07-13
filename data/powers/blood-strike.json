@@ -6,7 +6,6 @@
     "resource": 12
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/blood-strike.png",
   "max_targets": 5,
   "name": "Blood Strike",
   "next_chain": [

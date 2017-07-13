@@ -6,7 +6,6 @@
     "resource": 30
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/shield-slam.png",
   "max_targets": 3,
   "name": "Shield Slam",
   "next_chain": [],

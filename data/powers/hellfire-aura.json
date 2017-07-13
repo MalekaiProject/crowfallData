@@ -6,7 +6,6 @@
     "resource": 80
   },
   "duration": 10,
-  "icon": "https://cdn.malekai.network/images/powers/hellfire-aura.png",
   "max_targets": 5,
   "name": "Hellfire Aura",
   "next_chain": [

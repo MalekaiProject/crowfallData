@@ -6,7 +6,6 @@
     "resource": 20
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/double-slash.png",
   "max_targets": 1,
   "name": "Double Slash",
   "next_chain": [],

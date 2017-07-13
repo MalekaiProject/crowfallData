@@ -6,7 +6,6 @@
     "resource": 46
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/coalesce-life.png",
   "max_targets": 1,
   "name": "Coalesce Life",
   "next_chain": [

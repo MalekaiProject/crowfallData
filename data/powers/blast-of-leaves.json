@@ -6,7 +6,6 @@
     "resource": 70
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/blast-of-leaves.png",
   "max_targets": 5,
   "name": "Blast of Leaves",
   "next_chain": [],

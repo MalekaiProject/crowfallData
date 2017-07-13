@@ -6,7 +6,6 @@
     "resource": 32
   },
   "duration": 12,
-  "icon": "https://cdn.malekai.network/images/powers/dirge-of-dissonance.png",
   "max_targets": 5,
   "name": "Dirge of Dissonance",
   "next_chain": [],

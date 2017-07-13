@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 20,
-  "icon": "https://cdn.malekai.network/images/powers/stars-align.png",
   "max_targets": 5,
   "name": "Stars Align",
   "next_chain": [],

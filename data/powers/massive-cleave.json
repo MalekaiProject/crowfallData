@@ -6,7 +6,6 @@
     "resource": 15
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/massive-cleave.png",
   "max_targets": 1,
   "name": "Massive Cleave",
   "next_chain": [

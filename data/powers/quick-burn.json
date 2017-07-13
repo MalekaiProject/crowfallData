@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/quick-burn.png",
   "max_targets": 5,
   "name": "Quick Burn",
   "next_chain": [],

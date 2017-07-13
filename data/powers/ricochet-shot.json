@@ -6,7 +6,6 @@
     "resource": 1
   },
   "duration": 10,
-  "icon": "https://cdn.malekai.network/images/powers/ricochet-shot.png",
   "max_targets": 1,
   "name": "Ricochet Shot",
   "next_chain": [],

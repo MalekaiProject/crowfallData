@@ -6,7 +6,6 @@
     "resource": 12
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/drive.png",
   "max_targets": 5,
   "name": "Drive",
   "next_chain": [],

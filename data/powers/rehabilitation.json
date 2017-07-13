@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 6,
-  "icon": "https://cdn.malekai.network/images/powers/rehabilitation.png",
   "max_targets": 2,
   "name": "Rehabilitation",
   "next_chain": [],

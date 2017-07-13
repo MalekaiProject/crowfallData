@@ -6,7 +6,6 @@
     "resource": 19
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/left-slash.png",
   "max_targets": 1,
   "name": "Left Slash",
   "next_chain": [

@@ -6,7 +6,6 @@
     "resource": 23
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/rend.png",
   "max_targets": 1,
   "name": "Rend",
   "next_chain": [],

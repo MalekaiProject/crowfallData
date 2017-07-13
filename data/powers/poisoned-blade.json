@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/poisoned-blade.png",
   "max_targets": 1,
   "name": "Poisoned Blade",
   "next_chain": [

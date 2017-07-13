@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 20,
-  "icon": "https://cdn.malekai.network/images/powers/soothing-winds.png",
   "max_targets": 5,
   "name": "Soothing Winds",
   "next_chain": [],

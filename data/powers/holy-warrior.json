@@ -6,7 +6,6 @@
     "resource": 1000
   },
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/holy-warrior.png",
   "max_targets": 1,
   "name": "Holy Warrior",
   "next_chain": [],

@@ -6,7 +6,6 @@
     "resource": 1
   },
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/devotion.png",
   "max_targets": 5,
   "name": "Devotion",
   "next_chain": [],

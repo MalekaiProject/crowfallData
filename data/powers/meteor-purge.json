@@ -6,7 +6,6 @@
     "resource": 145
   },
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/meteor-purge.png",
   "max_targets": 5,
   "name": "Meteor Purge",
   "next_chain": [],

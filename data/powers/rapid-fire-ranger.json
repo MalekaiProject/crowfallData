@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 2,
-  "icon": "https://cdn.malekai.network/images/powers/rapid-fire-ranger.png",
   "max_targets": 1,
   "name": "Rapid Fire (Ranger)",
   "next_chain": [],

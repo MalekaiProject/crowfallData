@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 45,
-  "icon": "https://cdn.malekai.network/images/powers/toughness.png",
   "max_targets": 5,
   "name": "Toughness",
   "next_chain": [],

@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/retribution-slash.png",
   "max_targets": 1,
   "name": "Retribution Slash",
   "next_chain": [],

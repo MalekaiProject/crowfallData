@@ -6,7 +6,6 @@
     "resource": 68
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/lightning-burst.png",
   "max_targets": 5,
   "name": "Lightning Burst",
   "next_chain": [

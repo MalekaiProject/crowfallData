@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/underdog.png",
   "max_targets": 1,
   "name": "Underdog",
   "next_chain": [],

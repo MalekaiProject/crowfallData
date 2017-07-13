@@ -6,7 +6,6 @@
     "resource": 23
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/scatter-horde.png",
   "max_targets": 5,
   "name": "Scatter Horde",
   "next_chain": [],

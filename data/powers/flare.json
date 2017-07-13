@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/flare.png",
   "max_targets": 5,
   "name": "Flare",
   "next_chain": [],

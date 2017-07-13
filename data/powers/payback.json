@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/payback.png",
   "max_targets": 1,
   "name": "Payback",
   "next_chain": [],

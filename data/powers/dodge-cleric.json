@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/dodge-cleric.png",
   "max_targets": 5,
   "name": "Dodge (Cleric)",
   "next_chain": [],

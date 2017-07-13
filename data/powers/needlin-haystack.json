@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/needlin-haystack.png",
   "max_targets": 0,
   "name": "Needlin Haystack",
   "next_chain": [],

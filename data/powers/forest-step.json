@@ -6,7 +6,6 @@
     "resource": 34
   },
   "duration": 3,
-  "icon": "https://cdn.malekai.network/images/powers/forest-step.png",
   "max_targets": 1,
   "name": "Forest Step",
   "next_chain": [

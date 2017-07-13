@@ -6,7 +6,6 @@
     "resource": 12
   },
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/sanctuary.png",
   "max_targets": 5,
   "name": "Sanctuary",
   "next_chain": [],

@@ -6,7 +6,6 @@
     "resource": 12
   },
   "duration": 12,
-  "icon": "https://cdn.malekai.network/images/powers/battle-chant.png",
   "max_targets": 0,
   "name": "Battle Chant",
   "next_chain": [],

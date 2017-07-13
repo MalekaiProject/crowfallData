@@ -6,7 +6,6 @@
     "resource": 11
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/critical-slice.png",
   "max_targets": 1,
   "name": "Critical Slice",
   "next_chain": [

@@ -6,7 +6,6 @@
     "resource": 14
   },
   "duration": 25,
-  "icon": "https://cdn.malekai.network/images/powers/pixie-dust.png",
   "max_targets": 5,
   "name": "Pixie Dust",
   "next_chain": [],

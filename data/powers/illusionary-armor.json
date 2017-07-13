@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 20,
-  "icon": "https://cdn.malekai.network/images/powers/illusionary-armor.png",
   "max_targets": 1,
   "name": "Illusionary Armor",
   "next_chain": [],

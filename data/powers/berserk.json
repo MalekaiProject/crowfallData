@@ -6,7 +6,6 @@
     "resource": 56
   },
   "duration": 20,
-  "icon": "https://cdn.malekai.network/images/powers/berserk.png",
   "max_targets": 1,
   "name": "Berserk",
   "next_chain": [],

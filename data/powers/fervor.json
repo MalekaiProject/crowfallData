@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 5,
-  "icon": "https://cdn.malekai.network/images/powers/fervor.png",
   "max_targets": 5,
   "name": "Fervor",
   "next_chain": [],

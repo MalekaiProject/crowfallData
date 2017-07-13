@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/censure.png",
   "max_targets": 1,
   "name": "Censure",
   "next_chain": [],

@@ -6,7 +6,6 @@
     "resource": 1
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/execute.png",
   "max_targets": 1,
   "name": "Execute",
   "next_chain": [],

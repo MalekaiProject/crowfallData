@@ -6,7 +6,6 @@
     "resource": 10
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/skullcracker.png",
   "max_targets": 1,
   "name": "Skullcracker",
   "next_chain": [

@@ -6,7 +6,6 @@
     "resource": 17
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/cast-net.png",
   "max_targets": 1,
   "name": "Cast Net",
   "next_chain": [

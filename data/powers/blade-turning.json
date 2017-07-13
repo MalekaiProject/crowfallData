@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/blade-turning.png",
   "max_targets": 0,
   "name": "Blade Turning",
   "next_chain": [],

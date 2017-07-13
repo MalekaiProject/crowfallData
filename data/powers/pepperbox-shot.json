@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/pepperbox-shot.png",
   "max_targets": 1,
   "name": "Pepperbox Shot",
   "next_chain": [],

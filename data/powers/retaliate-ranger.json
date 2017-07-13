@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/retaliate-ranger.png",
   "max_targets": 3,
   "name": "Retaliate (Ranger)",
   "next_chain": [],

@@ -6,7 +6,6 @@
     "resource": 10
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/aegis-of-salvation.png",
   "max_targets": 1,
   "name": "Aegis of Salvation",
   "next_chain": [

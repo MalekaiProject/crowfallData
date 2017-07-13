@@ -6,7 +6,6 @@
     "resource": 55
   },
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/hellfire-shield.png",
   "max_targets": 1,
   "name": "Hellfire Shield",
   "next_chain": [

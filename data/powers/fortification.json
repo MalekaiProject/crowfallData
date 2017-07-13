@@ -6,7 +6,6 @@
     "resource": 12
   },
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/fortification.png",
   "max_targets": 5,
   "name": "Fortification",
   "next_chain": [],

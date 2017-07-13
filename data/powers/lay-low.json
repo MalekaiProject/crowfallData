@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 6,
-  "icon": "https://cdn.malekai.network/images/powers/lay-low.png",
   "max_targets": 1,
   "name": "Lay Low",
   "next_chain": [],

@@ -6,7 +6,6 @@
     "resource": 10
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/clobber.png",
   "max_targets": 1,
   "name": "Clobber",
   "next_chain": [

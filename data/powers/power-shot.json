@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/power-shot.png",
   "max_targets": 1,
   "name": "Power Shot",
   "next_chain": [

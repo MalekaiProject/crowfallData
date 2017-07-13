@@ -6,7 +6,6 @@
     "resource": 13
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/dispel.png",
   "max_targets": 5,
   "name": "Dispel",
   "next_chain": [],

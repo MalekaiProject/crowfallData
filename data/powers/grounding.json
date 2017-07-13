@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/grounding.png",
   "max_targets": 5,
   "name": "Grounding",
   "next_chain": [],

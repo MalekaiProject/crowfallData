@@ -6,7 +6,6 @@
     "resource": 0
   },
   "duration": 8,
-  "icon": "https://cdn.malekai.network/images/powers/speedy-retaliate.png",
   "max_targets": 5,
   "name": "Speedy Retaliate",
   "next_chain": [],

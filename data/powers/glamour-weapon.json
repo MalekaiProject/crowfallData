@@ -6,7 +6,6 @@
     "resource": 16
   },
   "duration": 180,
-  "icon": "https://cdn.malekai.network/images/powers/glamour-weapon.png",
   "max_targets": 1,
   "name": "Glamour Weapon",
   "next_chain": [],

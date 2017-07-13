@@ -7,7 +7,6 @@
     "resource": 0
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/sacrifice.png",
   "max_targets": 1,
   "name": "Sacrifice",
   "next_chain": [],

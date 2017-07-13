@@ -6,7 +6,6 @@
     "resource": 13
   },
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/charge.png",
   "max_targets": 1,
   "name": "Charge",
   "next_chain": [],
