@@ -21,7 +21,9 @@
   "trays_removed": "",
   "powers": [
     "critical-slice",
+    "critical-slice-2",
     "cut-and-thrust",
+    "cut-and-thrust-2",
     "hamstring"
   ]
 }

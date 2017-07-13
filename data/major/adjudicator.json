@@ -28,6 +28,7 @@
   "trays_removed": "",
   "powers": [
     "adjudicate",
+    "adjudicate-2",
     "prosecute"
   ]
 }

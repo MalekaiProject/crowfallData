@@ -21,7 +21,9 @@
   "trays_removed": "",
   "powers": [
     "crippling-stab",
+    "crippling-stab-2",
     "slow-demise",
+    "slow-demise-2",
     "steal-soul"
   ]
 }

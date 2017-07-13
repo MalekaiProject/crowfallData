@@ -21,7 +21,9 @@
   "trays_removed": "",
   "powers": [
     "critical-hack",
+    "critical-hack-2",
     "restoration-strike",
+    "restoration-strike-2",
     "iron-skin"
   ]
 }

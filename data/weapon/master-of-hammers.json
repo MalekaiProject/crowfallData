@@ -23,7 +23,9 @@
   "trays_removed": "",
   "powers": [
     "clobber",
+    "clobber-2",
     "restoration-smash",
+    "restoration-smash-2",
     "cleave"
   ]
 }
