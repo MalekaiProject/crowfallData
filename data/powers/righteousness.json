@@ -9,10 +9,10 @@
   "type": "Passive",
   "cast_type": "Passive",
   "duration": 15,
-  "cooldown": "",
+  "cooldown": 0,
   "targeting": "Self",
   "max_targets": 1,
-  "range": "",
+  "range": 0,
   "next_chain": [],
   "previous_chain": [],
   "cost": {

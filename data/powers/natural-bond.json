@@ -12,7 +12,7 @@
   "cooldown": 5,
   "targeting": "Group",
   "max_targets": 5,
-  "range": "",
+  "range": 0,
   "next_chain": [
     "contain-essence",
     "empower"

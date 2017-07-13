@@ -8,7 +8,7 @@
   ],
   "type": "Debuff",
   "cast_type": "Instant",
-  "duration": "",
+  "duration": 0,
   "cooldown": 23,
   "targeting": "Area",
   "max_targets": 5,

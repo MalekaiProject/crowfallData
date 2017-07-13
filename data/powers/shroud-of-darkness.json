@@ -8,11 +8,11 @@
   ],
   "type": "Buff",
   "cast_type": "Instant",
-  "duration": "",
+  "duration": 0,
   "cooldown": 45,
   "targeting": "Self",
-  "max_targets": "",
-  "range": "",
+  "max_targets": 1,
+  "range": 0,
   "next_chain": [
     "wicked-winds"
   ],

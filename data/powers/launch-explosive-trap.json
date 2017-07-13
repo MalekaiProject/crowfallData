@@ -12,7 +12,7 @@
   "cooldown": 24,
   "targeting": "Area",
   "max_targets": 5,
-  "range": "",
+  "range": 0,
   "next_chain": [],
   "previous_chain": [],
   "cost": {

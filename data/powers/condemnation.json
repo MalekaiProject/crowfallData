@@ -8,7 +8,7 @@
   ],
   "type": "Melee Attack",
   "cast_type": "Hold Channeled",
-  "duration": "",
+  "duration": 0,
   "cooldown": 9,
   "targeting": "Rectangle",
   "max_targets": 5,

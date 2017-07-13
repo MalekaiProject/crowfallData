@@ -12,7 +12,7 @@
   "cooldown": 23,
   "targeting": "Cone",
   "max_targets": 1,
-  "range": "",
+  "range": 0,
   "next_chain": [],
   "previous_chain": [
     "noble-blood"

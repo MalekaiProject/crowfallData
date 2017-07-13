@@ -10,7 +10,7 @@
   "cast_type": "Instant",
   "duration": 0,
   "cooldown": 30,
-  "targeting": "Rectange",
+  "targeting": "Rectangle",
   "max_targets": 5,
   "range": 30,
   "next_chain": [],

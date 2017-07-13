@@ -6,13 +6,13 @@
       "id": "ranger"
     }
   ],
-  "type": "Movement",
+  "type": "Non-Aggressive",
   "cast_type": "Instant",
   "duration": 3,
   "cooldown": 24,
   "targeting": "Self",
   "max_targets": 1,
-  "range": "",
+  "range": 0,
   "next_chain": [
     "tendon-slice"
   ],

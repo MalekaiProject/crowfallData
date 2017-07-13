@@ -8,7 +8,7 @@
   ],
   "type": "Ranged Attack",
   "cast_type": "Instant",
-  "duration": "",
+  "duration": 0,
   "cooldown": 9,
   "targeting": "Sphere",
   "max_targets": 1,

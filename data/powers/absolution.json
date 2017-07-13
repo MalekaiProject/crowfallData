@@ -8,7 +8,7 @@
   ],
   "type": "Debuff",
   "cast_type": "Instant",
-  "duration": "",
+  "duration": 0,
   "cooldown": 9,
   "targeting": "Ray",
   "max_targets": 1,

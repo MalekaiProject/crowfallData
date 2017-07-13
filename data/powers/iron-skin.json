@@ -12,8 +12,8 @@
   "duration": 30,
   "cooldown": 45,
   "targeting": "Self",
-  "max_targets": "",
-  "range": "",
+  "max_targets": 1,
+  "range": 0,
   "next_chain": [],
   "previous_chain": [],
   "cost": {

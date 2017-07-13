@@ -12,7 +12,7 @@
   "cooldown": 68,
   "targeting": "Self",
   "max_targets": 5,
-  "range": "",
+  "range": 0,
   "next_chain": [
     "natural-bond"
   ],

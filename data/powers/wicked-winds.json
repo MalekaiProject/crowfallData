@@ -8,11 +8,11 @@
   ],
   "type": "Ranged Attack",
   "cast_type": "Instant",
-  "duration": "",
+  "duration": 0,
   "cooldown": 24,
   "targeting": "Reticle",
   "max_targets": 5,
-  "range": "",
+  "range": 0,
   "next_chain": [],
   "previous_chain": [
     "shroud-of-darkness"
