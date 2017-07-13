@@ -25,7 +25,7 @@ const powerCastTypeMappings = [
   'Toggle'
 ];
 
-const targetingMappings = [
+const powerTargetingMappings = [
   'Area',
   'Cone',
   'Group',
@@ -35,6 +35,17 @@ const targetingMappings = [
   'Reticle',
   'Self',
   'Sphere'
+];
+
+const powerTagsMappings = [
+  'Stealth', 'Severe Bleed', 'Moderate Bleed', 'Bleed', 'Heal', 'Knock Down',
+  'Snare', 'Stun', 'Suppress', 'Poison', 'Reveal', 'Exposed', 'Burning',
+  'Blind', 'Mortal Strike', 'Health Regeneration', 'Weapon Break',
+  'Armor Break', 'Sin', 'Black Mantle', 'Burrow', 'Barrier', 'Invulnerable',
+  'Root', 'Lifesteal', 'Righteousness', 'Slow', 'Severe Corruption',
+  'Moderate Corruption', 'Corruption', 'Movement Speed', 'Attack Power',
+  'Support Power', 'Retribution', 'Fire', 'Perception', 'Electric', 'Crushing',
+  'Piercing', 'Slashing', 'Block', 'Parry', 'Chain', 'Retaliate'
 ];
 
 // load data
@@ -90,7 +101,7 @@ Object.keys(data)
 Object.keys(data.powers)
   .map(d => Object.assign({ id: d }, data.powers[d]))
   .forEach(p => {
-    let { cast_type: castType, targeting, type } = p;
+    let { cast_type: castType, tags, targeting, type } = p;
 
     // cast type
     if (powerCastTypeMappings.indexOf(castType) === -1) {
@@ -103,8 +114,14 @@ Object.keys(data.powers)
     }
 
     // targeting
-    if (targetingMappings.indexOf(targeting) === -1) {
+    if (powerTargetingMappings.indexOf(targeting) === -1) {
       console.log(`${p.id}: ${targeting} is not a valid targeting value`);
+    }
+
+    // tags
+    let matchingTags = powerTagsMappings.filter(l => p.tooltip.indexOf(l) > -1);
+    if (JSON.stringify(matchingTags) !== JSON.stringify(tags)) {
+      console.log(`${p.id}: [${matchingTags}] does not match current tags [${tags}]`);
     }
   });
 
