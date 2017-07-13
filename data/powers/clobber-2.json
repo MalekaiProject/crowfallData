@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Bash an enemy Dazing them and inflicting 76 - 103 + 90% Weapon Damage.",
   "type": "Crowd Control"

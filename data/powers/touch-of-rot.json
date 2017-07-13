@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Support Power"
+  ],
   "targeting": "Self",
   "tooltip": "Your basic attacks apply a stacking Support Power debuff.",
   "type": "Passive"

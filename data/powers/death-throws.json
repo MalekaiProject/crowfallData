@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal",
+    "Retaliate"
+  ],
   "targeting": "Self",
   "tooltip": "Furiously knock down nearby enemies when you use a Retaliate ability if your Health is under 50%",
   "type": "Passive"

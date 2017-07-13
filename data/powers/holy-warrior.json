@@ -18,6 +18,10 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Heal",
+    "Parry"
+  ],
   "targeting": "Self",
   "tooltip": "Simmer with Radiance temporarily increasing your maximum Health. All damage inflicted is considered Holy and cannot be mitigated with armor. Zealotry is earned by participating in combat and striking with Righteous Parry.",
   "type": "Transformation"

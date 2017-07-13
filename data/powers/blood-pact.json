@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Grants a Blood Pact for 15 seconds, which all powers to consume Hitpoints instead of their normal ressource type.",
   "type": "Buff"

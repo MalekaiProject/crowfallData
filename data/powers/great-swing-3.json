@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Righteousness"
+  ],
   "targeting": "Cone",
   "tooltip": "Attack for 74 - 111 + 93% Weapon Damage and generates a point of Righteousness.",
   "type": "Melee Attack"

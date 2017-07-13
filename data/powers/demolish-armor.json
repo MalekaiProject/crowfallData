@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Demolish an enemy's Physical armor causing 120 - 163 + 142% Weapon Damage.",
   "type": "Debuff"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Electric"
+  ],
   "targeting": "Group",
   "tooltip": "Protect group members and yourself with increased Electricity Armor.",
   "type": "Buff"

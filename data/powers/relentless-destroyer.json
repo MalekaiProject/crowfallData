@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "You no longer degenerate Rage.  Instead, you generate 1.5 Rage every 1 second while in Combat.",
   "type": "Passive"

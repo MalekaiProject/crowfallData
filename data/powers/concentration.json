@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Standing still for 3 seconds restores Mana and Zealotry every second until you move.",
   "type": "Passive"

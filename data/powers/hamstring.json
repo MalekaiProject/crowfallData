@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Your last basic attack will cripple an enemy, applying a Movement Debuff.",
   "type": "Passive"

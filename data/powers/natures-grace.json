@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Self",
   "tooltip": "Increase Healing by 10% for 45 seconds.",
   "type": "Buff"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Slashing"
+  ],
   "targeting": "Self",
   "tooltip": "Harden your skin increasing your Slashing Armor and reducing Weapon Resource Cost.",
   "type": "Melee Attack"

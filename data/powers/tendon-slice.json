@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Slash in front of you for 134 - 181 - 158% Weapon Damage. Applies a 50% movement reduction to the target.",
   "type": "Debuff"

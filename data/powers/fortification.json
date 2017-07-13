@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Group",
   "tooltip": "Aid group members and yourself increasing Health by 1000.",
   "type": "Buff"

@@ -21,6 +21,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Cone",
   "tooltip": "Torment an enemy reducing their Healing Bonus and inflicting 79 - 108 + 94% Weapon Damage.",
   "type": "Debuff"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Lifesteal"
+  ],
   "targeting": "Self",
   "tooltip": "Basic attacks gain the Lifesteal effect.",
   "type": "Passive"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Self",
   "tooltip": "Cover yourself with a boggy enchantment that increase your Crushing Armor by 0.2 for each point of Stamina.",
   "type": "Passive"

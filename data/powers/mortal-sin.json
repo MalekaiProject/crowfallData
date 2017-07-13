@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Sin"
+  ],
   "targeting": "Self",
   "tooltip": "You now apply Mortal Sin instead of Sin.  For each stack of Mortal Sin the target becomes more vulnerable to being Critically Hit by 2% per stack.  All powers that require Sin will also benefit from Mortal Sin.",
   "type": "Passive"

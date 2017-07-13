@@ -18,6 +18,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Burrow"
+  ],
   "targeting": "Self",
   "tooltip": "Leave your Burrow, becoming fully visible and switching to your normal power tray.",
   "type": "Transformation"

@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Envelope yourself with dangerous Thorns for 20 seconds causing any who strike you to take damage.",
   "type": "Buff"

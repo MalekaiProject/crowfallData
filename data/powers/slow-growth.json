@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Favor the forces of Life reducing your Essence Gain by 50%.",
   "type": "Passive"

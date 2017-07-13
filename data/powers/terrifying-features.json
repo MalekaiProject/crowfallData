@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Protect yourself with a powerful enchantment periodically stunning attackers.",
   "type": "Passive"

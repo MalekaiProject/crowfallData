@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Strike an enemy with your mace for 68 - 92 + 80% Weapon Damage.",
   "type": "Melee Attack"

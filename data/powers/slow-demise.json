@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Stick an enemy for 85 - 115 + 100% Weapon Damage.",
   "type": "Melee Attack"

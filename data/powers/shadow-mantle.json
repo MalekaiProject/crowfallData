@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "",
   "tooltip": "Attack: Reduce Healing Received",
   "type": "Ranged Attack"

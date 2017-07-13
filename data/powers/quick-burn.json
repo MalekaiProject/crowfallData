@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Tip the scales towards Death increasing your Essence Gain by 50%.",
   "type": "Passive"

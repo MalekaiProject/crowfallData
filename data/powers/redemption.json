@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Sin",
+    "Fire"
+  ],
   "targeting": "Reticle",
   "tooltip": "Rapidly throw up to ten fireballs in a row for 34 - 46 + 40% Fire Weapon Damage scaling up to 43 - 58 + 50% Weapon Damage based on the enemy's Sin.",
   "type": "Ranged Attack"

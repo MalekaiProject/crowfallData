@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Stab an enemy for 48 - 64 + 56% Weapon Damage.",
   "type": "Melee Attack"

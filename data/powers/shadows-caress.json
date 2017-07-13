@@ -19,6 +19,11 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Stealth",
+    "Heal",
+    "Health Regeneration"
+  ],
   "targeting": "Self",
   "tooltip": "Increase your Health Regeneration by 350 while in Stealth.",
   "type": "Passive"

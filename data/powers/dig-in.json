@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Self",
   "tooltip": "When dropping below 25% Health you become immune to being Critically Hit.",
   "type": "Passive"

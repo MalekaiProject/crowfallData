@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Bleed"
+  ],
   "targeting": "Self",
   "tooltip": "Remove Bleeding effects.",
   "type": "Buff"

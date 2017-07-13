@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Slashing"
+  ],
   "targeting": "Self",
   "tooltip": "Reflect 50% Slashing Weapon Damage back to the source of a Slashing damage attack.",
   "type": "Buff"

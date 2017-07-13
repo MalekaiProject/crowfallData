@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Sphere",
   "tooltip": "Leap forward, dealing 80 - 108 + 94% Weapon Damage as Crushing Damage as you land.",
   "type": "Melee Attack"

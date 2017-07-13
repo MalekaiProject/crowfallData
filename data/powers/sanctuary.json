@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Area",
   "tooltip": "Defend an area with a runic symbol increasing allies' All Armor by 20%.",
   "type": "Buff"

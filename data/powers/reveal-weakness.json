@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Group",
   "tooltip": "Enhance group members and yourself increasing Physical Armor Penetration by 10.",
   "type": "Buff"

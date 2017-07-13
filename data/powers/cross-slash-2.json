@@ -20,6 +20,10 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Moderate Bleed",
+    "Bleed"
+  ],
   "targeting": "Cone",
   "tooltip": "Slash in front of you for 86 - 117 + 101% Weapon Damage. Applies a Moderate Bleed effect.",
   "type": "Debuff"

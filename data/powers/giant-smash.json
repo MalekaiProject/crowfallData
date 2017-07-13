@@ -22,6 +22,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Strike in front of you for 102 - 138 + 120% Weapon Damage, generating 4 Rage if you hit.",
   "type": "Melee Attack"

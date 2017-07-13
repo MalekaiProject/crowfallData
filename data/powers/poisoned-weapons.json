@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Poison"
+  ],
   "targeting": "Self",
   "tooltip": "All your Primary Attacks now deal Poison as their damage type.  In addition your final Primary attack deals an AoE poison damage to nearby enemies.",
   "type": "Passive"

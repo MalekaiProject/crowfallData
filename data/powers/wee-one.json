@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Area",
   "tooltip": "Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times.",
   "type": "Debuff"

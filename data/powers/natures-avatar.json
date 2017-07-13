@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Reticle",
   "tooltip": "Empowers an ally with a 75% Damage Bonus buff while you channel.",
   "type": "Buff"

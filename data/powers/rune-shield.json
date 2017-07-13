@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Protect yourself increasing Elemental Armor by 20.",
   "type": "Buff"

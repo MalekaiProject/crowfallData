@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Reticle",
   "tooltip": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage and apply additional effects when using exotic arrows. Check your arrow's description for details on additional effects.",
   "type": "Ranged Attack"

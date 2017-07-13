@@ -18,6 +18,10 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Righteousness",
+    "Parry"
+  ],
   "targeting": "Self",
   "tooltip": "Raise your sword to defend yourself increasing your damage mitigation and becoming immune to crow control effects. Being struck with a melee attack restores Righteousness and triggers Righteous Parry",
   "type": "Crowd Control Self"

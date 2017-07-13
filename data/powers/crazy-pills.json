@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Attack Power"
+  ],
   "targeting": "Self",
   "tooltip": "Increases Attack Power the lower your resource is.",
   "type": "Passive"

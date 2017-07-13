@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Strike an enemy twice for 87-118 +103% Weapon Damage and increase your Critical Hit Chance",
   "type": "Buff"

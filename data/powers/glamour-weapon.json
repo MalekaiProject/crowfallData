@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Add a Glamour to your weapon increasing Maximum Weapon Damage by 50 for 30 seconds.",
   "type": "Buff"

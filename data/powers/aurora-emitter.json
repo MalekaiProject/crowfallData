@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Sphere",
   "tooltip": "Strike enemies with lightning in an area for 79 - 119 damage. Enemies are left electrified and will inflict and additional 27 to 40 + #weapon_damage_2_value#% Weapon Damage over 15 seconds to nearby friendlies.",
   "type": "Ranged Attack"

@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Slash furiously at an enemy for 113 - 152 + 132% Weapon Damage while reducing your short and long cooldown times.",
   "type": "Buff"

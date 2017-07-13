@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Reticle",
   "tooltip": "Launch a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage.",
   "type": "Ranged Attack"

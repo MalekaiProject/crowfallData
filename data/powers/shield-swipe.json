@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Cone",
   "tooltip": "Attack in front of you for 91 - 123 + 107% Crushing Weapon Damage.",
   "type": "Melee Attack"

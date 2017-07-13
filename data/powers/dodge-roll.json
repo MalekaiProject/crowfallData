@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Roll quickly in the current WASD direction.",
   "type": "Non-Aggressive"

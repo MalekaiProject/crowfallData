@@ -19,6 +19,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Self",
   "tooltip": "Sacrifice 55 Health for 15% Essence.",
   "type": "Non-Aggressive"

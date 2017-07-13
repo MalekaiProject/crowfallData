@@ -21,6 +21,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Bleed"
+  ],
   "targeting": "Cone",
   "tooltip": "Cut an enemy for 76 - 103 + 90% Weapon Damage and reducing their Bleed Armor for 15 seconds.",
   "type": "Debuff"

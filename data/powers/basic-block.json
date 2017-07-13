@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Block"
+  ],
   "targeting": "Self",
   "tooltip": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.",
   "type": "Buff"

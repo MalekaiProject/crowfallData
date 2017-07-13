@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Self",
   "tooltip": "Each piece of Epic or Legendary quality armor equipped increases Damage Bonus and Healing Bonus by 2%.",
   "type": "Passive"

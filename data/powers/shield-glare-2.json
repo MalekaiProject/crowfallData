@@ -21,6 +21,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Blind"
+  ],
   "targeting": "Cone",
   "tooltip": "Blind an enemy with light reflected from your shield causing 104 - 140 + 122% Weapon Damage.",
   "type": "Melee Attack"

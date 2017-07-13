@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Attack Power"
+  ],
   "targeting": "Self",
   "tooltip": "Increase your Attack Power when a group member dies.",
   "type": "Passive"

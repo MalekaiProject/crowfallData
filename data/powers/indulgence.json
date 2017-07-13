@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Sin"
+  ],
   "targeting": "Self",
   "tooltip": "Indulgence Cleanse yourself and become immune to Sin for 30 seconds.",
   "type": "Buff"

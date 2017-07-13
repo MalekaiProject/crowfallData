@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Movement Speed"
+  ],
   "targeting": "Self",
   "tooltip": "Blink through the forest shadows forward and gain 50 Movement Speed for 3 seconds.",
   "type": "Non-Aggressive"

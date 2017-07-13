@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Suppress"
+  ],
   "targeting": "Cone",
   "tooltip": "Suppress enemies, disabling their powers for 6 seconds. Deals 140 - 190 + 165% Weapon Damage.",
   "type": "Crowd Control"

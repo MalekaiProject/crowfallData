@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Fire"
+  ],
   "targeting": "Self",
   "tooltip": "Absorb heat from incoming Fire damage attacks to heal for 125% of Fire damage inflicted.",
   "type": "Buff"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Self",
   "tooltip": "Fortify your defense increasing your Crushing armor and improving weapon efficiency.",
   "type": "Buff"

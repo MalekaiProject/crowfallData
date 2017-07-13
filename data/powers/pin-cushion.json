@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Barrier",
+    "Piercing"
+  ],
   "targeting": "Self",
   "tooltip": "Gain a Piercing damage immune Barrier for 15 seconds.",
   "type": "Buff"

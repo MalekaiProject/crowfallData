@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Exposed",
+    "Perception"
+  ],
   "targeting": "Group",
   "tooltip": "Increase the Perception of group members and yourself by 25 for 30 seconds and removes the Exposed state.",
   "type": "Buff"

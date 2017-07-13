@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Poison"
+  ],
   "targeting": "Self",
   "tooltip": "Remove all Poison effects from yourself.",
   "type": "Buff"

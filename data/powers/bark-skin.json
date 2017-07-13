@@ -18,6 +18,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Barrier"
+  ],
   "targeting": "Group",
   "tooltip": "Toughen the hide of group members and yourself applying Barrier for 20 seconds preventing 175 to 325 damage.",
   "type": "Buff"

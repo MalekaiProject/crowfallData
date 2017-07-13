@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Increase your Out of Combat Regeneration by 10.",
   "type": "Passive"

@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Attack Power",
+    "Support Power"
+  ],
   "targeting": "Group",
   "tooltip": "Increases your groups Attack Power by 150 as well as Support Power by 150 for 12 seconds. Type 4 Song.",
   "type": "Buff"

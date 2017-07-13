@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Stealth",
+    "Suppress"
+  ],
   "targeting": "Self",
   "tooltip": "Surround yourself with a chilling aura of palpable fear that automatically reveals Stealthed enemies.  Enemies who remain nearby for too long are Suppressed and then afflicted with Frostbite.",
   "type": "Debuff"

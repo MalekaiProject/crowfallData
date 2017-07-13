@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Cone",
   "tooltip": "Spin in front of you dealing 104 - 141 + 122% Weapon Damage as Crushing Damage.",
   "type": "Melee Attack"

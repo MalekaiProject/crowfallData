@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Armor Break"
+  ],
   "targeting": "Cone",
   "tooltip": "Slash in front of you twice for 45 - 61 + 53% Weapon Damage. Applies an Armor Break to all hit, which reduces all Physical Mitigations by 20% for 15 seconds.",
   "type": "Melee Attack"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Self",
   "tooltip": "After falling below 30% Health you heal rapidly if you avoid damage for 4 seconds until reaching 30% Health.",
   "type": "Passive"

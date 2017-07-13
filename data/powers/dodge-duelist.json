@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Leap away from danger using your WASD direction.",
   "type": "Non-Aggressive"

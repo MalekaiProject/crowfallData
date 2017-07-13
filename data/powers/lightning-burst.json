@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Ray",
   "tooltip": "Blast enemies with lightning for 110 - 165 + 138% Weapon Damage.",
   "type": "Ranged Attack"
