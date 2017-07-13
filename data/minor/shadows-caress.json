@@ -1,0 +1,21 @@
+{
+  "classes": [
+    "assassin",
+    "duelist",
+    "ranger"
+  ],
+  "description": "The shadow's are said to wrap around those who frequent them like a soothing blanket, diminishing their wounds.  Unless of course that blanket is a dagger.  And that dagger is aimed at your heart.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/shadows-caress.png",
+  "name": "Shadows Caress",
+  "powers": [
+    "shadows-caress"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

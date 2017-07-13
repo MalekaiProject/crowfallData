@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 15
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/massive-cleave.png",
+  "max_targets": 1,
+  "name": "Massive Cleave",
+  "next_chain": [
+    "whirling-pain"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Strike in front of you for 142 - 192 - 167% Weapon Damage.",
+  "type": "Melee Attack"
+}

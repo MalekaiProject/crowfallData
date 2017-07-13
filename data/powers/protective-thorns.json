@@ -1,0 +1,25 @@
+{
+  "cast_type": "",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/protective-thorns.png",
+  "max_targets": 0,
+  "name": "Protective Thorns",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "protective-thorns",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Fortify your Armor Class increasing it by three times your Thorns plus Bonus Thorns for 20 seconds whenever you activate Thorns.",
+  "type": "Passive"
+}

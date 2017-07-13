@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/pix-fix.png",
+  "max_targets": 0,
+  "name": "Pix Fix",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "pixie",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "All 'chain type' heals jump to 1 additional target.  Also reduces the amount of healing falloff per jump by 50%.",
+  "type": "Passive"
+}

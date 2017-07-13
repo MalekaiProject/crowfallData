@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/fireball.png",
+  "max_targets": 1,
+  "name": "Fireball",
+  "next_chain": [
+    "fireball-2"
+  ],
+  "previous_chain": [],
+  "range": 25,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Shoots a fireball towards your reticle that explodes for 37 - 55 + 46% Weapon Damage as Fire Damage. Applies Sin to anyone damaged.",
+  "type": "Ranged Attack"
+}

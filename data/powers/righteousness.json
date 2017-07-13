@@ -1,0 +1,24 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/righteousness.png",
+  "max_targets": 1,
+  "name": "Righteousness",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Adds a chance to restore Mana when you deal damage to others. Also buffs Damage Bonus by 5% for 15 seconds whenever you hit reach maximum Zealotry.",
+  "type": "Passive"
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/stormcaller.png",
+  "max_targets": 0,
+  "name": "Stormcaller",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-scimitars",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Forgoing access to Life abilities, your focus on Death allows you to generate Essence while in Combat.  In order to maintain balance, damaging enemies has a chance to Coalesce Life.",
+  "type": "Passive"
+}

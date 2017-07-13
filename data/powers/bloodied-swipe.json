@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/bloodied-swipe.png",
+  "max_targets": 1,
+  "name": "Bloodied Swipe",
+  "next_chain": [
+    "gore",
+    "colossus-smash"
+  ],
+  "previous_chain": [],
+  "range": 5.5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Leap forward striking twice for 39 - 48 + 43% Weapon Damage.",
+  "type": "Melee Attack"
+}

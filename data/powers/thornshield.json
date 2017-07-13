@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/thornshield.png",
+  "max_targets": 0,
+  "name": "Thornshield",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "thornshield",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Envelope yourself with dangerous Thorns for 20 seconds causing any who strike you to take damage.",
+  "type": "Buff"
+}

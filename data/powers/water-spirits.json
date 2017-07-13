@@ -1,0 +1,25 @@
+{
+  "cast_type": "Charged",
+  "cooldown": 25,
+  "cost": {
+    "pips": 0,
+    "resource": 46
+  },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/water-spirits.png",
+  "max_targets": 3,
+  "name": "Water Spirits",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "naiad",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Summon and launch a Water Spirit forward which heals allies within 5m of the Water Spirit. Water Spirits last 20 seconds or 30 heals. Only heals each player a maximum of 5 times. Enemies hit by the Water Spirit suffer a 30% to Damage Bonus Fire for 20 seconds.",
+  "type": "Buff"
+}

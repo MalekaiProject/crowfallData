@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 6,
+  "icon": "https://cdn.malekai.network/images/powers/song-twisting.png",
+  "max_targets": 0,
+  "name": "Song Twisting",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "twisting",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Singing 4 different songs with 6 seconds activates Pure Voice buff on you, which greatly increases the effects of the next song played.",
+  "type": "Passive"
+}

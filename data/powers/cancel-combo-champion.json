@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/cancel-combo-champion.png",
+  "max_targets": 1,
+  "name": "Cancel Combo (Champion)",
+  "next_chain": [],
+  "previous_chain": [
+    "whirling-pain"
+  ],
+  "range": 0,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Cancels the current combo power being executed.",
+  "type": "Non-Aggressive"
+}

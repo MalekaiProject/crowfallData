@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 70
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/flames-of-truth.png",
+  "max_targets": 1,
+  "name": "Flames of Truth",
+  "next_chain": [
+    "forced-confession"
+  ],
+  "previous_chain": [],
+  "range": 40,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
+  "tooltip": "Applies Flames of Truth to your reticle target, damaging them for 17 - 26. After 10 seconds Flames of Truth explodes dealing 93 - 140 + 117% Weapon Damage as Fire Damage in a 4m radius.",
+  "type": "Ranged Attack"
+}

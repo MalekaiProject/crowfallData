@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/oath-of-will.png",
+  "max_targets": 1,
+  "name": "Oath of Will",
+  "next_chain": [],
+  "previous_chain": [
+    "noble-blood"
+  ],
+  "range": 0,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Vowing never to surrender, you recover 36 Stamina over 3 seconds.",
+  "type": "Non-Aggressive"
+}

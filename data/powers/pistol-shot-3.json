@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 18
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/pistol-shot-3.png",
+  "max_targets": 1,
+  "name": "Pistol Shot 3",
+  "next_chain": [],
+  "previous_chain": [
+    "pistol-shot-2"
+  ],
+  "range": 15,
+  "sources": [
+    {
+      "id": "master-of-pistols",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Ray",
+  "tooltip": "Shoot an enemy for 95 - 143 + 119% Weapon Damage while generating a Pip with a chance to reset the cooldown of Rapid Fire.",
+  "type": "Debuff"
+}

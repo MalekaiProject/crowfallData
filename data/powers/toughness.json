@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 68,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 45,
+  "icon": "https://cdn.malekai.network/images/powers/toughness.png",
+  "max_targets": 5,
+  "name": "Toughness",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "juggernaut",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "Strengthen group members and yourself increasing their Maximum Health by 20% for 45 seconds.",
+  "type": "Buff"
+}

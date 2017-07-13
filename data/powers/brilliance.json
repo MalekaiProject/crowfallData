@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 5,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/brilliance.png",
+  "max_targets": 5,
+  "name": "Brilliance",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
+  "tooltip": "Shine with golden light briefly becoming invulnerable, increasing your maximum Health for 20 seconds as well as blinding and damaging nearby enemies for 107 - 160 + 133% Fire Weapon Damage.",
+  "type": "Ultimate"
+}

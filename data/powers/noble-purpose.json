@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/noble-purpose.png",
+  "max_targets": 1,
+  "name": "Noble Purpose",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "field-surgeon",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Inspire yourself, taking stock of your life saving endeavors and recover Resource for every 10000 Health you restore.",
+  "type": "Passive"
+}

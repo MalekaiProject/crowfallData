@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 50
+  },
+  "duration": 12,
+  "icon": "https://cdn.malekai.network/images/powers/faerie-fire.png",
+  "max_targets": 1,
+  "name": "Faerie Fire",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Engulf an enemy in Faerie Fire reducing Slashing, Piercing and Crushing armor and causing 44 - 67 Nature damage + 6% Weapon Damage over 12 seconds.",
+  "type": "Debuff"
+}

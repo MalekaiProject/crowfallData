@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/finery.png",
+  "max_targets": 1,
+  "name": "Finery",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "illusionist",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Each piece of Epic or Legendary quality armor equipped increases Damage Bonus and Healing Bonus by 2%.",
+  "type": "Passive"
+}

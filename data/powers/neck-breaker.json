@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 5,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/neck-breaker.png",
+  "max_targets": 5,
+  "name": "Neck Breaker",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
+  "tooltip": "Leap straight up. When you land, Knock Down all enemies in the area dealing 288 - 389 + 339% Weapon Damage as Crushing Damage.",
+  "type": "Ultimate"
+}

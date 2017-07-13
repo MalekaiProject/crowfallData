@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 6,
+  "icon": "https://cdn.malekai.network/images/powers/careless-whisper.png",
+  "max_targets": 1,
+  "name": "Careless Whisper",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "careless-whisper",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "When you execute a Primary Attack which damages an enemy, you gain a stack of Whispers. If you gain 5 Whispers in 12 seconds, Empowered Whispers is applied, which increases your Critical Hit Chance by 20% and your Critical Damage by 35% for 6 seconds.",
+  "type": "Passive"
+}

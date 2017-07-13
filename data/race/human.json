@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "knight",
+    "templar",
+    "ranger",
+    "cleric"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/human.png",
+  "name": "Human"
+}

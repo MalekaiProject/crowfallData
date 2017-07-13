@@ -1,0 +1,24 @@
+{
+  "cast_type": "Hold Channeled",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/righteous-stand.png",
+  "max_targets": 1,
+  "name": "Righteous Stand",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Raise your sword to defend yourself increasing your damage mitigation and becoming immune to crow control effects. Being struck with a melee attack restores Righteousness and triggers Righteous Parry",
+  "type": "Crowd Control Self"
+}

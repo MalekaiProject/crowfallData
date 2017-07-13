@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/sword-ward.png",
+  "max_targets": 0,
+  "name": "Sword Ward",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "militant-mage",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Enchant your armor with a ward against Slashing attacks increasing your Slashing Armor by 25.  Slashing attacks cause Sword Ward to slowly weaken temporarily.",
+  "type": "Passive"
+}

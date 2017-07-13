@@ -1,0 +1,25 @@
+{
+  "cast_type": "Ground Aimed",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 13
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/caltrops.png",
+  "max_targets": 5,
+  "name": "Caltrops",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [
+    {
+      "id": "agent-provocateur",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth.",
+  "type": "Crowd Control"
+}

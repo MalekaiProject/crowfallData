@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "knight",
+    "myrmidon",
+    "ranger"
+  ],
+  "description": "The battle axe has been a common element in many a skirmish for all ancient cultures; its versatility and ease of use has lead many to embrace it as a primary weapon of cohice.  With the ability to break through armor with a quickness and an opportunity to cleave those who stand in the way, the axe has proven itself as a multifunctional and berserker-style armament.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/master-of-axes.png",
+  "name": "Master of Axes",
+  "powers": [
+    "furious-slash",
+    "furious-slash-2",
+    "demolish-armor",
+    "berserker-strength"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [
+    "Damage Bonus: Slashing"
+  ],
+  "stats_values": [
+    6
+  ],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Weapon"
+}

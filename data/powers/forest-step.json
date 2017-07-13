@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 34
+  },
+  "duration": 3,
+  "icon": "https://cdn.malekai.network/images/powers/forest-step.png",
+  "max_targets": 1,
+  "name": "Forest Step",
+  "next_chain": [
+    "tendon-slice"
+  ],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Blink through the forest shadows forward and gain 50 Movement Speed for 3 seconds.",
+  "type": "Non-Aggressive"
+}

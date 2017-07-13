@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 17
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/restoration-strike.png",
+  "max_targets": 1,
+  "name": "Restoration Strike",
+  "next_chain": [
+    "restoration-strike-2"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-swords",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slice an enemy for 117-159 + 138% Weapon Damage.",
+  "type": "Melee Attack"
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 68,
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/heads-up.png",
+  "max_targets": 5,
+  "name": "Heads Up",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "mole-hunter",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "Increase the Perception of group members and yourself by 25 for 30 seconds and removes the Exposed state.",
+  "type": "Buff"
+}

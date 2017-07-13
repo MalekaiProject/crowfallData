@@ -1,0 +1,19 @@
+{
+  "classes": [
+    "champion"
+  ],
+  "description": "Until you learn to master your rage, your rage will become your master.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/furious.png",
+  "name": "Furious",
+  "powers": [
+    "furious"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

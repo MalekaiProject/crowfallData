@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 14
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/disarming-shout.png",
+  "max_targets": 1,
+  "name": "Disarming Shout",
+  "next_chain": [],
+  "previous_chain": [
+    "vicious-stomp"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Suppress enemies, disabling their powers for 6 seconds. Deals 140 - 190 + 165% Weapon Damage.",
+  "type": "Crowd Control"
+}

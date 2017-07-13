@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 3,
+  "icon": "https://cdn.malekai.network/images/powers/concentration.png",
+  "max_targets": 0,
+  "name": "Concentration",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-arcane",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Standing still for 3 seconds restores Mana and Zealotry every second until you move.",
+  "type": "Passive"
+}

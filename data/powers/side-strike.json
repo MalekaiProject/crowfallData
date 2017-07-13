@@ -1,0 +1,28 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/side-strike.png",
+  "max_targets": 1,
+  "name": "Side Strike",
+  "next_chain": [
+    "discipling-strike"
+  ],
+  "previous_chain": [
+    "strike"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Strike in front of you for 108 - 132 + 120% Weapon Damage.",
+  "type": "Melee Attack"
+}

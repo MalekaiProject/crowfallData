@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/rupture-barrier.png",
+  "max_targets": 1,
+  "name": "Rupture Barrier",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "shield-breaker",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Cause an additional 50% Weapon Damage when striking a Barrier and restore your Resource.",
+  "type": "Passive"
+}

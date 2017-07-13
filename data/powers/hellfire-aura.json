@@ -1,0 +1,28 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 80
+  },
+  "duration": 10,
+  "icon": "https://cdn.malekai.network/images/powers/hellfire-aura.png",
+  "max_targets": 5,
+  "name": "Hellfire Aura",
+  "next_chain": [
+    "fire-tornados"
+  ],
+  "previous_chain": [
+    "hellfire-shield"
+  ],
+  "range": 3.6,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
+  "tooltip": "Consumes your Hellfire Shield and surrounds you in a pulsing Hellfire Aura which damages all players within 4m of you every second for 15 - 18 Weapon Damage.",
+  "type": "Buff"
+}

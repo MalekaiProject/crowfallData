@@ -1,0 +1,27 @@
+{
+  "classes": [
+    "cleric",
+    "druid",
+    "knight"
+  ],
+  "description": "Throwing a shield is geometry in its most challenging form; a science of precise angles and forces, not to mention a goddamn massive arm.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/shield-whiz.png",
+  "name": "Shield Whiz",
+  "powers": [
+    "infinite-angles"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [
+    "Shield Throw: Bonus Ricochets",
+    "Shield Throw: Falloff Bonus"
+  ],
+  "stats_values": [
+    1,
+    0.06
+  ],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

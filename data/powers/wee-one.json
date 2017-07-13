@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 14
+  },
+  "duration": 25,
+  "icon": "https://cdn.malekai.network/images/powers/wee-one.png",
+  "max_targets": 5,
+  "name": "Wee One",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "pixie",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times.",
+  "type": "Debuff"
+}

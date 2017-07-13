@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 13
+  },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/reveal-weakness.png",
+  "max_targets": 5,
+  "name": "Reveal Weakness",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "shield-breaker",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "Enhance group members and yourself increasing Physical Armor Penetration by 10.",
+  "type": "Buff"
+}

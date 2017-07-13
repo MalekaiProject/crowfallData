@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 131
+  },
+  "duration": 35,
+  "icon": "https://cdn.malekai.network/images/powers/archers-stake.png",
+  "max_targets": 1,
+  "name": "Archers Stake",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Create an Archer's Stake at the feet of the caster. The Stake grants 100 Attack Power to you as long as you are within 5m.",
+  "type": "Buff"
+}

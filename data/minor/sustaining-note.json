@@ -1,0 +1,31 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Sometimes the wrists just need a break.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/sustaining-note.png",
+  "name": "Sustaining Note",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [
+    "Song Duration"
+  ],
+  "stats_values": [
+    6
+  ],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

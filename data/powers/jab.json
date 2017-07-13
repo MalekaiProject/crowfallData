@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 47
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/jab.png",
+  "max_targets": 1,
+  "name": "Jab",
+  "next_chain": [],
+  "previous_chain": [
+    "sweep"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash in front of you, critically striking for 118 - 160 + 139% Weapon Damage.",
+  "type": "Melee Attack"
+}

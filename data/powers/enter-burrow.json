@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/enter-burrow.png",
+  "max_targets": 1,
+  "name": "Enter Burrow",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "duelist",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Tunnel underground to avoid detection and gain access to new abilities. Taking damage forces you out of your Burrow.",
+  "type": "Transformation"
+}

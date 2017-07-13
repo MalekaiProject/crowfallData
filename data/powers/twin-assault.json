@@ -1,0 +1,29 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 14
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/twin-assault.png",
+  "max_targets": 1,
+  "name": "Twin Assault",
+  "next_chain": [
+    "shockwave",
+    "obliterate"
+  ],
+  "previous_chain": [
+    "onslaught"
+  ],
+  "range": 7.5,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Attack in front of you twice for 43 - 58 + 51% Weapon Damage each hit.",
+  "type": "Melee Attack"
+}

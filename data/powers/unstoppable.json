@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/unstoppable.png",
+  "max_targets": 1,
+  "name": "Unstoppable",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "juggernaut",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Embrace overwhelming mania, maximuze your Resolve and trigger Crowd Control Immunity for a short time.",
+  "type": "Buff"
+}

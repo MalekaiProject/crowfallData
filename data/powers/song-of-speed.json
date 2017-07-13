@@ -1,0 +1,25 @@
+{
+  "cast_type": "Toggle",
+  "cooldown": 1,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 12,
+  "icon": "https://cdn.malekai.network/images/powers/song-of-speed.png",
+  "max_targets": 5,
+  "name": "Song of Speed",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "bard",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "While Out of Combat increases the groups Movement Speed by 35% for 12 seconds. While In Combat increases the groups Movement Speed by 10% for 12 seconds. Type 1 Song.",
+  "type": "Buff"
+}

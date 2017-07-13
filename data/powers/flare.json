@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/flare.png",
+  "max_targets": 5,
+  "name": "Flare",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 50,
+  "sources": [
+    {
+      "id": "mole-hunter",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Deploy a flare revealing any Stealth users entering the area. Stealth users revealed in this way are Exposed, take 170 - 230 + 200% Fire Weapon Damage and begin Burning.",
+  "type": "Debuff"
+}

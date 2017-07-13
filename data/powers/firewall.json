@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/firewall.png",
+  "max_targets": 5,
+  "name": "Firewall",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 10,
+  "sources": [
+    {
+      "id": "master-of-arcane",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Rectangle",
+  "tooltip": "Summon a raging inferno to slow and damage any enemies for 30 - 40 + 35% Fire Weapon Damage.",
+  "type": "Debuff"
+}

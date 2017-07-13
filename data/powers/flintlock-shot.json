@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/flintlock-shot.png",
+  "max_targets": 1,
+  "name": "Flintlock Shot",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 15,
+  "sources": [
+    {
+      "id": "duelist",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Shoot for 107 - 160 + 134% Weapon Damage and generating two Pips. If FLINTLOCK SHOT hits and Exposed enemy while they attack or use an ability they are knocked down, and take additional damage and you generate an additional Pip.",
+  "type": "Ranged Attack"
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/fortification.png",
+  "max_targets": 5,
+  "name": "Fortification",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "rune-caster",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "Aid group members and yourself increasing Health by 1000.",
+  "type": "Buff"
+}

@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 18
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/shield-swipe.png",
+  "max_targets": 1,
+  "name": "Shield Swipe",
+  "next_chain": [
+    "shield-stun"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Attack in front of you for 91 - 123 + 107% Crushing Weapon Damage.",
+  "type": "Melee Attack"
+}

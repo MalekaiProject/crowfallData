@@ -1,0 +1,24 @@
+{
+  "cast_type": "Charged",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 145
+  },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/meteor-purge.png",
+  "max_targets": 5,
+  "name": "Meteor Purge",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Creates a Meteor which damages all enemies in 5m for 101 - 151 + 126% Weapon Damage when it explodes. Charges over 66% apply Black Mantle to all targets hit, which absorbs all incoming Healing until 5000 points of Health are healed of it expires after 30 seconds.",
+  "type": "Ranged Attack"
+}

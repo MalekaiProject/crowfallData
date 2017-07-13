@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/sinister-slash.png",
+  "max_targets": 1,
+  "name": "Sinister Slash",
+  "next_chain": [
+    "wicked-slash"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash in front of you twice for 37 - 51 + 44% Weapon Damage. Applies an Armor Crack to all hit, which reduces all Physical Mitigations by 5% for 15 seconds.",
+  "type": "Melee Attack"
+}

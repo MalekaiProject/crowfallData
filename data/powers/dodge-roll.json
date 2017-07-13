@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/dodge-roll.png",
+  "max_targets": 1,
+  "name": "Dodge Roll",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Roll quickly in the current WASD direction.",
+  "type": "Non-Aggressive"
+}

@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/retaliate-templar.png",
+  "max_targets": 5,
+  "name": "Retaliate (Templar)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Jump to your feet, damaging all nearby enemies for 53 - 80 + 67% Weapon Damage. Retaliating an enemy afflictd with Sin reduces cooldown of RETALIATE.",
+  "type": "Retaliate"
+}

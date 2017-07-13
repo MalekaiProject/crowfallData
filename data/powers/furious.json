@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/furious.png",
+  "max_targets": 1,
+  "name": "Furious",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "furious",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Whenever you reach 100 Rage, your Damage Bonus is increased by 15% for 15 seconds.",
+  "type": "Passive"
+}

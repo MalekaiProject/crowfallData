@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Stay strong and make them wonder how you're still standing.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/dig-in.png",
+  "name": "Dig In!",
+  "powers": [
+    "dig-in"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

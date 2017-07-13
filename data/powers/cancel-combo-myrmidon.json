@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/cancel-combo-myrmidon.png",
+  "max_targets": 1,
+  "name": "Cancel Combo (Myrmidon)",
+  "next_chain": [],
+  "previous_chain": [
+    "whirlwind"
+  ],
+  "range": 0,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Cancels the current combo power being executed.",
+  "type": "Non-Aggressive"
+}

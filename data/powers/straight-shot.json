@@ -1,0 +1,26 @@
+{
+  "cast_type": "Charged",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/straight-shot.png",
+  "max_targets": 1,
+  "name": "Straight Shot",
+  "next_chain": [
+    "power-shot"
+  ],
+  "previous_chain": [],
+  "range": 40,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage.",
+  "type": "Ranged Attack"
+}

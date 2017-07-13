@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 11
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/reverberating-blow.png",
+  "max_targets": 5,
+  "name": "Reverberating Blow",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-maces",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Afflict an enemy with an aura causing other nearby enemies to suffer 15 - 20 + 18% Weapon Damage.",
+  "type": "Debuff"
+}

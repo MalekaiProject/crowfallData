@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 55
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/hellfire-shield.png",
+  "max_targets": 1,
+  "name": "Hellfire Shield",
+  "next_chain": [
+    "hellfire-aura",
+    "fire-wave"
+  ],
+  "previous_chain": [],
+  "range": 25,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Surrounds your skin an a Hellfire Shield to 15 seconds damaging all who cause damage to your for 15 - 18 damage.",
+  "type": "Buff"
+}

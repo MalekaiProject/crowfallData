@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 8,
+  "icon": "https://cdn.malekai.network/images/powers/warp-metal.png",
+  "max_targets": 1,
+  "name": "Warp Metal",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 15,
+  "sources": [
+    {
+      "id": "militant-mage",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Ray",
+  "tooltip": "Curse an enemy with a destructive aura increasing Resource Cost for each Slashing damage attack they commit.",
+  "type": "Debuff"
+}

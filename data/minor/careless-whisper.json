@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "There's no comfort in the truth, Pain is all you'll find.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/careless-whisper.png",
+  "name": "Careless Whisper",
+  "powers": [
+    "careless-whisper"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

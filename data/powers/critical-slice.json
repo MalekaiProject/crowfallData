@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 11
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/critical-slice.png",
+  "max_targets": 1,
+  "name": "Critical Slice",
+  "next_chain": [
+    "critical-slice-2"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-rapiers",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slice an enemy for 77 - 105 + 91% Weapon Damage.",
+  "type": "Melee Attack"
+}

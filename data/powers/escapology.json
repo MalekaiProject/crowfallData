@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/escapology.png",
+  "max_targets": 1,
+  "name": "Escapology",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "escape-artist",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Formulate your escape plan increasing your Resolve by 33% reducting Crowd Control durations and making it more likely that Crowd Control immunity triggers after being the victim of multiple Control effects.",
+  "type": "Passive"
+}

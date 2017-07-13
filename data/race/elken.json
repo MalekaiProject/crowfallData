@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "knight",
+    "confessor",
+    "templar",
+    "ranger"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/elken.png",
+  "name": "Elken"
+}

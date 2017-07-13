@@ -1,0 +1,25 @@
+{
+  "cast_type": "Toggle",
+  "cooldown": 1,
+  "cost": {
+    "pips": 0,
+    "resource": 32
+  },
+  "duration": 12,
+  "icon": "https://cdn.malekai.network/images/powers/requiem.png",
+  "max_targets": 5,
+  "name": "Requiem",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 10,
+  "sources": [
+    {
+      "id": "troubadour",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Point Blank Area",
+  "tooltip": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Increases their Damage Taken by 15%. Type 2 Song.",
+  "type": "Debuff"
+}

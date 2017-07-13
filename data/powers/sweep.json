@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 31
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/sweep.png",
+  "max_targets": 1,
+  "name": "Sweep",
+  "next_chain": [
+    "jab",
+    "disengage"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash in front of you for 68 - 92 - 80% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds 15% Bonus Damage to their next attack.",
+  "type": "Crowd Control Self"
+}

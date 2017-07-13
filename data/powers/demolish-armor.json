@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 17
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/demolish-armor.png",
+  "max_targets": 1,
+  "name": "Demolish Armor",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-axes",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Demolish an enemy's Physical armor causing 120 - 163 + 142% Weapon Damage.",
+  "type": "Debuff"
+}

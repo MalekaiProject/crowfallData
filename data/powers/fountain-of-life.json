@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 20,
+  "cost": {
+    "pips": 0,
+    "resource": 46
+  },
+  "duration": 10,
+  "icon": "https://cdn.malekai.network/images/powers/fountain-of-life.png",
+  "max_targets": 4,
+  "name": "Fountain of Life",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [
+    {
+      "id": "naiad",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Creates a Fountain of Life at the targetted location, which chain heals allies who walk near it. The fountain lasts 10 seconds or 30 heals.",
+  "type": "Buff"
+}

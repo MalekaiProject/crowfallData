@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 10,
+  "icon": "https://cdn.malekai.network/images/powers/rescue.png",
+  "max_targets": 1,
+  "name": "Rescue",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [
+    {
+      "id": "field-surgeon",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Avert an ally's imminent death for 10 seconds preventing them from dropping below 1 Health and healing them for 473 - 578 + 525% Weapon Damage. Recently Rescued allies may not be effected by Rescue.",
+  "type": "Buff"
+}

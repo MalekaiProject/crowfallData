@@ -1,0 +1,24 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/second-wind-knight.png",
+  "max_targets": 1,
+  "name": "Second Wind (Knight)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Heals you for 4% of your maximum Health every second and recovers Stamina. This effect is automatically triggered when dropping below 20% health.",
+  "type": "Passive"
+}

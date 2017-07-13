@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 68
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/lightning-burst.png",
+  "max_targets": 5,
+  "name": "Lightning Burst",
+  "next_chain": [
+    "lightning-strike"
+  ],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Ray",
+  "tooltip": "Blast enemies with lightning for 110 - 165 + 138% Weapon Damage.",
+  "type": "Ranged Attack"
+}

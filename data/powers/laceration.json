@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 34
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/laceration.png",
+  "max_targets": 1,
+  "name": "Laceration",
+  "next_chain": [],
+  "previous_chain": [
+    "twin-surge"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash in front of you for 93 - 126 + 110% Weapon Damage. Applies a Weapon Break which reduces all damage by 20% for 15 seconds.",
+  "type": "Debuff"
+}

@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 77
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/aurora-emitter.png",
+  "max_targets": 5,
+  "name": "Aurora Emitter",
+  "next_chain": [],
+  "previous_chain": [
+    "lightning-strike"
+  ],
+  "range": 35,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
+  "tooltip": "Strike enemies with lightning in an area for 79 - 119 damage. Enemies are left electrified and will inflict and additional 27 to 40 + #weapon_damage_2_value#% Weapon Damage over 15 seconds to nearby friendlies.",
+  "type": "Ranged Attack"
+}

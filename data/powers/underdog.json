@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/underdog.png",
+  "max_targets": 1,
+  "name": "Underdog",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "underdog",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Come back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 300 for 30 seconds. This effect can stack with itself.",
+  "type": "Passive"
+}

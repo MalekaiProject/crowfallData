@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 14
+  },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/haunt.png",
+  "max_targets": 3,
+  "name": "Haunt",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "banshee",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Haunt 3 enemies, reflecting 35% of their attack damage as Nature damage (max 1050) and healing you for 35% of damage taken.",
+  "type": "Debuff"
+}

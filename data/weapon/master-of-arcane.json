@@ -1,0 +1,25 @@
+{
+  "classes": [
+    "confessor"
+  ],
+  "description": "Tomes contain some of the most ancient and arcane knowledge with their pages.  The most prominent scholars have often kept their secrets hidden in mystical grimoires granting only the most intellectual and zealous as capable of understanding the insight contained within the bindings.  From the brandishing of fire, to the process of redemption, only the most skillful of masters can attain full concentration.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/master-of-arcane.png",
+  "name": "Master of Arcane",
+  "powers": [
+    "firewall",
+    "redemption",
+    "concentration"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [
+    "Damage Bonus: Fire"
+  ],
+  "stats_values": [
+    6
+  ],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Weapon"
+}

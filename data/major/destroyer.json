@@ -1,0 +1,27 @@
+{
+  "classes": [
+    "champion"
+  ],
+  "description": "The beauty of chaos and destruction can only be seen by the few who allow themselves to succumb to the their rage.  Through the channeling of rage and devastation the ability to maintain a relentless and frightening vitality occurs.  Destroyers embrace their destructive ways and are often granted exceptional and frightening abilities in combat.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/destroyer.png",
+  "name": "Destroyer",
+  "powers": [
+    "aegis-of-salvation",
+    "aegis-of-salvation-2",
+    "insanity",
+    "frighten",
+    "relentless-destroyer"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [
+    "Max Rage"
+  ],
+  "stats_values": [
+    8.75
+  ],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Major"
+}

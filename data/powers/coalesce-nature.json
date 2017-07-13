@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/coalesce-nature.png",
+  "max_targets": 1,
+  "name": "Coalesce Nature",
+  "next_chain": [],
+  "previous_chain": [
+    "coalesce-life-2"
+  ],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Manifest an Orb at your targeted location that allies or you may use to heal 216 to 264 + 240% Weapon Damage as well as restoring resources for allies.",
+  "type": "Non-Aggressive"
+}

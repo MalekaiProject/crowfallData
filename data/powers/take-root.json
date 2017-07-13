@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 2,
+  "icon": "https://cdn.malekai.network/images/powers/take-root.png",
+  "max_targets": 0,
+  "name": "Take Root",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "dryad",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Standing still for 2 seconds increases Healing Bonus by 20% and Physical Mitigations by 5% until you move.",
+  "type": "Passive"
+}

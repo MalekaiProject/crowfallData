@@ -1,0 +1,24 @@
+{
+  "cast_type": "Channeled",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/go-for-broke.png",
+  "max_targets": 3,
+  "name": "Go For Broke",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 15,
+  "sources": [
+    {
+      "id": "duelist",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Leap from your Burrow with full commitment, unleashing a deadly hail of gunfire assaulting up to three targets in a cone multiple times for 39 - 58 + 48% Weapon Damage before returning to your burrow again if you can avoid damage. Striking Exposed targets causes a guaranteed critical hit.",
+  "type": "Ranged Attack"
+}

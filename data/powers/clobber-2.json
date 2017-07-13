@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 10
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/clobber-2.png",
+  "max_targets": 1,
+  "name": "Clobber 2",
+  "next_chain": [],
+  "previous_chain": [
+    "clobber"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-hammers",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Bash an enemy Dazing them and inflicting 76 - 103 + 90% Weapon Damage.",
+  "type": "Crowd Control"
+}

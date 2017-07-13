@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 14
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/kick-sand.png",
+  "max_targets": 1,
+  "name": "Kick Sand",
+  "next_chain": [],
+  "previous_chain": [
+    "spinning-backfist"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Kick sand at nearby enemies, blinding them for 4 seconds while dealing 151 - 205 + 178% Weapon Damage.",
+  "type": "Crowd Control"
+}

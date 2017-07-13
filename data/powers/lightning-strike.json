@@ -1,0 +1,28 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 46
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/lightning-strike.png",
+  "max_targets": 5,
+  "name": "Lightning Strike",
+  "next_chain": [
+    "aurora-emitter"
+  ],
+  "previous_chain": [
+    "lightning-burst"
+  ],
+  "range": 35,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Ray",
+  "tooltip": "Strike enemies with lightning for 109 - 163 + 136% Weapon Damage and Dazing them.",
+  "type": "Ranged Attack"
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/basic-block.png",
+  "max_targets": 0,
+  "name": "Basic Block",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-shields",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.",
+  "type": "Buff"
+}

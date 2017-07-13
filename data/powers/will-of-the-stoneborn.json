@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/will-of-the-stoneborn.png",
+  "max_targets": 1,
+  "name": "Will of the Stoneborn",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-maces",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Fortify your defense increasing your Crushing armor and improving weapon efficiency.",
+  "type": "Buff"
+}

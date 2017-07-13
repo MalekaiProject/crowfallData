@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 18
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/shield-stun.png",
+  "max_targets": 1,
+  "name": "Shield Stun",
+  "next_chain": [],
+  "previous_chain": [
+    "shield-swipe"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage.",
+  "type": "Crowd Control"
+}

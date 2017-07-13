@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 18
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/critical-hack.png",
+  "max_targets": 5,
+  "name": "Critical Hack",
+  "next_chain": [
+    "criticalhack2"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-swords",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash an enemy for 131-177 +154% Weapon Damage.",
+  "type": "Melee Attack"
+}

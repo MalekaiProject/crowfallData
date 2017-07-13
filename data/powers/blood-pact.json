@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/blood-pact.png",
+  "max_targets": 1,
+  "name": "Blood Pact",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "blood-pact",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Grants a Blood Pact for 15 seconds, which all powers to consume Hitpoints instead of their normal ressource type.",
+  "type": "Buff"
+}

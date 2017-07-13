@@ -1,0 +1,24 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/taste-for-blood.png",
+  "max_targets": 1,
+  "name": "Taste For Blood",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Striking a Bleeding target grants you the Scent of Blood, partially reducing Health loss from Berserk Crash. Striking a Bleeding target also has a chance to grant Taste for Blood for 20 seconds, which greatly increased the damage of your basic attacks.",
+  "type": "Passive"
+}

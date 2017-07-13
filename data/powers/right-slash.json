@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 17
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/right-slash.png",
+  "max_targets": 1,
+  "name": "Right Slash",
+  "next_chain": [
+    "left-slash"
+  ],
+  "previous_chain": [],
+  "range": 5.5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Attack with your right weapon for 3 - 4 + 4% Weapon Damage.",
+  "type": "Melee Attack"
+}

@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 10
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/adjudicate.png",
+  "max_targets": 1,
+  "name": "Adjudicate",
+  "next_chain": [
+    "adjudicate-2"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "adjudicator",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Smash an enemy for 68-92 + 80% Weapon Damage.",
+  "type": "Melee Attack"
+}

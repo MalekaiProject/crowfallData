@@ -1,0 +1,25 @@
+{
+  "cast_type": "",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/form-up.png",
+  "max_targets": 0,
+  "name": "Form Up",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "secutor",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "",
+  "tooltip": "Coming Soon",
+  "type": "Buff"
+}

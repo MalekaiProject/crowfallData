@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "ranger",
+    "champion",
+    "myrmidon"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/minotaur.png",
+  "name": "Minotaur"
+}

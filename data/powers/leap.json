@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/leap.png",
+  "max_targets": 5,
+  "name": "Leap",
+  "next_chain": [
+    "leap-2"
+  ],
+  "previous_chain": [],
+  "range": 4,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
+  "tooltip": "Leap forward, dealing 65 - 88 + 77% Weapon Damage as Crushing Damage as you land. Briefly able to perform a second Leap for zero resource cost.",
+  "type": "Melee Attack"
+}

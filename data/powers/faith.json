@@ -1,0 +1,24 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/faith.png",
+  "max_targets": 1,
+  "name": "Faith",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Dropping under 35% Health automatically activates the effects of Holy Warrior. Activating Holy Warrior at the same time prevents death until the effect has ended.",
+  "type": "Passive"
+}

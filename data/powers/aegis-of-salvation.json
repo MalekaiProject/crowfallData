@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 10
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/aegis-of-salvation.png",
+  "max_targets": 1,
+  "name": "Aegis of Salvation",
+  "next_chain": [
+    "aegis-of-salvation-2"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "destroyer",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Attack causing 70 - 94 + 82% Weapon Damage.",
+  "type": "Buff"
+}

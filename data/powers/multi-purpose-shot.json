@@ -1,0 +1,26 @@
+{
+  "cast_type": "Charged",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/multi-purpose-shot.png",
+  "max_targets": 1,
+  "name": "Multi-Purpose Shot",
+  "next_chain": [],
+  "previous_chain": [
+    "power-shot"
+  ],
+  "range": 40,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage and apply additional effects when using exotic arrows. Check your arrow's description for details on additional effects.",
+  "type": "Ranged Attack"
+}

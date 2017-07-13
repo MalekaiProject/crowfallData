@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/blade-turning.png",
+  "max_targets": 0,
+  "name": "Blade Turning",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "militant-mage",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Gain a Slashing damage immune Barrier for 15 seconds.",
+  "type": "Buff"
+}

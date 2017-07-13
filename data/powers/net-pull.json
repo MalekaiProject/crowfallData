@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 17
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/net-pull.png",
+  "max_targets": 1,
+  "name": "Net Pull",
+  "next_chain": [],
+  "previous_chain": [
+    "cast-net"
+  ],
+  "range": 30,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Pull your target toward you inflicting 95 - 116 + 106% Weapon Damage.",
+  "type": "Crowd Control"
+}

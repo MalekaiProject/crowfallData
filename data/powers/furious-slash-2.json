@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 13
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/furious-slash-2.png",
+  "max_targets": 1,
+  "name": "Furious Slash 2",
+  "next_chain": [],
+  "previous_chain": [
+    "furious-slash"
+  ],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-axes",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash furiously at an enemy for 113 - 152 + 132% Weapon Damage while reducing your short and long cooldown times.",
+  "type": "Buff"
+}

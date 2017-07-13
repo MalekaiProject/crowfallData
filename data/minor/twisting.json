@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Not for the faint of wrist.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/twisting.png",
+  "name": "Twisting",
+  "powers": [
+    "song-twisting"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

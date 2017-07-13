@@ -1,0 +1,25 @@
+{
+  "cast_type": "",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/touch-of-rot.png",
+  "max_targets": 0,
+  "name": "Touch of Rot",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "plague-lord",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Your basic attacks apply a stacking Support Power debuff.",
+  "type": "Passive"
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 14
+  },
+  "duration": 25,
+  "icon": "https://cdn.malekai.network/images/powers/pixie-dust.png",
+  "max_targets": 5,
+  "name": "Pixie Dust",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "pixie",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Blanket the targeted area with Pixie Dust, increasing Incoming Healing by 25% for 25 seconds.",
+  "type": "Buff"
+}

@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 35
+  },
+  "duration": 8,
+  "icon": "https://cdn.malekai.network/images/powers/leeching-seed.png",
+  "max_targets": 1,
+  "name": "Leeching Seed",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Cause an enemy to become lethargic increasing all Power colldowns and reducing their movement speed for 8 seconds.",
+  "type": "Debuff"
+}

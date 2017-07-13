@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/deadly-retaliation.png",
+  "max_targets": 5,
+  "name": "Deadly Retaliation",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "underdog",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Jump to your feet dealing 113-153 + 133% Weapon Damage to nearby enemies. This attack is a guaranteed Critical Hit.",
+  "type": "Debuff"
+}

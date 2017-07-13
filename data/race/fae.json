@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "assassin",
+    "druid",
+    "frostweaver"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/fae.png",
+  "name": "Fae"
+}

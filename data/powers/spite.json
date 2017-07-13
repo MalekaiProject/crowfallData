@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 5,
+  "icon": "https://cdn.malekai.network/images/powers/spite.png",
+  "max_targets": 1,
+  "name": "Spite",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "juggernaut",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Seethe dangerously each time you suffer a Knockdown or Stun and recover 4 - 6% of your maximum Health over 5 seconds.",
+  "type": "Passive"
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 8,
+  "icon": "https://cdn.malekai.network/images/powers/speedy-retaliate.png",
+  "max_targets": 5,
+  "name": "Speedy Retaliate",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "escape-artist",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Regain your senses recovering immediately from Knockdown or Stun effects with an attack inflicting #min_damage_1# - #max_damage_1# + #weapon_damage_value#% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds.",
+  "type": "Debuff"
+}

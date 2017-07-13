@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/brutal-slam.png",
+  "max_targets": 5,
+  "name": "Brutal Slam",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "shield-fighter",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Strike with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Armor by 20.",
+  "type": "Debuff"
+}

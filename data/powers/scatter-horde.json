@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 24,
+  "cost": {
+    "pips": 0,
+    "resource": 23
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/scatter-horde.png",
+  "max_targets": 5,
+  "name": "Scatter Horde",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 6,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
+  "tooltip": "Rear and smash into the ground damaging 8 enemies in the area for 120 - 146 + 133% Weapon Damage, and pushing them back.",
+  "type": "Melee Attack"
+}

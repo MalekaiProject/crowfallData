@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/reproach.png",
+  "max_targets": 5,
+  "name": "Reproach",
+  "next_chain": [
+    "castigate"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash multiple enemies for 54 - 81 + 67% Weapon Damage.",
+  "type": "Melee Attack"
+}

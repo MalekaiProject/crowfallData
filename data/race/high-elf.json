@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "knight",
+    "confessor",
+    "assassin",
+    "frostweaver"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/high-elf.png",
+  "name": "High-Elf"
+}

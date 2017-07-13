@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/purgative.png",
+  "max_targets": 5,
+  "name": "Purgative",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "field-surgeon",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "Cleanse your group and yourself of damage over time effects healing for 32 - 39 + 35% Weapon Damage for each effect removed.",
+  "type": "Buff"
+}

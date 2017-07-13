@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 5,
+  "icon": "https://cdn.malekai.network/images/powers/free-action.png",
+  "max_targets": 5,
+  "name": "Free Action",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "escape-artist",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "Liberate group members and yourself gaining immunity to Movement Crowd Control effects for 5 seconds.",
+  "type": "Buff"
+}

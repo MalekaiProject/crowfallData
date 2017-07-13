@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/classes/assassin.png",
+  "name": "Assassin",
+  "races": [
+    "half-elf",
+    "nethari",
+    "fae",
+    "high-elf"
+  ]
+}

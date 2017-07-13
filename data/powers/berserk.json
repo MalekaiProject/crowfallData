@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 20,
+  "cost": {
+    "pips": 0,
+    "resource": 56
+  },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/berserk.png",
+  "max_targets": 1,
+  "name": "Berserk",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 30,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Overcome with bloodlust you continually recover all lost Health for 20 seconds. When the effect ends your suffer Berserk Crash and all recovered Health is lost again. The Scent of Blood reduces Health loss from Berserk Crash. Health loss is prevented altogether while Raging.",
+  "type": "Transformation"
+}

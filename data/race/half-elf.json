@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "ranger",
+    "assassin",
+    "druid"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/half-elf.png",
+  "name": "Half-Elf"
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 180,
+  "icon": "https://cdn.malekai.network/images/powers/glamour-weapon.png",
+  "max_targets": 1,
+  "name": "Glamour Weapon",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "illusionist",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Add a Glamour to your weapon increasing Maximum Weapon Damage by 50 for 30 seconds.",
+  "type": "Buff"
+}

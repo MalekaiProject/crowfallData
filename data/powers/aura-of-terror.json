@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 30,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/aura-of-terror.png",
+  "max_targets": 0,
+  "name": "Aura of Terror",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "scarecrow",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Surround yourself with a chilling aura of palpable fear that automatically reveals Stealthed enemies.  Enemies who remain nearby for too long are Suppressed and then afflicted with Frostbite.",
+  "type": "Debuff"
+}

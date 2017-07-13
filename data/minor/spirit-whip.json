@@ -1,0 +1,27 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "duelist",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Crack that whip and give the past the slip.  It's not too late... To spirit whip it!",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/spirit-whip.png",
+  "name": "Spirit Whip",
+  "powers": [
+    "spirit-whip"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

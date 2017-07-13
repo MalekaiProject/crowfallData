@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "knight",
+    "champion",
+    "myrmidon",
+    "cleric"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/stoneborn.png",
+  "name": "Stoneborn"
+}

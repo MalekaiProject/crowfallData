@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/insanity.png",
+  "max_targets": 3,
+  "name": "Insanity",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 12,
+  "sources": [
+    {
+      "id": "destroyer",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Bolster your combat prowess increasing your Health maximum by 17.5 for each point of current Rage.",
+  "type": "Buff"
+}

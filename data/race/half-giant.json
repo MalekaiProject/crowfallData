@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "champion",
+    "myrmidon",
+    "cleric"
+  ],
+  "description": "",
+  "icon": "https://cdn.malekai.network/images/races/half-giant.png",
+  "name": "Half-Giant"
+}

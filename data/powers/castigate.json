@@ -1,0 +1,29 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/castigate.png",
+  "max_targets": 5,
+  "name": "Castigate",
+  "next_chain": [
+    "radiant-sweep",
+    "righteous-smash"
+  ],
+  "previous_chain": [
+    "reproach"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Slash multiple enemies for 61 - 92 + 76% Weapon Damage.",
+  "type": "Melee Attack"
+}

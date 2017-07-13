@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "knight",
+    "ranger"
+  ],
+  "description": "The most legendary of arms, the sword is often the default weapon of combatants.  No matter the form, the wat of the sword often yields great results in the development of the wielder; the addition of beneficial applications along with the added bonus of resource gain stimulation aid in the prosperity of the brandisher.  With a slight of hand and a bit of practice those who follow the way will profit greatly in and out of combat.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/master-of-swords.png",
+  "name": "Master of Swords",
+  "powers": [
+    "critical-hack",
+    "critical-hack-2",
+    "restoration-strike",
+    "restoration-strike-2",
+    "iron-skin"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [
+    "Damage Bonus: Slashing"
+  ],
+  "stats_values": [
+    6
+  ],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Weapon"
+}

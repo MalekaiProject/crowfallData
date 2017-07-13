@@ -1,0 +1,27 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 5,
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/onslaught.png",
+  "max_targets": 1,
+  "name": "Onslaught",
+  "next_chain": [
+    "brutal-strike",
+    "twin-assault"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Attack in front of you twice for 62 - 84 + 73% Weapon Damage each strike.",
+  "type": "Melee Attack"
+}

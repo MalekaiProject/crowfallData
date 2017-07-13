@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Not all skin conditions are detrimental.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/prickly-skin.png",
+  "name": "Prickly Skin",
+  "powers": [
+    "prickly-skin"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
+}

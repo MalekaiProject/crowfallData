@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 9,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/rapid-fire-pistols.png",
+  "max_targets": 1,
+  "name": "Rapid Fire (Pistols)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 15,
+  "sources": [
+    {
+      "id": "master-of-pistols",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Ray",
+  "tooltip": "Unleash a deadly barrage of hot lead causing 28 - 43 + 36% Weapon Damage.  If Rapid Fire hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
+  "type": "Melee Attack"
+}

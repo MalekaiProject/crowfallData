@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/banner-of-storms.png",
+  "max_targets": 5,
+  "name": "Banner of Storms",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 15,
+  "sources": [
+    {
+      "id": "standard-bearer",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Deploy a banner overriding the damage of all nearby group members to Electric and increasing their Electric Armor by 25.",
+  "type": "Buff"
+}

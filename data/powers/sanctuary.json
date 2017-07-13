@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/sanctuary.png",
+  "max_targets": 5,
+  "name": "Sanctuary",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 10,
+  "sources": [
+    {
+      "id": "rune-caster",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Area",
+  "tooltip": "Defend an area with a runic symbol increasing allies' All Armor by 20%.",
+  "type": "Buff"
+}

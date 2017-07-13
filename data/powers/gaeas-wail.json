@@ -1,0 +1,24 @@
+{
+  "cast_type": "Charged",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 105
+  },
+  "duration": 12,
+  "icon": "https://cdn.malekai.network/images/powers/gaeas-wail.png",
+  "max_targets": 3,
+  "name": "Gaea's Wail",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
+  "tooltip": "Unleash a bear spirit at the enemy causing 168 - 252 + 210% and an addtional 133 - 200 over 12 seconds The attack may chain to two additional enemies.",
+  "type": "Ranged Attack"
+}

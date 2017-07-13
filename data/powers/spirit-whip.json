@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/spirit-whip.png",
+  "max_targets": 0,
+  "name": "Spirit Whip",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "spirit-whip",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Melee Basic attacks now whip to additional targets with #range#.  Each time the Spirit whips is deals less damage.  50% for the first whip and 25% for the second.",
+  "type": "Passive"
+}

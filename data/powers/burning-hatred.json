@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/burning-hatred.png",
+  "max_targets": 1,
+  "name": "Burning Hatred",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "burning-hatred",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Seethe with anger as your damaging attacks periodically create a Fae Wisp, consumable only by you, restoring 252 - 308 + 280% Weapon Damage.",
+  "type": "Passive"
+}

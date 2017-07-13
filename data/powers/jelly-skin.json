@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 45,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/jelly-skin.png",
+  "max_targets": 0,
+  "name": "Jelly Skin",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "mudman",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Protect yourself with skin like rubber granting you a barrier with immunity to Crushing damage.",
+  "type": "Buff"
+}

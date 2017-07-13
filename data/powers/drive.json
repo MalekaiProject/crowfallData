@@ -1,0 +1,26 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/drive.png",
+  "max_targets": 5,
+  "name": "Drive",
+  "next_chain": [],
+  "previous_chain": [
+    "uppercut"
+  ],
+  "range": 8,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Stab in front of you for 75 - 92 + 83% Weapon Damage as Piercing Damage. Applies a Weapon Break to all hit, which reduces all Damage they deal by 20% for 15 seconds.",
+  "type": "Debuff"
+}

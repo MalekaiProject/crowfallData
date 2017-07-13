@@ -1,0 +1,25 @@
+{
+  "cast_type": "Passive",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/poisoned-weapons.png",
+  "max_targets": 0,
+  "name": "Poisoned Weapons",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "poisoner",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "All your Primary Attacks now deal Poison as their damage type.  In addition your final Primary attack deals an AoE poison damage to nearby enemies.",
+  "type": "Passive"
+}

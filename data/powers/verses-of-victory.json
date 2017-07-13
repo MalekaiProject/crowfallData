@@ -1,0 +1,25 @@
+{
+  "cast_type": "Toggle",
+  "cooldown": 1,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 12,
+  "icon": "https://cdn.malekai.network/images/powers/verses-of-victory.png",
+  "max_targets": 5,
+  "name": "Verses of Victory",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "bard",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Group",
+  "tooltip": "Increases your groups Attack Power by 150 as well as Support Power by 150 for 12 seconds. Type 4 Song.",
+  "type": "Buff"
+}

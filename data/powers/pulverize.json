@@ -1,0 +1,24 @@
+{
+  "cast_type": "Charged",
+  "cooldown": 20,
+  "cost": {
+    "pips": 0,
+    "resource": 50
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/pulverize.png",
+  "max_targets": 1,
+  "name": "Pulverize",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5.5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Paw at the ground menacingly and begin Raging before ramming head first into your target for 240 - 293 + 267% Weapon Damage. This attack is guaranteed critical hit when over 65% charged.",
+  "type": "Crowd Control"
+}

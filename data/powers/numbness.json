@@ -1,0 +1,25 @@
+{
+  "cast_type": "",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/numbness.png",
+  "max_targets": 0,
+  "name": "Numbness",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-shields",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Reduce the cost of Blocking high damage attacks.",
+  "type": "Passive"
+}

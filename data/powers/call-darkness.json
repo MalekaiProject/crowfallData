@@ -1,0 +1,25 @@
+{
+  "cast_type": "",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/call-darkness.png",
+  "max_targets": 0,
+  "name": "Call Darkness",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "black-mask",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "",
+  "tooltip": "Coming Soon",
+  "type": "Ranged Attack"
+}

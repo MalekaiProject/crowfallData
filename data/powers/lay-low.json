@@ -1,0 +1,25 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": {
+    "pips": 0,
+    "resource": 16
+  },
+  "duration": 6,
+  "icon": "https://cdn.malekai.network/images/powers/lay-low.png",
+  "max_targets": 1,
+  "name": "Lay Low",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "agent-provocateur",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
+  "tooltip": "Take it easy tending to your wounds and recovering 32-39 + 35% Weapon Damage a second for 6 seconds while maintaining Stealth.",
+  "type": "Non-Aggressive"
+}

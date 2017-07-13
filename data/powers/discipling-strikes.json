@@ -1,0 +1,24 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/discipling-strikes.png",
+  "max_targets": 1,
+  "name": "Discipling Strikes",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "Strike in front of you for 126 - 154 + 150% Weapon Damage, snaring the enemy if you hit.",
+  "type": "Melee Attack"
+}

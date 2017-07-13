@@ -1,0 +1,28 @@
+{
+  "cast_type": "Instant",
+  "cooldown": 0,
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/emerald-slash.png",
+  "max_targets": 1,
+  "name": "Emerald Slash",
+  "next_chain": [
+    "bloodstone-spin"
+  ],
+  "previous_chain": [
+    "ruby-slash"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
+  "tooltip": "A basic attack slashing in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attack hits activates SHIELD BASH.",
+  "type": "Melee Attack"
+}
