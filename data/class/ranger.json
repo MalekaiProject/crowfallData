@@ -1,7 +1,7 @@
 {
-  "name": "Ranger",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/ranger.png",
+  "name": "Ranger",
   "powers": [
     "archers-stake",
     "barrage",

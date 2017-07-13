@@ -5,7 +5,7 @@
     "templar",
     "ranger"
   ],
-  "name": "Elken",
   "description": "",
-  "icon": "https://cdn.malekai.network/images/races/elken.png"
+  "icon": "https://cdn.malekai.network/images/races/elken.png",
+  "name": "Elken"
 }

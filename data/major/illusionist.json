@@ -1,8 +1,4 @@
 {
-  "name": "Illusionist",
-  "type": "Major",
-  "description": "An Illusionist alters the perception of those within their proximity which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements an Illusionist maintains a dapper appearance while also being a worth adversary in combat.",
-  "icon": "https://cdn.malekai.network/images/disciplines/illusionist.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,20 +12,24 @@
     "ranger",
     "templar"
   ],
+  "description": "An Illusionist alters the perception of those within their proximity which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements an Illusionist maintains a dapper appearance while also being a worth adversary in combat.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/illusionist.png",
+  "name": "Illusionist",
+  "powers": [
+    "glamour-weapon",
+    "reveal-shadows",
+    "finery"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
   "stats_granted": [
     "Perception"
   ],
   "stats_values": [
     20
   ],
-  "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
   "trays_granted": "",
   "trays_removed": "",
-  "powers": [
-    "glamour-weapon",
-    "reveal-shadows",
-    "finery"
-  ]
+  "type": "Major"
 }

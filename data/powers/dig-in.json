@@ -1,25 +1,25 @@
 {
-  "name": "Dig In",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "minor",
-      "id": "dig-in"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/dig-in.png",
+  "max_targets": 1,
+  "name": "Dig In",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "dig-in",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "When dropping below 25% Health you become immune to being Critically Hit.",
-  "icon": "https://cdn.malekai.network/images/powers/dig-in.png"
+  "type": "Passive"
 }

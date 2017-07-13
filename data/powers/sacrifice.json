@@ -1,25 +1,25 @@
 {
-  "name": "Sacrifice",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Non-Aggressive",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 5,
-  "targeting": "Self",
+  "cost": {
+    "health": 55,
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/sacrifice.png",
   "max_targets": 1,
-  "range": 0,
+  "name": "Sacrifice",
   "next_chain": [],
   "previous_chain": [],
-  "cost": {
-    "pips": 0,
-    "resource": 0,
-    "health": 55
-  },
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Sacrifice 55 Health for 15% Essence.",
-  "icon": "https://cdn.malekai.network/images/powers/sacrifice.png"
+  "type": "Non-Aggressive"
 }

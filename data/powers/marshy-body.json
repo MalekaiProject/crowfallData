@@ -1,25 +1,25 @@
 {
-  "name": "Marshy Body",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "mudman"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/marshy-body.png",
+  "max_targets": 0,
+  "name": "Marshy Body",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "mudman",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Cover yourself with a boggy enchantment that increase your Crushing Armor by 0.2 for each point of Stamina.",
-  "icon": "https://cdn.malekai.network/images/powers/marshy-body.png"
+  "type": "Passive"
 }

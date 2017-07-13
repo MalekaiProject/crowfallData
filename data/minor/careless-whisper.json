@@ -1,8 +1,4 @@
 {
-  "name": "Careless Whisper",
-  "type": "Minor",
-  "description": "There's no comfort in the truth, Pain is all you'll find.",
-  "icon": "https://cdn.malekai.network/images/disciplines/careless-whisper.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "There's no comfort in the truth, Pain is all you'll find.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/careless-whisper.png",
+  "name": "Careless Whisper",
   "powers": [
     "careless-whisper"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

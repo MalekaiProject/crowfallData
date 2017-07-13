@@ -1,27 +1,27 @@
 {
-  "name": "Skullcracker 2",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-maces"
-    }
-  ],
-  "type": "Debuff",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 30,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5,
-  "next_chain": [],
-  "previous_chain": [
-    "skullcracker"
-  ],
   "cost": {
     "pips": 0,
     "resource": 12
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/skullcracker-2.png",
+  "max_targets": 1,
+  "name": "Skullcracker 2",
+  "next_chain": [],
+  "previous_chain": [
+    "skullcracker"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-maces",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Smash an enemy, stunning them and causing 94 - 127 + 111% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/skullcracker-2.png"
+  "type": "Debuff"
 }

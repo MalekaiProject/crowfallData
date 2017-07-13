@@ -1,24 +1,24 @@
 {
-  "name": "Relentless (Champion)",
-  "sources": [
-    {
-      "type": "class",
-      "id": "champion"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/relentless-champion.png",
+  "max_targets": 0,
+  "name": "Relentless (Champion)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "You no longer degenerate Rage. Instead, you generate 1.5 Rage every 1 second while in Combat.",
-  "icon": "https://cdn.malekai.network/images/powers/relentless-champion.png"
+  "type": "Passive"
 }

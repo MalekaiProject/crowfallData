@@ -1,8 +1,4 @@
 {
-  "name": "Juggernaut",
-  "type": "Major",
-  "description": "No other form of combatant is built to last as much as that of a Juggernaut which is due to extreme endurance and spite. Mercilessness, ruthlessness and resiliency are also defining characteristics that attribute to the robust nature of an unstoppable fighter whose impact will be felt repeatedly.",
-  "icon": "https://cdn.malekai.network/images/disciplines/juggernaut.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,17 +12,21 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "No other form of combatant is built to last as much as that of a Juggernaut which is due to extreme endurance and spite. Mercilessness, ruthlessness and resiliency are also defining characteristics that attribute to the robust nature of an unstoppable fighter whose impact will be felt repeatedly.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/juggernaut.png",
+  "name": "Juggernaut",
   "powers": [
     "furious-retaliate",
     "unstoppable",
     "spite",
     "toughness"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Major"
 }

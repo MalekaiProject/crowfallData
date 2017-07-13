@@ -1,8 +1,4 @@
 {
-  "name": "Spirit Whip",
-  "type": "Minor",
-  "description": "Crack that whip and give the past the slip.  It's not too late... To spirit whip it!",
-  "icon": "https://cdn.malekai.network/images/disciplines/spirit-whip.png",
   "classes": [
     "assassin",
     "champion",
@@ -14,14 +10,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "Crack that whip and give the past the slip.  It's not too late... To spirit whip it!",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/spirit-whip.png",
+  "name": "Spirit Whip",
   "powers": [
     "spirit-whip"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

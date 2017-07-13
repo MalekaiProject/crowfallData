@@ -1,8 +1,4 @@
 {
-  "name": "Explosive Thorns",
-  "type": "Minor",
-  "description": "There are very few problems that cannot be solved through a suitable application of explosive thorns.",
-  "icon": "https://cdn.malekai.network/images/disciplines/explosive-thorns.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "There are very few problems that cannot be solved through a suitable application of explosive thorns.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/explosive-thorns.png",
+  "name": "Explosive Thorns",
   "powers": [
     "explosive-thorns"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

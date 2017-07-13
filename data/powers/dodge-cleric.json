@@ -1,24 +1,24 @@
 {
-  "name": "Dodge (Cleric)",
-  "sources": [
-    {
-      "type": "class",
-      "id": "cleric"
-    }
-  ],
-  "type": "Non-Aggressive",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Rectangle",
-  "max_targets": 5,
-  "range": 6,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/dodge-cleric.png",
+  "max_targets": 5,
+  "name": "Dodge (Cleric)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 6,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Rectangle",
   "tooltip": "Charge in the current WASD direction dealing for 41 - 50 Damage + 46% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/dodge-cleric.png"
+  "type": "Non-Aggressive"
 }

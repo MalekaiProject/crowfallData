@@ -1,8 +1,4 @@
 {
-  "name": "Sparring",
-  "type": "Minor",
-  "description": "It's the thrill of the fight and rising up to the challenge of your rival.",
-  "icon": "https://cdn.malekai.network/images/disciplines/sparring.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "It's the thrill of the fight and rising up to the challenge of your rival.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/sparring.png",
+  "name": "Sparring",
   "powers": [
     "sparring"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Righteous Smash",
-  "sources": [
-    {
-      "type": "class",
-      "id": "templar"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Cone",
-  "max_targets": 5,
-  "range": 5,
-  "next_chain": [],
-  "previous_chain": [
-    "castigate"
-  ],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/righteous-smash.png",
+  "max_targets": 5,
+  "name": "Righteous Smash",
+  "next_chain": [],
+  "previous_chain": [
+    "castigate"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Spin with an overhead chop hitting multiple enemies for 117 - 176 + 146% Weapon Damage and generating Righteousness for each hit.",
-  "icon": "https://cdn.malekai.network/images/powers/righteous-smash.png"
+  "type": "Melee Attack"
 }

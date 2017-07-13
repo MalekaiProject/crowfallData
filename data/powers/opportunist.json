@@ -1,24 +1,24 @@
 {
-  "name": "Opportunist",
-  "sources": [
-    {
-      "type": "class",
-      "id": "duelist"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/opportunist.png",
+  "max_targets": 1,
+  "name": "Opportunist",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "duelist",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Saber Attacks have a 20% chance to reset the cooldown on Flintlock shot.",
-  "icon": "https://cdn.malekai.network/images/powers/opportunist.png"
+  "type": "Passive"
 }

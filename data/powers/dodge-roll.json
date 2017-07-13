@@ -1,24 +1,24 @@
 {
-  "name": "Dodge Roll",
-  "sources": [
-    {
-      "type": "class",
-      "id": "champion"
-    }
-  ],
-  "type": "Non-Aggressive",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/dodge-roll.png",
+  "max_targets": 1,
+  "name": "Dodge Roll",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Roll quickly in the current WASD direction.",
-  "icon": "https://cdn.malekai.network/images/powers/dodge-roll.png"
+  "type": "Non-Aggressive"
 }

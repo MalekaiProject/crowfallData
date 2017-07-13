@@ -1,26 +1,26 @@
 {
-  "name": "Arcing Slash",
-  "sources": [
-    {
-      "type": "class",
-      "id": "myrmidon"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Cone",
-  "max_targets": 5,
-  "range": 5.5,
-  "next_chain": [
-    "whirlwind"
-  ],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 16
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/arcing-slash.png",
+  "max_targets": 5,
+  "name": "Arcing Slash",
+  "next_chain": [
+    "whirlwind"
+  ],
+  "previous_chain": [],
+  "range": 5.5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Slash upward violently inflicting 41 - 50 + 46% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/arcing-slash.png"
+  "type": "Melee Attack"
 }

@@ -1,28 +1,28 @@
 {
-  "name": "Power Shot",
-  "sources": [
-    {
-      "type": "class",
-      "id": "ranger"
-    }
-  ],
-  "type": "Ranged Attack",
   "cast_type": "Charged",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Reticle",
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/power-shot.png",
   "max_targets": 1,
-  "range": 40,
+  "name": "Power Shot",
   "next_chain": [
     "multi-purpose-shot"
   ],
   "previous_chain": [
     "straight-shot"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 0
-  },
+  "range": 40,
+  "sources": [
+    {
+      "id": "ranger",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
   "tooltip": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/power-shot.png"
+  "type": "Ranged Attack"
 }

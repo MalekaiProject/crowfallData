@@ -1,28 +1,28 @@
 {
-  "name": "Whirlwind",
-  "sources": [
-    {
-      "type": "class",
-      "id": "myrmidon"
-    }
-  ],
-  "type": "Crowd Control",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Sphere",
+  "cost": {
+    "pips": 0,
+    "resource": 9
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/whirlwind.png",
   "max_targets": 5,
-  "range": 5,
+  "name": "Whirlwind",
   "next_chain": [
     "cancel-combo-myrmidon"
   ],
   "previous_chain": [
     "arcing-slash"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 9
-  },
+  "range": 5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
   "tooltip": "Spin around rapidly hitting nearby enemies multiple times for 24 - 29 + 26% Weapon Damage and causing them to Bleed for 18 -24 damage.",
-  "icon": "https://cdn.malekai.network/images/powers/whirlwind.png"
+  "type": "Crowd Control"
 }

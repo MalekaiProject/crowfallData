@@ -1,18 +1,14 @@
 {
-  "name": "Natural Bond",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 45,
   "cooldown": 5,
-  "targeting": "Group",
+  "cost": {
+    "pips": 0,
+    "resource": 18
+  },
+  "duration": 45,
+  "icon": "https://cdn.malekai.network/images/powers/natural-bond.png",
   "max_targets": 5,
-  "range": 0,
+  "name": "Natural Bond",
   "next_chain": [
     "contain-essence",
     "empower"
@@ -20,10 +16,14 @@
   "previous_chain": [
     "natures-grace"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 18
-  },
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Group",
   "tooltip": "Buffs Damage Bonus by 5% for group members and yourself for 45 seconds.",
-  "icon": "https://cdn.malekai.network/images/powers/natural-bond.png"
+  "type": "Buff"
 }

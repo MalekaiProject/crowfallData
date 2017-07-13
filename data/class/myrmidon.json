@@ -1,7 +1,7 @@
 {
-  "name": "Myrmidon",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/myrmidon.png",
+  "name": "Myrmidon",
   "powers": [
     "arcing-slash",
     "berserk",

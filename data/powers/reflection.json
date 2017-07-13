@@ -1,25 +1,25 @@
 {
-  "name": "Reflection",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "militant-mage"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 15,
   "cooldown": 24,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 16
   },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/reflection.png",
+  "max_targets": 0,
+  "name": "Reflection",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "militant-mage",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Reflect 50% Slashing Weapon Damage back to the source of a Slashing damage attack.",
-  "icon": "https://cdn.malekai.network/images/powers/reflection.png"
+  "type": "Buff"
 }

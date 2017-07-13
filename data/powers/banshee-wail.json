@@ -1,25 +1,25 @@
 {
-  "name": "Banshee Wail",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "banshee"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/banshee-wail.png",
+  "max_targets": 1,
+  "name": "Banshee Wail",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "banshee",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Deal 30% more Damage to enemies below 30% Health.",
-  "icon": "https://cdn.malekai.network/images/powers/banshee-wail.png"
+  "type": "Passive"
 }

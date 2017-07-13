@@ -1,25 +1,25 @@
 {
-  "name": "Explosive Thorns",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "minor",
-      "id": "explosive-thorns"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/explosive-thorns.png",
+  "max_targets": 1,
+  "name": "Explosive Thorns",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "explosive-thorns",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Stretch the effectiveness of Thorns with a chance to cause additional damage to up to five nearby ennemies whenever you are damaged while a Thorns effect is active.",
-  "icon": "https://cdn.malekai.network/images/powers/explosive-thorns.png"
+  "type": "Passive"
 }

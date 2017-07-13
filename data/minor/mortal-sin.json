@@ -1,20 +1,20 @@
 {
-  "name": "Mortal Sin",
-  "type": "Minor",
-  "description": "Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.",
-  "icon": "https://cdn.malekai.network/images/disciplines/mortal-sin.png",
   "classes": [
     "confessor",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/mortal-sin.png",
+  "name": "Mortal Sin",
   "powers": [
     "mortal-sin"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

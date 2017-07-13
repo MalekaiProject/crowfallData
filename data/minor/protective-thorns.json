@@ -1,8 +1,4 @@
 {
-  "name": "Protective Thorns",
-  "type": "Minor",
-  "description": "We are here to laugh at the odds and live our lives so well that Death will tremble to take us.",
-  "icon": "https://cdn.malekai.network/images/disciplines/protective-thorns.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "We are here to laugh at the odds and live our lives so well that Death will tremble to take us.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/protective-thorns.png",
+  "name": "Protective Thorns",
   "powers": [
     "protective-thorns"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

@@ -1,7 +1,7 @@
 {
-  "name": "Duelist",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/duelist.png",
+  "name": "Duelist",
   "powers": [
     "ambush",
     "dodge-duelist",

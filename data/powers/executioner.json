@@ -1,25 +1,25 @@
 {
-  "name": "Executioner",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "minor",
-      "id": "finish-him"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/executioner.png",
+  "max_targets": 1,
+  "name": "Executioner",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "finish-him",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Increase the damage of Execution abilities.",
-  "icon": "https://cdn.malekai.network/images/powers/executioner.png"
+  "type": "Passive"
 }

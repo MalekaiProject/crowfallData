@@ -4,7 +4,7 @@
     "champion",
     "cleric"
   ],
-  "name": "Centaur",
   "description": "",
-  "icon": "https://cdn.malekai.network/images/races/centaur.png"
+  "icon": "https://cdn.malekai.network/images/races/centaur.png",
+  "name": "Centaur"
 }

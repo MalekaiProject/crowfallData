@@ -1,28 +1,28 @@
 {
-  "name": "Giant Smash",
-  "sources": [
-    {
-      "type": "class",
-      "id": "champion"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Cone",
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/giant-smash.png",
   "max_targets": 1,
-  "range": 5,
+  "name": "Giant Smash",
   "next_chain": [
     "massive-smash"
   ],
   "previous_chain": [
     "smash"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 0
-  },
+  "range": 5,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Strike in front of you for 102 - 138 + 120% Weapon Damage, generating 4 Rage if you hit.",
-  "icon": "https://cdn.malekai.network/images/powers/giant-smash.png"
+  "type": "Melee Attack"
 }

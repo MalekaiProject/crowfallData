@@ -1,24 +1,24 @@
 {
-  "name": "Healing Rain",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Non-Aggressive",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Area",
-  "max_targets": 5,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 96
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/healing-rain.png",
+  "max_targets": 5,
+  "name": "Healing Rain",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Area",
   "tooltip": "Blanket the targeted area with Life energy, instantly healing 27 to 33 + 30% Weapon Damage. This Power generates a High amount of Essence",
-  "icon": "https://cdn.malekai.network/images/powers/healing-rain.png"
+  "type": "Non-Aggressive"
 }

@@ -1,8 +1,4 @@
 {
-  "name": "Mudman",
-  "type": "Major",
-  "description": "The addition of muddy skin and a marshy body creates a vile combatant that can withstand even the heartiest hits.  Mudmen become one with the muck and can also spread their dirt and odors to enemies.  The addition of sacred mud and gunk add to the ability to self heal creating one sticky and tough fighter.",
-  "icon": "https://cdn.malekai.network/images/disciplines/mudman.png",
   "classes": [
     "assassin",
     "champion",
@@ -15,17 +11,21 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "The addition of muddy skin and a marshy body creates a vile combatant that can withstand even the heartiest hits.  Mudmen become one with the muck and can also spread their dirt and odors to enemies.  The addition of sacred mud and gunk add to the ability to self heal creating one sticky and tough fighter.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/mudman.png",
+  "name": "Mudman",
   "powers": [
     "jelly-skin",
     "muck-spatter",
     "remold",
     "marshy-body"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Major"
 }

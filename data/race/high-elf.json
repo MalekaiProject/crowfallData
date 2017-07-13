@@ -5,7 +5,7 @@
     "assassin",
     "frostweaver"
   ],
-  "name": "High-Elf",
   "description": "",
-  "icon": "https://cdn.malekai.network/images/races/high-elf.png"
+  "icon": "https://cdn.malekai.network/images/races/high-elf.png",
+  "name": "High-Elf"
 }

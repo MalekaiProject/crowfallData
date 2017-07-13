@@ -1,26 +1,26 @@
 {
-  "name": "Wicked Winds",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Ranged Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 24,
-  "targeting": "Reticle",
-  "max_targets": 5,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [
-    "shroud-of-darkness"
-  ],
   "cost": {
     "pips": 0,
     "resource": 79
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/wicked-winds.png",
+  "max_targets": 5,
+  "name": "Wicked Winds",
+  "next_chain": [],
+  "previous_chain": [
+    "shroud-of-darkness"
+  ],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
   "tooltip": "Launch a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/wicked-winds.png"
+  "type": "Ranged Attack"
 }

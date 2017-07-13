@@ -1,8 +1,4 @@
 {
-  "name": "Reality Warper",
-  "type": "Major",
-  "description": "Exploiting and bending reality is an aspect only a select few can possess. Manipulating time, altering the ability to heal and influencing incoming and outgoing damage are all features onle a warper of reality can master. For them, reality is just a suggestion.",
-  "icon": "https://cdn.malekai.network/images/disciplines/reality-warper.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,20 +12,24 @@
     "ranger",
     "templar"
   ],
+  "description": "Exploiting and bending reality is an aspect only a select few can possess. Manipulating time, altering the ability to heal and influencing incoming and outgoing damage are all features onle a warper of reality can master. For them, reality is just a suggestion.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/reality-warper.png",
+  "name": "Reality Warper",
+  "powers": [
+    "alter-reality",
+    "tear-reality",
+    "crazy-pills"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
   "stats_granted": [
     "Damage Modifier"
   ],
   "stats_values": [
     3.75
   ],
-  "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
   "trays_granted": "",
   "trays_removed": "",
-  "powers": [
-    "alter-reality",
-    "tear-reality",
-    "crazy-pills"
-  ]
+  "type": "Major"
 }

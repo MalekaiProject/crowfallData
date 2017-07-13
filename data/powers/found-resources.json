@@ -1,25 +1,25 @@
 {
-  "name": "Found Resources",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "minor",
-      "id": "found-resources"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/found-resources.png",
+  "max_targets": 1,
+  "name": "Found Resources",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "found-resources",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Return to a minimum of two pips when entering stealth.",
-  "icon": "https://cdn.malekai.network/images/powers/found-resources.png"
+  "type": "Passive"
 }

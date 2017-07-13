@@ -1,25 +1,25 @@
 {
-  "name": "Battle Chant",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "holy-avenger"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 12,
   "cooldown": 24,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 5,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 12
   },
+  "duration": 12,
+  "icon": "https://cdn.malekai.network/images/powers/battle-chant.png",
+  "max_targets": 0,
+  "name": "Battle Chant",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "holy-avenger",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Summon spinning hammers lasting 12 seconds to damage nearby enemies for 85 - 115 + 100% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/battle-chant.png"
+  "type": "Melee Attack"
 }

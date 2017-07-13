@@ -1,25 +1,25 @@
 {
-  "name": "Slow Growth",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-mystical-staves"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 5,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/slow-growth.png",
+  "max_targets": 5,
+  "name": "Slow Growth",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-mystical-staves",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Favor the forces of Life reducing your Essence Gain by 50%.",
-  "icon": "https://cdn.malekai.network/images/powers/slow-growth.png"
+  "type": "Passive"
 }

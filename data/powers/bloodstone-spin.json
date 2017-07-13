@@ -1,18 +1,14 @@
 {
-  "name": "Bloodstone Spin",
-  "sources": [
-    {
-      "type": "class",
-      "id": "knight"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Cone",
+  "cost": {
+    "pips": 0,
+    "resource": 0
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/bloodstone-spin.png",
   "max_targets": 1,
-  "range": 5,
+  "name": "Bloodstone Spin",
   "next_chain": [
     "bloodstone-spin"
   ],
@@ -20,10 +16,14 @@
     "bloodstone-spin",
     "emerald-slash"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 0
-  },
+  "range": 5,
+  "sources": [
+    {
+      "id": "knight",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "A basic attack slashing spinning in front of you for 88 - 119 + 103% Weapon Damage and reducing movement speed by 50%. Scoring three or more consecutive basic attack hits activates SHIELD BASH.",
-  "icon": "https://cdn.malekai.network/images/powers/bloodstone-spin.png"
+  "type": "Melee Attack"
 }

@@ -1,29 +1,29 @@
 {
-  "name": "Blood Strike 2",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "blade-master"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 5,
-  "targeting": "Cone",
+  "cost": {
+    "pips": 0,
+    "resource": 12
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/blood-strike-2.png",
   "max_targets": 5,
-  "range": 5,
+  "name": "Blood Strike 2",
   "next_chain": [
     "blood-strike-3"
   ],
   "previous_chain": [
     "blood-strike"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 12
-  },
+  "range": 5,
+  "sources": [
+    {
+      "id": "blade-master",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Slash enemies for 51 - 69 + 60% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/blood-strike-2.png"
+  "type": "Melee Attack"
 }

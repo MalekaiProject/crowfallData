@@ -1,25 +1,25 @@
 {
-  "name": "Redemption",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-arcane"
-    }
-  ],
-  "type": "Ranged Attack",
   "cast_type": "Channeled",
-  "duration": 0,
   "cooldown": 5,
-  "targeting": "Reticle",
-  "max_targets": 1,
-  "range": 30,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/redemption.png",
+  "max_targets": 1,
+  "name": "Redemption",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 30,
+  "sources": [
+    {
+      "id": "master-of-arcane",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Reticle",
   "tooltip": "Rapidly throw up to ten fireballs in a row for 34 - 46 + 40% Fire Weapon Damage scaling up to 43 - 58 + 50% Weapon Damage based on the enemy's Sin.",
-  "icon": "https://cdn.malekai.network/images/powers/redemption.png"
+  "type": "Ranged Attack"
 }

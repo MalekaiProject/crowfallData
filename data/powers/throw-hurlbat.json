@@ -1,24 +1,24 @@
 {
-  "name": "Throw Hurlbat",
-  "sources": [
-    {
-      "type": "class",
-      "id": "champion"
-    }
-  ],
-  "type": "Ranged Attack",
   "cast_type": "Instant",
-  "duration": 1.1,
   "cooldown": 24,
-  "targeting": "Reticle",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 12
   },
+  "duration": 1.1,
+  "icon": "https://cdn.malekai.network/images/powers/throw-hurlbat.png",
+  "max_targets": 1,
+  "name": "Throw Hurlbat",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
   "tooltip": "Throw a projectile forward, dealing 113 - 153 + 133% Weapon Damage as Piercing Damage. Applies a 50% movement speed reduction to those hit.",
-  "icon": "https://cdn.malekai.network/images/powers/throw-hurlbat.png"
+  "type": "Ranged Attack"
 }

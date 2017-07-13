@@ -1,25 +1,25 @@
 {
-  "name": "Peripheral Vision",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "minor",
-      "id": "peripheral-vision"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/peripheral-vision.png",
+  "max_targets": 0,
+  "name": "Peripheral Vision",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "peripheral-vision",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Allows you to see into the shadows while actively harvesting.",
-  "icon": "https://cdn.malekai.network/images/powers/peripheral-vision.png"
+  "type": "Passive"
 }

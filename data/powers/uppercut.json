@@ -1,18 +1,14 @@
 {
-  "name": "Uppercut",
-  "sources": [
-    {
-      "type": "class",
-      "id": "cleric"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 9,
-  "targeting": "Cone",
+  "cost": {
+    "pips": 0,
+    "resource": 11
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/uppercut.png",
   "max_targets": 1,
-  "range": 6,
+  "name": "Uppercut",
   "next_chain": [
     "sunder-armor",
     "drive"
@@ -20,10 +16,14 @@
   "previous_chain": [
     "no-quarter"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 11
-  },
+  "range": 6,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Swipe in front of you for 121 - 148 + 134% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/uppercut.png"
+  "type": "Melee Attack"
 }

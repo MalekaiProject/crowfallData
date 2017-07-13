@@ -1,24 +1,24 @@
 {
-  "name": "Censure",
-  "sources": [
-    {
-      "type": "class",
-      "id": "templar"
-    }
-  ],
-  "type": "Non-Aggressive",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 9,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/censure.png",
+  "max_targets": 1,
+  "name": "Censure",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "templar",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Lunge forward with a sword strike stunning an enemy and causing 100 - 149 + 124% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/censure.png"
+  "type": "Non-Aggressive"
 }

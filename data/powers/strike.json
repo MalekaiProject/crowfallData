@@ -1,26 +1,26 @@
 {
-  "name": "Strike",
-  "sources": [
-    {
-      "type": "class",
-      "id": "cleric"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5,
-  "next_chain": [
-    "side-strike"
-  ],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/strike.png",
+  "max_targets": 1,
+  "name": "Strike",
+  "next_chain": [
+    "side-strike"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Strike in front of you for 90 - 110 + 100% Weapon Damage, generating 0.9 Rage #restore_type_time# if you hit.",
-  "icon": "https://cdn.malekai.network/images/powers/strike.png"
+  "type": "Melee Attack"
 }

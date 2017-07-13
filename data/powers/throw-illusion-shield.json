@@ -1,25 +1,25 @@
 {
-  "name": "Throw Illusion Shield",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "shield-fighter"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 9,
-  "targeting": "Cone",
-  "max_targets": 2,
-  "range": 15,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 16
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/throw-illusion-shield.png",
+  "max_targets": 2,
+  "name": "Throw Illusion Shield",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 15,
+  "sources": [
+    {
+      "id": "shield-fighter",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Throw an illusion shield and ricochet off multiple nearby enemies for 85 - 115 + 100% Weapon Damage.  THROW ILLUSION SHIELD will ricochet to as many as 2 with damage reduced by 30% each ricochet.",
-  "icon": "https://cdn.malekai.network/images/powers/throw-illusion-shield.png"
+  "type": "Melee Attack"
 }

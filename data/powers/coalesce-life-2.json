@@ -1,28 +1,28 @@
 {
-  "name": "Coalesce Life 2",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Non-Aggressive",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Area",
+  "cost": {
+    "pips": 0,
+    "resource": 46
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/coalesce-life-2.png",
   "max_targets": 1,
-  "range": 0,
+  "name": "Coalesce Life 2",
   "next_chain": [
     "coalesce-nature"
   ],
   "previous_chain": [
     "coalesce-life"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 46
-  },
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Area",
   "tooltip": "Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/coalesce-life-2.png"
+  "type": "Non-Aggressive"
 }

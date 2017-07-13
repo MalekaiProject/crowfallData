@@ -1,8 +1,4 @@
 {
-  "name": "Peripheral Vision",
-  "type": "Minor",
-  "description": "Through my peripheral I see ya scheming.",
-  "icon": "https://cdn.malekai.network/images/disciplines/peripheral-vision.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,18 +12,22 @@
     "ranger",
     "templar"
   ],
+  "description": "Through my peripheral I see ya scheming.",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/peripheral-vision.png",
+  "name": "Peripheral Vision",
+  "powers": [
+    "peripheral-vision"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
   "stats_granted": [
     "Peripheral Vision"
   ],
   "stats_values": [
     1.15
   ],
-  "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
   "trays_granted": "",
   "trays_removed": "",
-  "powers": [
-    "peripheral-vision"
-  ]
+  "type": "Minor"
 }

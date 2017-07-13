@@ -1,24 +1,24 @@
 {
-  "name": "Raging Bull",
-  "sources": [
-    {
-      "type": "class",
-      "id": "myrmidon"
-    }
-  ],
-  "type": "Ultimate",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Cone",
-  "max_targets": 5,
-  "range": 5,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/raging-bull.png",
+  "max_targets": 5,
+  "name": "Raging Bull",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Begin Raging and flinging enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies.",
-  "icon": "https://cdn.malekai.network/images/powers/raging-bull.png"
+  "type": "Ultimate"
 }

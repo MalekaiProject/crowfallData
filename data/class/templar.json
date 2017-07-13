@@ -1,7 +1,7 @@
 {
-  "name": "Templar",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/templar.png",
+  "name": "Templar",
   "powers": [
     "brilliance",
     "castigate",

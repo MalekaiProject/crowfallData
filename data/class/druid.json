@@ -1,7 +1,7 @@
 {
-  "name": "Druid",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/druid.png",
+  "name": "Druid",
   "powers": [
     "aurora-emitter",
     "bark-skin",

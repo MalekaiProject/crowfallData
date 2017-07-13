@@ -1,26 +1,26 @@
 {
-  "name": "Empower",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 45,
   "cooldown": 5,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [
-    "natural-bond"
-  ],
   "cost": {
     "pips": 0,
     "resource": 35
   },
+  "duration": 45,
+  "icon": "https://cdn.malekai.network/images/powers/empower.png",
+  "max_targets": 1,
+  "name": "Empower",
+  "next_chain": [],
+  "previous_chain": [
+    "natural-bond"
+  ],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Embrace Death increasing your Essence Gain by 35% for 45 seconds.",
-  "icon": "https://cdn.malekai.network/images/powers/empower.png"
+  "type": "Buff"
 }

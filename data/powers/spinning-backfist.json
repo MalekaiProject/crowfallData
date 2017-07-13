@@ -1,26 +1,26 @@
 {
-  "name": "Spinning Backfist",
-  "sources": [
-    {
-      "type": "class",
-      "id": "champion"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 9,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5,
-  "next_chain": [
-    "kick-sand"
-  ],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 11
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/spinning-backfist.png",
+  "max_targets": 1,
+  "name": "Spinning Backfist",
+  "next_chain": [
+    "kick-sand"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Spin in front of you dealing 104 - 141 + 122% Weapon Damage as Crushing Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/spinning-backfist.png"
+  "type": "Melee Attack"
 }

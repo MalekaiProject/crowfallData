@@ -1,8 +1,4 @@
 {
-  "name": "Uniform Plate",
-  "type": "Minor",
-  "description": "Some prefer to armour themselves in cloth and leather, but the more dignified and sturdy combatant prefer a bit more shine.",
-  "icon": "https://cdn.malekai.network/images/disciplines/uniform-plate.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "Some prefer to armour themselves in cloth and leather, but the more dignified and sturdy combatant prefer a bit more shine.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/uniform-plate.png",
+  "name": "Uniform Plate",
   "powers": [
     "uniform-plate"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

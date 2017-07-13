@@ -4,7 +4,7 @@
     "champion",
     "myrmidon"
   ],
-  "name": "Minotaur",
   "description": "",
-  "icon": "https://cdn.malekai.network/images/races/minotaur.png"
+  "icon": "https://cdn.malekai.network/images/races/minotaur.png",
+  "name": "Minotaur"
 }

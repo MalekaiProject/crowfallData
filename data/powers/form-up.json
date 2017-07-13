@@ -1,25 +1,25 @@
 {
-  "name": "Form Up",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "secutor"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "",
-  "duration": 0,
   "cooldown": 30,
-  "targeting": "",
-  "max_targets": 0,
-  "range": 5,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 16
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/form-up.png",
+  "max_targets": 0,
+  "name": "Form Up",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "secutor",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "",
   "tooltip": "Coming Soon",
-  "icon": "https://cdn.malekai.network/images/powers/form-up.png"
+  "type": "Buff"
 }

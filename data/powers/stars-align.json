@@ -1,25 +1,25 @@
 {
-  "name": "Stars Align",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-mystical-staves"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 20,
   "cooldown": 45,
-  "targeting": "Self",
-  "max_targets": 5,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 16
   },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/stars-align.png",
+  "max_targets": 5,
+  "name": "Stars Align",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-mystical-staves",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds.",
-  "icon": "https://cdn.malekai.network/images/powers/stars-align.png"
+  "type": "Buff"
 }

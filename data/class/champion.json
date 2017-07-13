@@ -1,7 +1,7 @@
 {
-  "name": "Champion",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/champion.png",
+  "name": "Champion",
   "powers": [
     "cancel-combo-champion",
     "disarming-shout",

@@ -1,27 +1,27 @@
 {
-  "name": "Shield Glare",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-shields"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 9,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5,
-  "next_chain": [
-    "shield-glare-2"
-  ],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 15
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/shield-glare.png",
+  "max_targets": 1,
+  "name": "Shield Glare",
+  "next_chain": [
+    "shield-glare-2"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-shields",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Smash an enemy if the face for 110 - 148 + 129% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/shield-glare.png"
+  "type": "Melee Attack"
 }

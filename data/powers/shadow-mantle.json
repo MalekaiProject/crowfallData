@@ -1,25 +1,25 @@
 {
-  "name": "Shadow Mantle",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "black-mask"
-    }
-  ],
-  "type": "Ranged Attack",
   "cast_type": "",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/shadow-mantle.png",
+  "max_targets": 0,
+  "name": "Shadow Mantle",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "black-mask",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "",
   "tooltip": "Attack: Reduce Healing Received",
-  "icon": "https://cdn.malekai.network/images/powers/shadow-mantle.png"
+  "type": "Ranged Attack"
 }

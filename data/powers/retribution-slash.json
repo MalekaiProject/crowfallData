@@ -1,25 +1,25 @@
 {
-  "name": "Retribution Slash",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "blade-master"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 15,
   "cooldown": 45,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 16
   },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/retribution-slash.png",
+  "max_targets": 1,
+  "name": "Retribution Slash",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "blade-master",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Turn the tables on enemies with a strike granting 20% Retribution for 15 seconds and causing 113 - 153 + 133% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/retribution-slash.png"
+  "type": "Buff"
 }

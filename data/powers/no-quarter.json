@@ -1,26 +1,26 @@
 {
-  "name": "No Quarter",
-  "sources": [
-    {
-      "type": "class",
-      "id": "cleric"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 5,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 6,
-  "next_chain": [
-    "uppercut"
-  ],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 10
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/no-quarter.png",
+  "max_targets": 1,
+  "name": "No Quarter",
+  "next_chain": [
+    "uppercut"
+  ],
+  "previous_chain": [],
+  "range": 6,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Swipe in front of you for 94 - 115 + 105 Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/no-quarter.png"
+  "type": "Melee Attack"
 }

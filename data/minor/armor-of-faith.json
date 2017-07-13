@@ -1,8 +1,4 @@
 {
-  "name": "Armor of Faith",
-  "type": "Minor",
-  "description": "The Book of Justice is often the only armor a follower of Arkon carries.",
-  "icon": "https://cdn.malekai.network/images/disciplines/armor-of-faith.png",
   "classes": [
     "assassin",
     "champion",
@@ -15,14 +11,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "The Book of Justice is often the only armor a follower of Arkon carries.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/armor-of-faith.png",
+  "name": "Armor of Faith",
   "powers": [
     "illusionary-armor"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

@@ -1,7 +1,7 @@
 {
-  "name": "Cleric",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/cleric.png",
+  "name": "Cleric",
   "powers": [
     "battle-cry",
     "bellow-of-triumph",

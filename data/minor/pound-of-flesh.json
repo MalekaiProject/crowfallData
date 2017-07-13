@@ -1,8 +1,4 @@
 {
-  "name": "Pound of Flesh",
-  "type": "Minor",
-  "description": "Take then thy bond, take thou thy pound of flesh.",
-  "icon": "https://cdn.malekai.network/images/disciplines/pound-of-flesh.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "Take then thy bond, take thou thy pound of flesh.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/pound-of-flesh.png",
+  "name": "Pound of Flesh",
   "powers": [
     "pound-of-flesh"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

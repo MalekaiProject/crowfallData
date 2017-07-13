@@ -5,7 +5,7 @@
     "myrmidon",
     "cleric"
   ],
-  "name": "Stoneborn",
   "description": "",
-  "icon": "https://cdn.malekai.network/images/races/stoneborn.png"
+  "icon": "https://cdn.malekai.network/images/races/stoneborn.png",
+  "name": "Stoneborn"
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Rallying Cry",
-  "sources": [
-    {
-      "type": "class",
-      "id": "cleric"
-    }
-  ],
-  "type": "Ultimate",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Group",
-  "max_targets": 5,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/rallying-cry.png",
+  "max_targets": 5,
+  "name": "Rallying Cry",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Group",
   "tooltip": "Instantly Heal up to 5 group members and yourself for 563 - 688. Applies Rally to group members which increases Critical Hit Change by 15%.",
-  "icon": "https://cdn.malekai.network/images/powers/rallying-cry.png"
+  "type": "Ultimate"
 }

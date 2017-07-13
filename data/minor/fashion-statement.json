@@ -1,8 +1,4 @@
 {
-  "name": "Fashion Statement",
-  "type": "Minor",
-  "description": "I pity the fool",
-  "icon": "https://cdn.malekai.network/images/disciplines/fashion-statement.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,19 +12,23 @@
     "ranger",
     "templar"
   ],
+  "description": "I pity the fool",
+  "equips_granted": [],
+  "icon": "https://cdn.malekai.network/images/disciplines/fashion-statement.png",
+  "name": "Fashion Statement",
+  "powers": [],
+  "slots_granted": [
+    "Amulet Slot",
+    "Amulet Slot"
+  ],
+  "slots_removed": [],
   "stats_granted": [
     "Stealth"
   ],
   "stats_values": [
     -25
   ],
-  "equips_granted": [],
-  "slots_granted": [
-    "Amulet Slot",
-    "Amulet Slot"
-  ],
-  "slots_removed": [],
   "trays_granted": "",
   "trays_removed": "",
-  "powers": []
+  "type": "Minor"
 }

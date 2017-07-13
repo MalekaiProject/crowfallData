@@ -1,24 +1,24 @@
 {
-  "name": "Nature's Avatar",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Charged",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Reticle",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 35
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/natures-avatar.png",
+  "max_targets": 1,
+  "name": "Nature's Avatar",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Reticle",
   "tooltip": "Empowers an ally with a 75% Damage Bonus buff while you channel.",
-  "icon": "https://cdn.malekai.network/images/powers/natures-avatar.png"
+  "type": "Buff"
 }

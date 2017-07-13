@@ -1,26 +1,26 @@
 {
-  "name": "Hellfire Blast",
-  "sources": [
-    {
-      "type": "class",
-      "id": "confessor"
-    }
-  ],
-  "type": "Ranged Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 30,
-  "targeting": "Rectangle",
-  "max_targets": 5,
-  "range": 30,
-  "next_chain": [],
-  "previous_chain": [
-    "fire-wave"
-  ],
   "cost": {
     "pips": 0,
     "resource": 80
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/hellfire-blast.png",
+  "max_targets": 5,
+  "name": "Hellfire Blast",
+  "next_chain": [],
+  "previous_chain": [
+    "fire-wave"
+  ],
+  "range": 30,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Rectangle",
   "tooltip": "Damages all players in front of you who were hit by the Hellfire Wave for 76 - 114 + 95% Weapon Damage, and knocks them briefly into the air.",
-  "icon": "https://cdn.malekai.network/images/powers/hellfire-blast.png"
+  "type": "Ranged Attack"
 }

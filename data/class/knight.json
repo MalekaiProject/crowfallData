@@ -1,7 +1,7 @@
 {
-  "name": "Knight",
   "description": "",
   "icon": "https://cdn.malekai.network/images/classes/knight.png",
+  "name": "Knight",
   "powers": [
     "block",
     "bloodstone-spin",

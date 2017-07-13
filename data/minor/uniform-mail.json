@@ -1,8 +1,4 @@
 {
-  "name": "Uniform Mail",
-  "type": "Minor",
-  "description": "The inhabitants of the Dyling Lands have little time to worry about appearances, yet Guinecean's always seem poised to strut at a fashion show.",
-  "icon": "https://cdn.malekai.network/images/disciplines/uniform-mail.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "The inhabitants of the Dyling Lands have little time to worry about appearances, yet Guinecean's always seem poised to strut at a fashion show.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/uniform-mail.png",
+  "name": "Uniform Mail",
   "powers": [
     "uniform-mail"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

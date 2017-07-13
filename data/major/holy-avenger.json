@@ -1,8 +1,4 @@
 {
-  "name": "Holy Avenger",
-  "type": "Major",
-  "description": "Tapping into your motivation and channeling it into your current situation is key; no one else is an in tune with their surroundings as that of the Holy Avenger.  The opposition may consider you a scene-stealing hack but you know your methods are far more superior to others.  Always remember the battle chant of your brethren: never give up, never surrender!",
-  "icon": "https://cdn.malekai.network/images/disciplines/holy-avenger.png",
   "classes": [
     "assassin",
     "champion",
@@ -12,22 +8,26 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [
-    "Damage Bonus: Crushing"
-  ],
-  "stats_values": [
-    6.25
-  ],
+  "description": "Tapping into your motivation and channeling it into your current situation is key; no one else is an in tune with their surroundings as that of the Holy Avenger.  The opposition may consider you a scene-stealing hack but you know your methods are far more superior to others.  Always remember the battle chant of your brethren: never give up, never surrender!",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/holy-avenger.png",
+  "name": "Holy Avenger",
   "powers": [
     "grabthars-hammer",
     "grabthars-hammer-2",
     "battle-chant",
     "suns-of-worvan",
     "you-shall-be-avenged"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [
+    "Damage Bonus: Crushing"
+  ],
+  "stats_values": [
+    6.25
+  ],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Major"
 }

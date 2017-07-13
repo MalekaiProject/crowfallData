@@ -1,28 +1,28 @@
 {
-  "name": "Left Slash",
-  "sources": [
-    {
-      "type": "class",
-      "id": "myrmidon"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Cone",
+  "cost": {
+    "pips": 0,
+    "resource": 19
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/left-slash.png",
   "max_targets": 1,
-  "range": 5.5,
+  "name": "Left Slash",
   "next_chain": [
     "double-slash"
   ],
   "previous_chain": [
     "right-slash"
   ],
-  "cost": {
-    "pips": 0,
-    "resource": 19
-  },
+  "range": 5.5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Attack with your left weapon for 8 - 9 + 9% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/left-slash.png"
+  "type": "Melee Attack"
 }

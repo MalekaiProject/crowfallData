@@ -1,8 +1,4 @@
 {
-  "name": "Last Resort",
-  "type": "Minor",
-  "description": "Let's test your threshold of pain and let's see how long you last.",
-  "icon": "https://cdn.malekai.network/images/disciplines/last-resort.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "Let's test your threshold of pain and let's see how long you last.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/last-resort.png",
+  "name": "Last Resort",
   "powers": [
     "last-resort"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

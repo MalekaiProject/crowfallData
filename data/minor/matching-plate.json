@@ -1,8 +1,4 @@
 {
-  "name": "Matching Plate",
-  "type": "Minor",
-  "description": "Don't let anyone ever dull your sparkle.",
-  "icon": "https://cdn.malekai.network/images/disciplines/matching-plate.png",
   "classes": [
     "assassin",
     "champion",
@@ -16,14 +12,18 @@
     "ranger",
     "templar"
   ],
-  "stats_granted": [],
-  "stats_values": [],
+  "description": "Don't let anyone ever dull your sparkle.",
   "equips_granted": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "trays_granted": "",
-  "trays_removed": "",
+  "icon": "https://cdn.malekai.network/images/disciplines/matching-plate.png",
+  "name": "Matching Plate",
   "powers": [
     "matching-plate"
-  ]
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "stats_granted": [],
+  "stats_values": [],
+  "trays_granted": "",
+  "trays_removed": "",
+  "type": "Minor"
 }

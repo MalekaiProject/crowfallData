@@ -1,25 +1,25 @@
 {
-  "name": "Iron Skin",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-swords"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 30,
   "cooldown": 45,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 12
   },
+  "duration": 30,
+  "icon": "https://cdn.malekai.network/images/powers/iron-skin.png",
+  "max_targets": 1,
+  "name": "Iron Skin",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "master-of-swords",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Harden your skin increasing your Slashing Armor and reducing Weapon Resource Cost.",
-  "icon": "https://cdn.malekai.network/images/powers/iron-skin.png"
+  "type": "Melee Attack"
 }

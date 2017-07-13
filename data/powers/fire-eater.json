@@ -1,25 +1,25 @@
 {
-  "name": "Fire Eater",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "firewalker"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 45,
-  "targeting": "Self",
-  "max_targets": 1,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 15
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/fire-eater.png",
+  "max_targets": 1,
+  "name": "Fire Eater",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "firewalker",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Absorb heat from incoming Fire damage attacks to heal for 125% of Fire damage inflicted.",
-  "icon": "https://cdn.malekai.network/images/powers/fire-eater.png"
+  "type": "Buff"
 }

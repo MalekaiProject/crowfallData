@@ -1,25 +1,25 @@
 {
-  "name": "Cauterize",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "knife-grinder"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 9,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 10
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/cauterize.png",
+  "max_targets": 0,
+  "name": "Cauterize",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "knife-grinder",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Remove Bleeding effects.",
-  "icon": "https://cdn.malekai.network/images/powers/cauterize.png"
+  "type": "Buff"
 }

@@ -1,25 +1,25 @@
 {
-  "name": "Sturdy",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "minor",
-      "id": "sturdy"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/sturdy.png",
+  "max_targets": 0,
+  "name": "Sturdy",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "sturdy",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Reinforce your body reducing Health loss by 20% when your Health is above 80%.",
-  "icon": "https://cdn.malekai.network/images/powers/sturdy.png"
+  "type": "Passive"
 }

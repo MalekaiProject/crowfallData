@@ -1,27 +1,27 @@
 {
-  "name": "Restoration Smash",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-hammers"
-    }
-  ],
-  "type": "Melee Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 9,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5,
-  "next_chain": [
-    "restoration-smash-2"
-  ],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 17
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/restoration-smash.png",
+  "max_targets": 1,
+  "name": "Restoration Smash",
+  "next_chain": [
+    "restoration-smash-2"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-hammers",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Smash an enemy for 117 - 159 + 138% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/restoration-smash.png"
+  "type": "Melee Attack"
 }

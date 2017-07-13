@@ -1,26 +1,26 @@
 {
-  "name": "Gore",
-  "sources": [
-    {
-      "type": "class",
-      "id": "myrmidon"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 20,
   "cooldown": 0,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5.5,
-  "next_chain": [],
-  "previous_chain": [
-    "bloodied-swipe"
-  ],
   "cost": {
     "pips": 0,
     "resource": 23
   },
+  "duration": 20,
+  "icon": "https://cdn.malekai.network/images/powers/gore.png",
+  "max_targets": 1,
+  "name": "Gore",
+  "next_chain": [],
+  "previous_chain": [
+    "bloodied-swipe"
+  ],
+  "range": 5.5,
+  "sources": [
+    {
+      "id": "myrmidon",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Strike overhead with both axes before continuing the carnage with a second bloody slice, inflicting 63 - 77 + 70% Weapon Damage for each hit. If you connect, recover 5 Fury per second for 20 seconds.",
-  "icon": "https://cdn.malekai.network/images/powers/gore.png"
+  "type": "Buff"
 }

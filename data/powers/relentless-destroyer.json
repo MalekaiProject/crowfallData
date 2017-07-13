@@ -1,25 +1,25 @@
 {
-  "name": "Relentless (Destroyer)",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "major",
-      "id": "destroyer"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "Passive",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/relentless-destroyer.png",
+  "max_targets": 0,
+  "name": "Relentless (Destroyer)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "destroyer",
+      "sub_type": "major",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "You no longer degenerate Rage.  Instead, you generate 1.5 Rage every 1 second while in Combat.",
-  "icon": "https://cdn.malekai.network/images/powers/relentless-destroyer.png"
+  "type": "Passive"
 }

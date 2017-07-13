@@ -5,7 +5,7 @@
     "ranger",
     "cleric"
   ],
-  "name": "Human",
   "description": "",
-  "icon": "https://cdn.malekai.network/images/races/human.png"
+  "icon": "https://cdn.malekai.network/images/races/human.png",
+  "name": "Human"
 }

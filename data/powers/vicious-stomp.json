@@ -1,27 +1,27 @@
 {
-  "name": "Vicious Stomp",
-  "sources": [
-    {
-      "type": "class",
-      "id": "champion"
-    }
-  ],
-  "type": "Debuff",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 24,
-  "targeting": "Cone",
+  "cost": {
+    "pips": 0,
+    "resource": 7
+  },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/vicious-stomp.png",
   "max_targets": 1,
-  "range": 6,
+  "name": "Vicious Stomp",
   "next_chain": [
     "disarming-shout",
     "rend"
   ],
   "previous_chain": [],
-  "cost": {
-    "pips": 0,
-    "resource": 7
-  },
+  "range": 6,
+  "sources": [
+    {
+      "id": "champion",
+      "type": "class"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Stomp the ground in front of you, dealing 63 - 85 + 74% Weapon Damage. Applies a 50% movement speed reduction to all hit.",
-  "icon": "https://cdn.malekai.network/images/powers/vicious-stomp.png"
+  "type": "Debuff"
 }

@@ -1,25 +1,25 @@
 {
-  "name": "Infinite Angles",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "minor",
-      "id": "shield-whiz"
-    }
-  ],
-  "type": "Passive",
   "cast_type": "",
-  "duration": 0,
   "cooldown": 0,
-  "targeting": "Self",
-  "max_targets": 0,
-  "range": 0,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 0
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/infinite-angles.png",
+  "max_targets": 0,
+  "name": "Infinite Angles",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "shield-whiz",
+      "sub_type": "minor",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Shield Throws now apply a movement speed reduction to all targets hit.",
-  "icon": "https://cdn.malekai.network/images/powers/infinite-angles.png"
+  "type": "Passive"
 }

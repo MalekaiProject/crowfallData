@@ -1,26 +1,26 @@
 {
-  "name": "Nature's Grace",
-  "sources": [
-    {
-      "type": "class",
-      "id": "druid"
-    }
-  ],
-  "type": "Buff",
   "cast_type": "Instant",
-  "duration": 45,
   "cooldown": 68,
-  "targeting": "Self",
-  "max_targets": 5,
-  "range": 0,
-  "next_chain": [
-    "natural-bond"
-  ],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 22
   },
+  "duration": 45,
+  "icon": "https://cdn.malekai.network/images/powers/natures-grace.png",
+  "max_targets": 5,
+  "name": "Nature's Grace",
+  "next_chain": [
+    "natural-bond"
+  ],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [
+    {
+      "id": "druid",
+      "type": "class"
+    }
+  ],
+  "targeting": "Self",
   "tooltip": "Increase Healing by 10% for 45 seconds.",
-  "icon": "https://cdn.malekai.network/images/powers/natures-grace.png"
+  "type": "Buff"
 }

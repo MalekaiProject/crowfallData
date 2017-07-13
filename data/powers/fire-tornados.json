@@ -1,26 +1,26 @@
 {
-  "name": "Fire Tornados",
-  "sources": [
-    {
-      "type": "class",
-      "id": "confessor"
-    }
-  ],
-  "type": "Ranged Attack",
   "cast_type": "Instant",
-  "duration": 0,
   "cooldown": 30,
-  "targeting": "Sphere",
-  "max_targets": 5,
-  "range": 3,
-  "next_chain": [],
-  "previous_chain": [
-    "hellfire-aura"
-  ],
   "cost": {
     "pips": 0,
     "resource": 120
   },
+  "duration": 0,
+  "icon": "https://cdn.malekai.network/images/powers/fire-tornados.png",
+  "max_targets": 5,
+  "name": "Fire Tornados",
+  "next_chain": [],
+  "previous_chain": [
+    "hellfire-aura"
+  ],
+  "range": 3,
+  "sources": [
+    {
+      "id": "confessor",
+      "type": "class"
+    }
+  ],
+  "targeting": "Sphere",
   "tooltip": "Consumes your Hellfire Aura and launches 2 Hellfire Tornados forward which pull nearby object into them and damages them for 105 - 157 + 131% Weapon Damage as Fire Damage. Each tornado last 15 seconds.",
-  "icon": "https://cdn.malekai.network/images/powers/fire-tornados.png"
+  "type": "Ranged Attack"
 }

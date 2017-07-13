@@ -1,24 +1,24 @@
 {
-  "name": "Bellow of Triumph",
-  "sources": [
-    {
-      "type": "class",
-      "id": "cleric"
-    }
-  ],
-  "type": "Non-Aggressive",
   "cast_type": "Instant",
-  "duration": 8,
   "cooldown": 9,
-  "targeting": "Rectangle",
-  "max_targets": 1,
-  "range": 2,
-  "next_chain": [],
-  "previous_chain": [],
   "cost": {
     "pips": 0,
     "resource": 20
   },
+  "duration": 8,
+  "icon": "https://cdn.malekai.network/images/powers/bellow-of-triumph.png",
+  "max_targets": 1,
+  "name": "Bellow of Triumph",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 2,
+  "sources": [
+    {
+      "id": "cleric",
+      "type": "class"
+    }
+  ],
+  "targeting": "Rectangle",
   "tooltip": "Shout colorful epithets healing yourself and an ally in front of you for 52 - 64 + 58% Weapon Damage over 8 seconds.",
-  "icon": "https://cdn.malekai.network/images/powers/bellow-of-triumph.png"
+  "type": "Non-Aggressive"
 }

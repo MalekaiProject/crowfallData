@@ -4,7 +4,7 @@
     "assassin",
     "druid"
   ],
-  "name": "Half-Elf",
   "description": "",
-  "icon": "https://cdn.malekai.network/images/races/half-elf.png"
+  "icon": "https://cdn.malekai.network/images/races/half-elf.png",
+  "name": "Half-Elf"
 }

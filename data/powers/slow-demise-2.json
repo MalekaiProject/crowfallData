@@ -1,27 +1,27 @@
 {
-  "name": "Slow Demise 2",
-  "sources": [
-    {
-      "type": "discipline",
-      "sub_type": "weapon",
-      "id": "master-of-daggers"
-    }
-  ],
-  "type": "Debuff",
   "cast_type": "Instant",
-  "duration": 15,
   "cooldown": 45,
-  "targeting": "Cone",
-  "max_targets": 1,
-  "range": 5,
-  "next_chain": [],
-  "previous_chain": [
-    "slow-demise"
-  ],
   "cost": {
     "pips": 0,
     "resource": 12
   },
+  "duration": 15,
+  "icon": "https://cdn.malekai.network/images/powers/slow-demise-2.png",
+  "max_targets": 1,
+  "name": "Slow Demise 2",
+  "next_chain": [],
+  "previous_chain": [
+    "slow-demise"
+  ],
+  "range": 5,
+  "sources": [
+    {
+      "id": "master-of-daggers",
+      "sub_type": "weapon",
+      "type": "discipline"
+    }
+  ],
+  "targeting": "Cone",
   "tooltip": "Torment an enemy reducing their Healing Bonus and inflicting 79 - 108 + 94% Weapon Damage.",
-  "icon": "https://cdn.malekai.network/images/powers/slow-demise-2.png"
+  "type": "Debuff"
 }
