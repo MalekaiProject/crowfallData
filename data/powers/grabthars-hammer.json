@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Smite an enemy for 91 - 124 + 108% Weapon Damage.",
   "type": "Melee Attack"

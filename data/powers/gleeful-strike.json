@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "While in Melee Mode all critical hits you land have a chance to restore Energy.",
   "type": "Passive"

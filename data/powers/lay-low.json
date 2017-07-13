@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Stealth"
+  ],
   "targeting": "Self",
   "tooltip": "Take it easy tending to your wounds and recovering 32-39 + 35% Weapon Damage a second for 6 seconds while maintaining Stealth.",
   "type": "Non-Aggressive"

@@ -18,6 +18,10 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Exposed",
+    "Burrow"
+  ],
   "targeting": "Ray",
   "tooltip": "Carefully studying a target from the comfort of your Burrow, you apply the Exposed debuff to reveal weaknesses you and other specialists may capitalize on.",
   "type": "Debuff"

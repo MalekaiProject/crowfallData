@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Strike an enemy for 117-159 + 138% Weapon Damage while restoring your Resource.",
   "type": "Melee Attack"

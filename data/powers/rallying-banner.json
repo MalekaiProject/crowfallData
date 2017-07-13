@@ -19,6 +19,11 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal",
+    "Slow",
+    "Attack Power"
+  ],
   "targeting": "Area",
   "tooltip": "Fortify nearby group members with a banner increasing Attack Power by 200, healing those under 35% Health and removing Slow effects.",
   "type": "Buff"

@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Reticle",
   "tooltip": "Pull your target toward you inflicting 95 - 116 + 106% Weapon Damage.",
   "type": "Crowd Control"

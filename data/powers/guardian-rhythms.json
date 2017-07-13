@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Group",
   "tooltip": "Reduces the groups Damage Taken by 15% for 12 seconds. Type 2 Song.",
   "type": "Buff"

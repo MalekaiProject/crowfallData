@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Embrace Death increasing your Essence Gain by 35% for 45 seconds.",
   "type": "Buff"

@@ -21,6 +21,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Cone",
   "tooltip": "Attack and knock down enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage.",
   "type": "Crowd Control"

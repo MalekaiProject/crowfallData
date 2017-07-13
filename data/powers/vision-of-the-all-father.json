@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Blind"
+  ],
   "targeting": "Self",
   "tooltip": "Gain Immunity to Blind effects.",
   "type": "Passive"

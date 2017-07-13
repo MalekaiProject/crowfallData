@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Bleed"
+  ],
   "targeting": "Self",
   "tooltip": "Your last Basic attack inflicts a Bleed.",
   "type": "Passive"

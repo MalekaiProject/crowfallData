@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Barrier",
+    "Slashing"
+  ],
   "targeting": "Self",
   "tooltip": "Gain a Slashing damage immune Barrier for 15 seconds.",
   "type": "Buff"

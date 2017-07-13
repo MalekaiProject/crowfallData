@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Slash an enemy for 131-177 +154% Weapon Damage.",
   "type": "Melee Attack"

@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Barrier",
+    "Attack Power"
+  ],
   "targeting": "Self",
   "tooltip": "Attacks have a chance to increase Attack Power by 150 and add a protective Barrier.",
   "type": "Passive"

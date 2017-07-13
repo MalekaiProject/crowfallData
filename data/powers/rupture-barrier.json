@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Barrier"
+  ],
   "targeting": "Self",
   "tooltip": "Cause an additional 50% Weapon Damage when striking a Barrier and restore your Resource.",
   "type": "Passive"

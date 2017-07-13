@@ -18,6 +18,10 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Heal",
+    "Fire"
+  ],
   "targeting": "Sphere",
   "tooltip": "Shine with golden light briefly becoming invulnerable, increasing your maximum Health for 20 seconds as well as blinding and damaging nearby enemies for 107 - 160 + 133% Fire Weapon Damage.",
   "type": "Ultimate"

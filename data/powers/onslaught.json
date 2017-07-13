@@ -21,6 +21,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Attack in front of you twice for 62 - 84 + 73% Weapon Damage each strike.",
   "type": "Melee Attack"

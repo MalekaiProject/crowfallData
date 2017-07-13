@@ -22,6 +22,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Attack for 54 - 81 + 68% Weapon Damage.",
   "type": "Melee Attack"

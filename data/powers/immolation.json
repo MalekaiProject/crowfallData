@@ -18,6 +18,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Blind"
+  ],
   "targeting": "Sphere",
   "tooltip": "Blinds up to 8 nearby enemies while rendering you immune to physics impulses and damage effects. Remove all movement impairments.",
   "type": "Ultimate"

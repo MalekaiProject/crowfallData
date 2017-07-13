@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Self",
   "tooltip": "Protect yourself with skin like rubber granting you a barrier with immunity to Crushing damage.",
   "type": "Buff"

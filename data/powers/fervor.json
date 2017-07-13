@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Restores 350 Mana over five seconds as you channel. While channeling your physical mitigations are reduced by 15%.",
   "type": "Non-Aggressive"

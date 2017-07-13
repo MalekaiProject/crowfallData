@@ -18,6 +18,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Piercing"
+  ],
   "targeting": "Reticle",
   "tooltip": "Throw a projectile forward, dealing 113 - 153 + 133% Weapon Damage as Piercing Damage. Applies a 50% movement speed reduction to those hit.",
   "type": "Ranged Attack"

@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Activates Shadow Sight for 12 seconds.",
   "type": "Buff"

@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Heal",
+    "Exposed"
+  ],
   "targeting": "Ray",
   "tooltip": "Plague an enemy with Disease and for 30 seconds any Heal ability they use leaves them in an Exposed state.",
   "type": "Debuff"

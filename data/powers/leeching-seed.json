@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Area",
   "tooltip": "Cause an enemy to become lethargic increasing all Power colldowns and reducing their movement speed for 8 seconds.",
   "type": "Debuff"

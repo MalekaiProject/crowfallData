@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Sin"
+  ],
   "targeting": "Self",
   "tooltip": "Singing 4 different songs with 6 seconds activates Pure Voice buff on you, which greatly increases the effects of the next song played.",
   "type": "Passive"

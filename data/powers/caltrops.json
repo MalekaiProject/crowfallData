@@ -19,6 +19,11 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Stealth",
+    "Slow",
+    "Piercing"
+  ],
   "targeting": "Area",
   "tooltip": "Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth.",
   "type": "Crowd Control"

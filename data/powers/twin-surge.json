@@ -20,6 +20,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Slash in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.",
   "type": "Melee Attack"

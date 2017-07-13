@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Increase your Damage Bonus while increasing the damage you take.",
   "type": "Passive"

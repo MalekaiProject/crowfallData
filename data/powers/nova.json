@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Area",
   "tooltip": "Draw enemies toward you repeatedly inflicting 2 - 3 + 2% Weapon Damage.",
   "type": "Debuff"

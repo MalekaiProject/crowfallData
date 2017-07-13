@@ -21,6 +21,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Poison"
+  ],
   "targeting": "Cone",
   "tooltip": "Attack for 86 - 117 + 101% Weapon Damage and cause the enemy to become Poisoned taking 8 - 9 + 1% Weapon Damage per tick.",
   "type": "Debuff"

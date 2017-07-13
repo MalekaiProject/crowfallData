@@ -18,6 +18,12 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Fire",
+    "Crushing",
+    "Piercing",
+    "Slashing"
+  ],
   "targeting": "Reticle",
   "tooltip": "Engulf an enemy in Faerie Fire reducing Slashing, Piercing and Crushing armor and causing 44 - 67 Nature damage + 6% Weapon Damage over 12 seconds.",
   "type": "Debuff"

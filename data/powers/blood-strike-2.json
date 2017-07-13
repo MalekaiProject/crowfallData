@@ -23,6 +23,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Slash enemies for 51 - 69 + 60% Weapon Damage.",
   "type": "Melee Attack"

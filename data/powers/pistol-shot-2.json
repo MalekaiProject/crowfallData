@@ -23,6 +23,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Fire"
+  ],
   "targeting": "Ray",
   "tooltip": "Shoot an enemy for 85 - 127 + 106% Weapon Damage while generating a Pip with a chance to reset the cooldown of Rapid Fire.",
   "type": "Ranged Attack"

@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Conjure an illusion effective enough to reduce incoming damage by 20% for 20 seconds.",
   "type": "Buff"

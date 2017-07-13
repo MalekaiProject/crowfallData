@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Quickly excavate a path directly ahead of you, ignoring walls and object in your path.",
   "type": "Non-Aggressive"

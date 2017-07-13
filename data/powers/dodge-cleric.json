@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Rectangle",
   "tooltip": "Charge in the current WASD direction dealing for 41 - 50 Damage + 46% Weapon Damage.",
   "type": "Non-Aggressive"

@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Empower your barriers to explode when they expire causing nearby enemies to suffer 56 - 84 + 70% Weapon Damage.",
   "type": "Passive"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Fire"
+  ],
   "targeting": "Self",
   "tooltip": "Reflects 50% Fire Weapon Damage back to the source of a Fire damage attack.",
   "type": "Buff"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Self",
   "tooltip": "Reform like clay easily healing any Crushing damage inflicted upon you and an additional 158 - 193 + 175% every five seconds for 15 seconds.",
   "type": "Buff"

@@ -21,6 +21,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Bleed"
+  ],
   "targeting": "Cone",
   "tooltip": "Attack multiple enemies for 58 - 78 + 68% Weapon Damage and causing them to Bleed for 50 - 75 + 6% Weapon Damage per tick.",
   "type": "Debuff"

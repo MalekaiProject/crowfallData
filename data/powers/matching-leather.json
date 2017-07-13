@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Support Power"
+  ],
   "targeting": "Self",
   "tooltip": "Increase your Support Power by 350 when wearing a full set of Leather armor.",
   "type": "Passive"

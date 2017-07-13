@@ -19,6 +19,11 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Severe Bleed",
+    "Bleed",
+    "Piercing"
+  ],
   "targeting": "Self",
   "tooltip": "Cover your body with sharp needle-like straws increasing your Piercing Armor by 25.  Piercing attacks reflect 133% weapon damage and cause Severe Bleeding.",
   "type": "Buff"

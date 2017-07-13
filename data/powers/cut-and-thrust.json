@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Stab an enemy twice for 70 - 95 + 82% Weapon Damage.",
   "type": "Melee Attack"

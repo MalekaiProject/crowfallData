@@ -19,6 +19,10 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Attack Power",
+    "Fire"
+  ],
   "targeting": "Self",
   "tooltip": "Increase your Attack Power for 30 seconds when damaged by Fire.",
   "type": "Passive"

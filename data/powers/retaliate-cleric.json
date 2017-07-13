@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Sphere",
   "tooltip": "Jump to your feet, hitting all nearby enemies twice for 60 - 73 + 67% Weapon Damage.",
   "type": "Retaliate"

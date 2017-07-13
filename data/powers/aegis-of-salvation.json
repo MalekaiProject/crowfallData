@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Attack causing 70 - 94 + 82% Weapon Damage.",
   "type": "Buff"

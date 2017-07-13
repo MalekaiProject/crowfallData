@@ -22,6 +22,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Reticle",
   "tooltip": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage.",
   "type": "Ranged Attack"

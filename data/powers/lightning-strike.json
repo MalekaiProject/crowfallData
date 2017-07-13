@@ -22,6 +22,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Ray",
   "tooltip": "Strike enemies with lightning for 109 - 163 + 136% Weapon Damage and Dazing them.",
   "type": "Ranged Attack"

@@ -18,6 +18,10 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Knock Down",
+    "Crushing"
+  ],
   "targeting": "Sphere",
   "tooltip": "Leap straight up. When you land, Knock Down all enemies in the area dealing 288 - 389 + 339% Weapon Damage as Crushing Damage.",
   "type": "Ultimate"

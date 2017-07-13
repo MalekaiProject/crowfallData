@@ -20,6 +20,9 @@
       "type": "class"
     }
   ],
+  "tags": [
+    "Stun"
+  ],
   "targeting": "Self",
   "tooltip": "Attacks made against you have a chance of Stunning the enemy who struck you.",
   "type": "Buff"

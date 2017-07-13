@@ -21,6 +21,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Cone",
   "tooltip": "Traumatize an enemy increasing their cooldown times and causing 49 - 67 + 58% Weapon Damage.",
   "type": "Buff"

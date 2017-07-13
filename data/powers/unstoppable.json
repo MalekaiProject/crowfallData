@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Embrace overwhelming mania, maximuze your Resolve and trigger Crowd Control Immunity for a short time.",
   "type": "Buff"

@@ -19,6 +19,9 @@
       "type": "discipline"
     }
   ],
+  "tags": [
+    "Electric"
+  ],
   "targeting": "Area",
   "tooltip": "Deploy a banner overriding the damage of all nearby group members to Electric and increasing their Electric Armor by 25.",
   "type": "Buff"

@@ -19,6 +19,7 @@
       "type": "discipline"
     }
   ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Recover one Dodge when hitting critically.  This effect can occur twice in 45 seconds.",
   "type": "Passive"

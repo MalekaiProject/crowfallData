@@ -18,6 +18,7 @@
       "type": "class"
     }
   ],
+  "tags": [],
   "targeting": "Sphere",
   "tooltip": "Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.",
   "type": "Retaliate"
