@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 24,
-  "cost": {
-    "pips": 0,
-    "resource": 30
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 30
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/shield-slam.png",
   "max_targets": 3,

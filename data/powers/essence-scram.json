@@ -1,10 +1,12 @@
 {
   "cast_type": "Channeled",
   "cooldown": 180,
-  "cost": {
-    "pips": 0,
-    "resource": 26
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 26
+    }
+  ],
   "duration": 7,
   "icon": "https://cdn.malekai.network/images/powers/essence-scram.png",
   "max_targets": 1,

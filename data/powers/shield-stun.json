@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 30,
-  "cost": {
-    "pips": 0,
-    "resource": 18
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 18
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/shield-stun.png",
   "max_targets": 1,

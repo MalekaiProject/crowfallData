@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 100
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 100
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/disengage.png",
   "max_targets": 1,

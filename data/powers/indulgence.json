@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 12
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 12
+    }
+  ],
   "duration": 30,
   "icon": "https://cdn.malekai.network/images/powers/indulgence.png",
   "max_targets": 1,

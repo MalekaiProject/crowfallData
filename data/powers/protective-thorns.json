@@ -1,10 +1,7 @@
 {
   "cast_type": "",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 0
-  },
+  "cost": [],
   "duration": 20,
   "icon": "https://cdn.malekai.network/images/powers/protective-thorns.png",
   "max_targets": 0,

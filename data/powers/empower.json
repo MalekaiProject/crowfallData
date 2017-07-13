@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 5,
-  "cost": {
-    "pips": 0,
-    "resource": 35
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 35
+    }
+  ],
   "duration": 45,
   "icon": "https://cdn.malekai.network/images/powers/empower.png",
   "max_targets": 1,

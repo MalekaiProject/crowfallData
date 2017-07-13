@@ -1,10 +1,12 @@
 {
   "cast_type": "Charged",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 145
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 145
+    }
+  ],
   "duration": 30,
   "icon": "https://cdn.malekai.network/images/powers/meteor-purge.png",
   "max_targets": 5,

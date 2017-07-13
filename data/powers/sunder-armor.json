@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 8
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 8
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/sunder-armor.png",
   "max_targets": 5,

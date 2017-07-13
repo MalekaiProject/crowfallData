@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 20,
-  "cost": {
-    "pips": 0,
-    "resource": 46
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 46
+    }
+  ],
   "duration": 10,
   "icon": "https://cdn.malekai.network/images/powers/fountain-of-life.png",
   "max_targets": 4,

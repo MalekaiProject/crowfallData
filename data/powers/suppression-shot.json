@@ -1,10 +1,12 @@
 {
   "cast_type": "Ground Aimed",
   "cooldown": 30,
-  "cost": {
-    "pips": 0,
-    "resource": 1
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 1
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/suppression-shot.png",
   "max_targets": 5,

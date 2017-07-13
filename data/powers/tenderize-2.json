@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 23,
-  "cost": {
-    "pips": 0,
-    "resource": 10
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 10
+    }
+  ],
   "duration": 15,
   "icon": "https://cdn.malekai.network/images/powers/tenderize-2.png",
   "max_targets": 1,

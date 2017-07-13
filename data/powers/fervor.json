@@ -1,10 +1,7 @@
 {
   "cast_type": "Channeled",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 0
-  },
+  "cost": [],
   "duration": 5,
   "icon": "https://cdn.malekai.network/images/powers/fervor.png",
   "max_targets": 5,

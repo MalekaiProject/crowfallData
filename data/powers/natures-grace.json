@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 68,
-  "cost": {
-    "pips": 0,
-    "resource": 22
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 22
+    }
+  ],
   "duration": 45,
   "icon": "https://cdn.malekai.network/images/powers/natures-grace.png",
   "max_targets": 5,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 6
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 6
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/reflect-heat.png",
   "max_targets": 1,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 13
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 13
+    }
+  ],
   "duration": 30,
   "icon": "https://cdn.malekai.network/images/powers/reveal-weakness.png",
   "max_targets": 5,

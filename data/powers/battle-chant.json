@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 24,
-  "cost": {
-    "pips": 0,
-    "resource": 12
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 12
+    }
+  ],
   "duration": 12,
   "icon": "https://cdn.malekai.network/images/powers/battle-chant.png",
   "max_targets": 0,

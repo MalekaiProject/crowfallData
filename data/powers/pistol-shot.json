@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 9,
-  "cost": {
-    "pips": 0,
-    "resource": 9
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 9
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/pistol-shot.png",
   "max_targets": 1,

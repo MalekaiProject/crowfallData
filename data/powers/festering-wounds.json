@@ -1,10 +1,12 @@
 {
   "cast_type": "Charged",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 13
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 13
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/festering-wounds.png",
   "max_targets": 1,

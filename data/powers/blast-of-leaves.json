@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 20,
-  "cost": {
-    "pips": 0,
-    "resource": 70
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 70
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/blast-of-leaves.png",
   "max_targets": 5,

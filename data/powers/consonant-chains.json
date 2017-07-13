@@ -1,10 +1,12 @@
 {
   "cast_type": "Toggle",
   "cooldown": 6,
-  "cost": {
-    "pips": 0,
-    "resource": 32
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 32
+    }
+  ],
   "duration": 12,
   "icon": "https://cdn.malekai.network/images/powers/consonant-chains.png",
   "max_targets": 5,

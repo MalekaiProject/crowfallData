@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 24,
-  "cost": {
-    "pips": 0,
-    "resource": 11
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 11
+    }
+  ],
   "duration": 15,
   "icon": "https://cdn.malekai.network/images/powers/reverberating-blow.png",
   "max_targets": 5,

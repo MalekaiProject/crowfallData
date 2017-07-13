@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 24,
-  "cost": {
-    "pips": 0,
-    "resource": 23
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 23
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/scatter-horde.png",
   "max_targets": 5,

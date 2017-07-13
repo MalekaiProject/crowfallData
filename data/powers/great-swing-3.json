@@ -1,10 +1,7 @@
 {
   "cast_type": "Instant",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 0
-  },
+  "cost": [],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/great-swing-3.png",
   "max_targets": 1,

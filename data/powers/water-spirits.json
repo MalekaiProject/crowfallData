@@ -1,10 +1,12 @@
 {
   "cast_type": "Charged",
   "cooldown": 25,
-  "cost": {
-    "pips": 0,
-    "resource": 46
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 46
+    }
+  ],
   "duration": 20,
   "icon": "https://cdn.malekai.network/images/powers/water-spirits.png",
   "max_targets": 3,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 9,
-  "cost": {
-    "pips": 0,
-    "resource": 10
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 10
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/adjudicate.png",
   "max_targets": 1,
