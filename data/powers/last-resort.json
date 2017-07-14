@@ -19,9 +19,7 @@
       "type": "discipline"
     }
   ],
-  "tags": [
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Put it all on the line increasing your critical hit chance by 50% when your Health drops below 25%",
   "type": "Passive"

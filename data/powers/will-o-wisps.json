@@ -18,7 +18,9 @@
       "type": "class"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Area",
   "tooltip": "Charge up and fling a Will o' Wisp to heal allies in a #range# area for 270 - 330 + 300% Weapon Damage.",
   "type": "Non-Aggressive"

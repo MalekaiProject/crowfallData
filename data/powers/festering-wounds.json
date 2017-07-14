@@ -20,8 +20,8 @@
     }
   ],
   "tags": [
-    "Heal",
-    "Exposed"
+    "Exposed",
+    "Heal"
   ],
   "targeting": "Ray",
   "tooltip": "Plague an enemy with Disease and for 30 seconds any Heal ability they use leaves them in an Exposed state.",

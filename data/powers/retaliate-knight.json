@@ -18,7 +18,9 @@
       "type": "class"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Knock Down"
+  ],
   "targeting": "Sphere",
   "tooltip": "Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down.",
   "type": "Retaliate"

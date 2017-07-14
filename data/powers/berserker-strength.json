@@ -20,8 +20,8 @@
     }
   ],
   "tags": [
-    "Barrier",
-    "Attack Power"
+    "Attack Power",
+    "Barrier"
   ],
   "targeting": "Self",
   "tooltip": "Attacks have a chance to increase Attack Power by 150 and add a protective Barrier.",

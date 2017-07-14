@@ -21,7 +21,8 @@
     }
   ],
   "tags": [
-    "Crushing"
+    "Crushing",
+    "Stun"
   ],
   "targeting": "Cone",
   "tooltip": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage.",

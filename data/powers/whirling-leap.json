@@ -19,7 +19,8 @@
     }
   ],
   "tags": [
-    "Crushing"
+    "Crushing",
+    "Invulnerable"
   ],
   "targeting": "Sphere",
   "tooltip": "Leap into the air creating a vacuum at your feet, which pulls in nearby enemies and damages them for 232 - 314 + 273% Crushing Weapon Damage. While in the air you are invulnerable to physics impulses and damage effects.",

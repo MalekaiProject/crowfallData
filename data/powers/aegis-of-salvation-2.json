@@ -22,7 +22,7 @@
     }
   ],
   "tags": [
-    "Heal"
+    "Barrier"
   ],
   "targeting": "Cone",
   "tooltip": "Attack causing 76 - 103 + 89% Weapon Damage and applies a barrier to you.  When it is removed you recover 10% to 15% to your Health",

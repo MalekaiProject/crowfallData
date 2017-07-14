@@ -21,7 +21,8 @@
   ],
   "tags": [
     "Exposed",
-    "Fire"
+    "Fire",
+    "Knock Down"
   ],
   "targeting": "Ray",
   "tooltip": "Unleash a deadly barrage of hot lead causing 28 - 43 + 36% Weapon Damage.  If Rapid Fire hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",

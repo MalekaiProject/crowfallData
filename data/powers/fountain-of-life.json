@@ -19,7 +19,10 @@
       "type": "discipline"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Chain",
+    "Heal"
+  ],
   "targeting": "Area",
   "tooltip": "Creates a Fountain of Life at the targetted location, which chain heals allies who walk near it. The fountain lasts 10 seconds or 30 heals.",
   "type": "Buff"

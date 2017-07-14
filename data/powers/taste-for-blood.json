@@ -19,8 +19,7 @@
     }
   ],
   "tags": [
-    "Bleed",
-    "Heal"
+    "Bleed"
   ],
   "targeting": "Self",
   "tooltip": "Striking a Bleeding target grants you the Scent of Blood, partially reducing Health loss from Berserk Crash. Striking a Bleeding target also has a chance to grant Taste for Blood for 20 seconds, which greatly increased the damage of your basic attacks.",

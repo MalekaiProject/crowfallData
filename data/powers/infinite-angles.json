@@ -19,7 +19,9 @@
       "type": "discipline"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Movement Speed"
+  ],
   "targeting": "Self",
   "tooltip": "Shield Throws now apply a movement speed reduction to all targets hit.",
   "type": "Passive"

@@ -19,9 +19,7 @@
       "type": "discipline"
     }
   ],
-  "tags": [
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Deal 30% more Damage to enemies below 30% Health.",
   "type": "Passive"

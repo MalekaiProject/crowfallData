@@ -21,7 +21,9 @@
       "type": "discipline"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Crushing"
+  ],
   "targeting": "Cone",
   "tooltip": "Crush an enemy for 116 - 156 + 136% Weapon Damage while restoring your Resource.",
   "type": "Melee Attack"

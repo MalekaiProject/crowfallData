@@ -20,7 +20,8 @@
     }
   ],
   "tags": [
-    "Fire"
+    "Fire",
+    "Slow"
   ],
   "targeting": "Rectangle",
   "tooltip": "Summon a raging inferno to slow and damage any enemies for 30 - 40 + 35% Fire Weapon Damage.",

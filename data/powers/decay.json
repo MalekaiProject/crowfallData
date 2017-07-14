@@ -20,8 +20,9 @@
     }
   ],
   "tags": [
+    "Exposed",
     "Heal",
-    "Exposed"
+    "Knock Down"
   ],
   "targeting": "Ray",
   "tooltip": "Infect an enemy with a Disease and reduce Healing Received.  If Decay hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",

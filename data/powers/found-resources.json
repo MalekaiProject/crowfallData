@@ -19,7 +19,9 @@
       "type": "discipline"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Stealth"
+  ],
   "targeting": "Self",
   "tooltip": "Return to a minimum of two pips when entering stealth.",
   "type": "Passive"
