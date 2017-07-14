@@ -39,9 +39,6 @@ const tagRegex = {
   // burrow
   burrow: /burrow/,
 
-  // chain
-  chain: /chain/,
-
   // corruption
   corruption: /\bcorruption\b/,
 
