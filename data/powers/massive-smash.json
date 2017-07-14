@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/massive-smash.png",
   "max_targets": 1,
   "name": "Massive Smash",
   "next_chain": [],

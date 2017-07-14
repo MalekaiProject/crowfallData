@@ -8,7 +8,6 @@
     }
   ],
   "duration": 20,
-  "icon": "https://cdn.malekai.network/images/powers/gore.png",
   "max_targets": 1,
   "name": "Gore",
   "next_chain": [],

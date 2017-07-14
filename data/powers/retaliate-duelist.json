@@ -3,7 +3,6 @@
   "cooldown": 3,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/retaliate-duelist.png",
   "max_targets": 1,
   "name": "Retaliate (Duelist)",
   "next_chain": [],

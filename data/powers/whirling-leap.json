@@ -3,7 +3,6 @@
   "cooldown": 5,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/whirling-leap.png",
   "max_targets": 5,
   "name": "Whirling Leap",
   "next_chain": [],

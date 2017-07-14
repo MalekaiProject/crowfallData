@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/gleeful-strike.png",
   "max_targets": 1,
   "name": "Gleeful Strike",
   "next_chain": [],

@@ -8,7 +8,6 @@
     }
   ],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/healing-rain.png",
   "max_targets": 5,
   "name": "Healing Rain",
   "next_chain": [],

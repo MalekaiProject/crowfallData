@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/recon.png",
   "max_targets": 1,
   "name": "Recon",
   "next_chain": [],

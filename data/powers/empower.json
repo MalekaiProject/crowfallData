@@ -8,7 +8,6 @@
     }
   ],
   "duration": 45,
-  "icon": "https://cdn.malekai.network/images/powers/empower.png",
   "max_targets": 1,
   "name": "Empower",
   "next_chain": [],

@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/revenge.png",
   "max_targets": 1,
   "name": "Revenge",
   "next_chain": [],

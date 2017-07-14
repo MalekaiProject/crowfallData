@@ -3,7 +3,6 @@
   "cooldown": 9,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/flintlock-shot.png",
   "max_targets": 1,
   "name": "Flintlock Shot",
   "next_chain": [],

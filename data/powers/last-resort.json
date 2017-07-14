@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/last-resort.png",
   "max_targets": 0,
   "name": "Last Resort",
   "next_chain": [],

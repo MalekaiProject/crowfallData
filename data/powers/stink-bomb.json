@@ -8,7 +8,6 @@
     }
   ],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/stink-bomb.png",
   "max_targets": 5,
   "name": "Stink Bomb",
   "next_chain": [],

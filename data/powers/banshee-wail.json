@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/banshee-wail.png",
   "max_targets": 1,
   "name": "Banshee Wail",
   "next_chain": [],

@@ -8,7 +8,6 @@
     }
   ],
   "duration": 5,
-  "icon": "https://cdn.malekai.network/images/powers/weapon-oil.png",
   "max_targets": 5,
   "name": "Weapon Oil",
   "next_chain": [],

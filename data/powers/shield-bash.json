@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 5,
-  "icon": "https://cdn.malekai.network/images/powers/shield-bash.png",
   "max_targets": 1,
   "name": "Shield Bash",
   "next_chain": [],

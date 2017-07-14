@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 6,
-  "icon": "https://cdn.malekai.network/images/powers/careless-whisper.png",
   "max_targets": 1,
   "name": "Careless Whisper",
   "next_chain": [],

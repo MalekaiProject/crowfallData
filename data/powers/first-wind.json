@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/first-wind.png",
   "max_targets": 1,
   "name": "First Wind",
   "next_chain": [],

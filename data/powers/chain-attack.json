@@ -8,7 +8,6 @@
     }
   ],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/chain-attack.png",
   "max_targets": 1,
   "name": "Chain Attack",
   "next_chain": [],

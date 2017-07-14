@@ -8,7 +8,6 @@
     }
   ],
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/mana-shield.png",
   "max_targets": 5,
   "name": "Mana Shield",
   "next_chain": [],

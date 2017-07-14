@@ -8,7 +8,6 @@
     }
   ],
   "duration": 10,
-  "icon": "https://cdn.malekai.network/images/powers/rescue.png",
   "max_targets": 1,
   "name": "Rescue",
   "next_chain": [],

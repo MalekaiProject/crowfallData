@@ -3,7 +3,6 @@
   "cooldown": 30,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/retaliate-champion.png",
   "max_targets": 3,
   "name": "Retaliate (Champion)",
   "next_chain": [],

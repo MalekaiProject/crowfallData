@@ -8,7 +8,6 @@
     }
   ],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/pistol-shot.png",
   "max_targets": 1,
   "name": "Pistol Shot",
   "next_chain": [

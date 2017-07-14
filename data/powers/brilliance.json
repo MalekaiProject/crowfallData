@@ -3,7 +3,6 @@
   "cooldown": 5,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/brilliance.png",
   "max_targets": 5,
   "name": "Brilliance",
   "next_chain": [],

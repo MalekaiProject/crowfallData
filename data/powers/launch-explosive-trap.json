@@ -3,7 +3,6 @@
   "cooldown": 24,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/launch-explosive-trap.png",
   "max_targets": 5,
   "name": "Launch Explosive Trap",
   "next_chain": [],

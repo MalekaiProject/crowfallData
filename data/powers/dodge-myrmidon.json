@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/dodge-myrmidon.png",
   "max_targets": 5,
   "name": "Dodge (Myrmidon)",
   "next_chain": [],

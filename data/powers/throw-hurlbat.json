@@ -8,7 +8,6 @@
     }
   ],
   "duration": 1.1,
-  "icon": "https://cdn.malekai.network/images/powers/throw-hurlbat.png",
   "max_targets": 1,
   "name": "Throw Hurlbat",
   "next_chain": [],

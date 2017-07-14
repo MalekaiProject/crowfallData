@@ -8,7 +8,6 @@
     }
   ],
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/critical-hack-2.png",
   "max_targets": 5,
   "name": "Critical Hack 2",
   "next_chain": [],

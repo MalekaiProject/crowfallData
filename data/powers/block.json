@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 5,
-  "icon": "https://cdn.malekai.network/images/powers/block.png",
   "max_targets": 1,
   "name": "Block",
   "next_chain": [],

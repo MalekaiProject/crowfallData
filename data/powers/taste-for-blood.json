@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 20,
-  "icon": "https://cdn.malekai.network/images/powers/taste-for-blood.png",
   "max_targets": 1,
   "name": "Taste For Blood",
   "next_chain": [],

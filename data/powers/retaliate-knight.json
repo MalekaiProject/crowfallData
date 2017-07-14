@@ -3,7 +3,6 @@
   "cooldown": 30,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/retaliate-knight.png",
   "max_targets": 1,
   "name": "Retaliate (Knight)",
   "next_chain": [],

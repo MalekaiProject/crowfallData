@@ -8,7 +8,6 @@
     }
   ],
   "duration": 30,
-  "icon": "https://cdn.malekai.network/images/powers/reveal-weakness.png",
   "max_targets": 5,
   "name": "Reveal Weakness",
   "next_chain": [],

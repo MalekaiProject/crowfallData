@@ -8,7 +8,6 @@
     }
   ],
   "duration": 12,
-  "icon": "https://cdn.malekai.network/images/powers/consonant-chains.png",
   "max_targets": 5,
   "name": "Consonant Chains",
   "next_chain": [],

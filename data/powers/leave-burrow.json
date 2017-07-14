@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/leave-burrow.png",
   "max_targets": 1,
   "name": "Leave Burrow",
   "next_chain": [],

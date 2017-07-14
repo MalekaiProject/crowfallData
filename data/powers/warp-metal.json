@@ -8,7 +8,6 @@
     }
   ],
   "duration": 8,
-  "icon": "https://cdn.malekai.network/images/powers/warp-metal.png",
   "max_targets": 1,
   "name": "Warp Metal",
   "next_chain": [],

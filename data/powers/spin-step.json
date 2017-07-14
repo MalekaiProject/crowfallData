@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/spin-step.png",
   "max_targets": 1,
   "name": "Spin Step",
   "next_chain": [],

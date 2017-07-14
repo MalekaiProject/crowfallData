@@ -8,7 +8,6 @@
     }
   ],
   "duration": 20,
-  "icon": "https://cdn.malekai.network/images/powers/haunt.png",
   "max_targets": 3,
   "name": "Haunt",
   "next_chain": [],

@@ -8,7 +8,6 @@
     }
   ],
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/reverberating-blow.png",
   "max_targets": 5,
   "name": "Reverberating Blow",
   "next_chain": [],

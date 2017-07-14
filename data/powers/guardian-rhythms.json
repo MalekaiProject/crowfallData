@@ -3,7 +3,6 @@
   "cooldown": 1,
   "cost": [],
   "duration": 12,
-  "icon": "https://cdn.malekai.network/images/powers/guardian-rhythms.png",
   "max_targets": 5,
   "name": "Guardian Rhythms",
   "next_chain": [],

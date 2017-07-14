@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 2,
-  "icon": "https://cdn.malekai.network/images/powers/take-root.png",
   "max_targets": 0,
   "name": "Take Root",
   "next_chain": [],

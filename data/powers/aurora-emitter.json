@@ -8,7 +8,6 @@
     }
   ],
   "duration": 15,
-  "icon": "https://cdn.malekai.network/images/powers/aurora-emitter.png",
   "max_targets": 5,
   "name": "Aurora Emitter",
   "next_chain": [],

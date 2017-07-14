@@ -3,7 +3,6 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/saber-attack-1.png",
   "max_targets": 1,
   "name": "Saber Attack 1",
   "next_chain": [

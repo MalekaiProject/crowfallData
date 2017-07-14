@@ -8,7 +8,6 @@
     }
   ],
   "duration": 0,
-  "icon": "https://cdn.malekai.network/images/powers/cross-slash.png",
   "max_targets": 1,
   "name": "Cross Slash",
   "next_chain": [
