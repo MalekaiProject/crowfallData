@@ -10,7 +10,6 @@ const powerDirectory = './data/powers';
  * chain: /chain/ - most that match are not relevant
  */
 
-let test = 'retaliate';
 const tagRegex = {
   // armor break
   'armor break': /armor\sbreak/,
@@ -122,6 +121,9 @@ const tagRegex = {
   // root, rooting, roots, rooted
   root: /\broot(ing|s|ed)?\b/,
 
+  // water
+  water: /water/,
+
   // weapon break
   'weapon break': /weapon\sbreak/
 };
@@ -138,7 +140,6 @@ let powers = fs.readdirSync(powerDirectory)
 let taggedPowers = Object.keys(powers)
   .map(key => powers[key])
   .map(p => {
-    console.log(p);
     let matches = Object.keys(tagRegex)
       .map(key => ({
         id: key,
@@ -146,16 +147,13 @@ let taggedPowers = Object.keys(powers)
       }))
       .filter(regex => {
         let match = p.tooltip.toLowerCase().match(regex.value);
-
-        if (regex.id === test && match) {
-          console.log(p.id, '\n', match, '\n');
-        }
-
         return match;
       })
       .map(regex => regex.id);
 
-    p.tags = matches;
+    p.proposedTags = matches.map(t => {
+      return toTitleCase(t);
+    }).sort();
     return p;
   });
 
@@ -165,19 +163,16 @@ function toTitleCase(str) {
   });
 }
 
-taggedPowers
-  .forEach(p => {
-    p.tags = p.tags.map(t => {
-      return toTitleCase(t);
-    }).sort();
-  });
+console.log('\nCHECKING TAGS');
 
 taggedPowers.forEach(p => {
-  let { file } = p;
+  let { id, proposedTags, tags, tooltip } = p;
 
-  delete p.file;
-  delete p.id;
-  let json = `${JSON.stringify(p, null, 2)}\n`;
+  let missingTags = proposedTags.filter(t => tags.indexOf(t) === -1);
 
-  fs.writeFileSync(file, json);
+  if (missingTags.length) {
+    console.log(`"${id}" - missing tags [${missingTags}] - ${tooltip}\n\n`);
+  }
 });
+
+console.log('CHECKING TAGS - done\n');
