@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 23,
-  "cost": {
-    "pips": 0,
-    "resource": 29
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 29
+    }
+  ],
   "duration": 5,
   "icon": "https://cdn.malekai.network/images/powers/eternal-rage.png",
   "max_targets": 5,

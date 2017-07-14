@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 9,
-  "cost": {
-    "pips": 0,
-    "resource": 31
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 31
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/cross-slash.png",
   "max_targets": 1,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 9,
-  "cost": {
-    "pips": 0,
-    "resource": 55
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 55
+    }
+  ],
   "duration": 15,
   "icon": "https://cdn.malekai.network/images/powers/hellfire-shield.png",
   "max_targets": 1,

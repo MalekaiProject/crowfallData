@@ -1,10 +1,12 @@
 {
   "cast_type": "Charged",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 105
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 105
+    }
+  ],
   "duration": 12,
   "icon": "https://cdn.malekai.network/images/powers/gaeas-wail.png",
   "max_targets": 3,

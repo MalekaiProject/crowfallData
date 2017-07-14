@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 23,
-  "cost": {
-    "pips": 0,
-    "resource": 16
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 16
+    }
+  ],
   "duration": 6,
   "icon": "https://cdn.malekai.network/images/powers/lay-low.png",
   "max_targets": 1,

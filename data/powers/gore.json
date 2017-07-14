@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 23
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 23
+    }
+  ],
   "duration": 20,
   "icon": "https://cdn.malekai.network/images/powers/gore.png",
   "max_targets": 1,

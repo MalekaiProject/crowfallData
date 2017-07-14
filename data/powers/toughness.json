@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 68,
-  "cost": {
-    "pips": 0,
-    "resource": 16
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 16
+    }
+  ],
   "duration": 45,
   "icon": "https://cdn.malekai.network/images/powers/toughness.png",
   "max_targets": 5,

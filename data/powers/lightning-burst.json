@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 9,
-  "cost": {
-    "pips": 0,
-    "resource": 68
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 68
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/lightning-burst.png",
   "max_targets": 5,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 9,
-  "cost": {
-    "pips": 0,
-    "resource": 11
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 11
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/uppercut.png",
   "max_targets": 1,

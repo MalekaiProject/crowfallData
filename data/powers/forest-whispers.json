@@ -1,10 +1,12 @@
 {
   "cast_type": "Passive",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 26
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 26
+    }
+  ],
   "duration": 20,
   "icon": "https://cdn.malekai.network/images/powers/forest-whispers.png",
   "max_targets": 1,

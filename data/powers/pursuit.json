@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 30,
-  "cost": {
-    "pips": 0,
-    "resource": 29
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 29
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/pursuit.png",
   "max_targets": 3,

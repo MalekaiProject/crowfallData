@@ -1,10 +1,7 @@
 {
   "cast_type": "Hold Channeled",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 0
-  },
+  "cost": [],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/righteous-stand.png",
   "max_targets": 1,

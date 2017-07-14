@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 23,
-  "cost": {
-    "pips": 0,
-    "resource": 1
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 1
+    }
+  ],
   "duration": 12,
   "icon": "https://cdn.malekai.network/images/powers/divine-light.png",
   "max_targets": 5,

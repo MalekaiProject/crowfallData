@@ -69,7 +69,7 @@ Object.keys(data)
           });
 
         // array
-        ['classes', 'races', 'powers', 'sources', 'previous_chain', 'next_chain']
+        ['classes', 'cost', 'races', 'powers', 'sources', 'previous_chain', 'next_chain']
           .forEach(t => {
             if (d.hasOwnProperty(t) && !Array.isArray(d[t])) {
               console.log(`${d.id}: ${t} is not a valid array`);

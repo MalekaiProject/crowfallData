@@ -1,10 +1,12 @@
 {
   "cast_type": "Channeled",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 28
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 28
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/focused-spark.png",
   "max_targets": 1,

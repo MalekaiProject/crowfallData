@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 24,
-  "cost": {
-    "pips": 0,
-    "resource": 47
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 47
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/explosive-trap.png",
   "max_targets": 5,

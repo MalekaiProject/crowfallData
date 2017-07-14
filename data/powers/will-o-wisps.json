@@ -1,10 +1,12 @@
 {
   "cast_type": "Charged",
   "cooldown": 25,
-  "cost": {
-    "pips": 0,
-    "resource": 63
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 63
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/will-o-wisps.png",
   "max_targets": 5,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 24,
-  "cost": {
-    "pips": 0,
-    "resource": 60
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 60
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/fire-wave.png",
   "max_targets": 5,

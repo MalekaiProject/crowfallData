@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 46
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 46
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/coalesce-life.png",
   "max_targets": 1,

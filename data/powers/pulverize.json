@@ -1,10 +1,12 @@
 {
   "cast_type": "Charged",
   "cooldown": 20,
-  "cost": {
-    "pips": 0,
-    "resource": 50
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 50
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/pulverize.png",
   "max_targets": 1,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Charged",
   "cooldown": 0,
-  "cost": {
-    "pips": 0,
-    "resource": 35
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 35
+    }
+  ],
   "duration": 0,
   "icon": "https://cdn.malekai.network/images/powers/natures-avatar.png",
   "max_targets": 1,

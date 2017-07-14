@@ -1,10 +1,12 @@
 {
   "cast_type": "Toggle",
   "cooldown": 1,
-  "cost": {
-    "pips": 0,
-    "resource": 32
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 32
+    }
+  ],
   "duration": 12,
   "icon": "https://cdn.malekai.network/images/powers/requiem.png",
   "max_targets": 5,

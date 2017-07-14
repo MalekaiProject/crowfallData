@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 23,
-  "cost": {
-    "pips": 0,
-    "resource": 14
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 14
+    }
+  ],
   "duration": 20,
   "icon": "https://cdn.malekai.network/images/powers/haunt.png",
   "max_targets": 3,

@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 45,
-  "cost": {
-    "pips": 0,
-    "resource": 16
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 16
+    }
+  ],
   "duration": 20,
   "icon": "https://cdn.malekai.network/images/powers/illusionary-armor.png",
   "max_targets": 1,

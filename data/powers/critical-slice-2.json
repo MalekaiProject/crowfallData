@@ -1,10 +1,12 @@
 {
   "cast_type": "Instant",
   "cooldown": 23,
-  "cost": {
-    "pips": 0,
-    "resource": 12
-  },
+  "cost": [
+    {
+      "name": "resource",
+      "cost": 12
+    }
+  ],
   "duration": 15,
   "icon": "https://cdn.malekai.network/images/powers/critical-slice-2.png",
   "max_targets": 1,
