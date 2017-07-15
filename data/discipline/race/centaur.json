@@ -14,7 +14,7 @@
     "stats_values": [],
     "trays_granted": "",
     "trays_removed": "",
-    "type": "Race",
     "id": "centaur",
-    "tags": []
+    "tags": [],
+    "type": "Race"
 }
