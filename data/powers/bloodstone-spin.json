@@ -5,11 +5,8 @@
   "duration": 0,
   "max_targets": 1,
   "name": "Bloodstone Spin",
-  "next_chain": [
-    "bloodstone-spin"
-  ],
+  "next_chain": [],
   "previous_chain": [
-    "bloodstone-spin",
     "emerald-slash"
   ],
   "range": 5,
