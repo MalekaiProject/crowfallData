@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Grounding",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "master-of-scimitars",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Electric"
-  ],
-  "targeting": "Group",
-  "tooltip": "Protect group members and yourself with increased Electricity Armor.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Grounding",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-scimitars",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Electric"
+    ],
+    "targeting": "Group",
+    "type": "Buff",
+    "id": "grounding",
+    "description": "Protect group members and yourself with increased Electricity Armor."
 }

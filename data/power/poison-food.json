@@ -1,22 +1,23 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Poison Food",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "poisoner",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Coming Soon",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Poison Food",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "poisoner",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "poison-food",
+    "description": "Coming Soon"
 }

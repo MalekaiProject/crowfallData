@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Mithradatism",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "poisoner",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Poison"
-  ],
-  "targeting": "Self",
-  "tooltip": "Remove all Poison effects from yourself.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Mithradatism",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "poisoner",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Poison"
+    ],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "mithradatism",
+    "description": "Remove all Poison effects from yourself."
 }

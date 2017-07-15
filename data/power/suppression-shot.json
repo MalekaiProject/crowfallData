@@ -1,26 +1,27 @@
 {
-  "cast_type": "Ground Aimed",
-  "cooldown": 30,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 1
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Suppression Shot",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 35,
-  "sources": [
-    {
-      "id": "ranger",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Area",
-  "tooltip": "Shoot at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit.",
-  "type": "Crowd Control"
+    "cast_type": "Ground Aimed",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Suppression Shot",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Area",
+    "type": "Crowd Control",
+    "id": "suppression-shot",
+    "description": "Shoot at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit."
 }

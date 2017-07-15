@@ -1,25 +1,26 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Giant Smash",
-  "next_chain": [
-    "massive-smash"
-  ],
-  "previous_chain": [
-    "smash"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "champion",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Strike in front of you for 102 - 138 + 120% Weapon Damage, generating 4 Rage if you hit.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Giant Smash",
+    "next_chain": [
+        "massive-smash"
+    ],
+    "previous_chain": [
+        "smash"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "champion",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "giant-smash",
+    "description": "Strike in front of you for 102 - 138 + 120% Weapon Damage, generating 4 Rage if you hit."
 }

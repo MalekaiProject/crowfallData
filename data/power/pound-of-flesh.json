@@ -1,22 +1,23 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Pound of Flesh",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "pound-of-flesh",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Increase your Damage Bonus by 30% when an enemy's Health is above 90%.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Pound of Flesh",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "pound-of-flesh",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "pound-of-flesh",
+    "description": "Increase your Damage Bonus by 30% when an enemy's Health is above 90%."
 }

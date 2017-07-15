@@ -1,25 +1,26 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Fortuitous Blessings",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "friar",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Movement Speed",
-    "Support Power"
-  ],
-  "targeting": "Self",
-  "tooltip": "Have faith and recieve the blessing you need.  Your actions determine whether you receive the Seeker's Blessing for movement speed, Charitable Blessing for Support Power or Impoverished Blessing for restoring your resource over time.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Fortuitous Blessings",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "friar",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Movement Speed",
+        "Support Power"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "fortuitous-blessings",
+    "description": "Have faith and recieve the blessing you need.  Your actions determine whether you receive the Seeker's Blessing for movement speed, Charitable Blessing for Support Power or Impoverished Blessing for restoring your resource over time."
 }

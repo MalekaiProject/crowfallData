@@ -1,31 +1,32 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 5,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 18
-    }
-  ],
-  "duration": 45,
-  "max_targets": 5,
-  "name": "Natural Bond",
-  "next_chain": [
-    "contain-essence",
-    "empower"
-  ],
-  "previous_chain": [
-    "natures-grace"
-  ],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Group",
-  "tooltip": "Buffs Damage Bonus by 5% for group members and yourself for 45 seconds.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 18
+        }
+    ],
+    "duration": 45,
+    "max_targets": 5,
+    "name": "Natural Bond",
+    "next_chain": [
+        "contain-essence",
+        "empower"
+    ],
+    "previous_chain": [
+        "natures-grace"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Group",
+    "type": "Buff",
+    "id": "natural-bond",
+    "description": "Buffs Damage Bonus by 5% for group members and yourself for 45 seconds."
 }

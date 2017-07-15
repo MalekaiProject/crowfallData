@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 23,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Purgative",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "field-surgeon",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Heal"
-  ],
-  "targeting": "Group",
-  "tooltip": "Cleanse your group and yourself of damage over time effects healing for 32 - 39 + 35% Weapon Damage for each effect removed.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Purgative",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "field-surgeon",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "Group",
+    "type": "Buff",
+    "id": "purgative",
+    "description": "Cleanse your group and yourself of damage over time effects healing for 32 - 39 + 35% Weapon Damage for each effect removed."
 }

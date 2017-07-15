@@ -1,24 +1,25 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Uniform Plate",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "uniform-plate",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Attack Power"
-  ],
-  "targeting": "Self",
-  "tooltip": "Increase your Attack Power by 350 when wearing a full set of Plate armor.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Uniform Plate",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "uniform-plate",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "uniform-plate",
+    "description": "Increase your Attack Power by 350 when wearing a full set of Plate armor."
 }

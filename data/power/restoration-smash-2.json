@@ -1,31 +1,32 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 23,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 13
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Restoration Smash 2",
-  "next_chain": [],
-  "previous_chain": [
-    "restoration-smash"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "master-of-hammers",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Crushing"
-  ],
-  "targeting": "Cone",
-  "tooltip": "Crush an enemy for 116 - 156 + 136% Weapon Damage while restoring your Resource.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Restoration Smash 2",
+    "next_chain": [],
+    "previous_chain": [
+        "restoration-smash"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-hammers",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "restoration-smash-2",
+    "description": "Crush an enemy for 116 - 156 + 136% Weapon Damage while restoring your Resource."
 }

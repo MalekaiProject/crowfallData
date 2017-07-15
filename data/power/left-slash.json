@@ -1,30 +1,31 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 19
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Left Slash",
-  "next_chain": [
-    "double-slash"
-  ],
-  "previous_chain": [
-    "right-slash"
-  ],
-  "range": 5.5,
-  "sources": [
-    {
-      "id": "myrmidon",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Attack with your left weapon for 8 - 9 + 9% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 19
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Left Slash",
+    "next_chain": [
+        "double-slash"
+    ],
+    "previous_chain": [
+        "right-slash"
+    ],
+    "range": 5.5,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "left-slash",
+    "description": "Attack with your left weapon for 8 - 9 + 9% Weapon Damage."
 }

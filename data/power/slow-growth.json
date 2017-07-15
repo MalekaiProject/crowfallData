@@ -1,22 +1,23 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Slow Growth",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "master-of-mystical-staves",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Favor the forces of Life reducing your Essence Gain by 50%.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Slow Growth",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-mystical-staves",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "slow-growth",
+    "description": "Favor the forces of Life reducing your Essence Gain by 50%."
 }

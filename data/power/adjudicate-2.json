@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 10
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Adjudicate 2",
-  "next_chain": [],
-  "previous_chain": [
-    "adjudicate"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "adjudicator",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Judge an enemy inflicting 76-103 + 90% Holy Weapon Damage and cannot be imitgated normally.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Adjudicate 2",
+    "next_chain": [],
+    "previous_chain": [
+        "adjudicate"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "adjudicator",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "adjudicate-2",
+    "description": "Judge an enemy inflicting 76-103 + 90% Holy Weapon Damage and cannot be imitgated normally."
 }

@@ -1,26 +1,27 @@
 {
-  "cast_type": "Charged",
-  "cooldown": 0,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 35
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Nature's Avatar",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Reticle",
-  "tooltip": "Empowers an ally with a 75% Damage Bonus buff while you channel.",
-  "type": "Buff"
+    "cast_type": "Charged",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 35
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Nature's Avatar",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Reticle",
+    "type": "Buff",
+    "id": "natures-avatar",
+    "description": "Empowers an ally with a 75% Damage Bonus buff while you channel."
 }

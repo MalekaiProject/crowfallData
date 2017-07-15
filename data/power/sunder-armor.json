@@ -1,30 +1,31 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 8
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Sunder Armor",
-  "next_chain": [],
-  "previous_chain": [
-    "uppercut"
-  ],
-  "range": 7,
-  "sources": [
-    {
-      "id": "cleric",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Armor Break"
-  ],
-  "targeting": "Cone",
-  "tooltip": "Swipe in front of you twice for 49 - 59 + 54% Weapon Damage. Applies an Armor Break to all hit,, which reduces all Physical Mitigations by 20% for 15 seconds.",
-  "type": "Debuff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 8
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Sunder Armor",
+    "next_chain": [],
+    "previous_chain": [
+        "uppercut"
+    ],
+    "range": 7,
+    "sources": [
+        {
+            "id": "cleric",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Armor Break"
+    ],
+    "targeting": "Cone",
+    "type": "Debuff",
+    "id": "sunder-armor",
+    "description": "Swipe in front of you twice for 49 - 59 + 54% Weapon Damage. Applies an Armor Break to all hit,, which reduces all Physical Mitigations by 20% for 15 seconds."
 }

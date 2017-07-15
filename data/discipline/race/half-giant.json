@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "champion",
-    "myrmidon",
-    "cleric"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/half-giant.png",
-  "name": "Half-Giant"
+    "classes": [
+        "champion",
+        "myrmidon",
+        "cleric"
+    ],
+    "description": "",
+    "name": "Half-Giant",
+    "id": "half-giant",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

@@ -1,27 +1,28 @@
 {
-  "cast_type": "Toggle",
-  "cooldown": 1,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 32
-    }
-  ],
-  "duration": 12,
-  "max_targets": 5,
-  "name": "Dirge of Dissonance",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 10,
-  "sources": [
-    {
-      "id": "troubadour",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Point Blank Area",
-  "tooltip": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Deals 100 - 150 + 12% Weapon Damage every 3 seconds. Type 3 Song.",
-  "type": "Melee Attack"
+    "cast_type": "Toggle",
+    "cooldown": 1,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 32
+        }
+    ],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Dirge of Dissonance",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 10,
+    "sources": [
+        {
+            "id": "troubadour",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Point Blank Area",
+    "type": "Melee Attack",
+    "id": "dirge-of-dissonance",
+    "description": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Deals 100 - 150 + 12% Weapon Damage every 3 seconds. Type 3 Song."
 }

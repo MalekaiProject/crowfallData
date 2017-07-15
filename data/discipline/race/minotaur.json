@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "ranger",
-    "champion",
-    "myrmidon"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/minotaur.png",
-  "name": "Minotaur"
+    "classes": [
+        "ranger",
+        "champion",
+        "myrmidon"
+    ],
+    "description": "",
+    "name": "Minotaur",
+    "id": "minotaur",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

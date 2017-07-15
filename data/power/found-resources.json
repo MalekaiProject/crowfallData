@@ -1,24 +1,25 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Found Resources",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "found-resources",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Stealth"
-  ],
-  "targeting": "Self",
-  "tooltip": "Return to a minimum of two pips when entering stealth.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Found Resources",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "found-resources",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Stealth"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "found-resources",
+    "description": "Return to a minimum of two pips when entering stealth."
 }

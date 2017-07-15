@@ -1,29 +1,30 @@
 {
-  "cast_type": "Toggle",
-  "cooldown": 6,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 32
-    }
-  ],
-  "duration": 12,
-  "max_targets": 5,
-  "name": "Consonant Chains",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 20,
-  "sources": [
-    {
-      "id": "troubadour",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Movement Speed"
-  ],
-  "targeting": "Ray",
-  "tooltip": "Damages a targeted enemy for 227 - 307 + 267% Weapon Damage, then jumps to damage a nearby enemy. Consonant Chains will jump to as many as 5 additional targets with damage reduced by 30% each jump. Targets hit will sugger a Movement Speed reduction. Type 1 Song.",
-  "type": "Debuff"
+    "cast_type": "Toggle",
+    "cooldown": 6,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 32
+        }
+    ],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Consonant Chains",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 20,
+    "sources": [
+        {
+            "id": "troubadour",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Movement Speed"
+    ],
+    "targeting": "Ray",
+    "type": "Debuff",
+    "id": "consonant-chains",
+    "description": "Damages a targeted enemy for 227 - 307 + 267% Weapon Damage, then jumps to damage a nearby enemy. Consonant Chains will jump to as many as 5 additional targets with damage reduced by 30% each jump. Targets hit will sugger a Movement Speed reduction. Type 1 Song."
 }

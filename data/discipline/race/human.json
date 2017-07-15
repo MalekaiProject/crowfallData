@@ -1,11 +1,21 @@
 {
-  "classes": [
-    "knight",
-    "templar",
-    "ranger",
-    "cleric"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/human.png",
-  "name": "Human"
+    "classes": [
+        "knight",
+        "templar",
+        "ranger",
+        "cleric"
+    ],
+    "description": "",
+    "name": "Human",
+    "id": "human",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

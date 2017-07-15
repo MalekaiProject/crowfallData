@@ -1,22 +1,23 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 15,
-  "max_targets": 1,
-  "name": "Furious",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "furious",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Whenever you reach 100 Rage, your Damage Bonus is increased by 15% for 15 seconds.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Furious",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "furious",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "furious",
+    "description": "Whenever you reach 100 Rage, your Damage Bonus is increased by 15% for 15 seconds."
 }

@@ -1,25 +1,26 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Great Swing 2",
-  "next_chain": [
-    "great-swing-3"
-  ],
-  "previous_chain": [
-    "great-swing-1"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "templar",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Attack for 58 - 87 + 73% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Great Swing 2",
+    "next_chain": [
+        "great-swing-3"
+    ],
+    "previous_chain": [
+        "great-swing-1"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "templar",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "great-swing-2",
+    "description": "Attack for 58 - 87 + 73% Weapon Damage."
 }

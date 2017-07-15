@@ -1,22 +1,23 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 15,
-  "max_targets": 0,
-  "name": "Last Resort",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "last-resort",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Put it all on the line increasing your critical hit chance by 50% when your Health drops below 25%",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Last Resort",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "last-resort",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "last-resort",
+    "description": "Put it all on the line increasing your critical hit chance by 50% when your Health drops below 25%"
 }

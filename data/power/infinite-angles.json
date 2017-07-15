@@ -1,24 +1,25 @@
 {
-  "cast_type": "",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Infinite Angles",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "shield-whiz",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Movement Speed"
-  ],
-  "targeting": "Self",
-  "tooltip": "Shield Throws now apply a movement speed reduction to all targets hit.",
-  "type": "Passive"
+    "cast_type": "",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Infinite Angles",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "shield-whiz",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Movement Speed"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "infinite-angles",
+    "description": "Shield Throws now apply a movement speed reduction to all targets hit."
 }

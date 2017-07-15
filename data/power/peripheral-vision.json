@@ -1,22 +1,23 @@
 {
-  "cast_type": "",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Peripheral Vision",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "peripheral-vision",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Allows you to see into the shadows while actively harvesting.",
-  "type": "Passive"
+    "cast_type": "",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Peripheral Vision",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "peripheral-vision",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "peripheral-vision",
+    "description": "Allows you to see into the shadows while actively harvesting."
 }

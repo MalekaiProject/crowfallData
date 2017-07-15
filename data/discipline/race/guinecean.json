@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "knight",
-    "cleric",
-    "duelist"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/guinecean.png",
-  "name": "Guinecean"
+    "classes": [
+        "knight",
+        "cleric",
+        "duelist"
+    ],
+    "description": "",
+    "name": "Guinecean",
+    "id": "guinecean",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

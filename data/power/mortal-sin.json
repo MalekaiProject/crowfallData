@@ -1,24 +1,25 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Mortal Sin",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "mortal-sin",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Sin"
-  ],
-  "targeting": "Self",
-  "tooltip": "You now apply Mortal Sin instead of Sin.  For each stack of Mortal Sin the target becomes more vulnerable to being Critically Hit by 2% per stack.  All powers that require Sin will also benefit from Mortal Sin.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Mortal Sin",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "mortal-sin",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Sin"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "mortal-sin",
+    "description": "You now apply Mortal Sin instead of Sin.  For each stack of Mortal Sin the target becomes more vulnerable to being Critically Hit by 2% per stack.  All powers that require Sin will also benefit from Mortal Sin."
 }

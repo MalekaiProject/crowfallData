@@ -1,23 +1,24 @@
 {
-  "cast_type": "Charged",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Straight Shot",
-  "next_chain": [
-    "power-shot"
-  ],
-  "previous_chain": [],
-  "range": 40,
-  "sources": [
-    {
-      "id": "ranger",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Reticle",
-  "tooltip": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage.",
-  "type": "Ranged Attack"
+    "cast_type": "Charged",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Straight Shot",
+    "next_chain": [
+        "power-shot"
+    ],
+    "previous_chain": [],
+    "range": 40,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Reticle",
+    "type": "Ranged Attack",
+    "id": "straight-shot",
+    "description": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage."
 }

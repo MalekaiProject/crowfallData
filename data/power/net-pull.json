@@ -1,28 +1,29 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 17
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Net Pull",
-  "next_chain": [],
-  "previous_chain": [
-    "cast-net"
-  ],
-  "range": 30,
-  "sources": [
-    {
-      "id": "myrmidon",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Reticle",
-  "tooltip": "Pull your target toward you inflicting 95 - 116 + 106% Weapon Damage.",
-  "type": "Crowd Control"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 17
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Net Pull",
+    "next_chain": [],
+    "previous_chain": [
+        "cast-net"
+    ],
+    "range": 30,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Reticle",
+    "type": "Crowd Control",
+    "id": "net-pull",
+    "description": "Pull your target toward you inflicting 95 - 116 + 106% Weapon Damage."
 }

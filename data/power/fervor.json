@@ -1,21 +1,22 @@
 {
-  "cast_type": "Channeled",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 5,
-  "max_targets": 5,
-  "name": "Fervor",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "confessor",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Restores 350 Mana over five seconds as you channel. While channeling your physical mitigations are reduced by 15%.",
-  "type": "Non-Aggressive"
+    "cast_type": "Channeled",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 5,
+    "max_targets": 5,
+    "name": "Fervor",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "confessor",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Non-Aggressive",
+    "id": "fervor",
+    "description": "Restores 350 Mana over five seconds as you channel. While channeling your physical mitigations are reduced by 15%."
 }

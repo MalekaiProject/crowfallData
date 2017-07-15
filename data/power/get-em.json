@@ -1,31 +1,32 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 24,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 12
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Get Em",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 35,
-  "sources": [
-    {
-      "id": "mole-hunter",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Exposed",
-    "Knock Down",
-    "Root"
-  ],
-  "targeting": "Cone",
-  "tooltip": "Stop an enemy in its tracks causing 85 - 115 + 100% Weapon Damage and Rooting them. If Get 'Em hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
-  "type": "Debuff"
+    "cast_type": "Instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Get Em",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "mole-hunter",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Exposed",
+        "Knock Down",
+        "Root"
+    ],
+    "targeting": "Cone",
+    "type": "Debuff",
+    "id": "get-em",
+    "description": "Stop an enemy in its tracks causing 85 - 115 + 100% Weapon Damage and Rooting them. If Get 'Em hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage."
 }

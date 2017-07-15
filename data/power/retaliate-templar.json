@@ -1,24 +1,25 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 30,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Retaliate (Templar)",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "templar",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Retaliate",
-    "Sin"
-  ],
-  "targeting": "Cone",
-  "tooltip": "Jump to your feet, damaging all nearby enemies for 53 - 80 + 67% Weapon Damage. Retaliating an enemy afflictd with Sin reduces cooldown of RETALIATE.",
-  "type": "Retaliate"
+    "cast_type": "Instant",
+    "cooldown": 30,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Retaliate (Templar)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "templar",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Retaliate",
+        "Sin"
+    ],
+    "targeting": "Cone",
+    "type": "Retaliate",
+    "id": "retaliate-templar",
+    "description": "Jump to your feet, damaging all nearby enemies for 53 - 80 + 67% Weapon Damage. Retaliating an enemy afflictd with Sin reduces cooldown of RETALIATE."
 }

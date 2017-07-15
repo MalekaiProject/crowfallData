@@ -1,26 +1,27 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Supreme Element",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "naiad",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Electric",
-    "Fire",
-    "Heal"
-  ],
-  "targeting": "Self",
-  "tooltip": "Grants various effects based on type of incoming elemental damage. Incoming Fire damage heals you for 20% of the damage taken. Incoming Electric damage deals 10% of the damage back to the caster. Incoming Ice damage applies a stack of Phase Transition which grants Healing Modifier by 10% per stack. Maximum 3 stacks.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Supreme Element",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "naiad",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Electric",
+        "Fire",
+        "Heal"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "supreme-element",
+    "description": "Grants various effects based on type of incoming elemental damage. Incoming Fire damage heals you for 20% of the damage taken. Incoming Electric damage deals 10% of the damage back to the caster. Incoming Ice damage applies a stack of Phase Transition which grants Healing Modifier by 10% per stack. Maximum 3 stacks."
 }

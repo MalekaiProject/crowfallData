@@ -1,23 +1,24 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 23,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Oath of Will",
-  "next_chain": [],
-  "previous_chain": [
-    "noble-blood"
-  ],
-  "range": 0,
-  "sources": [
-    {
-      "id": "knight",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Vowing never to surrender, you recover 36 Stamina over 3 seconds.",
-  "type": "Non-Aggressive"
+    "cast_type": "Instant",
+    "cooldown": 23,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Oath of Will",
+    "next_chain": [],
+    "previous_chain": [
+        "noble-blood"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Non-Aggressive",
+    "id": "oath-of-will",
+    "description": "Vowing never to surrender, you recover 36 Stamina over 3 seconds."
 }

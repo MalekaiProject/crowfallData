@@ -1,31 +1,32 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 14
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Twin Assault",
-  "next_chain": [
-    "shockwave",
-    "obliterate"
-  ],
-  "previous_chain": [
-    "onslaught"
-  ],
-  "range": 7.5,
-  "sources": [
-    {
-      "id": "knight",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Attack in front of you twice for 43 - 58 + 51% Weapon Damage each hit.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 14
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Twin Assault",
+    "next_chain": [
+        "shockwave",
+        "obliterate"
+    ],
+    "previous_chain": [
+        "onslaught"
+    ],
+    "range": 7.5,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "twin-assault",
+    "description": "Attack in front of you twice for 43 - 58 + 51% Weapon Damage each hit."
 }

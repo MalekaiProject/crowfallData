@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 10
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Skullcracker",
-  "next_chain": [
-    "skullcracker-2"
-  ],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "master-of-maces",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Strike an enemy with your mace for 68 - 92 + 80% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Skullcracker",
+    "next_chain": [
+        "skullcracker-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-maces",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "skullcracker",
+    "description": "Strike an enemy with your mace for 68 - 92 + 80% Weapon Damage."
 }

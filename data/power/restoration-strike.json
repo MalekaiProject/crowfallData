@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 17
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Restoration Strike",
-  "next_chain": [
-    "restoration-strike-2"
-  ],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "master-of-swords",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Slice an enemy for 117-159 + 138% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 17
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Restoration Strike",
+    "next_chain": [
+        "restoration-strike-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-swords",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "restoration-strike",
+    "description": "Slice an enemy for 117-159 + 138% Weapon Damage."
 }

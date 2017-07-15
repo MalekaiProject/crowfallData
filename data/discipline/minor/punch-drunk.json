@@ -1,29 +1,30 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Take a beating and keep on hitting!",
-  "equips_granted": [],
-  "icon": "https://cdn.malekai.network/images/disciplines/punch-drunk.png",
-  "name": "Punch Drunk",
-  "powers": [
-    "punch-drunk"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "stats_granted": [],
-  "stats_values": [],
-  "trays_granted": "",
-  "trays_removed": "",
-  "type": "Minor"
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Take a beating and keep on hitting!",
+    "equips_granted": [],
+    "name": "Punch Drunk",
+    "powers": [
+        "punch-drunk"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "Minor",
+    "id": "punch-drunk",
+    "tags": []
 }

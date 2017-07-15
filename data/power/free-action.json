@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 5,
-  "max_targets": 5,
-  "name": "Free Action",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "escape-artist",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Group",
-  "tooltip": "Liberate group members and yourself gaining immunity to Movement Crowd Control effects for 5 seconds.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 5,
+    "max_targets": 5,
+    "name": "Free Action",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "escape-artist",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Group",
+    "type": "Buff",
+    "id": "free-action",
+    "description": "Liberate group members and yourself gaining immunity to Movement Crowd Control effects for 5 seconds."
 }

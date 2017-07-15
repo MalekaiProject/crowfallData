@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "assassin",
-    "druid",
-    "frostweaver"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/fae.png",
-  "name": "Fae"
+    "classes": [
+        "assassin",
+        "druid",
+        "frostweaver"
+    ],
+    "description": "",
+    "name": "Fae",
+    "id": "fae",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

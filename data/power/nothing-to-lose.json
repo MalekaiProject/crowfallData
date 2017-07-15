@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 23,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 1000
-    }
-  ],
-  "duration": 20,
-  "max_targets": 0,
-  "name": "Nothing to Lose",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "runescarred-gladiator",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Sacrifice 1,000 Health to increase Critical Hit Chance by 5% and Critical Hit Damage by 50% for 20 seconds.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1000
+        }
+    ],
+    "duration": 20,
+    "max_targets": 0,
+    "name": "Nothing to Lose",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "runescarred-gladiator",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "nothing-to-lose",
+    "description": "Sacrifice 1,000 Health to increase Critical Hit Chance by 5% and Critical Hit Damage by 50% for 20 seconds."
 }

@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 12
-    }
-  ],
-  "duration": 30,
-  "max_targets": 1,
-  "name": "Rune Shield",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "rune-caster",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Protect yourself increasing Elemental Armor by 20.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Rune Shield",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "rune-caster",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "rune-shield",
+    "description": "Protect yourself increasing Elemental Armor by 20."
 }

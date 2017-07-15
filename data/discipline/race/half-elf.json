@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "ranger",
-    "assassin",
-    "druid"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/half-elf.png",
-  "name": "Half-Elf"
+    "classes": [
+        "ranger",
+        "assassin",
+        "druid"
+    ],
+    "description": "",
+    "name": "Half-Elf",
+    "id": "half-elf",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

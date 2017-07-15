@@ -1,23 +1,24 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Rallying Cry",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "cleric",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Heal"
-  ],
-  "targeting": "Group",
-  "tooltip": "Instantly Heal up to 5 group members and yourself for 563 - 688. Applies Rally to group members which increases Critical Hit Change by 15%.",
-  "type": "Ultimate"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Rallying Cry",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "cleric",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "Group",
+    "type": "Ultimate",
+    "id": "rallying-cry",
+    "description": "Instantly Heal up to 5 group members and yourself for 563 - 688. Applies Rally to group members which increases Critical Hit Change by 15%."
 }

@@ -1,29 +1,30 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The only thing said to unsettle a Stoneborn, is the sight of an immortal summoning a Runestone Hammer...",
-  "equips_granted": [],
-  "icon": "https://cdn.malekai.network/images/disciplines/sturdy.png",
-  "name": "Sturdy",
-  "powers": [
-    "sturdy"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "stats_granted": [],
-  "stats_values": [],
-  "trays_granted": "",
-  "trays_removed": "",
-  "type": "Minor"
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "The only thing said to unsettle a Stoneborn, is the sight of an immortal summoning a Runestone Hammer...",
+    "equips_granted": [],
+    "name": "Sturdy",
+    "powers": [
+        "sturdy"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "Minor",
+    "id": "sturdy",
+    "tags": []
 }

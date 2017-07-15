@@ -1,27 +1,28 @@
 {
-  "cast_type": "Toggle",
-  "cooldown": 1,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 32
-    }
-  ],
-  "duration": 12,
-  "max_targets": 5,
-  "name": "Requiem",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 10,
-  "sources": [
-    {
-      "id": "troubadour",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Point Blank Area",
-  "tooltip": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Increases their Damage Taken by 15%. Type 2 Song.",
-  "type": "Debuff"
+    "cast_type": "Toggle",
+    "cooldown": 1,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 32
+        }
+    ],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Requiem",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 10,
+    "sources": [
+        {
+            "id": "troubadour",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Point Blank Area",
+    "type": "Debuff",
+    "id": "requiem",
+    "description": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Increases their Damage Taken by 15%. Type 2 Song."
 }

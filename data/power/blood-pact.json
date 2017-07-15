@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 15,
-  "max_targets": 1,
-  "name": "Blood Pact",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "blood-pact",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Grants a Blood Pact for 15 seconds, which all powers to consume Hitpoints instead of their normal ressource type.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Blood Pact",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "blood-pact",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "blood-pact",
+    "description": "Grants a Blood Pact for 15 seconds, which all powers to consume Hitpoints instead of their normal ressource type."
 }

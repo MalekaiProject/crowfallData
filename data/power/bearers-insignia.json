@@ -1,24 +1,25 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Bearers Insignia",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "standard-bearer",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Health Regeneration"
-  ],
-  "targeting": "Self",
-  "tooltip": "Increase your Out of Combat Regeneration by 10.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Bearers Insignia",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "standard-bearer",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Health Regeneration"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "bearers-insignia",
+    "description": "Increase your Out of Combat Regeneration by 10."
 }

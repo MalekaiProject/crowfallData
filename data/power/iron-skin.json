@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 12
-    }
-  ],
-  "duration": 30,
-  "max_targets": 1,
-  "name": "Iron Skin",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "master-of-swords",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Slashing"
-  ],
-  "targeting": "Self",
-  "tooltip": "Harden your skin increasing your Slashing Armor and reducing Weapon Resource Cost.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Iron Skin",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-swords",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Slashing"
+    ],
+    "targeting": "Self",
+    "type": "Melee Attack",
+    "id": "iron-skin",
+    "description": "Harden your skin increasing your Slashing Armor and reducing Weapon Resource Cost."
 }

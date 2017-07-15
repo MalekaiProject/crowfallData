@@ -1,11 +1,21 @@
 {
-  "classes": [
-    "knight",
-    "confessor",
-    "templar",
-    "ranger"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/elken.png",
-  "name": "Elken"
+    "classes": [
+        "knight",
+        "confessor",
+        "templar",
+        "ranger"
+    ],
+    "description": "",
+    "name": "Elken",
+    "id": "elken",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

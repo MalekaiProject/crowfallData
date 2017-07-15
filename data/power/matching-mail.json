@@ -1,24 +1,25 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Matching Mail",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "matching-mail",
-      "sub_type": "minor",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Support Power"
-  ],
-  "targeting": "Self",
-  "tooltip": "Increase your Support Power by 350 when wearing a full set of Mail armor.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Matching Mail",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "matching-mail",
+            "sub_type": "minor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Support Power"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "matching-mail",
+    "description": "Increase your Support Power by 350 when wearing a full set of Mail armor."
 }

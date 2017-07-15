@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "confessor",
-    "templar",
-    "assassin"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/nethari.png",
-  "name": "Nethari"
+    "classes": [
+        "confessor",
+        "templar",
+        "assassin"
+    ],
+    "description": "",
+    "name": "Nethari",
+    "id": "nethari",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

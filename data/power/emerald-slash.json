@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Emerald Slash",
-  "next_chain": [
-    "bloodstone-spin"
-  ],
-  "previous_chain": [
-    "ruby-slash"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "knight",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Slashing"
-  ],
-  "targeting": "Cone",
-  "tooltip": "A basic attack slashing in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attack hits activates SHIELD BASH.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Emerald Slash",
+    "next_chain": [
+        "bloodstone-spin"
+    ],
+    "previous_chain": [
+        "ruby-slash"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Slashing"
+    ],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "emerald-slash",
+    "description": "A basic attack slashing in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attack hits activates SHIELD BASH."
 }

@@ -1,23 +1,24 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Leave Burrow",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "duelist",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Burrow"
-  ],
-  "targeting": "Self",
-  "tooltip": "Leave your Burrow, becoming fully visible and switching to your normal power tray.",
-  "type": "Transformation"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Leave Burrow",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Burrow"
+    ],
+    "targeting": "Self",
+    "type": "Transformation",
+    "id": "leave-burrow",
+    "description": "Leave your Burrow, becoming fully visible and switching to your normal power tray."
 }

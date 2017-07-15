@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 10
-    }
-  ],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Cauterize",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "knife-grinder",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Bleed"
-  ],
-  "targeting": "Self",
-  "tooltip": "Remove Bleeding effects.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Cauterize",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "knife-grinder",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "cauterize",
+    "description": "Remove Bleeding effects."
 }

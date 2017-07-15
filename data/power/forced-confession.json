@@ -1,28 +1,29 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 30,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 55
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Forced Confession",
-  "next_chain": [],
-  "previous_chain": [
-    "flames-of-truth"
-  ],
-  "range": 30,
-  "sources": [
-    {
-      "id": "confessor",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Sphere",
-  "tooltip": "Consumes Flame of the Truth on your reticle target, which instantly exploded for 47 - 71 + 59% Weapon Damage, and stuns the target. Does nothing againts target without Flames of Truth.",
-  "type": "Crowd Control"
+    "cast_type": "Instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 55
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Forced Confession",
+    "next_chain": [],
+    "previous_chain": [
+        "flames-of-truth"
+    ],
+    "range": 30,
+    "sources": [
+        {
+            "id": "confessor",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Sphere",
+    "type": "Crowd Control",
+    "id": "forced-confession",
+    "description": "Consumes Flame of the Truth on your reticle target, which instantly exploded for 47 - 71 + 59% Weapon Damage, and stuns the target. Does nothing againts target without Flames of Truth."
 }

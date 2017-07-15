@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 30,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 8,
-  "max_targets": 1,
-  "name": "Warp Metal",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 15,
-  "sources": [
-    {
-      "id": "militant-mage",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Slashing"
-  ],
-  "targeting": "Ray",
-  "tooltip": "Curse an enemy with a destructive aura increasing Resource Cost for each Slashing damage attack they commit.",
-  "type": "Debuff"
+    "cast_type": "Instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 8,
+    "max_targets": 1,
+    "name": "Warp Metal",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "militant-mage",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Slashing"
+    ],
+    "targeting": "Ray",
+    "type": "Debuff",
+    "id": "warp-metal",
+    "description": "Curse an enemy with a destructive aura increasing Resource Cost for each Slashing damage attack they commit."
 }

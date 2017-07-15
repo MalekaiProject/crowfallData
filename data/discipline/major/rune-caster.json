@@ -1,35 +1,36 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Deciphering and utilizing the secret mysteries of runes is a tricky and sometimes difficult endeavor. Rune Casters have been known to look to Illara as the creator and keeper of rune knowledge. Those who are in tune and can decipher the arcane runes are granted many advantages in the form of shields, fortifications and sanctuary, in and out of combat.",
-  "equips_granted": [],
-  "icon": "https://cdn.malekai.network/images/disciplines/rune-caster.png",
-  "name": "Rune Caster",
-  "powers": [
-    "rune-shield",
-    "fortification",
-    "sanctuary"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "stats_granted": [
-    "Physical Mitigation"
-  ],
-  "stats_values": [
-    3.75
-  ],
-  "trays_granted": "",
-  "trays_removed": "",
-  "type": "Major"
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Deciphering and utilizing the secret mysteries of runes is a tricky and sometimes difficult endeavor. Rune Casters have been known to look to Illara as the creator and keeper of rune knowledge. Those who are in tune and can decipher the arcane runes are granted many advantages in the form of shields, fortifications and sanctuary, in and out of combat.",
+    "equips_granted": [],
+    "name": "Rune Caster",
+    "powers": [
+        "rune-shield",
+        "fortification",
+        "sanctuary"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [
+        "Physical Mitigation"
+    ],
+    "stats_values": [
+        3.75
+    ],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "Major",
+    "id": "rune-caster",
+    "tags": []
 }

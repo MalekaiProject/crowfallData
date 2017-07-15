@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 14
-    }
-  ],
-  "duration": 25,
-  "max_targets": 5,
-  "name": "Wee One",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "pixie",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Area",
-  "tooltip": "Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times.",
-  "type": "Debuff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 14
+        }
+    ],
+    "duration": 25,
+    "max_targets": 5,
+    "name": "Wee One",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "pixie",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Area",
+    "type": "Debuff",
+    "id": "wee-one",
+    "description": "Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times."
 }

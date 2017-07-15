@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "ranger",
-    "druid",
-    "frostweaver"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/wood-elf.png",
-  "name": "Wood-Elf"
+    "classes": [
+        "ranger",
+        "druid",
+        "frostweaver"
+    ],
+    "description": "",
+    "name": "Wood-Elf",
+    "id": "wood-elf",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

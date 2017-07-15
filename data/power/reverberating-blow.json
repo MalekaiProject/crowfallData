@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 24,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 11
-    }
-  ],
-  "duration": 15,
-  "max_targets": 5,
-  "name": "Reverberating Blow",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "master-of-maces",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Afflict an enemy with an aura causing other nearby enemies to suffer 15 - 20 + 18% Weapon Damage.",
-  "type": "Debuff"
+    "cast_type": "Instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 11
+        }
+    ],
+    "duration": 15,
+    "max_targets": 5,
+    "name": "Reverberating Blow",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-maces",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Debuff",
+    "id": "reverberating-blow",
+    "description": "Afflict an enemy with an aura causing other nearby enemies to suffer 15 - 20 + 18% Weapon Damage."
 }

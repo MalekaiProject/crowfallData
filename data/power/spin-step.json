@@ -1,21 +1,22 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Spin Step",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "ranger",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Roll quickly in the current WASD direction.",
-  "type": "Non-Aggressive"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Spin Step",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Non-Aggressive",
+    "id": "spin-step",
+    "description": "Roll quickly in the current WASD direction."
 }

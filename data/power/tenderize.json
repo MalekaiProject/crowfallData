@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 10
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Tenderize",
-  "next_chain": [
-    "tenderize-2"
-  ],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "knife-grinder",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Slice an enemy for 68 - 92 + 80% Weapon Damage.",
-  "type": "Debuff"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Tenderize",
+    "next_chain": [
+        "tenderize-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knife-grinder",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Debuff",
+    "id": "tenderize",
+    "description": "Slice an enemy for 68 - 92 + 80% Weapon Damage."
 }

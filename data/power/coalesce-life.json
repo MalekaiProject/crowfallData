@@ -1,30 +1,31 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 46
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Coalesce Life",
-  "next_chain": [
-    "coalesce-life-2"
-  ],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Heal"
-  ],
-  "targeting": "Area",
-  "tooltip": "Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage.",
-  "type": "Non-Aggressive"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 46
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Coalesce Life",
+    "next_chain": [
+        "coalesce-life-2"
+    ],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "Area",
+    "type": "Non-Aggressive",
+    "id": "coalesce-life",
+    "description": "Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage."
 }

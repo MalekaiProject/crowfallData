@@ -1,25 +1,26 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 15,
-  "max_targets": 0,
-  "name": "Blood Price",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "blade-master",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Attack Power",
-    "Heal"
-  ],
-  "targeting": "Self",
-  "tooltip": "Extract Blood Orbs from your enemies as you attack.  Picking up Blood Orbs heals you for 113 - 153 + 133% Weapon Damage and increases your Attack Power by 150 for 15 seconds.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Blood Price",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "blade-master",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Heal"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "blood-price",
+    "description": "Extract Blood Orbs from your enemies as you attack.  Picking up Blood Orbs heals you for 113 - 153 + 133% Weapon Damage and increases your Attack Power by 150 for 15 seconds."
 }

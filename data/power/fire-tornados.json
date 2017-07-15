@@ -1,30 +1,31 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 30,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 120
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Fire Tornados",
-  "next_chain": [],
-  "previous_chain": [
-    "hellfire-aura"
-  ],
-  "range": 3,
-  "sources": [
-    {
-      "id": "confessor",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Fire"
-  ],
-  "targeting": "Sphere",
-  "tooltip": "Consumes your Hellfire Aura and launches 2 Hellfire Tornados forward which pull nearby object into them and damages them for 105 - 157 + 131% Weapon Damage as Fire Damage. Each tornado last 15 seconds.",
-  "type": "Ranged Attack"
+    "cast_type": "Instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 120
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Fire Tornados",
+    "next_chain": [],
+    "previous_chain": [
+        "hellfire-aura"
+    ],
+    "range": 3,
+    "sources": [
+        {
+            "id": "confessor",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Fire"
+    ],
+    "targeting": "Sphere",
+    "type": "Ranged Attack",
+    "id": "fire-tornados",
+    "description": "Consumes your Hellfire Aura and launches 2 Hellfire Tornados forward which pull nearby object into them and damages them for 105 - 157 + 131% Weapon Damage as Fire Damage. Each tornado last 15 seconds."
 }

@@ -1,29 +1,30 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The Church of Arkon is said to have flawless methods of finishing their ennemies.",
-  "equips_granted": [],
-  "icon": "https://cdn.malekai.network/images/disciplines/finish-him.png",
-  "name": "Finish Him",
-  "powers": [
-    "executioner"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "stats_granted": [],
-  "stats_values": [],
-  "trays_granted": "",
-  "trays_removed": "",
-  "type": "Minor"
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "The Church of Arkon is said to have flawless methods of finishing their ennemies.",
+    "equips_granted": [],
+    "name": "Finish Him",
+    "powers": [
+        "executioner"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "Minor",
+    "id": "finish-him",
+    "tags": []
 }

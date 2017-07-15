@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 18
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Critical Hack",
-  "next_chain": [
-    "criticalhack2"
-  ],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "master-of-swords",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Slash an enemy for 131-177 +154% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 18
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Critical Hack",
+    "next_chain": [
+        "criticalhack2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-swords",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "critical-hack",
+    "description": "Slash an enemy for 131-177 +154% Weapon Damage."
 }

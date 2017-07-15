@@ -1,21 +1,22 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 30,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 3,
-  "name": "Retaliate (Ranger)",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "ranger",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Sphere",
-  "tooltip": "Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.",
-  "type": "Retaliate"
+    "cast_type": "Instant",
+    "cooldown": 30,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 3,
+    "name": "Retaliate (Ranger)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Sphere",
+    "type": "Retaliate",
+    "id": "retaliate-ranger",
+    "description": "Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies."
 }

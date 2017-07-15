@@ -1,30 +1,31 @@
 {
-  "classes": [
-    "druid"
-  ],
-  "description": "The curved sword may look quite different from the more common design, but it is just as lethal.  Most often seen in use during mounted combat, the scimitar is lighter and made for quick swipes with an emphasis on harvesting the power of lightning.",
-  "equips_granted": [
-    "Small Bucklers",
-    "Mystical Scimitars"
-  ],
-  "icon": "https://cdn.malekai.network/images/disciplines/master-of-scimitars.png",
-  "name": "Master of Scimitars",
-  "powers": [
-    "call-storm",
-    "grounding",
-    "stormcaller"
-  ],
-  "slots_granted": [
-    "Off-hand Weapon Slot"
-  ],
-  "slots_removed": [],
-  "stats_granted": [
-    "Damage Bonus: Electricity"
-  ],
-  "stats_values": [
-    6
-  ],
-  "trays_granted": "",
-  "trays_removed": "Life Tray",
-  "type": "Weapon"
+    "classes": [
+        "druid"
+    ],
+    "description": "The curved sword may look quite different from the more common design, but it is just as lethal.  Most often seen in use during mounted combat, the scimitar is lighter and made for quick swipes with an emphasis on harvesting the power of lightning.",
+    "equips_granted": [
+        "Small Bucklers",
+        "Mystical Scimitars"
+    ],
+    "name": "Master of Scimitars",
+    "powers": [
+        "call-storm",
+        "grounding",
+        "stormcaller"
+    ],
+    "slots_granted": [
+        "Off-hand Weapon Slot"
+    ],
+    "slots_removed": [],
+    "stats_granted": [
+        "Damage Bonus: Electricity"
+    ],
+    "stats_values": [
+        6
+    ],
+    "trays_granted": "",
+    "trays_removed": "Life Tray",
+    "type": "Weapon",
+    "id": "master-of-scimitars",
+    "tags": []
 }

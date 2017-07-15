@@ -1,25 +1,26 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Saber Attack 2",
-  "next_chain": [
-    "saber-attack-3"
-  ],
-  "previous_chain": [
-    "saber-attack-1"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "duelist",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Attack for 54 - 81 + 68% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Saber Attack 2",
+    "next_chain": [
+        "saber-attack-3"
+    ],
+    "previous_chain": [
+        "saber-attack-1"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "saber-attack-2",
+    "description": "Attack for 54 - 81 + 68% Weapon Damage."
 }

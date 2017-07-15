@@ -1,21 +1,22 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Tunnel",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "duelist",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Quickly excavate a path directly ahead of you, ignoring walls and object in your path.",
-  "type": "Non-Aggressive"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Tunnel",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Non-Aggressive",
+    "id": "tunnel",
+    "description": "Quickly excavate a path directly ahead of you, ignoring walls and object in your path."
 }

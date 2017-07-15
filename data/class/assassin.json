@@ -1,11 +1,13 @@
 {
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/classes/assassin.png",
-  "name": "Assassin",
-  "races": [
-    "half-elf",
-    "nethari",
-    "fae",
-    "high-elf"
-  ]
+    "description": "",
+    "name": "Assassin",
+    "races": [
+        "half-elf",
+        "nethari",
+        "fae",
+        "high-elf"
+    ],
+    "id": "assassin",
+    "tags": [],
+    "powers": []
 }

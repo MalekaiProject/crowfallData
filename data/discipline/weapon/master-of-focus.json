@@ -1,29 +1,30 @@
 {
-  "classes": [
-    "confessor",
-    "frostweaver"
-  ],
-  "description": "The ultimate power of focus allows for an expansion of one's own capability.  With fixation and intent, the power of the mind allows for the ultimate weapon to take form.  Novas, piercing orbs, and revenge are just a few of the aspects of concentration a master can wield.",
-  "equips_granted": [],
-  "icon": "https://cdn.malekai.network/images/disciplines/master-of-focus.png",
-  "name": "Master of Focus",
-  "powers": [
-    "nova",
-    "piercing-orb",
-    "mana-shield",
-    "mind-revenge"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "stats_granted": [
-    "Damage Bonus: Fire",
-    "Damage Bonus: Ice"
-  ],
-  "stats_values": [
-    6,
-    6
-  ],
-  "trays_granted": "",
-  "trays_removed": "",
-  "type": "Weapon"
+    "classes": [
+        "confessor",
+        "frostweaver"
+    ],
+    "description": "The ultimate power of focus allows for an expansion of one's own capability.  With fixation and intent, the power of the mind allows for the ultimate weapon to take form.  Novas, piercing orbs, and revenge are just a few of the aspects of concentration a master can wield.",
+    "equips_granted": [],
+    "name": "Master of Focus",
+    "powers": [
+        "nova",
+        "piercing-orb",
+        "mana-shield",
+        "mind-revenge"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [
+        "Damage Bonus: Fire",
+        "Damage Bonus: Ice"
+    ],
+    "stats_values": [
+        6,
+        6
+    ],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "Weapon",
+    "id": "master-of-focus",
+    "tags": []
 }

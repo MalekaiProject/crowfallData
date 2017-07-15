@@ -1,25 +1,26 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Coalesce Nature",
-  "next_chain": [],
-  "previous_chain": [
-    "coalesce-life-2"
-  ],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Heal"
-  ],
-  "targeting": "Area",
-  "tooltip": "Manifest an Orb at your targeted location that allies or you may use to heal 216 to 264 + 240% Weapon Damage as well as restoring resources for allies.",
-  "type": "Non-Aggressive"
+    "cast_type": "Instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Coalesce Nature",
+    "next_chain": [],
+    "previous_chain": [
+        "coalesce-life-2"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "Area",
+    "type": "Non-Aggressive",
+    "id": "coalesce-nature",
+    "description": "Manifest an Orb at your targeted location that allies or you may use to heal 216 to 264 + 240% Weapon Damage as well as restoring resources for allies."
 }

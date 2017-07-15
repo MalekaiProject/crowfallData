@@ -1,23 +1,24 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 4,
-  "max_targets": 1,
-  "name": "Second Wind (Champion)",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "champion",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Health Regeneration"
-  ],
-  "targeting": "Self",
-  "tooltip": "After not taking damage for 4 seconds and falling below 50% Health, Health Regeneration is greatly increased until reaching 50% Health.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 4,
+    "max_targets": 1,
+    "name": "Second Wind (Champion)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "champion",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Health Regeneration"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "second-wind-champion",
+    "description": "After not taking damage for 4 seconds and falling below 50% Health, Health Regeneration is greatly increased until reaching 50% Health."
 }

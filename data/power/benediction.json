@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 12
-    }
-  ],
-  "duration": 30,
-  "max_targets": 5,
-  "name": "Benediction",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "friar",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Bleed"
-  ],
-  "targeting": "Group",
-  "tooltip": "Benediction Bless group members and yourself increasing Bleed Armor by 50 for 30 seconds.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 30,
+    "max_targets": 5,
+    "name": "Benediction",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "friar",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "Group",
+    "type": "Buff",
+    "id": "benediction",
+    "description": "Benediction Bless group members and yourself increasing Bleed Armor by 50 for 30 seconds."
 }

@@ -1,29 +1,30 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 30,
-  "max_targets": 1,
-  "name": "Payback",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "underdog",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Retaliate"
-  ],
-  "targeting": "Self",
-  "tooltip": "Get even with your opponents after using a Retaliate ability by increasing your Critical Hit Chance by 50 for 30 seconds or until you crit three times.",
-  "type": "Buff"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Payback",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "underdog",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Retaliate"
+    ],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "payback",
+    "description": "Get even with your opponents after using a Retaliate ability by increasing your Critical Hit Chance by 50 for 30 seconds or until you crit three times."
 }

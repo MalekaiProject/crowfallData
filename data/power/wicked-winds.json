@@ -1,28 +1,29 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 24,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 79
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Wicked Winds",
-  "next_chain": [],
-  "previous_chain": [
-    "shroud-of-darkness"
-  ],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Reticle",
-  "tooltip": "Launch a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage.",
-  "type": "Ranged Attack"
+    "cast_type": "Instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 79
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Wicked Winds",
+    "next_chain": [],
+    "previous_chain": [
+        "shroud-of-darkness"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Reticle",
+    "type": "Ranged Attack",
+    "id": "wicked-winds",
+    "description": "Launch a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage."
 }

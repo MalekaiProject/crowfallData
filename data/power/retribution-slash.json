@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 15,
-  "max_targets": 1,
-  "name": "Retribution Slash",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "blade-master",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Retribution"
-  ],
-  "targeting": "Cone",
-  "tooltip": "Turn the tables on enemies with a strike granting 20% Retribution for 15 seconds and causing 113 - 153 + 133% Weapon Damage.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Retribution Slash",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "blade-master",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Retribution"
+    ],
+    "targeting": "Cone",
+    "type": "Buff",
+    "id": "retribution-slash",
+    "description": "Turn the tables on enemies with a strike granting 20% Retribution for 15 seconds and causing 113 - 153 + 133% Weapon Damage."
 }

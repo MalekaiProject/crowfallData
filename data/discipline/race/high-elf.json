@@ -1,11 +1,21 @@
 {
-  "classes": [
-    "knight",
-    "confessor",
-    "assassin",
-    "frostweaver"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/high-elf.png",
-  "name": "High-Elf"
+    "classes": [
+        "knight",
+        "confessor",
+        "assassin",
+        "frostweaver"
+    ],
+    "description": "",
+    "name": "High-Elf",
+    "id": "high-elf",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": ""
 }

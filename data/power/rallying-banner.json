@@ -1,31 +1,32 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 0,
-  "max_targets": 5,
-  "name": "Rallying Banner",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 15,
-  "sources": [
-    {
-      "id": "standard-bearer",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Attack Power",
-    "Heal",
-    "Slow"
-  ],
-  "targeting": "Area",
-  "tooltip": "Fortify nearby group members with a banner increasing Attack Power by 200, healing those under 35% Health and removing Slow effects.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Rallying Banner",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "standard-bearer",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Heal",
+        "Slow"
+    ],
+    "targeting": "Area",
+    "type": "Buff",
+    "id": "rallying-banner",
+    "description": "Fortify nearby group members with a banner increasing Attack Power by 200, healing those under 35% Health and removing Slow effects."
 }

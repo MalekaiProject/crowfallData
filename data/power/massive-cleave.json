@@ -1,28 +1,29 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 15
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Massive Cleave",
-  "next_chain": [
-    "whirling-pain"
-  ],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "champion",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Strike in front of you for 142 - 192 - 167% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 15
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Massive Cleave",
+    "next_chain": [
+        "whirling-pain"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "champion",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "massive-cleave",
+    "description": "Strike in front of you for 142 - 192 - 167% Weapon Damage."
 }

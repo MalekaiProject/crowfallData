@@ -1,29 +1,30 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Take then thy bond, take thou thy pound of flesh.",
-  "equips_granted": [],
-  "icon": "https://cdn.malekai.network/images/disciplines/pound-of-flesh.png",
-  "name": "Pound of Flesh",
-  "powers": [
-    "pound-of-flesh"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "stats_granted": [],
-  "stats_values": [],
-  "trays_granted": "",
-  "trays_removed": "",
-  "type": "Minor"
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Take then thy bond, take thou thy pound of flesh.",
+    "equips_granted": [],
+    "name": "Pound of Flesh",
+    "powers": [
+        "pound-of-flesh"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "Minor",
+    "id": "pound-of-flesh",
+    "tags": []
 }

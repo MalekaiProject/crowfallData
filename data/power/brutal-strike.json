@@ -1,33 +1,34 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 9,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 22
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Brutal Strike",
-  "next_chain": [
-    "shockwave",
-    "obliterate"
-  ],
-  "previous_chain": [
-    "onslaught"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "knight",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Crushing"
-  ],
-  "targeting": "Cone",
-  "tooltip": "Attack in front of you for 144 - 195 + 170% Crushing Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 22
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Brutal Strike",
+    "next_chain": [
+        "shockwave",
+        "obliterate"
+    ],
+    "previous_chain": [
+        "onslaught"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "brutal-strike",
+    "description": "Attack in front of you for 144 - 195 + 170% Crushing Weapon Damage."
 }

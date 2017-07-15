@@ -1,23 +1,24 @@
 {
-  "cast_type": "Hold Channeled",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 5,
-  "max_targets": 1,
-  "name": "Block",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "knight",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Block"
-  ],
-  "targeting": "Self",
-  "tooltip": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.  Enemies striking you with Elemental attacks take 100% Weapon Damage in return. Increases damage by 15% for 5 seconds for each 150 damage taken while Blocking.  Taking more that 150 damage while Blocking activates SHIELD BASH and increases damage by 15% for 5 second for each 150 damage taken while Blocking.",
-  "type": "Crowd Control Self"
+    "cast_type": "Hold Channeled",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 5,
+    "max_targets": 1,
+    "name": "Block",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Block"
+    ],
+    "targeting": "Self",
+    "type": "Crowd Control Self",
+    "id": "block",
+    "description": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.  Enemies striking you with Elemental attacks take 100% Weapon Damage in return. Increases damage by 15% for 5 seconds for each 150 damage taken while Blocking.  Taking more that 150 damage while Blocking activates SHIELD BASH and increases damage by 15% for 5 second for each 150 damage taken while Blocking."
 }

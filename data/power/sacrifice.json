@@ -1,26 +1,27 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 5,
-  "cost": [
-    {
-      "name": "health",
-      "cost": 55
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Sacrifice",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Sacrifice 55 Health for 15% Essence.",
-  "type": "Non-Aggressive"
+    "cast_type": "Instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "health",
+            "cost": 55
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Sacrifice",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Non-Aggressive",
+    "id": "sacrifice",
+    "description": "Sacrifice 55 Health for 15% Essence."
 }

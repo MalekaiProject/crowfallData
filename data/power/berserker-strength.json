@@ -1,25 +1,26 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Berserker Strength",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "master-of-axes",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Attack Power",
-    "Barrier"
-  ],
-  "targeting": "Self",
-  "tooltip": "Attacks have a chance to increase Attack Power by 150 and add a protective Barrier.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Berserker Strength",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-axes",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Barrier"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "berserker-strength",
+    "description": "Attacks have a chance to increase Attack Power by 150 and add a protective Barrier."
 }

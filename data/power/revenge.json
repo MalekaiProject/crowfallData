@@ -1,24 +1,25 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 30,
-  "max_targets": 1,
-  "name": "Revenge",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "mole-hunter",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Stealth"
-  ],
-  "targeting": "Self",
-  "tooltip": "Increase your Critical Hit Chance and Critical Hit Damage by 25 for 30 seconds when damaged by a Stealth attack.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Revenge",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "mole-hunter",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Stealth"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "revenge",
+    "description": "Increase your Critical Hit Chance and Critical Hit Damage by 25 for 30 seconds when damaged by a Stealth attack."
 }

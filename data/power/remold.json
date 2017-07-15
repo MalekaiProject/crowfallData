@@ -1,30 +1,31 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 15,
-  "max_targets": 0,
-  "name": "Remold",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "mudman",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Crushing",
-    "Heal"
-  ],
-  "targeting": "Self",
-  "tooltip": "Reform like clay easily healing any Crushing damage inflicted upon you and an additional 158 - 193 + 175% every five seconds for 15 seconds.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Remold",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "mudman",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Crushing",
+        "Heal"
+    ],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "remold",
+    "description": "Reform like clay easily healing any Crushing damage inflicted upon you and an additional 158 - 193 + 175% every five seconds for 15 seconds."
 }

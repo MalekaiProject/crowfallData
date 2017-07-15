@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 5,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 7
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Crippling Stab",
-  "next_chain": [
-    "crippling-stab-2"
-  ],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "master-of-daggers",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Cone",
-  "tooltip": "Stab an enemy for 48 - 64 + 56% Weapon Damage.",
-  "type": "Melee Attack"
+    "cast_type": "Instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 7
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Crippling Stab",
+    "next_chain": [
+        "crippling-stab-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-daggers",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Cone",
+    "type": "Melee Attack",
+    "id": "crippling-stab",
+    "description": "Stab an enemy for 48 - 64 + 56% Weapon Damage."
 }

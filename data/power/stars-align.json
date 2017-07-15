@@ -1,27 +1,28 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 20,
-  "max_targets": 5,
-  "name": "Stars Align",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "master-of-mystical-staves",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 20,
+    "max_targets": 5,
+    "name": "Stars Align",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-mystical-staves",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "stars-align",
+    "description": "Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds."
 }

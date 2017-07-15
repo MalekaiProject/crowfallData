@@ -1,25 +1,26 @@
 {
-  "cast_type": "Passive",
-  "cooldown": 0,
-  "cost": [],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Conduction",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "firewalker",
-      "sub_type": "major",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Attack Power",
-    "Fire"
-  ],
-  "targeting": "Self",
-  "tooltip": "Increase your Attack Power for 30 seconds when damaged by Fire.",
-  "type": "Passive"
+    "cast_type": "Passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Conduction",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "firewalker",
+            "sub_type": "major",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Fire"
+    ],
+    "targeting": "Self",
+    "type": "Passive",
+    "id": "conduction",
+    "description": "Increase your Attack Power for 30 seconds when damaged by Fire."
 }

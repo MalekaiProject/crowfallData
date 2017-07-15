@@ -1,28 +1,29 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 30,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 35
-    }
-  ],
-  "duration": 8,
-  "max_targets": 1,
-  "name": "Leeching Seed",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Movement Speed"
-  ],
-  "targeting": "Area",
-  "tooltip": "Cause an enemy to become lethargic increasing all Power colldowns and reducing their movement speed for 8 seconds.",
-  "type": "Debuff"
+    "cast_type": "Instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 35
+        }
+    ],
+    "duration": 8,
+    "max_targets": 1,
+    "name": "Leeching Seed",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Movement Speed"
+    ],
+    "targeting": "Area",
+    "type": "Debuff",
+    "id": "leeching-seed",
+    "description": "Cause an enemy to become lethargic increasing all Power colldowns and reducing their movement speed for 8 seconds."
 }

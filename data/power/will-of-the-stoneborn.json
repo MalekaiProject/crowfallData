@@ -1,29 +1,30 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 45,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 16
-    }
-  ],
-  "duration": 30,
-  "max_targets": 1,
-  "name": "Will of the Stoneborn",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 5,
-  "sources": [
-    {
-      "id": "master-of-maces",
-      "sub_type": "weapon",
-      "type": "discipline"
-    }
-  ],
-  "tags": [
-    "Crushing"
-  ],
-  "targeting": "Self",
-  "tooltip": "Fortify your defense increasing your Crushing armor and improving weapon efficiency.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Will of the Stoneborn",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-maces",
+            "sub_type": "weapon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "will-of-the-stoneborn",
+    "description": "Fortify your defense increasing your Crushing armor and improving weapon efficiency."
 }

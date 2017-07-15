@@ -1,28 +1,29 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 5,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 26
-    }
-  ],
-  "duration": 45,
-  "max_targets": 1,
-  "name": "Contain Essence",
-  "next_chain": [],
-  "previous_chain": [
-    "natural-bond"
-  ],
-  "range": 0,
-  "sources": [
-    {
-      "id": "druid",
-      "type": "class"
-    }
-  ],
-  "tags": [],
-  "targeting": "Self",
-  "tooltip": "Raise your Life affinity reducing your Essence Gain by 35% for 45 seconds.",
-  "type": "Buff"
+    "cast_type": "Instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 26
+        }
+    ],
+    "duration": 45,
+    "max_targets": 1,
+    "name": "Contain Essence",
+    "next_chain": [],
+    "previous_chain": [
+        "natural-bond"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "Self",
+    "type": "Buff",
+    "id": "contain-essence",
+    "description": "Raise your Life affinity reducing your Essence Gain by 35% for 45 seconds."
 }

@@ -1,10 +1,20 @@
 {
-  "classes": [
-    "knight",
-    "champion",
-    "cleric"
-  ],
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/races/centaur.png",
-  "name": "Centaur"
+    "classes": [
+        "knight",
+        "champion",
+        "cleric"
+    ],
+    "description": "",
+    "equips_granted": [],
+    "name": "Centaur",
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "Race",
+    "id": "centaur",
+    "tags": []
 }

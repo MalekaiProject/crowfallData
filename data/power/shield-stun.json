@@ -1,31 +1,32 @@
 {
-  "cast_type": "Instant",
-  "cooldown": 30,
-  "cost": [
-    {
-      "name": "resource",
-      "cost": 18
-    }
-  ],
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Shield Stun",
-  "next_chain": [],
-  "previous_chain": [
-    "shield-swipe"
-  ],
-  "range": 5,
-  "sources": [
-    {
-      "id": "knight",
-      "type": "class"
-    }
-  ],
-  "tags": [
-    "Crushing",
-    "Stun"
-  ],
-  "targeting": "Cone",
-  "tooltip": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage.",
-  "type": "Crowd Control"
+    "cast_type": "Instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 18
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Shield Stun",
+    "next_chain": [],
+    "previous_chain": [
+        "shield-swipe"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing",
+        "Stun"
+    ],
+    "targeting": "Cone",
+    "type": "Crowd Control",
+    "id": "shield-stun",
+    "description": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage."
 }
