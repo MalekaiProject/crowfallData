@@ -6,7 +6,7 @@
   "max_targets": 1,
   "name": "Side Strike",
   "next_chain": [
-    "discipling-strike"
+    "discipling-strikes"
   ],
   "previous_chain": [
     "strike"
