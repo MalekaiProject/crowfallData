@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "take-root",
     "description": "Standing still for 2 seconds increases Healing Bonus by 20% and Physical Mitigations by 5% until you move."
 }

@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "crazy-pills",
     "description": "Increases Attack Power the lower your resource is."
 }

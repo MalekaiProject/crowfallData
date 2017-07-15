@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Buff",
-    "id": "insanity",
     "description": "Bolster your combat prowess increasing your Health maximum by 17.5 for each point of current Rage."
 }

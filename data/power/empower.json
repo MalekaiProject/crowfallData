@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Buff",
-    "id": "empower",
     "description": "Embrace Death increasing your Essence Gain by 35% for 45 seconds."
 }

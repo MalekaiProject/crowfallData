@@ -3,6 +3,7 @@
  * it will print them to stderr and write them to a "id-errors.txt" file.
  */
 const fs = require('fs');
+const path = require('path');
 
 const walk = function(dir) {
     var results = [];
@@ -26,12 +27,21 @@ const ids = {};
 const childrenIds = {};
 for(const file of walk('data')) {
     const obj = JSON.parse(fs.readFileSync(file));
+
     const match = /^data\/(.+?)\//.exec(file);
     const data_type = match ? match[1] : 'null';
-    const key = data_type + '::' + obj.id;
+
+    const basename = path.basename(file);
+    const id = basename.substr(0, basename.length - 5); // 5 is for `.json`
+
+    const key = data_type + '::' + id;
+
+    const correctId = obj.name.toLocaleLowerCase().trim().split(' ').join('-').replace(/[^\w-]/g, '');
+    if(id !== correctId)
+        error(`Found filename - correctId mismatch: ${id} <-> ${correctId}`);
 
     if(ids[key])
-        error(`Found duplicate id "${obj.id}" at ${file} and ${ids[key]}!`);
+        error(`Found duplicate id "${id}" at ${file} and ${ids[key]}!`);
     else {
         ids[key] = file;
         switch(data_type) {
@@ -56,5 +66,5 @@ for(const id in childrenIds) {
 }
 
 if(errors.length) {
-    fs.writeFileSync('error-ids.txt', errors.join('\n'));
+    fs.writeFileSync('id-errors.txt', errors.join('\n'));
 }

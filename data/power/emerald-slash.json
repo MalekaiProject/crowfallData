@@ -23,6 +23,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "emerald-slash",
     "description": "A basic attack slashing in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attack hits activates SHIELD BASH."
 }

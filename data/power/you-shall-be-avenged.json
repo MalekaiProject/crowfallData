@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "you-shall-be-avenged",
     "description": "Increase your Attack Power when a group member dies."
 }

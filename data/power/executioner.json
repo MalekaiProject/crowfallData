@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "executioner",
     "description": "Increase the damage of Execution abilities."
 }

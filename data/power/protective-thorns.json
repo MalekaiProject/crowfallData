@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "protective-thorns",
     "description": "Fortify your Armor Class increasing it by three times your Thorns plus Bonus Thorns for 20 seconds whenever you activate Thorns."
 }

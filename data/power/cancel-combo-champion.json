@@ -19,6 +19,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Non-Aggressive",
-    "id": "cancel-combo-champion",
     "description": "Cancels the current combo power being executed."
 }

@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "crippling-stab",
     "description": "Stab an enemy for 48 - 64 + 56% Weapon Damage."
 }

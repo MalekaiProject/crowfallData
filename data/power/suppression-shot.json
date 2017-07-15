@@ -22,6 +22,5 @@
     "tags": [],
     "targeting": "Area",
     "type": "Crowd Control",
-    "id": "suppression-shot",
     "description": "Shoot at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit."
 }

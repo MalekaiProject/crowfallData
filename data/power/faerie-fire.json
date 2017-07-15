@@ -27,6 +27,5 @@
     ],
     "targeting": "Reticle",
     "type": "Debuff",
-    "id": "faerie-fire",
     "description": "Engulf an enemy in Faerie Fire reducing Slashing, Piercing and Crushing armor and causing 44 - 67 Nature damage + 6% Weapon Damage over 12 seconds."
 }

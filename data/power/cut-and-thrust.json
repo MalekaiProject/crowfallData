@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "cut-and-thrust",
     "description": "Stab an enemy twice for 70 - 95 + 82% Weapon Damage."
 }

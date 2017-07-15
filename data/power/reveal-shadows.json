@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Buff",
-    "id": "reveal-shadows",
     "description": "Activates Shadow Sight for 12 seconds."
 }

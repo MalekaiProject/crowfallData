@@ -22,6 +22,5 @@
     "tags": [],
     "targeting": "Rectangle",
     "type": "Melee Attack",
-    "id": "wild-charge",
     "description": "Charge forward while the input key is depressed, dealing 110 - 135 + 123% Weapon Damage to anything in your way."
 }

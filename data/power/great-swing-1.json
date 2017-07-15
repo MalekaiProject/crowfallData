@@ -19,6 +19,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "great-swing-1",
     "description": "Attack for 48 - 72 + 60% Weapon Damage."
 }

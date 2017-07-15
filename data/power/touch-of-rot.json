@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "touch-of-rot",
     "description": "Your basic attacks apply a stacking Support Power debuff."
 }

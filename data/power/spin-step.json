@@ -17,6 +17,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Non-Aggressive",
-    "id": "spin-step",
     "description": "Roll quickly in the current WASD direction."
 }

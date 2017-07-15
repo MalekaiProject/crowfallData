@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "explosive-thorns",
     "description": "Stretch the effectiveness of Thorns with a chance to cause additional damage to up to five nearby ennemies whenever you are damaged while a Thorns effect is active."
 }

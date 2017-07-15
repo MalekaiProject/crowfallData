@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "pin-cushion",
     "description": "Gain a Piercing damage immune Barrier for 15 seconds."
 }

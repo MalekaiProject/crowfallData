@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "frighten",
     "description": "Shout at an enemy inflicting 91 - 123 + 107% Weapon Damage and reducing their damage bonus."
 }

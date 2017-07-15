@@ -27,6 +27,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "blood-strike-2",
     "description": "Slash enemies for 51 - 69 + 60% Weapon Damage."
 }

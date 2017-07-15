@@ -21,6 +21,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "great-swing-3",
     "description": "Attack for 74 - 111 + 93% Weapon Damage and generates a point of Righteousness."
 }

@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "shield-glare",
     "description": "Smash an enemy if the face for 110 - 148 + 129% Weapon Damage."
 }

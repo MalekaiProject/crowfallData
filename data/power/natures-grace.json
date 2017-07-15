@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "natures-grace",
     "description": "Increase Healing by 10% for 45 seconds."
 }

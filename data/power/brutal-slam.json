@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "brutal-slam",
     "description": "Strike with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Armor by 20."
 }

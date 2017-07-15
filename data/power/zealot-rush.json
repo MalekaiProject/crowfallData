@@ -17,6 +17,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Non-Aggressive",
-    "id": "zealot-rush",
     "description": "Dash quickly in the current WASD direction."
 }

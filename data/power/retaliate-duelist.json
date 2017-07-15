@@ -19,6 +19,5 @@
     ],
     "targeting": "Sphere",
     "type": "Retaliate",
-    "id": "retaliate-duelist",
     "description": "Jump to your feet, damaging all nearby enemies for 105 - 158 + 132% Weapon Damage. Retaliating an Exposed enemy generates an additional Pip and reset Relaliate's cooldown."
 }

@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Debuff",
-    "id": "aura-of-terror",
     "description": "Surround yourself with a chilling aura of palpable fear that automatically reveals Stealthed enemies.  Enemies who remain nearby for too long are Suppressed and then afflicted with Frostbite."
 }

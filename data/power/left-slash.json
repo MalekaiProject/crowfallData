@@ -26,6 +26,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "left-slash",
     "description": "Attack with your left weapon for 8 - 9 + 9% Weapon Damage."
 }

@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "banshee-wail",
     "description": "Deal 30% more Damage to enemies below 30% Health."
 }

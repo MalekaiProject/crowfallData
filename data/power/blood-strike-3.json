@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "blood-strike-3",
     "description": "Attack multiple enemies for 58 - 78 + 68% Weapon Damage and causing them to Bleed for 50 - 75 + 6% Weapon Damage per tick."
 }

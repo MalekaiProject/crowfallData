@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "critical-hack",
     "description": "Slash an enemy for 131-177 +154% Weapon Damage."
 }

@@ -27,6 +27,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "uppercut",
     "description": "Swipe in front of you for 121 - 148 + 134% Weapon Damage."
 }

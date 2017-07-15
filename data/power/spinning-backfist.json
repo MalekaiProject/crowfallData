@@ -26,6 +26,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "spinning-backfist",
     "description": "Spin in front of you dealing 104 - 141 + 122% Weapon Damage as Crushing Damage."
 }

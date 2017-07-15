@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "careful-aim",
     "description": "Increase your Critical Hit Chance while standing still."
 }

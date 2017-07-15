@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Buff",
-    "id": "hellfire-shield",
     "description": "Surrounds your skin an a Hellfire Shield to 15 seconds damaging all who cause damage to your for 15 - 18 damage."
 }

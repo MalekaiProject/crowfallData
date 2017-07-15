@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "critical-slice",
     "description": "Slice an enemy for 77 - 105 + 91% Weapon Damage."
 }

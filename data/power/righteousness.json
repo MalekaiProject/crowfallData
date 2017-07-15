@@ -17,6 +17,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "righteousness",
     "description": "Adds a chance to restore Mana when you deal damage to others. Also buffs Damage Bonus by 5% for 15 seconds whenever you hit reach maximum Zealotry."
 }

@@ -19,6 +19,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "reproach",
     "description": "Slash multiple enemies for 54 - 81 + 67% Weapon Damage."
 }

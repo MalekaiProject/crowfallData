@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "mithradatism",
     "description": "Remove all Poison effects from yourself."
 }

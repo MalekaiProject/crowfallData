@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "adjudicate-2",
     "description": "Judge an enemy inflicting 76-103 + 90% Holy Weapon Damage and cannot be imitgated normally."
 }

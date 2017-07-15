@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Buff",
-    "id": "rune-shield",
     "description": "Protect yourself increasing Elemental Armor by 20."
 }

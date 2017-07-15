@@ -21,6 +21,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "shadows-caress",
     "description": "Increase your Health Regeneration by 350 while in Stealth."
 }

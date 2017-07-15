@@ -22,6 +22,5 @@
     "tags": [],
     "targeting": "Rectangle",
     "type": "Crowd Control",
-    "id": "bull-rush",
     "description": "Charge forward dragging enemies along with you and causing 82 - 100 + 91% Weapon Damage. Enemies are flung into the air if the attack is over 65% charged."
 }

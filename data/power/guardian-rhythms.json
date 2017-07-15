@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Group",
     "type": "Buff",
-    "id": "guardian-rhythms",
     "description": "Reduces the groups Damage Taken by 15% for 12 seconds. Type 2 Song."
 }

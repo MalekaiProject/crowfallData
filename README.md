@@ -19,11 +19,6 @@ Scree, Michael Fedora, [LOD] Will, Remm, That_Eriksson, Typ3cast
 
 # Scripts
 
-## generate-ids.js
-Generates ids for all the files in the data directory.
-
-**USAGE**: `node scripts/generate-ids.js`
-
 ## fill-fields.js
 Fills the fields of the data objects to *at least* a default value;
 

@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "furious-slash",
     "description": "Hack at an enemy for 110 - 149 + 129% Weapon Damage."
 }

@@ -21,6 +21,5 @@
     ],
     "targeting": "Cone",
     "type": "Crowd Control Self",
-    "id": "ambush",
     "description": "Leap out of your Burrow performing a deadly surpise attack for 82 - 123 + 102% Weapon Damage and generating two Pips. If AMBUSH hits an Exposed enemy while they attack or use an ability they are knocked down, take additional damage and you earn additional Pips."
 }

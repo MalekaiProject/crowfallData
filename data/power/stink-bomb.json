@@ -27,6 +27,5 @@
     ],
     "targeting": "Area",
     "type": "Crowd Control",
-    "id": "stink-bomb",
     "description": "Torment enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth."
 }

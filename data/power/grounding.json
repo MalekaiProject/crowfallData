@@ -25,6 +25,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "grounding",
     "description": "Protect group members and yourself with increased Electricity Armor."
 }

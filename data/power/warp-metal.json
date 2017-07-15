@@ -25,6 +25,5 @@
     ],
     "targeting": "Ray",
     "type": "Debuff",
-    "id": "warp-metal",
     "description": "Curse an enemy with a destructive aura increasing Resource Cost for each Slashing damage attack they commit."
 }

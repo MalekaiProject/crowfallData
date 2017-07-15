@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "onslaught",
     "description": "Attack in front of you twice for 62 - 84 + 73% Weapon Damage each strike."
 }

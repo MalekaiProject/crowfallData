@@ -21,6 +21,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "conduction",
     "description": "Increase your Attack Power for 30 seconds when damaged by Fire."
 }

@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "cauterize",
     "description": "Remove Bleeding effects."
 }

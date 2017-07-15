@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Reticle",
     "type": "Melee Attack",
-    "id": "charge",
     "description": "Charge toward your target inflicting 72 - 88 + 80% Weapon Damage."
 }

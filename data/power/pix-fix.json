@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "pix-fix",
     "description": "All 'chain type' heals jump to 1 additional target.  Also reduces the amount of healing falloff per jump by 50%."
 }

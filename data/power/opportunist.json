@@ -17,6 +17,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "opportunist",
     "description": "Saber Attacks have a 20% chance to reset the cooldown on Flintlock shot."
 }

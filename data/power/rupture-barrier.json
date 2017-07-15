@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "rupture-barrier",
     "description": "Cause an additional 50% Weapon Damage when striking a Barrier and restore your Resource."
 }

@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "remold",
     "description": "Reform like clay easily healing any Crushing damage inflicted upon you and an additional 158 - 193 + 175% every five seconds for 15 seconds."
 }

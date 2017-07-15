@@ -27,6 +27,5 @@
     ],
     "targeting": "Reticle",
     "type": "Crowd Control",
-    "id": "cast-net",
     "description": "Fling a net at your target rooting them in place and inflicting 83 - 102 + 93% Weapon Damage."
 }

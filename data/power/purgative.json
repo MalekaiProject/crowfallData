@@ -25,6 +25,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "purgative",
     "description": "Cleanse your group and yourself of damage over time effects healing for 32 - 39 + 35% Weapon Damage for each effect removed."
 }

@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "restoration-smash-2",
     "description": "Crush an enemy for 116 - 156 + 136% Weapon Damage while restoring your Resource."
 }

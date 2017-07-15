@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Area",
     "type": "Buff",
-    "id": "sanctuary",
     "description": "Defend an area with a runic symbol increasing allies' All Armor by 20%."
 }

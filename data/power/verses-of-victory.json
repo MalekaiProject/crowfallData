@@ -21,6 +21,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "verses-of-victory",
     "description": "Increases your groups Attack Power by 150 as well as Support Power by 150 for 12 seconds. Type 4 Song."
 }

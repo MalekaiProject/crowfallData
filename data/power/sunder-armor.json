@@ -26,6 +26,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "sunder-armor",
     "description": "Swipe in front of you twice for 49 - 59 + 54% Weapon Damage. Applies an Armor Break to all hit,, which reduces all Physical Mitigations by 20% for 15 seconds."
 }

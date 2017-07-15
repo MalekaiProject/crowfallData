@@ -22,6 +22,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "castigate",
     "description": "Slash multiple enemies for 61 - 92 + 76% Weapon Damage."
 }

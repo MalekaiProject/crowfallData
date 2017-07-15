@@ -27,6 +27,5 @@
     ],
     "targeting": "Ray",
     "type": "Debuff",
-    "id": "pistol-shot-3",
     "description": "Shoot an enemy for 95 - 143 + 119% Weapon Damage while generating a Pip with a chance to reset the cooldown of Rapid Fire."
 }

@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "finery",
     "description": "Each piece of Epic or Legendary quality armor equipped increases Damage Bonus and Healing Bonus by 2%."
 }

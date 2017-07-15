@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Buff",
-    "id": "aegis-of-salvation-2",
     "description": "Attack causing 76 - 103 + 89% Weapon Damage and applies a barrier to you.  When it is removed you recover 10% to 15% to your Health"
 }

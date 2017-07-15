@@ -20,6 +20,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "hymn-of-restoration",
     "description": "Increases your groups In Combat Health Regen by 60 as well as Out of Combat Health Regen by 80 for 12 seconds. Type 3 Song."
 }

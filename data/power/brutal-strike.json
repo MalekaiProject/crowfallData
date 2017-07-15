@@ -29,6 +29,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "brutal-strike",
     "description": "Attack in front of you for 144 - 195 + 170% Crushing Weapon Damage."
 }

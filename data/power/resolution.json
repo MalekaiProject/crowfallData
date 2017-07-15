@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "resolution",
     "description": "Increase your Damage Bonus by 15% when three or more enemies are within 15m."
 }

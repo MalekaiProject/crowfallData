@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "needlin-haystack",
     "description": "Cover your body with sharp needle-like straws increasing your Piercing Armor by 25.  Piercing attacks reflect 133% weapon damage and cause Severe Bleeding."
 }

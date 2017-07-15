@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "cleave",
     "description": "Basic attacks hit one additional target."
 }

@@ -25,6 +25,5 @@
     ],
     "targeting": "Area",
     "type": "Buff",
-    "id": "pixie-dust",
     "description": "Blanket the targeted area with Pixie Dust, increasing Incoming Healing by 25% for 25 seconds."
 }

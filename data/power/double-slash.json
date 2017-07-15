@@ -26,6 +26,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "double-slash",
     "description": "Attack with both weapon simultaneously for 13 - 16 damage, causing your target to Bleed for 18 - 24 + #weapon_damage_2_values#% Weapon Damage."
 }

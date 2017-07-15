@@ -29,6 +29,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "cut-and-thrust-2",
     "description": "Penetrate an enemy's Block or Parry Stunning them and inflicting 70 - 95 + 83% Weapon Damage."
 }

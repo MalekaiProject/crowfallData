@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "tendon-slice",
     "description": "Slash in front of you for 134 - 181 - 158% Weapon Damage. Applies a 50% movement reduction to the target."
 }

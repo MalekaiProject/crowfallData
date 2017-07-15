@@ -26,6 +26,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "shield-swipe",
     "description": "Attack in front of you for 91 - 123 + 107% Crushing Weapon Damage."
 }

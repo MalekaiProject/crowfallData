@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "uniform-plate",
     "description": "Increase your Attack Power by 350 when wearing a full set of Plate armor."
 }

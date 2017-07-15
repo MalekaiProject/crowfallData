@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "skullcracker-2",
     "description": "Smash an enemy, stunning them and causing 94 - 127 + 111% Weapon Damage."
 }

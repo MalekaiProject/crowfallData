@@ -26,6 +26,5 @@
     ],
     "targeting": "Reticle",
     "type": "Debuff",
-    "id": "dispel",
     "description": "Strip away an enemy's Barrier inflicting 91 - 123 + 107% Weapon Damage and causing Knockdown if a Barrier is removed."
 }

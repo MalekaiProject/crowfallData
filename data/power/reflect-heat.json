@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "reflect-heat",
     "description": "Reflects 50% Fire Weapon Damage back to the source of a Fire damage attack."
 }

@@ -22,6 +22,5 @@
     ],
     "targeting": "Reticle",
     "type": "Ranged Attack",
-    "id": "multi-fireball",
     "description": "Shoots 3 fireballs towards your reticle that explodes for 35 - 53 + 44% Weapon Damage as Fire Damage. Applies Sin to anyone damaged."
 }

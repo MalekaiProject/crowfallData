@@ -28,6 +28,5 @@
     ],
     "targeting": "Sphere",
     "type": "Melee Attack",
-    "id": "dagger-spin-2",
     "description": "Spin in place and deal 46 - 62 + 54% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power."
 }

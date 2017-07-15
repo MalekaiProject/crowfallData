@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "massive-cleave",
     "description": "Strike in front of you for 142 - 192 - 167% Weapon Damage."
 }

@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "shroud-of-darkness",
     "description": "Attacks made against you have a chance of Stunning the enemy who struck you."
 }

@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "restoration-strike",
     "description": "Slice an enemy for 117-159 + 138% Weapon Damage."
 }

@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "burning-hatred",
     "description": "Seethe with anger as your damaging attacks periodically create a Fae Wisp, consumable only by you, restoring 252 - 308 + 280% Weapon Damage."
 }

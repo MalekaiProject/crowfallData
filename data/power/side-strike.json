@@ -21,6 +21,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "side-strike",
     "description": "Strike in front of you for 108 - 132 + 120% Weapon Damage."
 }

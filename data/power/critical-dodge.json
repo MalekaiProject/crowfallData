@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "critical-dodge",
     "description": "Recover one Dodge when hitting critically.  This effect can occur twice in 45 seconds."
 }

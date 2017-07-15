@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "fire-eater",
     "description": "Absorb heat from incoming Fire damage attacks to heal for 125% of Fire damage inflicted."
 }

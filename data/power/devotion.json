@@ -25,6 +25,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "devotion",
     "description": "Recite a benediction healing group members and you based on the damage you inflict and revealing Sin within enemies attacked for 15 seconds."
 }

@@ -26,6 +26,5 @@
     ],
     "targeting": "Cone",
     "type": "Crowd Control",
-    "id": "radiant-sweep",
     "description": "Knock down multiple enemies dealing 72 - 108 + 90% Weapon Damage."
 }

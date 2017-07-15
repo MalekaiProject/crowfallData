@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Crowd Control",
-    "id": "shield-stun",
     "description": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage."
 }

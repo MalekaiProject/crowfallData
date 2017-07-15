@@ -20,6 +20,5 @@
     ],
     "targeting": "",
     "type": "Ranged Attack",
-    "id": "shadow-mantle",
     "description": "Attack: Reduce Healing Received"
 }

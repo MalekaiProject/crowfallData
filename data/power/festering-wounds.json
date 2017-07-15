@@ -26,6 +26,5 @@
     ],
     "targeting": "Ray",
     "type": "Debuff",
-    "id": "festering-wounds",
     "description": "Plague an enemy with Disease and for 30 seconds any Heal ability they use leaves them in an Exposed state."
 }

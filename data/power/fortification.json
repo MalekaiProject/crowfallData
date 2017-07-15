@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Group",
     "type": "Buff",
-    "id": "fortification",
     "description": "Aid group members and yourself increasing Health by 1000."
 }

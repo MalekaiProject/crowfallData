@@ -19,6 +19,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "second-wind-knight",
     "description": "Heals you for 4% of your maximum Health every second and recovers Stamina. This effect is automatically triggered when dropping below 20% health."
 }

@@ -19,6 +19,5 @@
     ],
     "targeting": "Sphere",
     "type": "Retaliate",
-    "id": "retaliate-knight",
     "description": "Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down."
 }

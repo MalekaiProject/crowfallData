@@ -27,6 +27,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "twin-assault",
     "description": "Attack in front of you twice for 43 - 58 + 51% Weapon Damage each hit."
 }

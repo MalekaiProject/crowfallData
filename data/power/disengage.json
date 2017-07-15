@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Non-Aggressive",
-    "id": "disengage",
     "description": "Leap backwards dealing 244 - 331 + 287% Weapon Damage. Places your Power Tray into Ranged Mode."
 }

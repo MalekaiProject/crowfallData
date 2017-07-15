@@ -19,6 +19,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "smash",
     "description": "Strike in front of you for 68 - 92 + 80% Weapon Damage, generating 4 Rage if you hit."
 }

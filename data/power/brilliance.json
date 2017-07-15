@@ -21,6 +21,5 @@
     ],
     "targeting": "Sphere",
     "type": "Ultimate",
-    "id": "brilliance",
     "description": "Shine with golden light briefly becoming invulnerable, increasing your maximum Health for 20 seconds as well as blinding and damaging nearby enemies for 107 - 160 + 133% Fire Weapon Damage."
 }

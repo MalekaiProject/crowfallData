@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "demolish-armor",
     "description": "Demolish an enemy's Physical armor causing 120 - 163 + 142% Weapon Damage."
 }

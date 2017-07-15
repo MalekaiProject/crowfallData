@@ -26,6 +26,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "blade-turning",
     "description": "Gain a Slashing damage immune Barrier for 15 seconds."
 }

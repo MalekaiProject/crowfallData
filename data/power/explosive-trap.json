@@ -25,6 +25,5 @@
     ],
     "targeting": "Area",
     "type": "Melee Attack",
-    "id": "explosive-trap",
     "description": "Place an explosive trap at your feet which explodes when an enemy approaches it dealing 57 - 77 + 67% Weapon Damage as Fire Damage. Knocks Up all hit. Trap will exist for 60 seconds."
 }

@@ -28,6 +28,5 @@
     ],
     "targeting": "Sphere",
     "type": "Crowd Control",
-    "id": "obliterate",
     "description": "Attack and knock down enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
 }

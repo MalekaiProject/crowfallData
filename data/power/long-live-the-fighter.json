@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "long-live-the-fighter",
     "description": "Your last Basic attack inflicts a Bleed."
 }

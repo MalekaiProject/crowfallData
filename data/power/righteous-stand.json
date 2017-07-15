@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Crowd Control Self",
-    "id": "righteous-stand",
     "description": "Raise your sword to defend yourself increasing your damage mitigation and becoming immune to crow control effects. Being struck with a melee attack restores Righteousness and triggers Righteous Parry"
 }

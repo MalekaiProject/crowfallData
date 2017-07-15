@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Buff",
-    "id": "contain-essence",
     "description": "Raise your Life affinity reducing your Essence Gain by 35% for 45 seconds."
 }

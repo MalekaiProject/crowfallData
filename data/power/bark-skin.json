@@ -24,6 +24,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "bark-skin",
     "description": "Toughen the hide of group members and yourself applying Barrier for 20 seconds preventing 175 to 325 damage."
 }

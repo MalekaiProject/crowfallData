@@ -21,6 +21,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "fortuitous-blessings",
     "description": "Have faith and recieve the blessing you need.  Your actions determine whether you receive the Seeker's Blessing for movement speed, Charitable Blessing for Support Power or Impoverished Blessing for restoring your resource over time."
 }

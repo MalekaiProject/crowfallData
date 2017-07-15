@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Group",
     "type": "Buff",
-    "id": "toughness",
     "description": "Strengthen group members and yourself increasing their Maximum Health by 20% for 45 seconds."
 }

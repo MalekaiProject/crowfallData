@@ -24,6 +24,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "battle-cry",
     "description": "Removes all movement impairing effects. Increases group movement speed by 10%."
 }

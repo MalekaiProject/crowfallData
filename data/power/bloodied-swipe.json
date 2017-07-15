@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "bloodied-swipe",
     "description": "Leap forward striking twice for 39 - 48 + 43% Weapon Damage."
 }

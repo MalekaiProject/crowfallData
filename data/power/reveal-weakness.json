@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Group",
     "type": "Buff",
-    "id": "reveal-weakness",
     "description": "Enhance group members and yourself increasing Physical Armor Penetration by 10."
 }

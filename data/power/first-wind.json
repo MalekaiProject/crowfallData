@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "first-wind",
     "description": "After falling below 30% Health you heal rapidly if you avoid damage for 4 seconds until reaching 30% Health."
 }

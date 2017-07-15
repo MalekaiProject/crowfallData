@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "indulgence",
     "description": "Indulgence Cleanse yourself and become immune to Sin for 30 seconds."
 }

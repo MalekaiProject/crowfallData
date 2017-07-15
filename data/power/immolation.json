@@ -19,6 +19,5 @@
     ],
     "targeting": "Sphere",
     "type": "Ultimate",
-    "id": "immolation",
     "description": "Blinds up to 8 nearby enemies while rendering you immune to physics impulses and damage effects. Remove all movement impairments."
 }

@@ -19,6 +19,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "second-wind-champion",
     "description": "After not taking damage for 4 seconds and falling below 50% Health, Health Regeneration is greatly increased until reaching 50% Health."
 }

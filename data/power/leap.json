@@ -21,6 +21,5 @@
     ],
     "targeting": "Sphere",
     "type": "Melee Attack",
-    "id": "leap",
     "description": "Leap forward, dealing 65 - 88 + 77% Weapon Damage as Crushing Damage as you land. Briefly able to perform a second Leap for zero resource cost."
 }

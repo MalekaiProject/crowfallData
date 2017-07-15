@@ -26,6 +26,5 @@
     ],
     "targeting": "Point Blank Area",
     "type": "Debuff",
-    "id": "lament-of-sadness",
     "description": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Decreases their Attack Power by 150 as well as Support Power by 150. Type 4 Song."
 }

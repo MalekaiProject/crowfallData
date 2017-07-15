@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "mana-shield",
     "description": "Surround yourself with a protective barrier that drains your mana as it prevents damage as well as increasing your Damage Bonus by 5% for 15 seconds."
 }

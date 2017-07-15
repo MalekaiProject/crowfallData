@@ -25,6 +25,5 @@
     ],
     "targeting": "Reticle",
     "type": "Crowd Control",
-    "id": "pursuit",
     "description": "Charge forward striking with your shield, dealing 77 - 105 + 91% Crushing Weapon Damage and stunning the closest enemy."
 }

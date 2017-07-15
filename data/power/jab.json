@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "jab",
     "description": "Slash in front of you, critically striking for 118 - 160 + 139% Weapon Damage."
 }

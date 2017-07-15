@@ -24,6 +24,5 @@
     ],
     "targeting": "Area",
     "type": "Debuff",
-    "id": "leeching-seed",
     "description": "Cause an enemy to become lethargic increasing all Power colldowns and reducing their movement speed for 8 seconds."
 }

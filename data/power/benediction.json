@@ -25,6 +25,5 @@
     ],
     "targeting": "Group",
     "type": "Buff",
-    "id": "benediction",
     "description": "Benediction Bless group members and yourself increasing Bleed Armor by 50 for 30 seconds."
 }

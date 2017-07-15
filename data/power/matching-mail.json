@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "matching-mail",
     "description": "Increase your Support Power by 350 when wearing a full set of Mail armor."
 }

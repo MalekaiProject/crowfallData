@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "reverberating-blow",
     "description": "Afflict an enemy with an aura causing other nearby enemies to suffer 15 - 20 + 18% Weapon Damage."
 }

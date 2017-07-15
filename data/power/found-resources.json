@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "found-resources",
     "description": "Return to a minimum of two pips when entering stealth."
 }

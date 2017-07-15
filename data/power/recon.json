@@ -20,6 +20,5 @@
     ],
     "targeting": "Ray",
     "type": "Debuff",
-    "id": "recon",
     "description": "Carefully studying a target from the comfort of your Burrow, you apply the Exposed debuff to reveal weaknesses you and other specialists may capitalize on."
 }

@@ -27,6 +27,5 @@
     ],
     "targeting": "Area",
     "type": "Buff",
-    "id": "rallying-banner",
     "description": "Fortify nearby group members with a banner increasing Attack Power by 200, healing those under 35% Health and removing Slow effects."
 }

@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "tenderize",
     "description": "Slice an enemy for 68 - 92 + 80% Weapon Damage."
 }

@@ -19,6 +19,7 @@ for(const file of walk('data')) {
         const data_type = match ? match[1] : 'null';
         if(obj.icon) delete obj.icon;
         if(obj.tooltip) { obj.description = obj.tooltip; delete obj.tooltip; }
+        if(obj.id) delete obj.id;
         fs.writeFileSync(file, JSON.stringify(obj, null, 4));
     } catch (e) {
         console.error(e);

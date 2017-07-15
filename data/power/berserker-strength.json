@@ -21,6 +21,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "berserker-strength",
     "description": "Attacks have a chance to increase Attack Power by 150 and add a protective Barrier."
 }

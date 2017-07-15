@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Area",
     "type": "Debuff",
-    "id": "wee-one",
     "description": "Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times."
 }

@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "hamstring",
     "description": "Your last basic attack will cripple an enemy, applying a Movement Debuff."
 }

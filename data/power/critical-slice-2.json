@@ -25,6 +25,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Buff",
-    "id": "critical-slice-2",
     "description": "Gain the advantage over an enemy increasing your Critical Hit Damage and causing 94 - 127 + 111% Weapon Damage."
 }

@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "tenderize-2",
     "description": "Cut an enemy for 76 - 103 + 90% Weapon Damage and reducing their Bleed Armor for 15 seconds."
 }

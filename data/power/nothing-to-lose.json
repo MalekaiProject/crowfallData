@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Buff",
-    "id": "nothing-to-lose",
     "description": "Sacrifice 1,000 Health to increase Critical Hit Chance by 5% and Critical Hit Damage by 50% for 20 seconds."
 }

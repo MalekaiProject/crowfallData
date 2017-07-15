@@ -28,6 +28,5 @@
     ],
     "targeting": "Reticle",
     "type": "Debuff",
-    "id": "shield-breaker",
     "description": "Crush an enemy who is actively using Block or Parry causing a Knockdown and dealing 91 - 123 + 107% Weapon Damage."
 }

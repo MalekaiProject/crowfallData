@@ -25,6 +25,5 @@
     ],
     "targeting": "Area",
     "type": "Debuff",
-    "id": "grasping-roots",
     "description": "Command nature to envelope enemies in the targeted area rooting them in place and inflicting 50 - 75 + 63% Nature Weapon Damage."
 }

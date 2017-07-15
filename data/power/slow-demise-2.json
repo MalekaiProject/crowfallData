@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "slow-demise-2",
     "description": "Torment an enemy reducing their Healing Bonus and inflicting 79 - 108 + 94% Weapon Damage."
 }

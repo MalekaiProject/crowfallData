@@ -26,6 +26,5 @@
     "tags": [],
     "targeting": "Sphere",
     "type": "Buff",
-    "id": "hellfire-aura",
     "description": "Consumes your Hellfire Shield and surrounds you in a pulsing Hellfire Aura which damages all players within 4m of you every second for 15 - 18 Weapon Damage."
 }

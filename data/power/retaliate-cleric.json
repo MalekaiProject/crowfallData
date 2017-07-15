@@ -17,6 +17,5 @@
     "tags": [],
     "targeting": "Sphere",
     "type": "Retaliate",
-    "id": "retaliate-cleric",
     "description": "Jump to your feet, hitting all nearby enemies twice for 60 - 73 + 67% Weapon Damage."
 }

@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "sturdy",
     "description": "Reinforce your body reducing Health loss by 20% when your Health is above 80%."
 }

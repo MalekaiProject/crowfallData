@@ -18,6 +18,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "hit-me",
     "description": "Irritate your ennemies by recovering Resource when they hit you with non-periodic damage."
 }

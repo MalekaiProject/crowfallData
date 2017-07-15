@@ -22,6 +22,5 @@
     ],
     "targeting": "Area",
     "type": "Debuff",
-    "id": "speedy-retaliate",
     "description": "Regain your senses recovering immediately from Knockdown or Stun effects with an attack inflicting #min_damage_1# - #max_damage_1# + #weapon_damage_value#% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds."
 }

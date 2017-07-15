@@ -20,6 +20,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "numbness",
     "description": "Reduce the cost of Blocking high damage attacks."
 }

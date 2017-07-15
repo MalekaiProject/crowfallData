@@ -25,6 +25,5 @@
     ],
     "targeting": "Area",
     "type": "Buff",
-    "id": "banner-of-storms",
     "description": "Deploy a banner overriding the damage of all nearby group members to Electric and increasing their Electric Armor by 25."
 }

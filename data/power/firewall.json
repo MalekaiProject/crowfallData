@@ -26,6 +26,5 @@
     ],
     "targeting": "Rectangle",
     "type": "Debuff",
-    "id": "firewall",
     "description": "Summon a raging inferno to slow and damage any enemies for 30 - 40 + 35% Fire Weapon Damage."
 }

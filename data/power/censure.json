@@ -19,6 +19,5 @@
     ],
     "targeting": "Self",
     "type": "Non-Aggressive",
-    "id": "censure",
     "description": "Lunge forward with a sword strike stunning an enemy and causing 100 - 149 + 124% Weapon Damage."
 }

@@ -26,6 +26,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "cross-slash-2",
     "description": "Slash in front of you for 86 - 117 + 101% Weapon Damage. Applies a Moderate Bleed effect."
 }

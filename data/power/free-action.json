@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Group",
     "type": "Buff",
-    "id": "free-action",
     "description": "Liberate group members and yourself gaining immunity to Movement Crowd Control effects for 5 seconds."
 }

@@ -17,6 +17,5 @@
     "tags": [],
     "targeting": "Rectangle",
     "type": "Non-Aggressive",
-    "id": "dodge-cleric",
     "description": "Charge in the current WASD direction dealing for 41 - 50 Damage + 46% Weapon Damage."
 }

@@ -17,6 +17,5 @@
     "tags": [],
     "targeting": "Self",
     "type": "Passive",
-    "id": "relentless-cleric",
     "description": "You no longer degenerate Rage. Instead, you generate 1.5 Rage every 1 second while in Combat."
 }

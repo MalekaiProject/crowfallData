@@ -19,6 +19,5 @@
     ],
     "targeting": "Self",
     "type": "Transformation",
-    "id": "leave-burrow",
     "description": "Leave your Burrow, becoming fully visible and switching to your normal power tray."
 }

@@ -23,6 +23,5 @@
     "tags": [],
     "targeting": "Area",
     "type": "Debuff",
-    "id": "nova",
     "description": "Draw enemies toward you repeatedly inflicting 2 - 3 + 2% Weapon Damage."
 }

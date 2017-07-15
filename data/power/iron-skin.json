@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Melee Attack",
-    "id": "iron-skin",
     "description": "Harden your skin increasing your Slashing Armor and reducing Weapon Resource Cost."
 }

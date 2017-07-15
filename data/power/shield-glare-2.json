@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "shield-glare-2",
     "description": "Blind an enemy with light reflected from your shield causing 104 - 140 + 122% Weapon Damage."
 }

@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Ray",
     "type": "Ranged Attack",
-    "id": "lightning-burst",
     "description": "Blast enemies with lightning for 110 - 165 + 138% Weapon Damage."
 }

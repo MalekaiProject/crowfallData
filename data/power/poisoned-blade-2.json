@@ -27,6 +27,5 @@
     ],
     "targeting": "Cone",
     "type": "Debuff",
-    "id": "poisoned-blade-2",
     "description": "Attack for 86 - 117 + 101% Weapon Damage and cause the enemy to become Poisoned taking 8 - 9 + 1% Weapon Damage per tick."
 }

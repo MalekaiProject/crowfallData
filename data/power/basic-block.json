@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Buff",
-    "id": "basic-block",
     "description": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects."
 }

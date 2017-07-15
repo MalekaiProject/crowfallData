@@ -24,6 +24,5 @@
     "tags": [],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "arcing-slash",
     "description": "Slash upward violently inflicting 41 - 50 + 46% Weapon Damage."
 }

@@ -25,6 +25,5 @@
     ],
     "targeting": "Rectangle",
     "type": "Buff",
-    "id": "blast-of-leaves",
     "description": "Blasts Leaves to all allies in front of you healing for 102 - 138 + 120% Weapon Damage multiple times per second."
 }

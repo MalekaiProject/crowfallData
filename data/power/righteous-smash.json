@@ -21,6 +21,5 @@
     ],
     "targeting": "Cone",
     "type": "Melee Attack",
-    "id": "righteous-smash",
     "description": "Spin with an overhead chop hitting multiple enemies for 117 - 176 + 146% Weapon Damage and generating Righteousness for each hit."
 }

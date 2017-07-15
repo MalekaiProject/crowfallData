@@ -26,6 +26,5 @@
     ],
     "targeting": "Reticle",
     "type": "Ranged Attack",
-    "id": "piercing-orb",
     "description": "Conjure a slow moving doom-filled projectile that passes through enemies to damage them repeatedly for 53 - 80 + 67% Piercing Weapon Damage."
 }

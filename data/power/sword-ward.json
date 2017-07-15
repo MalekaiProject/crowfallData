@@ -25,6 +25,5 @@
     ],
     "targeting": "Self",
     "type": "Passive",
-    "id": "sword-ward",
     "description": "Enchant your armor with a ward against Slashing attacks increasing your Slashing Armor by 25.  Slashing attacks cause Sword Ward to slowly weaken temporarily."
 }
