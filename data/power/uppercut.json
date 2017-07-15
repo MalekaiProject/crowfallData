@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 11
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Uppercut",
+    "next_chain": [
+        "sunder-armor",
+        "drive"
+    ],
+    "previous_chain": [
+        "no-quarter"
+    ],
+    "range": 6,
+    "sources": [
+        {
+            "id": "cleric",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Swipe in front of you for 121 - 148 + 134% Weapon Damage."
+}

@@ -1,0 +1,26 @@
+{
+    "cast_type": "ground aimed",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 6
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Barrage",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "area",
+    "type": "ranged attack",
+    "description": "Shoot 6 volley of arrows at a ground location, dealing 30 - 40 + 35% Weapon Damage per volley, up to 5 targets within 8m."
+}

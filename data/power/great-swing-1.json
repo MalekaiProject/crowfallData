@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Great Swing 1",
+    "next_chain": [
+        "great-swing-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "templar",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Attack for 48 - 72 + 60% Weapon Damage."
+}

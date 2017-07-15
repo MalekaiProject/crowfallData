@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Poisoned Weapons",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "poisoner",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Poison"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "All your Primary Attacks now deal Poison as their damage type.  In addition your final Primary attack deals an AoE poison damage to nearby enemies."
+}

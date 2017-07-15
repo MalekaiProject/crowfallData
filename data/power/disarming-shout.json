@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 14
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Disarming Shout",
+    "next_chain": [],
+    "previous_chain": [
+        "vicious-stomp"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "champion",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Suppress"
+    ],
+    "targeting": "cone",
+    "type": "crowd control",
+    "description": "Suppress enemies, disabling their powers for 6 seconds. Deals 140 - 190 + 165% Weapon Damage."
+}

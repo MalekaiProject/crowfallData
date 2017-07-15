@@ -1,0 +1,29 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "It's the thrill of the fight and rising up to the challenge of your rival.",
+    "equips_granted": [],
+    "name": "Sparring",
+    "powers": [
+        "sparring"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "minor",
+    "tags": []
+}

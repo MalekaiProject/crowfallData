@@ -1,0 +1,24 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Shadows Caress",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "shadows-caress",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Health Regeneration",
+        "Stealth"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Increase your Health Regeneration by 350 while in Stealth."
+}

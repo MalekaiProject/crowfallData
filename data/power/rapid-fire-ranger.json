@@ -1,0 +1,21 @@
+{
+    "cast_type": "hold channeled",
+    "cooldown": 9,
+    "cost": [],
+    "duration": 2,
+    "max_targets": 1,
+    "name": "Rapid Fire (Ranger)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 40,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "reticle",
+    "type": "ranged attack",
+    "description": "Hold to shoot up to 10 arrows towards your reticle that deal 40 - 54 + 47% Weapon per arrow.  Adds 10 Critical Hit Change for 2 seconds for each arrow that doe not critically hit, effect is removed when you land a critical hit."
+}

@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 3,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Retaliate (Duelist)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Exposed"
+    ],
+    "targeting": "sphere",
+    "type": "retaliate",
+    "description": "Jump to your feet, damaging all nearby enemies for 105 - 158 + 132% Weapon Damage. Retaliating an Exposed enemy generates an additional Pip and reset Relaliate's cooldown."
+}

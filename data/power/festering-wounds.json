@@ -1,0 +1,29 @@
+{
+    "cast_type": "charged",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Festering Wounds",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 30,
+    "sources": [
+        {
+            "id": "plague-lord",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Exposed",
+        "Heal"
+    ],
+    "targeting": "ray",
+    "type": "debuff",
+    "description": "Plague an enemy with Disease and for 30 seconds any Heal ability they use leaves them in an Exposed state."
+}

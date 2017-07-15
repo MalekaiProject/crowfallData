@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Discipling Strikes",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "cleric",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Snare"
+    ],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Strike in front of you for 126 - 154 + 150% Weapon Damage, snaring the enemy if you hit."
+}

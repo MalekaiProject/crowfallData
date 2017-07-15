@@ -1,0 +1,32 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 22
+        }
+    ],
+    "duration": 0,
+    "max_targets": 3,
+    "name": "Shockwave",
+    "next_chain": [],
+    "previous_chain": [
+        "brutal-strike",
+        "twin-assault"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing",
+        "Knock Down"
+    ],
+    "targeting": "cone",
+    "type": "crowd control",
+    "description": "Attack and knock down enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
+}

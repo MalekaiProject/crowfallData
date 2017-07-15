@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 10,
+    "max_targets": 1,
+    "name": "Rescue",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "field-surgeon",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "reticle",
+    "type": "buff",
+    "description": "Avert an ally's imminent death for 10 seconds preventing them from dropping below 1 Health and healing them for 473 - 578 + 525% Weapon Damage. Recently Rescued allies may not be effected by Rescue."
+}

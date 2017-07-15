@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 9,
+    "max_targets": 1,
+    "name": "Tear Reality",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 8,
+    "sources": [
+        {
+            "id": "reality-warper",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "debuff",
+    "description": "Tear Reality 8m around you every 3 seconds for 9 seconds, all targets hit have all powers with an active cooldown increased by 3 seconds."
+}

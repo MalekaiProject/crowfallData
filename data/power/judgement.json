@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Judgement",
+    "next_chain": [
+        "execute"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "templar",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Strike mercillessly inflict 89 - 133 + 111% Weapon Damage. Enemies under 35% health are critically hit for 133 - 200 + 167% Weapon Damage."
+}

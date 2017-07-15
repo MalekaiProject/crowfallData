@@ -1,0 +1,21 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Dodge (Duelist)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Leap away from danger using your WASD direction."
+}

@@ -1,0 +1,25 @@
+{
+    "cast_type": "instant",
+    "cooldown": 5,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Brilliance",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "templar",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Blind",
+        "Fire",
+        "Invulnerable"
+    ],
+    "targeting": "sphere",
+    "type": "ultimate",
+    "description": "Shine with golden light briefly becoming invulnerable, increasing your maximum Health for 20 seconds as well as blinding and damaging nearby enemies for 107 - 160 + 133% Fire Weapon Damage."
+}

@@ -1,0 +1,23 @@
+{
+    "cast_type": "toggle",
+    "cooldown": 1,
+    "cost": [],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Song of Speed",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "bard",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Movement Speed"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "While Out of Combat increases the groups Movement Speed by 35% for 12 seconds. While In Combat increases the groups Movement Speed by 10% for 12 seconds. Type 1 Song."
+}

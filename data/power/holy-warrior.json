@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1000
+        }
+    ],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Holy Warrior",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "templar",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Parry"
+    ],
+    "targeting": "self",
+    "type": "transformation",
+    "description": "Simmer with Radiance temporarily increasing your maximum Health. All damage inflicted is considered Holy and cannot be mitigated with armor. Zealotry is earned by participating in combat and striking with Righteous Parry."
+}

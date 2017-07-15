@@ -1,0 +1,30 @@
+{
+    "cast_type": "ground aimed",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 15,
+    "max_targets": 5,
+    "name": "Caltrops",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "agent-provocateur",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Piercing",
+        "Slow",
+        "Stealth"
+    ],
+    "targeting": "area",
+    "type": "crowd control",
+    "description": "Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth."
+}

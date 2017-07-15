@@ -1,0 +1,25 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Wicked Slash",
+    "next_chain": [
+        "vile-slash"
+    ],
+    "previous_chain": [
+        "sinister-slash"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Slash in front of you twice for 50 - 68 + 59% Weapon Damage. Applies an Armor Fracture to all hit, which reduces all Physical Mitigations by 10% for 15 seconds."
+}

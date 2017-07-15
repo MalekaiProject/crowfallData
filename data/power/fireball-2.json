@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Fireball 2",
+    "next_chain": [
+        "multi-fireball"
+    ],
+    "previous_chain": [
+        "fireball"
+    ],
+    "range": 25,
+    "sources": [
+        {
+            "id": "confessor",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Fire",
+        "Sin"
+    ],
+    "targeting": "reticle",
+    "type": "ranged attack",
+    "description": "Shoots a fireball towards your reticle that explodes for 48 - 72 + 60% Weapon Damage as Fire Damage. Applies Sin to anyone damaged."
+}

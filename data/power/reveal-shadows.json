@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 32
+        }
+    ],
+    "duration": 12,
+    "max_targets": 1,
+    "name": "Reveal Shadows",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "illusionist",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Activates Shadow Sight for 12 seconds."
+}

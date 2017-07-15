@@ -1,0 +1,27 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger"
+    ],
+    "description": "Minotaur's demonstrate combat prowess through headbutting each other with enough force to knock each off their feed. This of course enrages them, which leads to more headbutting, which enrages them even further, and so on.",
+    "equips_granted": [],
+    "name": "Eminently Punchable",
+    "powers": [
+        "hit-me"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "minor",
+    "tags": []
+}

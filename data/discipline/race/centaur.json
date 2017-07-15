@@ -1,0 +1,19 @@
+{
+    "classes": [
+        "knight",
+        "champion",
+        "cleric"
+    ],
+    "description": "",
+    "equips_granted": [],
+    "name": "Centaur",
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "tags": [],
+    "type": "race"
+}

@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Needlin Haystack",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "scarecrow",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Bleed",
+        "Piercing"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Cover your body with sharp needle-like straws increasing your Piercing Armor by 25.  Piercing attacks reflect 133% weapon damage and cause Severe Bleeding."
+}

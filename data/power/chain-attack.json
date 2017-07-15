@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 25
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Chain Attack",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 30,
+    "sources": [
+        {
+            "id": "knight",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "reticle",
+    "type": "crowd control",
+    "description": "Throw a chain forward, applying a large pulling force to any enemy causing 130 - 176 + 153% and dazing the target for 4 seconds."
+}

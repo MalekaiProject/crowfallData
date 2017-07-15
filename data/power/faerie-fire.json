@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 50
+        }
+    ],
+    "duration": 12,
+    "max_targets": 1,
+    "name": "Faerie Fire",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing",
+        "Fire",
+        "Piercing",
+        "Slashing"
+    ],
+    "targeting": "reticle",
+    "type": "debuff",
+    "description": "Engulf an enemy in Faerie Fire reducing Slashing, Piercing and Crushing armor and causing 44 - 67 Nature damage + 6% Weapon Damage over 12 seconds."
+}

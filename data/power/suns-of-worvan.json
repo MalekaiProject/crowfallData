@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Suns of Worvan",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "holy-avenger",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Barrier",
+        "Fire"
+    ],
+    "targeting": "cone",
+    "type": "buff",
+    "description": "Gain a Fire damage immune Barrier for 15 seconds."
+}

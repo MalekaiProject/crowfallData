@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "pips",
+            "cost": 1
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Pepperbox Shot",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "crowd control",
+    "description": "Indiscriminately blast up to three targets causing 57 - 86 + 72% Weapon Damage. Effects scale with Pips spent. 1 Pip: 57 - 86. 2 Pips: 114 - 172. 3 Pips: 171 - 258. 4 Pips: 228 - 344. 5 Pips: 285 - 430 and targets are stunned."
+}

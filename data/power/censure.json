@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Censure",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "templar",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Stun"
+    ],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Lunge forward with a sword strike stunning an enemy and causing 100 - 149 + 124% Weapon Damage."
+}

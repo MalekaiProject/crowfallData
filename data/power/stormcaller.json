@@ -1,0 +1,21 @@
+{
+    "cast_type": "",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Stormcaller",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-scimitars",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Forgoing access to Life abilities, your focus on Death allows you to generate Essence while in Combat.  In order to maintain balance, damaging enemies has a chance to Coalesce Life."
+}

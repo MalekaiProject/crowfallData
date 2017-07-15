@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Charge",
+    "next_chain": [],
+    "previous_chain": [
+        "cast-net"
+    ],
+    "range": 30,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "reticle",
+    "type": "melee attack",
+    "description": "Charge toward your target inflicting 72 - 88 + 80% Weapon Damage."
+}

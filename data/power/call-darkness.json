@@ -1,0 +1,21 @@
+{
+    "cast_type": "",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Call Darkness",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "black-mask",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "",
+    "type": "ranged attack",
+    "description": "Coming Soon"
+}

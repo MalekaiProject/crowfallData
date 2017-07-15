@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Pix Fix",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "pixie",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "All 'chain type' heals jump to 1 additional target.  Also reduces the amount of healing falloff per jump by 50%."
+}

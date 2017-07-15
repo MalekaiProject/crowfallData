@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 80
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Hellfire Blast",
+    "next_chain": [],
+    "previous_chain": [
+        "fire-wave"
+    ],
+    "range": 30,
+    "sources": [
+        {
+            "id": "confessor",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Knock Down"
+    ],
+    "targeting": "rectangle",
+    "type": "ranged attack",
+    "description": "Damages all players in front of you who were hit by the Hellfire Wave for 76 - 114 + 95% Weapon Damage, and knocks them briefly into the air."
+}

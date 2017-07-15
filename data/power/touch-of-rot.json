@@ -1,0 +1,23 @@
+{
+    "cast_type": "",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Touch of Rot",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "plague-lord",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Support Power"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Your basic attacks apply a stacking Support Power debuff."
+}

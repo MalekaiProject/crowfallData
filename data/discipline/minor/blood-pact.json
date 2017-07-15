@@ -1,0 +1,28 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Quid pro quo.",
+    "equips_granted": [],
+    "name": "Blood Pact",
+    "powers": [
+        "blood-pact"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "minor",
+    "tags": []
+}

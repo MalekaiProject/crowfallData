@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 20,
+    "max_targets": 1,
+    "name": "Taste For Blood",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Striking a Bleeding target grants you the Scent of Blood, partially reducing Health loss from Berserk Crash. Striking a Bleeding target also has a chance to grant Taste for Blood for 20 seconds, which greatly increased the damage of your basic attacks."
+}

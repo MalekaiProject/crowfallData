@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Rupture Barrier",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "shield-breaker",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Barrier"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Cause an additional 50% Weapon Damage when striking a Barrier and restore your Resource."
+}

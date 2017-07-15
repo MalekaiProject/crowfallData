@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 15,
+    "max_targets": 5,
+    "name": "Critical Hack 2",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-swords",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "buff",
+    "description": "Strike an enemy twice for 87-118 +103% Weapon Damage and increase your Critical Hit Chance"
+}

@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Blade Turning",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "militant-mage",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Barrier",
+        "Slashing"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Gain a Slashing damage immune Barrier for 15 seconds."
+}

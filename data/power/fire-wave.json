@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 60
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Fire Wave",
+    "next_chain": [
+        "hellfire-blast"
+    ],
+    "previous_chain": [
+        "hellfire-shield"
+    ],
+    "range": 18,
+    "sources": [
+        {
+            "id": "confessor",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "rectangle",
+    "type": "ranged attack",
+    "description": "Consumes your Hellfire Shield and transforms it into a fiery wave, which move forward and damages all who are struck by it for 87 - 130 + 109% Weapon Damage."
+}

@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Banner of Storms",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "standard-bearer",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Electric"
+    ],
+    "targeting": "area",
+    "type": "buff",
+    "description": "Deploy a banner overriding the damage of all nearby group members to Electric and increasing their Electric Armor by 25."
+}

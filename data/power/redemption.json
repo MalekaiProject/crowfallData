@@ -1,0 +1,24 @@
+{
+    "cast_type": "channeled",
+    "cooldown": 5,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Redemption",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 30,
+    "sources": [
+        {
+            "id": "master-of-arcane",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Fire",
+        "Sin"
+    ],
+    "targeting": "reticle",
+    "type": "ranged attack",
+    "description": "Rapidly throw up to ten fireballs in a row for 34 - 46 + 40% Fire Weapon Damage scaling up to 43 - 58 + 50% Weapon Damage based on the enemy's Sin."
+}

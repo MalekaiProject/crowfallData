@@ -1,0 +1,34 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "I pity the fool",
+    "equips_granted": [],
+    "name": "Fashion Statement",
+    "powers": [],
+    "slots_granted": [
+        "Amulet Slot",
+        "Amulet Slot"
+    ],
+    "slots_removed": [],
+    "stats_granted": [
+        "Stealth"
+    ],
+    "stats_values": [
+        -25
+    ],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "minor",
+    "tags": []
+}

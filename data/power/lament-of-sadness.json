@@ -1,0 +1,29 @@
+{
+    "cast_type": "toggle",
+    "cooldown": 1,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 32
+        }
+    ],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Lament of Sadness",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 10,
+    "sources": [
+        {
+            "id": "troubadour",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Support Power"
+    ],
+    "targeting": "point blank area",
+    "type": "debuff",
+    "description": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Decreases their Attack Power by 150 as well as Support Power by 150. Type 4 Song."
+}

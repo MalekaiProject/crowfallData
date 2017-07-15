@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Sustain",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Lifesteal"
+    ],
+    "targeting": "self",
+    "type": "ultimate",
+    "description": "Grants 400% Lifesteal for 5 seconds to your attacks, which returns Health for all attacks that damage a Health pool."
+}

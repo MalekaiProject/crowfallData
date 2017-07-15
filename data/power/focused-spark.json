@@ -1,0 +1,26 @@
+{
+    "cast_type": "channeled",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 28
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Focused Spark",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 30,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "reticle",
+    "type": "ranged attack",
+    "description": "Channel lightning at your target for 64 - 96 + 80% Weapon Damage. Striking with FOCUSED SPARK, three times in sucession triggers Spark Focus, increasing your Critial Hit Chance by 100% for 9 seconds or until your next hit."
+}

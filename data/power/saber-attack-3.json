@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Saber Attack 3",
+    "next_chain": [],
+    "previous_chain": [
+        "saber-attack-2"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Attack for 69 - 104 + 86% Weapon Damage."
+}

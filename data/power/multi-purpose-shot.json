@@ -1,0 +1,23 @@
+{
+    "cast_type": "charged",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Multi-Purpose Shot",
+    "next_chain": [],
+    "previous_chain": [
+        "power-shot"
+    ],
+    "range": 40,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "reticle",
+    "type": "ranged attack",
+    "description": "Shoot and arrow towards your reticle that deals 227 - 307 + 267% Weapon Damage and apply additional effects when using exotic arrows. Check your arrow's description for details on additional effects."
+}

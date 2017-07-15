@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 20
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Double Slash",
+    "next_chain": [],
+    "previous_chain": [
+        "left-slash"
+    ],
+    "range": 5.5,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Attack with both weapon simultaneously for 13 - 16 damage, causing your target to Bleed for 18 - 24 + #weapon_damage_2_values#% Weapon Damage."
+}

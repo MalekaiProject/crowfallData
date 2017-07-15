@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "No Quarter",
+    "next_chain": [
+        "uppercut"
+    ],
+    "previous_chain": [],
+    "range": 6,
+    "sources": [
+        {
+            "id": "cleric",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Swipe in front of you for 94 - 115 + 105 Weapon Damage."
+}

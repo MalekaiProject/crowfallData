@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Furious Slash 2",
+    "next_chain": [],
+    "previous_chain": [
+        "furious-slash"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-axes",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "buff",
+    "description": "Slash furiously at an enemy for 113 - 152 + 132% Weapon Damage while reducing your short and long cooldown times."
+}

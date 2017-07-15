@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 55
+        }
+    ],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Hellfire Shield",
+    "next_chain": [
+        "hellfire-aura",
+        "fire-wave"
+    ],
+    "previous_chain": [],
+    "range": 25,
+    "sources": [
+        {
+            "id": "confessor",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Surrounds your skin an a Hellfire Shield to 15 seconds damaging all who cause damage to your for 15 - 18 damage."
+}

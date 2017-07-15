@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 30,
+    "max_targets": 5,
+    "name": "Reveal Weakness",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "shield-breaker",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Enhance group members and yourself increasing Physical Armor Penetration by 10."
+}

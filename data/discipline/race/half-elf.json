@@ -1,0 +1,19 @@
+{
+    "classes": [
+        "ranger",
+        "assassin",
+        "druid"
+    ],
+    "description": "",
+    "name": "Half-Elf",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "race"
+}

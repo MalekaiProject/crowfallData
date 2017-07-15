@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 17
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Right Slash",
+    "next_chain": [
+        "left-slash"
+    ],
+    "previous_chain": [],
+    "range": 5.5,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Attack with your right weapon for 3 - 4 + 4% Weapon Damage."
+}

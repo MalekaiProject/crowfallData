@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Vision of the All Father",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "secutor",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Blind"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Gain Immunity to Blind effects."
+}

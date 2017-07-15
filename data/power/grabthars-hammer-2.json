@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Grabthars Hammer 2",
+    "next_chain": [],
+    "previous_chain": [
+        "grabthars-hammer"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "holy-avenger",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Stun"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Smash an enemy, stunning them for 106 - 143 + 124% Weapon Damage."
+}

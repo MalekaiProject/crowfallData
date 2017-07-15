@@ -1,0 +1,21 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Raging Bull",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "ultimate",
+    "description": "Begin Raging and flinging enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies."
+}

@@ -1,0 +1,24 @@
+{
+    "cast_type": "ground aimed",
+    "cooldown": 24,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Launch Explosive Trap",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Fire",
+        "Knock Down"
+    ],
+    "targeting": "area",
+    "type": "ranged attack",
+    "description": "Shoot an explosive trap at a ground location, which explodes when an enemy approaches it dealing 46 - 62 + 54% Weapon Damage as Fire Damage. Knocks Up all hit. Trap will exist for 60 seconds."
+}

@@ -1,0 +1,31 @@
+{
+    "classes": [
+        "assassin",
+        "cleric",
+        "knight",
+        "myrmidon",
+        "ranger"
+    ],
+    "description": "The war hammer is a heavy piece of weaponry meant for close-combat with the intent of piercing through heavy armor.  Similar to a mace, the war hammer requires dexterity and strength to wield, but once a crow masters the war hammer it'll leave many pleading the phrase 'Please Hammer, Don't Hurt 'Em!'.",
+    "equips_granted": [],
+    "name": "Master of Hammers",
+    "powers": [
+        "clobber",
+        "clobber-2",
+        "restoration-smash",
+        "restoration-smash-2",
+        "cleave"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [
+        "Damage Bonus: Crushing"
+    ],
+    "stats_values": [
+        6
+    ],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "weapon",
+    "tags": []
+}

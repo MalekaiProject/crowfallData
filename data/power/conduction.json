@@ -1,0 +1,24 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Conduction",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "firewalker",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Fire"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Increase your Attack Power for 30 seconds when damaged by Fire."
+}

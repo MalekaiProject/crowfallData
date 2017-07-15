@@ -1,0 +1,29 @@
+{
+    "classes": [
+        "assassin",
+        "duelist",
+        "ranger"
+    ],
+    "description": "No matter the material, be it flint, ivory, bone, or metal, the lethalness of the dagger remains intact.  With a blade smaller than most typical swords and commonly used in close-quarters combat, the dagger is an exceptional tool that requires finesse, quickness, and dexterity in order to properly sap and steal health from a target.",
+    "equips_granted": [],
+    "name": "Master of Daggers",
+    "powers": [
+        "crippling-stab",
+        "crippling-stab-2",
+        "slow-demise",
+        "slow-demise-2",
+        "steal-soul"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [
+        "Damage Bonus: Piercing"
+    ],
+    "stats_values": [
+        6
+    ],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "weapon",
+    "tags": []
+}

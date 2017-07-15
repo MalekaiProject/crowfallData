@@ -1,0 +1,32 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Cut and Thrust 2",
+    "next_chain": [],
+    "previous_chain": [
+        "cut-and-thrust"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-rapiers",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Block",
+        "Parry",
+        "Stun"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Penetrate an enemy's Block or Parry Stunning them and inflicting 70 - 95 + 83% Weapon Damage."
+}

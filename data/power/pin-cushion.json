@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Pin Cushion",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "scarecrow",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Barrier",
+        "Piercing"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Gain a Piercing damage immune Barrier for 15 seconds."
+}

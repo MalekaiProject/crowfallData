@@ -1,0 +1,29 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Don't let anyone ever dull your sparkle.",
+    "equips_granted": [],
+    "name": "Matching Plate",
+    "powers": [
+        "matching-plate"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "minor",
+    "tags": []
+}

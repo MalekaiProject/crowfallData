@@ -1,0 +1,21 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Dodge (Cleric)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 6,
+    "sources": [
+        {
+            "id": "cleric",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "rectangle",
+    "type": "non-aggressive",
+    "description": "Charge in the current WASD direction dealing for 41 - 50 Damage + 46% Weapon Damage."
+}

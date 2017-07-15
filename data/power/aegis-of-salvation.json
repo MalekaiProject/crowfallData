@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Aegis of Salvation",
+    "next_chain": [
+        "aegis-of-salvation-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "destroyer",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "buff",
+    "description": "Attack causing 70 - 94 + 82% Weapon Damage."
+}

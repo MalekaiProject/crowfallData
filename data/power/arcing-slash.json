@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Arcing Slash",
+    "next_chain": [
+        "whirlwind"
+    ],
+    "previous_chain": [],
+    "range": 5.5,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Slash upward violently inflicting 41 - 50 + 46% Weapon Damage."
+}

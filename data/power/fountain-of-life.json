@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 20,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 46
+        }
+    ],
+    "duration": 10,
+    "max_targets": 4,
+    "name": "Fountain of Life",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "naiad",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "area",
+    "type": "buff",
+    "description": "Creates a Fountain of Life at the targetted location, which chain heals allies who walk near it. The fountain lasts 10 seconds or 30 heals."
+}

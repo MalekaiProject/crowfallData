@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Clobber 2",
+    "next_chain": [],
+    "previous_chain": [
+        "clobber"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-hammers",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "crowd control",
+    "description": "Bash an enemy Dazing them and inflicting 76 - 103 + 90% Weapon Damage."
+}

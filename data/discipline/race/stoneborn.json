@@ -1,0 +1,20 @@
+{
+    "classes": [
+        "knight",
+        "champion",
+        "myrmidon",
+        "cleric"
+    ],
+    "description": "",
+    "name": "Stoneborn",
+    "tags": [],
+    "equips_granted": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "race"
+}

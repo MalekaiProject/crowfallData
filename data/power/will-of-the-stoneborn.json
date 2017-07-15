@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Will of the Stoneborn",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-maces",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Fortify your defense increasing your Crushing armor and improving weapon efficiency."
+}

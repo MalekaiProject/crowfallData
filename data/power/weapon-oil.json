@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 5,
+    "max_targets": 5,
+    "name": "Weapon Oil",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "escape-artist",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Suppress"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Restore group members and yourself to full combat readiness removing and gaining immunity to Attack Crowd Control effects for 5 seconds. Weapon Oil can be used while Suppressed."
+}

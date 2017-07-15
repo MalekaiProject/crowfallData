@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 20
+        }
+    ],
+    "duration": 8,
+    "max_targets": 1,
+    "name": "Bellow of Triumph",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 2,
+    "sources": [
+        {
+            "id": "cleric",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "rectangle",
+    "type": "non-aggressive",
+    "description": "Shout colorful epithets healing yourself and an ally in front of you for 52 - 64 + 58% Weapon Damage over 8 seconds."
+}

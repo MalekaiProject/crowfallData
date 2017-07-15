@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 6,
+    "max_targets": 1,
+    "name": "Lay Low",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "agent-provocateur",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Stealth"
+    ],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Take it easy tending to your wounds and recovering 32-39 + 35% Weapon Damage a second for 6 seconds while maintaining Stealth."
+}

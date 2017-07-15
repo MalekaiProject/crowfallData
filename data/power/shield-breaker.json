@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Shield Breaker",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "shield-breaker",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Block",
+        "Crushing",
+        "Knock Down",
+        "Parry"
+    ],
+    "targeting": "reticle",
+    "type": "debuff",
+    "description": "Crush an enemy who is actively using Block or Parry causing a Knockdown and dealing 91 - 123 + 107% Weapon Damage."
+}

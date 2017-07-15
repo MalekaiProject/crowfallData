@@ -1,0 +1,25 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Ambush",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Burrow",
+        "Exposed",
+        "Knock Down"
+    ],
+    "targeting": "cone",
+    "type": "crowd control self",
+    "description": "Leap out of your Burrow performing a deadly surpise attack for 82 - 123 + 102% Weapon Damage and generating two Pips. If AMBUSH hits an Exposed enemy while they attack or use an ability they are knocked down, take additional damage and you earn additional Pips."
+}

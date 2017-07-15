@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 35
+        }
+    ],
+    "duration": 20,
+    "max_targets": 5,
+    "name": "Bark Skin",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Barrier"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Toughen the hide of group members and yourself applying Barrier for 20 seconds preventing 175 to 325 damage."
+}

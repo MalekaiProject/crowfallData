@@ -1,10 +1,11 @@
 {
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/classes/frostweaver.png",
-  "name": "Frostweaver",
-  "races": [
-    "fae",
-    "wood-elf",
-    "high-elf"
-  ]
+    "description": "",
+    "name": "Frostweaver",
+    "races": [
+        "fae",
+        "wood-elf",
+        "high-elf"
+    ],
+    "tags": [],
+    "powers": []
 }

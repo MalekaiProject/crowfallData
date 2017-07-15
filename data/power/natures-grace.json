@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 68,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 22
+        }
+    ],
+    "duration": 45,
+    "max_targets": 5,
+    "name": "Nature's Grace",
+    "next_chain": [
+        "natural-bond"
+    ],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Increase Healing by 10% for 45 seconds."
+}

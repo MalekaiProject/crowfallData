@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 22
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Tendon Slice",
+    "next_chain": [],
+    "previous_chain": [
+        "forest-step"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Slash in front of you for 134 - 181 - 158% Weapon Damage. Applies a 50% movement reduction to the target."
+}

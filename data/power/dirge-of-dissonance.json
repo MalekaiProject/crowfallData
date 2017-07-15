@@ -1,0 +1,26 @@
+{
+    "cast_type": "toggle",
+    "cooldown": 1,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 32
+        }
+    ],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Dirge of Dissonance",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 10,
+    "sources": [
+        {
+            "id": "troubadour",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "point blank area",
+    "type": "melee attack",
+    "description": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Deals 100 - 150 + 12% Weapon Damage every 3 seconds. Type 3 Song."
+}

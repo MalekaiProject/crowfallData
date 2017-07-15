@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Restoration Strike 2",
+    "next_chain": [],
+    "previous_chain": [
+        "restoration-strike"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-swords",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Strike an enemy for 117-159 + 138% Weapon Damage while restoring your Resource."
+}

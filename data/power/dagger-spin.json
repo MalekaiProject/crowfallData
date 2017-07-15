@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 34
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Dagger Spin",
+    "next_chain": [
+        "dagger-spin-2"
+    ],
+    "previous_chain": [],
+    "range": 6,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Lifesteal"
+    ],
+    "targeting": "sphere",
+    "type": "melee attack",
+    "description": "Spin in place and deal 41 - 55 + 48% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power."
+}

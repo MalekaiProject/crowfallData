@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 96
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Healing Rain",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "area",
+    "type": "non-aggressive",
+    "description": "Blanket the targeted area with Life energy, instantly healing 27 to 33 + 30% Weapon Damage. This Power generates a High amount of Essence"
+}

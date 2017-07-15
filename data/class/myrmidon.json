@@ -1,31 +1,31 @@
 {
-  "description": "",
-  "icon": "https://cdn.malekai.network/images/classes/myrmidon.png",
-  "name": "Myrmidon",
-  "powers": [
-    "arcing-slash",
-    "berserk",
-    "bloodied-swipe",
-    "bull-rush",
-    "cancel-combo-myrmidon",
-    "cast-net",
-    "charge",
-    "colossus-smash",
-    "dodge-myrmidon",
-    "double-slash",
-    "gore",
-    "left-slash",
-    "net-pull",
-    "pulverize",
-    "raging-bull",
-    "retaliate-myrmidon",
-    "right-slash",
-    "taste-for-blood",
-    "whirlwind"
-  ],
-  "races": [
-    "stoneborn",
-    "half-giant",
-    "minotaur"
-  ]
+    "description": "",
+    "name": "Myrmidon",
+    "powers": [
+        "arcing-slash",
+        "berserk",
+        "bloodied-swipe",
+        "bull-rush",
+        "cancel-combo-myrmidon",
+        "cast-net",
+        "charge",
+        "colossus-smash",
+        "dodge-myrmidon",
+        "double-slash",
+        "gore",
+        "left-slash",
+        "net-pull",
+        "pulverize",
+        "raging-bull",
+        "retaliate-myrmidon",
+        "right-slash",
+        "taste-for-blood",
+        "whirlwind"
+    ],
+    "races": [
+        "stoneborn",
+        "half-giant",
+        "minotaur"
+    ],
+    "tags": []
 }

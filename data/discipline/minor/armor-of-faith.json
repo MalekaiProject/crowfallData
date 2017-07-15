@@ -1,0 +1,28 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "The Book of Justice is often the only armor a follower of Arkon carries.",
+    "equips_granted": [],
+    "name": "Armor of Faith",
+    "powers": [
+        "illusionary-armor"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "stats_granted": [],
+    "stats_values": [],
+    "trays_granted": "",
+    "trays_removed": "",
+    "type": "minor",
+    "tags": []
+}

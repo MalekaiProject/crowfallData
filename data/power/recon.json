@@ -1,0 +1,24 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Recon",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "duelist",
+            "type": "class"
+        }
+    ],
+    "tags": [
+        "Burrow",
+        "Exposed"
+    ],
+    "targeting": "ray",
+    "type": "debuff",
+    "description": "Carefully studying a target from the comfort of your Burrow, you apply the Exposed debuff to reveal weaknesses you and other specialists may capitalize on."
+}

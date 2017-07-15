@@ -1,0 +1,28 @@
+{
+    "cast_type": "ground aimed",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Grasping Roots",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 7,
+    "sources": [
+        {
+            "id": "master-of-mystical-staves",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Root"
+    ],
+    "targeting": "area",
+    "type": "debuff",
+    "description": "Command nature to envelope enemies in the targeted area rooting them in place and inflicting 50 - 75 + 63% Nature Weapon Damage."
+}

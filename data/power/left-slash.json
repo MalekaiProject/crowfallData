@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 19
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Left Slash",
+    "next_chain": [
+        "double-slash"
+    ],
+    "previous_chain": [
+        "right-slash"
+    ],
+    "range": 5.5,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Attack with your left weapon for 8 - 9 + 9% Weapon Damage."
+}

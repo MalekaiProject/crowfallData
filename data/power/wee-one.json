@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 14
+        }
+    ],
+    "duration": 25,
+    "max_targets": 5,
+    "name": "Wee One",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "pixie",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "area",
+    "type": "debuff",
+    "description": "Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times."
+}

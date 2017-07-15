@@ -1,0 +1,30 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 30,
+    "max_targets": 1,
+    "name": "Underdog",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "underdog",
+            "type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Knock Down",
+        "Stun"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Come back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 300 for 30 seconds. This effect can stack with itself."
+}

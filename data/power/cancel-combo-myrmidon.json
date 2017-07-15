@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Cancel Combo (Myrmidon)",
+    "next_chain": [],
+    "previous_chain": [
+        "whirlwind"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Cancels the current combo power being executed."
+}

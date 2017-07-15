@@ -1,0 +1,21 @@
+{
+    "cast_type": "toggle",
+    "cooldown": 1,
+    "cost": [],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Guardian Rhythms",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "bard",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Reduces the groups Damage Taken by 15% for 12 seconds. Type 2 Song."
+}

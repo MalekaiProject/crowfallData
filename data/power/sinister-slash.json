@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Sinister Slash",
+    "next_chain": [
+        "wicked-slash"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "ranger",
+            "type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Slash in front of you twice for 37 - 51 + 44% Weapon Damage. Applies an Armor Crack to all hit, which reduces all Physical Mitigations by 5% for 15 seconds."
+}
