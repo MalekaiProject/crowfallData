@@ -9,3 +9,10 @@ as well as the powering https://crowfall.wiki
 
 Many thanks goes out to community contributors to this project, at the time of this update:
 Scree, Michael Fedora, [LOD] Will, Remm, That_Eriksson, Typ3cast
+
+## Folder Structure
+- `data`: Root folder
+  - `class`: All the classes, with the class data model
+  - `discipline`: All of the disciplines *and* races, which all adhere to the discipline data model
+    - `{subtype}`: Extra organization, for `major`, `minor`, `weapon`, and `race` types
+  - `power`: All of the powers
