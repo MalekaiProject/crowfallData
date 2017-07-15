@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -17,7 +17,7 @@
     "tags": [
         "Lifesteal"
     ],
-    "targeting": "Self",
-    "type": "Ultimate",
+    "targeting": "self",
+    "type": "ultimate",
     "description": "Grants 400% Lifesteal for 5 seconds to your attacks, which returns Health for all attacks that damage a Health pool."
 }

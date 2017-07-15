@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [],
     "duration": 0,
@@ -17,7 +17,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Non-Aggressive",
+    "targeting": "cone",
+    "type": "non-aggressive",
     "description": "Vowing never to surrender, you recover 36 Stamina over 3 seconds."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -23,7 +23,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Crowd Control Self",
+    "targeting": "cone",
+    "type": "crowd control self",
     "description": "Slash in front of you for 68 - 92 - 80% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds 15% Bonus Damage to their next attack."
 }

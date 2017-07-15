@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [],
     "duration": 0,
@@ -11,7 +11,6 @@
     "sources": [
         {
             "id": "master-of-pistols",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
@@ -20,7 +19,7 @@
         "Fire",
         "Knock Down"
     ],
-    "targeting": "Ray",
-    "type": "Melee Attack",
+    "targeting": "ray",
+    "type": "melee attack",
     "description": "Unleash a deadly barrage of hot lead causing 28 - 43 + 36% Weapon Damage.  If Rapid Fire hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage."
 }

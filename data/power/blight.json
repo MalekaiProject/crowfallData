@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Electric"
     ],
-    "targeting": "Area",
-    "type": "Debuff",
+    "targeting": "area",
+    "type": "debuff",
     "description": "Deploy a field causing each COALESCE LIFE orb to explode catasrophically for 86 - 120 + 108% Weapon Damage while COALESCE NATURE orbs explode for 90 to 136 + 113% Weapon Damage. Reduces Earth and Electric defenses by 20%."
 }

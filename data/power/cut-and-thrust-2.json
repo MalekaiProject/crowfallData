@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -18,7 +18,6 @@
     "sources": [
         {
             "id": "master-of-rapiers",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
@@ -27,7 +26,7 @@
         "Parry",
         "Stun"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Penetrate an enemy's Block or Parry Stunning them and inflicting 70 - 95 + 83% Weapon Damage."
 }

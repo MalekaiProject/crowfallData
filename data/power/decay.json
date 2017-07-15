@@ -1,5 +1,5 @@
 {
-    "cast_type": "Charged",
+    "cast_type": "charged",
     "cooldown": 45,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "plague-lord",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -25,7 +24,7 @@
         "Heal",
         "Knock Down"
     ],
-    "targeting": "Ray",
-    "type": "Debuff",
+    "targeting": "ray",
+    "type": "debuff",
     "description": "Infect an enemy with a Disease and reduce Healing Received.  If Decay hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage."
 }

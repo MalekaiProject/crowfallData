@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -17,7 +17,7 @@
     "tags": [
         "Heal"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Heals you for 4% of your maximum Health every second and recovers Stamina. This effect is automatically triggered when dropping below 20% health."
 }

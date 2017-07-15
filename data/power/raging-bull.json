@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -15,7 +15,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Ultimate",
+    "targeting": "cone",
+    "type": "ultimate",
     "description": "Begin Raging and flinging enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies."
 }

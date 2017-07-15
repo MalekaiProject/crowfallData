@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -24,7 +24,7 @@
     "tags": [
         "Blind"
     ],
-    "targeting": "Cone",
-    "type": "Crowd Control",
+    "targeting": "cone",
+    "type": "crowd control",
     "description": "Kick sand at nearby enemies, blinding them for 4 seconds while dealing 151 - 205 + 178% Weapon Damage."
 }

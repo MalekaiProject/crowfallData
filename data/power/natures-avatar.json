@@ -1,5 +1,5 @@
 {
-    "cast_type": "Charged",
+    "cast_type": "charged",
     "cooldown": 0,
     "cost": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Reticle",
-    "type": "Buff",
+    "targeting": "reticle",
+    "type": "buff",
     "description": "Empowers an ally with a 75% Damage Bonus buff while you channel."
 }

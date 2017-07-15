@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -24,7 +24,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Ray",
-    "type": "Ranged Attack",
+    "targeting": "ray",
+    "type": "ranged attack",
     "description": "Strike enemies with lightning for 109 - 163 + 136% Weapon Damage and Dazing them."
 }

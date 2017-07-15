@@ -1,5 +1,5 @@
 {
-    "cast_type": "Toggle",
+    "cast_type": "toggle",
     "cooldown": 1,
     "cost": [],
     "duration": 12,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "bard",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Movement Speed"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "While Out of Combat increases the groups Movement Speed by 35% for 12 seconds. While In Combat increases the groups Movement Speed by 10% for 12 seconds. Type 1 Song."
 }

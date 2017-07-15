@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [],
     "duration": 0,
@@ -19,7 +19,7 @@
         "Fire",
         "Invulnerable"
     ],
-    "targeting": "Sphere",
-    "type": "Ultimate",
+    "targeting": "sphere",
+    "type": "ultimate",
     "description": "Shine with golden light briefly becoming invulnerable, increasing your maximum Health for 20 seconds as well as blinding and damaging nearby enemies for 107 - 160 + 133% Fire Weapon Damage."
 }

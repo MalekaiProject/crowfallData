@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "peripheral-vision",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Allows you to see into the shadows while actively harvesting."
 }

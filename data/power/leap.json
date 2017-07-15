@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [],
     "duration": 0,
@@ -19,7 +19,7 @@
     "tags": [
         "Crushing"
     ],
-    "targeting": "Sphere",
-    "type": "Melee Attack",
+    "targeting": "sphere",
+    "type": "melee attack",
     "description": "Leap forward, dealing 65 - 88 + 77% Weapon Damage as Crushing Damage as you land. Briefly able to perform a second Leap for zero resource cost."
 }

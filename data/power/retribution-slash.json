@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "blade-master",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Retribution"
     ],
-    "targeting": "Cone",
-    "type": "Buff",
+    "targeting": "cone",
+    "type": "buff",
     "description": "Turn the tables on enemies with a strike granting 20% Retribution for 15 seconds and causing 113 - 153 + 133% Weapon Damage."
 }

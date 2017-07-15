@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [],
     "duration": 0,
@@ -18,7 +18,7 @@
         "Crushing",
         "Knock Down"
     ],
-    "targeting": "Sphere",
-    "type": "Ultimate",
+    "targeting": "sphere",
+    "type": "ultimate",
     "description": "Leap straight up. When you land, Knock Down all enemies in the area dealing 288 - 389 + 339% Weapon Damage as Crushing Damage."
 }

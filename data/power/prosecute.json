@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "adjudicator",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Sin"
     ],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Convict an enemy causing damage based on their sin: 1 Sin or less: 68-92 + 80% Weapon Damage\n2 Sin: 131-177 + 154% Weapon Damage\n3 Sin: 199-270 + 235% Weapon Damage\n4 Sin: 274-370 + 322% Weapon Damage\n5 Sin: 354-478 + 416% Weapon Damage"
 }

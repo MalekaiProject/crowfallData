@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "master-of-maces",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Afflict an enemy with an aura causing other nearby enemies to suffer 15 - 20 + 18% Weapon Damage."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Channeled",
+    "cast_type": "channeled",
     "cooldown": 0,
     "cost": [],
     "duration": 5,
@@ -15,7 +15,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Non-Aggressive",
+    "targeting": "self",
+    "type": "non-aggressive",
     "description": "Restores 350 Mana over five seconds as you channel. While channeling your physical mitigations are reduced by 15%."
 }

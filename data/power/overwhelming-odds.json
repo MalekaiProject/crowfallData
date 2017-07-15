@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "overwhelming-odds",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Increase you All Mitigations by 20% when three or more enemies are within 10m."
 }

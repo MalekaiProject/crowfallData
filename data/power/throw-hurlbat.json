@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -23,7 +23,7 @@
         "Movement Speed",
         "Piercing"
     ],
-    "targeting": "Reticle",
-    "type": "Ranged Attack",
+    "targeting": "reticle",
+    "type": "ranged attack",
     "description": "Throw a projectile forward, dealing 113 - 153 + 133% Weapon Damage as Piercing Damage. Applies a 50% movement speed reduction to those hit."
 }

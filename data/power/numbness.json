@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "master-of-shields",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Block"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Reduce the cost of Blocking high damage attacks."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 68,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "juggernaut",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Strengthen group members and yourself increasing their Maximum Health by 20% for 45 seconds."
 }

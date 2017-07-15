@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Embrace Death increasing your Essence Gain by 35% for 45 seconds."
 }

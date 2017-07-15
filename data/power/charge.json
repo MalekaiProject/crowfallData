@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Reticle",
-    "type": "Melee Attack",
+    "targeting": "reticle",
+    "type": "melee attack",
     "description": "Charge toward your target inflicting 72 - 88 + 80% Weapon Damage."
 }

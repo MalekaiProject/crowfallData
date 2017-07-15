@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "knife-grinder",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Bleed"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Cut an enemy for 76 - 103 + 90% Weapon Damage and reducing their Bleed Armor for 15 seconds."
 }

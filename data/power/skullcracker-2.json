@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "master-of-maces",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Stun"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Smash an enemy, stunning them and causing 94 - 127 + 111% Weapon Damage."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "secutor",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Blind"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Gain Immunity to Blind effects."
 }

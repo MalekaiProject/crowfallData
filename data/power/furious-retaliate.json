@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 15,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "juggernaut",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -25,7 +24,7 @@
         "Retaliate",
         "Stun"
     ],
-    "targeting": "Sphere",
-    "type": "Debuff",
+    "targeting": "sphere",
+    "type": "debuff",
     "description": "Recover immediately from Knockdown and Stun effects inflicting 113 - 153 + 133% Weapon Damage. Furious Retaliate also increases your Resolve, reducing the duration of subsequent Control Effects or triggering temporary immunity to Control Effects."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -17,7 +17,7 @@
     "tags": [
         "Burrow"
     ],
-    "targeting": "Self",
-    "type": "Transformation",
+    "targeting": "self",
+    "type": "transformation",
     "description": "Leave your Burrow, becoming fully visible and switching to your normal power tray."
 }

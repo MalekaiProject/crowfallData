@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "master-of-scimitars",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Electric"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Protect group members and yourself with increased Electricity Armor."
 }

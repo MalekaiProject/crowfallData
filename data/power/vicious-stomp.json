@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -25,7 +25,7 @@
     "tags": [
         "Movement Speed"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Stomp the ground in front of you, dealing 63 - 85 + 74% Weapon Damage. Applies a 50% movement speed reduction to all hit."
 }

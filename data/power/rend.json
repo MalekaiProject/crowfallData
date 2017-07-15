@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -24,7 +24,7 @@
     "tags": [
         "Bleed"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Rend in front of you, dealing 234 - 316 + 275% Weapon Damage. Applies a Severe Bleed to all hit."
 }

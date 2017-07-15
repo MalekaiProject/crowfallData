@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "illusionist",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Heal"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Each piece of Epic or Legendary quality armor equipped increases Damage Bonus and Healing Bonus by 2%."
 }

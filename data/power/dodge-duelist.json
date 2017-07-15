@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -15,7 +15,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Non-Aggressive",
+    "targeting": "self",
+    "type": "non-aggressive",
     "description": "Leap away from danger using your WASD direction."
 }

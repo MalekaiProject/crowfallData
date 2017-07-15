@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Barrier"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Toughen the hide of group members and yourself applying Barrier for 20 seconds preventing 175 to 325 damage."
 }

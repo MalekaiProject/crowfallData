@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "underdog",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Jump to your feet dealing 113-153 + 133% Weapon Damage to nearby enemies. This attack is a guaranteed Critical Hit."
 }

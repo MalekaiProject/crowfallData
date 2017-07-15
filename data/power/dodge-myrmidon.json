@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -15,7 +15,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Sphere",
-    "type": "Non-Aggressive",
+    "targeting": "sphere",
+    "type": "non-aggressive",
     "description": "Leap away causing 71 - 87 + 79% Weapon Damage to nearby enemies where you land."
 }

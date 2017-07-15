@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -25,7 +25,7 @@
         "Crushing",
         "Stun"
     ],
-    "targeting": "Cone",
-    "type": "Crowd Control",
+    "targeting": "cone",
+    "type": "crowd control",
     "description": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage."
 }

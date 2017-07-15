@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [
         {
@@ -23,7 +23,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Attack in front of you twice for 62 - 84 + 73% Weapon Damage each strike."
 }

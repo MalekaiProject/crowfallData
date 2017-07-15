@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -24,7 +24,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Sphere",
-    "type": "Melee Attack",
+    "targeting": "sphere",
+    "type": "melee attack",
     "description": "Sweep 7 times around you dealing 59 - 79 + 69% Weapon Damage per swing. You may move while spinning."
 }

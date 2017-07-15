@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [
         {
@@ -26,7 +26,7 @@
     "tags": [
         "Bleed"
     ],
-    "targeting": "Sphere",
-    "type": "Crowd Control",
+    "targeting": "sphere",
+    "type": "crowd control",
     "description": "Spin around rapidly hitting nearby enemies multiple times for 24 - 29 + 26% Weapon Damage and causing them to Bleed for 18 -24 damage."
 }

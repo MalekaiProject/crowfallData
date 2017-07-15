@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -23,7 +23,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Surrounds your skin an a Hellfire Shield to 15 seconds damaging all who cause damage to your for 15 - 18 damage."
 }

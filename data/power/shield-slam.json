@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Crushing"
     ],
-    "targeting": "Reticle",
-    "type": "Melee Attack",
+    "targeting": "reticle",
+    "type": "melee attack",
     "description": "Charge your shield and slam up to 3 enemies in front of you for 82 - 111 + 97% Crushing Weapon Damage based on length of he charge. Charges over 66% guarantee a critical hit and push enemies away."
 }

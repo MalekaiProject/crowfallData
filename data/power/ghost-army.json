@@ -1,5 +1,5 @@
 {
-    "cast_type": "Hold Channeled",
+    "cast_type": "hold channeled",
     "cooldown": 23,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "banshee",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Rectangle",
-    "type": "Ranged Attack",
+    "targeting": "rectangle",
+    "type": "ranged attack",
     "description": "Call forth a Ghost Army in front of you dealing 60-81 + 70% Weapon Damage to 5 per wave of the Army. 50% of the Damage dealt will be returned to you as Health."
 }

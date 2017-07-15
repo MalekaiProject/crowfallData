@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [],
     "duration": 0,
@@ -18,7 +18,7 @@
         "Crushing",
         "Invulnerable"
     ],
-    "targeting": "Sphere",
-    "type": "Ultimate",
+    "targeting": "sphere",
+    "type": "ultimate",
     "description": "Leap into the air creating a vacuum at your feet, which pulls in nearby enemies and damages them for 232 - 314 + 273% Crushing Weapon Damage. While in the air you are invulnerable to physics impulses and damage effects."
 }

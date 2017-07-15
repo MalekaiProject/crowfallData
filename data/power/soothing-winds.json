@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 20,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "master-of-mystical-staves",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Heal"
     ],
-    "targeting": "Ray",
-    "type": "Buff",
+    "targeting": "ray",
+    "type": "buff",
     "description": "Heals a targeted ally instantly for 32 - 39 + 35% Weapon Damage, and then jumps to a nearby ally.  Each player healed will heal every second for an additional 15 seconds.  SOOTHING WINDS will jump to as many as 5 with healing reduced by 30% each jump."
 }

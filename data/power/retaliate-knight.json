@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [],
     "duration": 0,
@@ -17,7 +17,7 @@
     "tags": [
         "Knock Down"
     ],
-    "targeting": "Sphere",
-    "type": "Retaliate",
+    "targeting": "sphere",
+    "type": "retaliate",
     "description": "Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down."
 }

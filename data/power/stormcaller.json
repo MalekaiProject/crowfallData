@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "master-of-scimitars",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Forgoing access to Life abilities, your focus on Death allows you to generate Essence while in Combat.  In order to maintain balance, damaging enemies has a chance to Coalesce Life."
 }

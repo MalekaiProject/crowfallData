@@ -20,6 +20,14 @@ for(const file of walk('data')) {
         if(obj.icon) delete obj.icon;
         if(obj.tooltip) { obj.description = obj.tooltip; delete obj.tooltip; }
         if(obj.id) delete obj.id;
+        if(obj.type) obj.type = obj.type.toLocaleLowerCase();
+        // powers
+        if(obj.sources) obj.sources = obj.sources.map(a => {
+            if(a.sub_type) delete a.sub_type;
+            return a;
+        });
+        if(obj.cast_type) obj.cast_type = obj.cast_type.toLocaleLowerCase();
+        if(obj.targeting) obj.targeting = obj.targeting.toLocaleLowerCase();
         fs.writeFileSync(file, JSON.stringify(obj, null, 4));
     } catch (e) {
         console.error(e);

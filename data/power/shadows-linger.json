@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "black-mask",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Coming Soon"
 }

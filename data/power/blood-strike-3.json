@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "blade-master",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Bleed"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Attack multiple enemies for 58 - 78 + 68% Weapon Damage and causing them to Bleed for 50 - 75 + 6% Weapon Damage per tick."
 }

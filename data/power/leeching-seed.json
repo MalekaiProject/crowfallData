@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Movement Speed"
     ],
-    "targeting": "Area",
-    "type": "Debuff",
+    "targeting": "area",
+    "type": "debuff",
     "description": "Cause an enemy to become lethargic increasing all Power colldowns and reducing their movement speed for 8 seconds."
 }

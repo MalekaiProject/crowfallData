@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "found-resources",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [
         "Stealth"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Return to a minimum of two pips when entering stealth."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -19,7 +19,7 @@
     "tags": [
         "Armor Break"
     ],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Slash in front of you twice for 45 - 61 + 53% Weapon Damage. Applies an Armor Break to all hit, which reduces all Physical Mitigations by 20% for 15 seconds."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [
         {
@@ -24,7 +24,7 @@
     "tags": [
         "Bleed"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Attack with both weapon simultaneously for 13 - 16 damage, causing your target to Bleed for 18 - 24 + #weapon_damage_2_values#% Weapon Damage."
 }

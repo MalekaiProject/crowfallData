@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "destroyer",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "You no longer degenerate Rage.  Instead, you generate 1.5 Rage every 1 second while in Combat."
 }

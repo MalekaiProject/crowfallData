@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -23,7 +23,7 @@
         "Crushing",
         "Stun"
     ],
-    "targeting": "Reticle",
-    "type": "Crowd Control",
+    "targeting": "reticle",
+    "type": "crowd control",
     "description": "Charge forward striking with your shield, dealing 77 - 105 + 91% Crushing Weapon Damage and stunning the closest enemy."
 }

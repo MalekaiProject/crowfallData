@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -19,7 +19,7 @@
     "tags": [
         "Righteousness"
     ],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Spin with an overhead chop hitting multiple enemies for 117 - 176 + 146% Weapon Damage and generating Righteousness for each hit."
 }

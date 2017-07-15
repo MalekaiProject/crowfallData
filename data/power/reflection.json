@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "militant-mage",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Slashing"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Reflect 50% Slashing Weapon Damage back to the source of a Slashing damage attack."
 }

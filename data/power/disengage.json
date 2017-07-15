@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Non-Aggressive",
+    "targeting": "cone",
+    "type": "non-aggressive",
     "description": "Leap backwards dealing 244 - 331 + 287% Weapon Damage. Places your Power Tray into Ranged Mode."
 }

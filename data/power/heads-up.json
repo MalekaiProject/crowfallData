@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 68,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "mole-hunter",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Exposed",
         "Perception"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Increase the Perception of group members and yourself by 25 for 30 seconds and removes the Exposed state."
 }

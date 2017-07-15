@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "master-of-daggers",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Heal"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Torment an enemy reducing their Healing Bonus and inflicting 79 - 108 + 94% Weapon Damage."
 }

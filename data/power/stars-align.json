@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "master-of-mystical-staves",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds."
 }

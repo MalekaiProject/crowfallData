@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -18,12 +18,11 @@
     "sources": [
         {
             "id": "destroyer",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Buff",
+    "targeting": "cone",
+    "type": "buff",
     "description": "Attack causing 70 - 94 + 82% Weapon Damage."
 }

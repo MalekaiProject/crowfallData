@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "knife-grinder",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Bleed"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Your last Basic attack inflicts a Bleed."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Sphere",
-    "type": "Crowd Control",
+    "targeting": "sphere",
+    "type": "crowd control",
     "description": "Consumes Flame of the Truth on your reticle target, which instantly exploded for 47 - 71 + 59% Weapon Damage, and stuns the target. Does nothing againts target without Flames of Truth."
 }

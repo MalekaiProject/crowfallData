@@ -1,5 +1,5 @@
 {
-    "cast_type": "Ground Aimed",
+    "cast_type": "ground aimed",
     "cooldown": 30,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "agent-provocateur",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -25,7 +24,7 @@
         "Stealth",
         "Stun"
     ],
-    "targeting": "Area",
-    "type": "Crowd Control",
+    "targeting": "area",
+    "type": "crowd control",
     "description": "Torment enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth."
 }

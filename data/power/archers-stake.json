@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Attack Power"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Create an Archer's Stake at the feet of the caster. The Stake grants 100 Attack Power to you as long as you are within 5m."
 }

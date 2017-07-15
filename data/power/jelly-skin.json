@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "mudman",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Barrier",
         "Crushing"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Protect yourself with skin like rubber granting you a barrier with immunity to Crushing damage."
 }

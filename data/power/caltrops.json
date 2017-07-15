@@ -1,5 +1,5 @@
 {
-    "cast_type": "Ground Aimed",
+    "cast_type": "ground aimed",
     "cooldown": 24,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "agent-provocateur",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -25,7 +24,7 @@
         "Slow",
         "Stealth"
     ],
-    "targeting": "Area",
-    "type": "Crowd Control",
+    "targeting": "area",
+    "type": "crowd control",
     "description": "Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth."
 }

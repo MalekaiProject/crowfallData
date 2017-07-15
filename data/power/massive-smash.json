@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 15,
@@ -20,7 +20,7 @@
         "Heal",
         "Mortal Strike"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Strike in front of you for 152 - 206 + 179% Weapon Damage, generating 4 Rage if you hit. Applies Mortal Strike to all hit, which reduces the effectiveness of any Healing that target receives by 25% for 15 seconds."
 }

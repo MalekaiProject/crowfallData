@@ -1,5 +1,5 @@
 {
-    "cast_type": "Charged",
+    "cast_type": "charged",
     "cooldown": 23,
     "cost": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Reticle",
-    "type": "Ranged Attack",
+    "targeting": "reticle",
+    "type": "ranged attack",
     "description": "Charge an arrow and shoot it towards your reticle dealing 158 - 213 + 186% Weapon Damage. The arrow will chain to a second target within 6m and then chain to a third target. If you hit 3 targets with this power applies 150 Critical Hit Damage for 10 seconds."
 }

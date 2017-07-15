@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "firewalker",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Fire"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Reflects 50% Fire Weapon Damage back to the source of a Fire damage attack."
 }

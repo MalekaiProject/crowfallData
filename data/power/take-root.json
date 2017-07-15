@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 2,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "dryad",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Heal"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Standing still for 2 seconds increases Healing Bonus by 20% and Physical Mitigations by 5% until you move."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Reticle",
-    "type": "Crowd Control",
+    "targeting": "reticle",
+    "type": "crowd control",
     "description": "Pull your target toward you inflicting 95 - 116 + 106% Weapon Damage."
 }

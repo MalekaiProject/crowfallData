@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Movement Speed"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Removes all movement impairing effects. Increases group movement speed by 10%."
 }

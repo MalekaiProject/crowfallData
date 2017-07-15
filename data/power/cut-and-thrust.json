@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [
         {
@@ -18,12 +18,11 @@
     "sources": [
         {
             "id": "master-of-rapiers",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Stab an enemy twice for 70 - 95 + 82% Weapon Damage."
 }

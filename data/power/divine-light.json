@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -23,7 +23,7 @@
         "Fire",
         "Righteousness"
     ],
-    "targeting": "Area",
-    "type": "Debuff",
+    "targeting": "area",
+    "type": "debuff",
     "description": "Declare hallowed ground draining your of Righteousness to purify the area while also earning Righteousness for each enemy standing within the field every four seconds. Enemies within the field periodically suffer 168 - 252 + 210% Fire Weapon Damage.  Allies and your are healed for 168 - 252 + 210% Weapon Damage while you have Righteousness remaining."
 }

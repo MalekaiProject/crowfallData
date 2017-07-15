@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "punch-drunk",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "If you take more than 15% of your maximum health as damage in 2 seconds, reset the cooldowns on all powers currently on cooldown."
 }

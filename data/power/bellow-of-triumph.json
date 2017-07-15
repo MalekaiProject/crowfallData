@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Heal"
     ],
-    "targeting": "Rectangle",
-    "type": "Non-Aggressive",
+    "targeting": "rectangle",
+    "type": "non-aggressive",
     "description": "Shout colorful epithets healing yourself and an ally in front of you for 52 - 64 + 58% Weapon Damage over 8 seconds."
 }

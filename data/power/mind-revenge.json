@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "master-of-focus",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Barrier"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Empower your barriers to explode when they expire causing nearby enemies to suffer 56 - 84 + 70% Weapon Damage."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "master-of-pistols",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Fire"
     ],
-    "targeting": "Ray",
-    "type": "Ranged Attack",
+    "targeting": "ray",
+    "type": "ranged attack",
     "description": "Shoot an enemy for 35 - 52 + 43% Weapon Damage while generating a Pip with a chance to reset the cooldown of Rapid Fire."
 }

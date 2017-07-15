@@ -1,5 +1,5 @@
 {
-    "cast_type": "Charged",
+    "cast_type": "charged",
     "cooldown": 45,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "plague-lord",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Exposed",
         "Heal"
     ],
-    "targeting": "Ray",
-    "type": "Debuff",
+    "targeting": "ray",
+    "type": "debuff",
     "description": "Plague an enemy with Disease and for 30 seconds any Heal ability they use leaves them in an Exposed state."
 }

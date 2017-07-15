@@ -1,5 +1,5 @@
 {
-    "cast_type": "Toggle",
+    "cast_type": "toggle",
     "cooldown": 1,
     "cost": [],
     "duration": 12,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "bard",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Health Regeneration"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Increases your groups In Combat Health Regen by 60 as well as Out of Combat Health Regen by 80 for 12 seconds. Type 3 Song."
 }

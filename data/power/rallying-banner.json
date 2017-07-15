@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "standard-bearer",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -25,7 +24,7 @@
         "Heal",
         "Slow"
     ],
-    "targeting": "Area",
-    "type": "Buff",
+    "targeting": "area",
+    "type": "buff",
     "description": "Fortify nearby group members with a banner increasing Attack Power by 200, healing those under 35% Health and removing Slow effects."
 }

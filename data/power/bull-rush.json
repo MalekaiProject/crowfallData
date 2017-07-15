@@ -1,5 +1,5 @@
 {
-    "cast_type": "Hold Channeled",
+    "cast_type": "hold channeled",
     "cooldown": 9,
     "cost": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Rectangle",
-    "type": "Crowd Control",
+    "targeting": "rectangle",
+    "type": "crowd control",
     "description": "Charge forward dragging enemies along with you and causing 82 - 100 + 91% Weapon Damage. Enemies are flung into the air if the attack is over 65% charged."
 }

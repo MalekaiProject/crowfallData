@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -18,12 +18,11 @@
     "sources": [
         {
             "id": "master-of-axes",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Buff",
+    "targeting": "cone",
+    "type": "buff",
     "description": "Slash furiously at an enemy for 113 - 152 + 132% Weapon Damage while reducing your short and long cooldown times."
 }

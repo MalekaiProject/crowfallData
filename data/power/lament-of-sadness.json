@@ -1,5 +1,5 @@
 {
-    "cast_type": "Toggle",
+    "cast_type": "toggle",
     "cooldown": 1,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "troubadour",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Attack Power",
         "Support Power"
     ],
-    "targeting": "Point Blank Area",
-    "type": "Debuff",
+    "targeting": "point blank area",
+    "type": "debuff",
     "description": "Sing for 12 seconds, affecting up to 5 enemies within 10m. Decreases their Attack Power by 150 as well as Support Power by 150. Type 4 Song."
 }

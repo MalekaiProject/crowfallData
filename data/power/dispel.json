@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "shield-breaker",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Barrier",
         "Knock Down"
     ],
-    "targeting": "Reticle",
-    "type": "Debuff",
+    "targeting": "reticle",
+    "type": "debuff",
     "description": "Strip away an enemy's Barrier inflicting 91 - 123 + 107% Weapon Damage and causing Knockdown if a Barrier is removed."
 }

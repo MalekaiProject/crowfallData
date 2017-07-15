@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "master-of-hammers",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Crushing"
     ],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Crush an enemy for 116 - 156 + 136% Weapon Damage while restoring your Resource."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "agent-provocateur",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Stealth"
     ],
-    "targeting": "Self",
-    "type": "Non-Aggressive",
+    "targeting": "self",
+    "type": "non-aggressive",
     "description": "Take it easy tending to your wounds and recovering 32-39 + 35% Weapon Damage a second for 6 seconds while maintaining Stealth."
 }

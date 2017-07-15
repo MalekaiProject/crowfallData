@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "destroyer",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Barrier"
     ],
-    "targeting": "Cone",
-    "type": "Buff",
+    "targeting": "cone",
+    "type": "buff",
     "description": "Attack causing 76 - 103 + 89% Weapon Damage and applies a barrier to you.  When it is removed you recover 10% to 15% to your Health"
 }

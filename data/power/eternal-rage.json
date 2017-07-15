@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Heal"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Instantly generates 35 Rage while allies recover their native resource over time. Allies and you also heal for 158 - 193 + 175% Weapon Damage 2 times over 5 seconds."
 }

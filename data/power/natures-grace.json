@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 68,
     "cost": [
         {
@@ -24,7 +24,7 @@
     "tags": [
         "Heal"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Increase Healing by 10% for 45 seconds."
 }

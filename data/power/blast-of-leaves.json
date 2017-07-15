@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 20,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "dryad",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Heal"
     ],
-    "targeting": "Rectangle",
-    "type": "Buff",
+    "targeting": "rectangle",
+    "type": "buff",
     "description": "Blasts Leaves to all allies in front of you healing for 102 - 138 + 120% Weapon Damage multiple times per second."
 }

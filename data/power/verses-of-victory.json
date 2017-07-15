@@ -1,5 +1,5 @@
 {
-    "cast_type": "Toggle",
+    "cast_type": "toggle",
     "cooldown": 1,
     "cost": [],
     "duration": 12,
@@ -11,7 +11,6 @@
     "sources": [
         {
             "id": "bard",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -19,7 +18,7 @@
         "Attack Power",
         "Support Power"
     ],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Increases your groups Attack Power by 150 as well as Support Power by 150 for 12 seconds. Type 4 Song."
 }

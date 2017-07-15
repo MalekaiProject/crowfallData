@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "master-of-swords",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Buff",
+    "targeting": "cone",
+    "type": "buff",
     "description": "Strike an enemy twice for 87-118 +103% Weapon Damage and increase your Critical Hit Chance"
 }

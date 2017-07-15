@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -24,7 +24,7 @@
     "tags": [
         "Movement Speed"
     ],
-    "targeting": "Self",
-    "type": "Non-Aggressive",
+    "targeting": "self",
+    "type": "non-aggressive",
     "description": "Blink through the forest shadows forward and gain 50 Movement Speed for 3 seconds."
 }

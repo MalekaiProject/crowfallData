@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [],
     "duration": 0,
@@ -18,7 +18,7 @@
         "Retaliate",
         "Sin"
     ],
-    "targeting": "Cone",
-    "type": "Retaliate",
+    "targeting": "cone",
+    "type": "retaliate",
     "description": "Jump to your feet, damaging all nearby enemies for 53 - 80 + 67% Weapon Damage. Retaliating an enemy afflictd with Sin reduces cooldown of RETALIATE."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "holy-avenger",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Stun"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Smash an enemy, stunning them for 106 - 143 + 124% Weapon Damage."
 }

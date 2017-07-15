@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "master-of-arcane",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Fire",
         "Slow"
     ],
-    "targeting": "Rectangle",
-    "type": "Debuff",
+    "targeting": "rectangle",
+    "type": "debuff",
     "description": "Summon a raging inferno to slow and damage any enemies for 30 - 40 + 35% Fire Weapon Damage."
 }

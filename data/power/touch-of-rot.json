@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "plague-lord",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Support Power"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Your basic attacks apply a stacking Support Power debuff."
 }

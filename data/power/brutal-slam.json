@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "shield-fighter",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Strike with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Armor by 20."
 }

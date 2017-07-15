@@ -1,5 +1,5 @@
 {
-    "cast_type": "Hold Channeled",
+    "cast_type": "hold channeled",
     "cooldown": 0,
     "cost": [],
     "duration": 5,
@@ -17,7 +17,7 @@
     "tags": [
         "Block"
     ],
-    "targeting": "Self",
-    "type": "Crowd Control Self",
+    "targeting": "self",
+    "type": "crowd control self",
     "description": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.  Enemies striking you with Elemental attacks take 100% Weapon Damage in return. Increases damage by 15% for 5 seconds for each 150 damage taken while Blocking.  Taking more that 150 damage while Blocking activates SHIELD BASH and increases damage by 15% for 5 second for each 150 damage taken while Blocking."
 }

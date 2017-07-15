@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -18,12 +18,11 @@
     "sources": [
         {
             "id": "master-of-hammers",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Cone",
-    "type": "Crowd Control",
+    "targeting": "cone",
+    "type": "crowd control",
     "description": "Bash an enemy Dazing them and inflicting 76 - 103 + 90% Weapon Damage."
 }

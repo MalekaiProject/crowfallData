@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 24,
     "cost": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Reticle",
-    "type": "Ranged Attack",
+    "targeting": "reticle",
+    "type": "ranged attack",
     "description": "Launch a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage."
 }

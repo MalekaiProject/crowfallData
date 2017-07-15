@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -24,7 +24,7 @@
     "tags": [
         "Crushing"
     ],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Attack in front of you for 91 - 123 + 107% Crushing Weapon Damage."
 }

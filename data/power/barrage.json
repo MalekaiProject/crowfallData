@@ -1,5 +1,5 @@
 {
-    "cast_type": "Ground Aimed",
+    "cast_type": "ground aimed",
     "cooldown": 9,
     "cost": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Area",
-    "type": "Ranged Attack",
+    "targeting": "area",
+    "type": "ranged attack",
     "description": "Shoot 6 volley of arrows at a ground location, dealing 30 - 40 + 35% Weapon Damage per volley, up to 5 targets within 8m."
 }

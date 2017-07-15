@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "blood-pact",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Grants a Blood Pact for 15 seconds, which all powers to consume Hitpoints instead of their normal ressource type."
 }

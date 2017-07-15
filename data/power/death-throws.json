@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "underdog",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Knock Down",
         "Retaliate"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Furiously knock down nearby enemies when you use a Retaliate ability if your Health is under 50%"
 }

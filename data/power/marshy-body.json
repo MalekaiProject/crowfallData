@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "mudman",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Crushing"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Cover yourself with a boggy enchantment that increase your Crushing Armor by 0.2 for each point of Stamina."
 }

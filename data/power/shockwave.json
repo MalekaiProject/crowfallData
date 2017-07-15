@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -26,7 +26,7 @@
         "Crushing",
         "Knock Down"
     ],
-    "targeting": "Cone",
-    "type": "Crowd Control",
+    "targeting": "cone",
+    "type": "crowd control",
     "description": "Attack and knock down enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
 }

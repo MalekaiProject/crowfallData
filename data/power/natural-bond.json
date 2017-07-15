@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [
         {
@@ -25,7 +25,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Group",
-    "type": "Buff",
+    "targeting": "group",
+    "type": "buff",
     "description": "Buffs Damage Bonus by 5% for group members and yourself for 45 seconds."
 }

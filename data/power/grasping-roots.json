@@ -1,5 +1,5 @@
 {
-    "cast_type": "Ground Aimed",
+    "cast_type": "ground aimed",
     "cooldown": 24,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "master-of-mystical-staves",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Root"
     ],
-    "targeting": "Area",
-    "type": "Debuff",
+    "targeting": "area",
+    "type": "debuff",
     "description": "Command nature to envelope enemies in the targeted area rooting them in place and inflicting 50 - 75 + 63% Nature Weapon Damage."
 }

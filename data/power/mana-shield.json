@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "master-of-focus",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Barrier"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Surround yourself with a protective barrier that drains your mana as it prevents damage as well as increasing your Damage Bonus by 5% for 15 seconds."
 }

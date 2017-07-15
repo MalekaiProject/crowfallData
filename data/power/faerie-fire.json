@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -25,7 +25,7 @@
         "Piercing",
         "Slashing"
     ],
-    "targeting": "Reticle",
-    "type": "Debuff",
+    "targeting": "reticle",
+    "type": "debuff",
     "description": "Engulf an enemy in Faerie Fire reducing Slashing, Piercing and Crushing armor and causing 44 - 67 Nature damage + 6% Weapon Damage over 12 seconds."
 }

@@ -16,12 +16,11 @@
     "sources": [
         {
             "id": "secutor",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
     "targeting": "",
-    "type": "Buff",
+    "type": "buff",
     "description": "Coming Soon"
 }

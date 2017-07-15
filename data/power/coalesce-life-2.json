@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [
         {
@@ -26,7 +26,7 @@
     "tags": [
         "Heal"
     ],
-    "targeting": "Area",
-    "type": "Non-Aggressive",
+    "targeting": "area",
+    "type": "non-aggressive",
     "description": "Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage."
 }

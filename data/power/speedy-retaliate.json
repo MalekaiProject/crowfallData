@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [],
     "duration": 8,
@@ -11,7 +11,6 @@
     "sources": [
         {
             "id": "escape-artist",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -20,7 +19,7 @@
         "Movement Speed",
         "Stun"
     ],
-    "targeting": "Area",
-    "type": "Debuff",
+    "targeting": "area",
+    "type": "debuff",
     "description": "Regain your senses recovering immediately from Knockdown or Stun effects with an attack inflicting #min_damage_1# - #max_damage_1# + #weapon_damage_value#% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds."
 }

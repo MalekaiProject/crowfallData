@@ -1,5 +1,5 @@
 {
-    "cast_type": "Channeled",
+    "cast_type": "channeled",
     "cooldown": 9,
     "cost": [],
     "duration": 0,
@@ -18,7 +18,7 @@
         "Burrow",
         "Exposed"
     ],
-    "targeting": "Cone",
-    "type": "Ranged Attack",
+    "targeting": "cone",
+    "type": "ranged attack",
     "description": "Leap from your Burrow with full commitment, unleashing a deadly hail of gunfire assaulting up to three targets in a cone multiple times for 39 - 58 + 48% Weapon Damage before returning to your burrow again if you can avoid damage. Striking Exposed targets causes a guaranteed critical hit."
 }

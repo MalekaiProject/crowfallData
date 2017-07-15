@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 45,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "friar",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Sin"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Indulgence Cleanse yourself and become immune to Sin for 30 seconds."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 5,
     "cost": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Non-Aggressive",
+    "targeting": "self",
+    "type": "non-aggressive",
     "description": "Sacrifice 55 Health for 15% Essence."
 }

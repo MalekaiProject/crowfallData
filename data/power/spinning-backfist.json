@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 9,
     "cost": [
         {
@@ -24,7 +24,7 @@
     "tags": [
         "Crushing"
     ],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Spin in front of you dealing 104 - 141 + 122% Weapon Damage as Crushing Damage."
 }

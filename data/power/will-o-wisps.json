@@ -1,5 +1,5 @@
 {
-    "cast_type": "Charged",
+    "cast_type": "charged",
     "cooldown": 25,
     "cost": [
         {
@@ -22,7 +22,7 @@
     "tags": [
         "Heal"
     ],
-    "targeting": "Area",
-    "type": "Non-Aggressive",
+    "targeting": "area",
+    "type": "non-aggressive",
     "description": "Charge up and fling a Will o' Wisp to heal allies in a #range# area for 270 - 330 + 300% Weapon Damage."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Channeled",
+    "cast_type": "channeled",
     "cooldown": 5,
     "cost": [],
     "duration": 0,
@@ -11,7 +11,6 @@
     "sources": [
         {
             "id": "master-of-arcane",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
@@ -19,7 +18,7 @@
         "Fire",
         "Sin"
     ],
-    "targeting": "Reticle",
-    "type": "Ranged Attack",
+    "targeting": "reticle",
+    "type": "ranged attack",
     "description": "Rapidly throw up to ten fireballs in a row for 34 - 46 + 40% Fire Weapon Damage scaling up to 43 - 58 + 50% Weapon Damage based on the enemy's Sin."
 }

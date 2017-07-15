@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -18,14 +18,13 @@
     "sources": [
         {
             "id": "master-of-shields",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
     "tags": [
         "Blind"
     ],
-    "targeting": "Cone",
-    "type": "Melee Attack",
+    "targeting": "cone",
+    "type": "melee attack",
     "description": "Blind an enemy with light reflected from your shield causing 104 - 140 + 122% Weapon Damage."
 }

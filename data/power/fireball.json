@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -20,7 +20,7 @@
         "Fire",
         "Sin"
     ],
-    "targeting": "Reticle",
-    "type": "Ranged Attack",
+    "targeting": "reticle",
+    "type": "ranged attack",
     "description": "Shoots a fireball towards your reticle that explodes for 37 - 55 + 46% Weapon Damage as Fire Damage. Applies Sin to anyone damaged."
 }

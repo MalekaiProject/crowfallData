@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "mole-hunter",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -26,7 +25,7 @@
         "Fire",
         "Stealth"
     ],
-    "targeting": "Cone",
-    "type": "Debuff",
+    "targeting": "cone",
+    "type": "debuff",
     "description": "Deploy a flare revealing any Stealth users entering the area. Stealth users revealed in this way are Exposed, take 170 - 230 + 200% Fire Weapon Damage and begin Burning."
 }

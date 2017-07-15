@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 5,
@@ -11,7 +11,6 @@
     "sources": [
         {
             "id": "juggernaut",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -19,7 +18,7 @@
         "Knock Down",
         "Stun"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Seethe dangerously each time you suffer a Knockdown or Stun and recover 4 - 6% of your maximum Health over 5 seconds."
 }

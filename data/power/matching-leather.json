@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "matching-leather",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [
         "Support Power"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Increase your Support Power by 350 when wearing a full set of Leather armor."
 }

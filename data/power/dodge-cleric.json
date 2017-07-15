@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -15,7 +15,7 @@
         }
     ],
     "tags": [],
-    "targeting": "Rectangle",
-    "type": "Non-Aggressive",
+    "targeting": "rectangle",
+    "type": "non-aggressive",
     "description": "Charge in the current WASD direction dealing for 41 - 50 Damage + 46% Weapon Damage."
 }

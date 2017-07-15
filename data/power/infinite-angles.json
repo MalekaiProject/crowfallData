@@ -11,14 +11,13 @@
     "sources": [
         {
             "id": "shield-whiz",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [
         "Movement Speed"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Shield Throws now apply a movement speed reduction to all targets hit."
 }

@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "master-of-scimitars",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Electric",
         "Stun"
     ],
-    "targeting": "Ray",
-    "type": "Debuff",
+    "targeting": "ray",
+    "type": "debuff",
     "description": "Call lightning to strike a target stunning them and causing 60 - 90 + 75% Electric Weapon Damage.  Afterward they suffer Severe Electrocution taking 17 - 25 + 2% Electric Weapon Damage per tick."
 }

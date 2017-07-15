@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "black-mask",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [],
     "targeting": "",
-    "type": "Ranged Attack",
+    "type": "ranged attack",
     "description": "Coming Soon"
 }

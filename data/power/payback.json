@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "underdog",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Retaliate"
     ],
-    "targeting": "Self",
-    "type": "Buff",
+    "targeting": "self",
+    "type": "buff",
     "description": "Get even with your opponents after using a Retaliate ability by increasing your Critical Hit Chance by 50 for 30 seconds or until you crit three times."
 }

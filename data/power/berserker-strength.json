@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 0,
@@ -11,7 +11,6 @@
     "sources": [
         {
             "id": "master-of-axes",
-            "sub_type": "weapon",
             "type": "discipline"
         }
     ],
@@ -19,7 +18,7 @@
         "Attack Power",
         "Barrier"
     ],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Attacks have a chance to increase Attack Power by 150 and add a protective Barrier."
 }

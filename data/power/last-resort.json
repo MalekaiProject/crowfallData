@@ -1,5 +1,5 @@
 {
-    "cast_type": "Passive",
+    "cast_type": "passive",
     "cooldown": 0,
     "cost": [],
     "duration": 15,
@@ -11,12 +11,11 @@
     "sources": [
         {
             "id": "last-resort",
-            "sub_type": "minor",
             "type": "discipline"
         }
     ],
     "tags": [],
-    "targeting": "Self",
-    "type": "Passive",
+    "targeting": "self",
+    "type": "passive",
     "description": "Put it all on the line increasing your critical hit chance by 50% when your Health drops below 25%"
 }

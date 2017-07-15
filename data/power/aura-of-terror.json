@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 30,
     "cost": [
         {
@@ -16,7 +16,6 @@
     "sources": [
         {
             "id": "scarecrow",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
@@ -24,7 +23,7 @@
         "Stealth",
         "Suppress"
     ],
-    "targeting": "Self",
-    "type": "Debuff",
+    "targeting": "self",
+    "type": "debuff",
     "description": "Surround yourself with a chilling aura of palpable fear that automatically reveals Stealthed enemies.  Enemies who remain nearby for too long are Suppressed and then afflicted with Frostbite."
 }

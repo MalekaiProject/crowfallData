@@ -1,5 +1,5 @@
 {
-    "cast_type": "Instant",
+    "cast_type": "instant",
     "cooldown": 23,
     "cost": [
         {
@@ -16,14 +16,13 @@
     "sources": [
         {
             "id": "standard-bearer",
-            "sub_type": "major",
             "type": "discipline"
         }
     ],
     "tags": [
         "Electric"
     ],
-    "targeting": "Area",
-    "type": "Buff",
+    "targeting": "area",
+    "type": "buff",
     "description": "Deploy a banner overriding the damage of all nearby group members to Electric and increasing their Electric Armor by 25."
 }
