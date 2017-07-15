@@ -15,9 +15,7 @@
       "type": "discipline"
     }
   ],
-  "tags": [
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Inspire yourself, taking stock of your life saving endeavors and recover Resource for every 10000 Health you restore.",
   "type": "Passive"

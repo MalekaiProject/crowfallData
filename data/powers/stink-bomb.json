@@ -21,10 +21,9 @@
     }
   ],
   "tags": [
+    "Corruption",
     "Stealth",
-    "Stun",
-    "Moderate Corruption",
-    "Corruption"
+    "Stun"
   ],
   "targeting": "Area",
   "tooltip": "Torment enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth.",

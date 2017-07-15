@@ -19,8 +19,8 @@
     }
   ],
   "tags": [
-    "Sin",
-    "Fire"
+    "Fire",
+    "Sin"
   ],
   "targeting": "Reticle",
   "tooltip": "Shoots a fireball towards your reticle that explodes for 48 - 72 + 60% Weapon Damage as Fire Damage. Applies Sin to anyone damaged.",

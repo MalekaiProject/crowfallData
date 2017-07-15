@@ -20,7 +20,9 @@
       "type": "discipline"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Heal"
+  ],
   "targeting": "Cone",
   "tooltip": "Haunt 3 enemies, reflecting 35% of their attack damage as Nature damage (max 1050) and healing you for 35% of damage taken.",
   "type": "Debuff"

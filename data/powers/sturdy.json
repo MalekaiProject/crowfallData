@@ -15,9 +15,7 @@
       "type": "discipline"
     }
   ],
-  "tags": [
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Reinforce your body reducing Health loss by 20% when your Health is above 80%.",
   "type": "Passive"

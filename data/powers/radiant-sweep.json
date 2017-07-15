@@ -21,7 +21,9 @@
       "type": "class"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Knock Down"
+  ],
   "targeting": "Cone",
   "tooltip": "Knock down multiple enemies dealing 72 - 108 + 90% Weapon Damage.",
   "type": "Crowd Control"

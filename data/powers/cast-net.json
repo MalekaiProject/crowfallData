@@ -22,7 +22,9 @@
       "type": "class"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Root"
+  ],
   "targeting": "Reticle",
   "tooltip": "Fling a net at your target rooting them in place and inflicting 83 - 102 + 93% Weapon Damage.",
   "type": "Crowd Control"

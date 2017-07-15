@@ -15,9 +15,7 @@
       "type": "discipline"
     }
   ],
-  "tags": [
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Increase your Damage Bonus by 30% when an enemy's Health is above 90%.",
   "type": "Passive"

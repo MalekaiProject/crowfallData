@@ -21,9 +21,10 @@
     }
   ],
   "tags": [
-    "Heal",
+    "Black Mantle",
     "Exposed",
-    "Black Mantle"
+    "Heal",
+    "Knock Down"
   ],
   "targeting": "Ray",
   "tooltip": "Curse an enemy with Disease and Black Mantle, absorbing up to 500 points of Healing.  If Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",

@@ -20,9 +20,7 @@
       "type": "discipline"
     }
   ],
-  "tags": [
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "Self",
   "tooltip": "Sacrifice 1,000 Health to increase Critical Hit Chance by 5% and Critical Hit Damage by 50% for 20 seconds.",
   "type": "Buff"

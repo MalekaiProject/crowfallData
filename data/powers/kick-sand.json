@@ -21,7 +21,9 @@
       "type": "class"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Blind"
+  ],
   "targeting": "Cone",
   "tooltip": "Kick sand at nearby enemies, blinding them for 4 seconds while dealing 151 - 205 + 178% Weapon Damage.",
   "type": "Crowd Control"

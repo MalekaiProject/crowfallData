@@ -19,7 +19,9 @@
       "type": "class"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Movement Speed"
+  ],
   "targeting": "Group",
   "tooltip": "Removes all movement impairing effects. Increases group movement speed by 10%.",
   "type": "Buff"

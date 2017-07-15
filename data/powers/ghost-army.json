@@ -20,9 +20,7 @@
       "type": "discipline"
     }
   ],
-  "tags": [
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "Rectangle",
   "tooltip": "Call forth a Ghost Army in front of you dealing 60-81 + 70% Weapon Damage to 5 per wave of the Army. 50% of the Damage dealt will be returned to you as Health.",
   "type": "Ranged Attack"

@@ -21,9 +21,9 @@
     }
   ],
   "tags": [
+    "Attack Power",
     "Heal",
-    "Slow",
-    "Attack Power"
+    "Slow"
   ],
   "targeting": "Area",
   "tooltip": "Fortify nearby group members with a banner increasing Attack Power by 200, healing those under 35% Health and removing Slow effects.",

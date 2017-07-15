@@ -22,7 +22,9 @@
       "type": "discipline"
     }
   ],
-  "tags": [],
+  "tags": [
+    "Stun"
+  ],
   "targeting": "Cone",
   "tooltip": "Smash an enemy, stunning them for 106 - 143 + 124% Weapon Damage.",
   "type": "Debuff"
