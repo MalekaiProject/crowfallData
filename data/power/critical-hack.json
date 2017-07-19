@@ -11,7 +11,7 @@
     "max_targets": 5,
     "name": "Critical Hack",
     "next_chain": [
-        "criticalhack2"
+        "critical-hack-2"
     ],
     "previous_chain": [],
     "range": 5,
