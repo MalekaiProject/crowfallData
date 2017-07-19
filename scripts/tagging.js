@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // load data
-const powerDirectory = './data/powers';
+const powerDirectory = './data/power';
 
 /**
  * tags needing more exploration
@@ -131,7 +131,7 @@ const tagRegex = {
 let powers = fs.readdirSync(powerDirectory)
   .reduce((obj, file) => {
     let name = file.replace('.json', '');
-    obj[name] = require(`./${powerDirectory}/${file}`);
+    obj[name] = require(`.${powerDirectory}/${file}`);
     obj[name].id = name;
     obj[name].file = `./${powerDirectory}/${file}`;
     return obj;
@@ -146,7 +146,7 @@ let taggedPowers = Object.keys(powers)
         value: tagRegex[key]
       }))
       .filter(regex => {
-        let match = p.tooltip.toLowerCase().match(regex.value);
+        let match = p.description.toLowerCase().match(regex.value);
         return match;
       })
       .map(regex => regex.id);
@@ -166,12 +166,12 @@ function toTitleCase(str) {
 console.log('\nCHECKING TAGS');
 
 taggedPowers.forEach(p => {
-  let { id, proposedTags, tags, tooltip } = p;
+  let { id, proposedTags, tags, description } = p;
 
   let missingTags = proposedTags.filter(t => tags.indexOf(t) === -1);
 
   if (missingTags.length) {
-    console.log(`"${id}" - missing tags [${missingTags}] - ${tooltip}\n\n`);
+    console.log(`"${id}" - missing tags [${missingTags}] - ${description}\n\n`);
   }
 });
 
