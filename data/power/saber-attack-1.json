@@ -10,6 +10,7 @@
     ],
     "previous_chain": [],
     "range": 5,
+    "slot_allowed": "left-click",
     "sources": [
         {
             "id": "duelist",
