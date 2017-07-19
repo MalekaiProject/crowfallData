@@ -6,7 +6,7 @@
     "max_targets": 1,
     "name": "Discipling Strikes",
     "next_chain": [],
-    "previous_chain": [],
+    "previous_chain": ["side-strike"],
     "range": 5,
     "sources": [
         {
