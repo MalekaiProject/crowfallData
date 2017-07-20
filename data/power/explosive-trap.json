@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "ranger",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [

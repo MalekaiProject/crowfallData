@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "dig-in",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

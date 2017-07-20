@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "rune-caster",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

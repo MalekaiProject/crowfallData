@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "shield-breaker",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

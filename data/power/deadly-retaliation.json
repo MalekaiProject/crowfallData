@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "underdog",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

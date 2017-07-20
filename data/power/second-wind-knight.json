@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "knight",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [

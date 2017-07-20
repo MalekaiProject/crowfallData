@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "mudman",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

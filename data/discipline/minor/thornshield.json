@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "The Elken tend to view Thorns as a minor annoyance, a garnish, or something to eat around as they devour their victims.",
-    "equips_granted": [],
     "name": "Thornshield",
     "powers": [
         "thornshield"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

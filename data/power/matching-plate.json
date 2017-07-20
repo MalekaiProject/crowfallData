@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "matching-plate",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

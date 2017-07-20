@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "pixie",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

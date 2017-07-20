@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "armor-of-faith",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

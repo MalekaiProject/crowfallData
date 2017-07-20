@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "myrmidon",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [

@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "resolution",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

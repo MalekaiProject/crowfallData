@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "standard-bearer",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

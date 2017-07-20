@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "master-of-pistols",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

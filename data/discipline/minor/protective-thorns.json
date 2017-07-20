@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "We are here to laugh at the odds and live our lives so well that Death will tremble to take us.",
-    "equips_granted": [],
     "name": "Protective Thorns",
     "powers": [
         "protective-thorns"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

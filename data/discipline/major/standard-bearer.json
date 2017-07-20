@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "A Standard Bearer is a member of a combat group that is responsible for carrying a distinctive mark, often times a flag, as a rallying sign. The added motivation a standard can bring is substantial enough to excite and inspire even the most fatigued of allies while acting as a waypoint for those in their company.",
-    "equips_granted": [],
     "name": "Standard Bearer",
     "powers": [
         "banner-of-storms",
@@ -22,14 +21,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Physical Mitigation"
-    ],
-    "stats_values": [
-        3.75
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Physical Mitigation",
+            "value": 3.75
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

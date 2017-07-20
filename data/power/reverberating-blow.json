@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "master-of-maces",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

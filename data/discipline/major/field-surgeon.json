@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "Field Surgeons are the first to act in the event of a combat disaster. Quick to rescue, triage and rehabilitate, these selfless Field Surgeons are your one-stop shop for quick remedies to get you back in the action. Disclaimer, use as directed and be sure to follow up with a real physician. Satisfaction is not guaranteed and once payment has been processed there are no refunds.",
-    "equips_granted": [],
     "name": "Field Surgeon",
     "powers": [
         "purgative",
@@ -23,14 +22,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Healing Modifier"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Healing Modifier",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

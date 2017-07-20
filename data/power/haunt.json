@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "banshee",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

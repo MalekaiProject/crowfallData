@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "militant-mage",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

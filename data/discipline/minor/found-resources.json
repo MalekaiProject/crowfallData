@@ -5,17 +5,16 @@
         "ranger"
     ],
     "description": "Many experience bad luck that is associated with enormous winnings; this is oft to be thought of as the law of found resources at work.",
-    "equips_granted": [],
     "name": "Found Resources",
     "powers": [
         "found-resources"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

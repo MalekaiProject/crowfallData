@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "cleric",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [],

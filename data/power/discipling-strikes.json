@@ -6,12 +6,14 @@
     "max_targets": 1,
     "name": "Discipling Strikes",
     "next_chain": [],
-    "previous_chain": ["side-strike"],
+    "previous_chain": [
+        "side-strike"
+    ],
     "range": 5,
     "sources": [
         {
             "id": "cleric",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [

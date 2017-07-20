@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "poisoner",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "Escapology is an artform that is still shrouded in mystery. An escapologist will quickly learn the ability to break free from mobility limitations allowing avoidance of even the most obnoxious of crowd control methods. While it may seem easy to the escapist, onlookers and enemies will beg to know the secrets of escape, but a magician never reveals their methods.",
-    "equips_granted": [],
     "name": "Escape Artist",
     "powers": [
         "free-action",
@@ -23,10 +22,10 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

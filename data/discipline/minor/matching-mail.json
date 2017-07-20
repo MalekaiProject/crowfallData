@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "You've got mail!",
-    "equips_granted": [],
     "name": "Matching Mail",
     "powers": [
         "matching-mail"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

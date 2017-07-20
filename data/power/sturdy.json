@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "sturdy",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

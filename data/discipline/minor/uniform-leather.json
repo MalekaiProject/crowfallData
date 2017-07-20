@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "You may not always feel like you are your best, but at least you're well dressed.",
-    "equips_granted": [],
     "name": "Uniform Leather",
     "powers": [
         "uniform-leather"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

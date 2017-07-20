@@ -9,7 +9,6 @@
         "templar"
     ],
     "description": "Tapping into your motivation and channeling it into your current situation is key; no one else is an in tune with their surroundings as that of the Holy Avenger.  The opposition may consider you a scene-stealing hack but you know your methods are far more superior to others.  Always remember the battle chant of your brethren: never give up, never surrender!",
-    "equips_granted": [],
     "name": "Holy Avenger",
     "powers": [
         "grabthars-hammer",
@@ -20,14 +19,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Damage Bonus: Crushing"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Crushing",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "last-resort",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

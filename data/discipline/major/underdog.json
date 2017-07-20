@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "It has been said repeatedly throughout time that the outcome of a match can rarely be predicted. No matter how many times an underdog gets knocked down they are determined to get back up and back into the fray. Remember, its not the size of the dog in the fight!",
-    "equips_granted": [],
     "name": "Underdog",
     "powers": [
         "deadly-retaliation",
@@ -23,10 +22,10 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

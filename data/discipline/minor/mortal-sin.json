@@ -4,17 +4,16 @@
         "templar"
     ],
     "description": "Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.",
-    "equips_granted": [],
     "name": "Mortal Sin",
     "powers": [
         "mortal-sin"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

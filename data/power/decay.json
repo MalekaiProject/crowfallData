@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "plague-lord",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

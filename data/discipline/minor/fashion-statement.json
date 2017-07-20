@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "I pity the fool",
-    "equips_granted": [],
     "name": "Fashion Statement",
     "powers": [],
     "slots_granted": [
@@ -21,14 +20,15 @@
         "Amulet Slot"
     ],
     "slots_removed": [],
-    "stats_granted": [
-        "Stealth"
-    ],
-    "stats_values": [
-        -25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Stealth",
+            "value": -25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

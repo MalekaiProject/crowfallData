@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "burning-hatred",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

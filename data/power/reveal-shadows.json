@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "illusionist",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

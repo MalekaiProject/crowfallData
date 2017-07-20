@@ -3,7 +3,6 @@
         "duelist"
     ],
     "description": "Meticulously engineered with the finest of steel by the most savvy of Guineceans, the pistol is an unparalleled form of arms. Many argue the use of firearms lack proficiency, but that is untrue; in order to take full advantage of rapid fire the wielder must be steady with aim, firmly planted, and quick to react.",
-    "equips_granted": [],
     "name": "Master of Pistols",
     "powers": [
         "pistol-shot",
@@ -15,16 +14,19 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Damage Bonus: Crushing",
-        "Distance Bonus"
-    ],
-    "stats_values": [
-        6,
-        10
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "weapon",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Crushing",
+            "value": 6
+        },
+        {
+            "name": "Distance Bonus",
+            "value": 10
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

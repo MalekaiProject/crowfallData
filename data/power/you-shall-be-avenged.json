@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "holy-avenger",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

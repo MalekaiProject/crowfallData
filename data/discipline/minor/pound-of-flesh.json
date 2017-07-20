@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "Take then thy bond, take thou thy pound of flesh.",
-    "equips_granted": [],
     "name": "Pound of Flesh",
     "powers": [
         "pound-of-flesh"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

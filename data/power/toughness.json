@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "juggernaut",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

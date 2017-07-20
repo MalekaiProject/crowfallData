@@ -9,7 +9,6 @@
         "templar"
     ],
     "description": "The art of bleeding a target is one that only a few can accomplish proficiently.  Followers of Maeve have known for years how important the blade is in combat.  With proper training and practice knife grinding can be the determining factor in a victory or a loss.",
-    "equips_granted": [],
     "name": "Knife Grinder",
     "powers": [
         "tenderize",
@@ -19,14 +18,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Damage Bonus: Slashing"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Slashing",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

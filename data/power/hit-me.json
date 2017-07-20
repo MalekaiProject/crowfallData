@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "eminently-punchable",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

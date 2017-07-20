@@ -12,7 +12,6 @@
         "templar"
     ],
     "description": "An Adjudicator is often synonymous with a mediator or judge and most associated with the Church of Arkon. The importance of banishing sin with fire the truest form of retribution against the guilty and can only be performed by the most devote of disciples.",
-    "equips_granted": [],
     "name": "Adjudicator",
     "powers": [
         "adjudicate",
@@ -21,14 +20,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Damage Bonus: Crushing"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Crushing",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

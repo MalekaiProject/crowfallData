@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "furious",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

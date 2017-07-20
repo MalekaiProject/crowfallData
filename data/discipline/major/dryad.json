@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "Arboreal energy exists in ways that can only be harnessed by the most insightful of nature enthusiasts.  Utilizing the power of trees assists with quick healing efforts that cannot be surpassed.  Dryads are quite in tune with nature and are quick to offer a helpful blast of leaves to the face.",
-    "equips_granted": [],
     "name": "Dryad",
     "powers": [
         "form-life",
@@ -23,16 +22,19 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Healing Modifier",
-        "Enhanced Druid Orbs"
-    ],
-    "stats_values": [
-        6.25,
-        90
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Healing Modifier",
+            "value": 6.25
+        },
+        {
+            "name": "Enhanced Druid Orbs",
+            "value": 90
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

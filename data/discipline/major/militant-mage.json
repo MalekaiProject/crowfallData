@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "Militant Mages are known for their overzealous nature and the ability to pursue their cause even during the most strenuous of moments.  Much like Hero, Militant Mages are known to only have the idea of battle and combat on their minds; utilizing slashing attacks and Warping Metal are all characteristic attributes that help spread awareness to their cause.",
-    "equips_granted": [],
     "name": "Militant Mage",
     "powers": [
         "blade-turning",
@@ -23,14 +22,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Mitigation: Slashing"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Mitigation: Slashing",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

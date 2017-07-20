@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "knife-grinder",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

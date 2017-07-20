@@ -9,7 +9,6 @@
         "templar"
     ],
     "description": "A method of punishment often used by the Gods of Chaos, poison is the most inconspicuous and often underappreciated form of punishment. From the depths o the shadows to the dining halls of kings and queens poison takes many forms with the intention to finish off a target swiftly and with minimal retaliation.",
-    "equips_granted": [],
     "name": "Poisoner",
     "powers": [
         "poisoned-blade",
@@ -20,14 +19,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Armor Pentration: Poison"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Armor Pentration: Poison",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

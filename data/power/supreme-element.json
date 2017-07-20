@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "naiad",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

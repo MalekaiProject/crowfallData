@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "firewalker",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

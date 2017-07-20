@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "pound-of-flesh",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

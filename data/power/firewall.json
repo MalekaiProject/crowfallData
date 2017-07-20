@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "master-of-arcane",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

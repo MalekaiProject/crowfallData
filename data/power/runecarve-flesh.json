@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "runescarred-gladiator",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

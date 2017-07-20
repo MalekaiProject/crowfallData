@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "shield-fighter",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

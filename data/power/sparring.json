@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "sparring",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

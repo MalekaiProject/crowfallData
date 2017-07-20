@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "friar",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

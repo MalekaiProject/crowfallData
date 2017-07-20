@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "mole-hunter",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

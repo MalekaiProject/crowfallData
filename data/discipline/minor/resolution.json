@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "Only fools dream of immortality.  To feel the death of every body, the pain of every new form.  There must be some way to break this never ending cycle!  Or does that miserable statue which towers over every rebirth only serve to remind all Crows that if Hero couldn't break the cycle, no one can?",
-    "equips_granted": [],
     "name": "Resolution",
     "powers": [
         "resolution"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

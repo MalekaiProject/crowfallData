@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "master-of-swords",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

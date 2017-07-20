@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "finish-him",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

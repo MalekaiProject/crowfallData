@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "matching-leather",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

@@ -13,21 +13,21 @@
         "templar"
     ],
     "description": "Through my peripheral I see ya scheming.",
-    "equips_granted": [],
     "name": "Peripheral Vision",
     "powers": [
         "peripheral-vision"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Peripheral Vision"
-    ],
-    "stats_values": [
-        1.15
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Peripheral Vision",
+            "value": 1.15
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

@@ -5,9 +5,6 @@
         "knight"
     ],
     "description": "Strength is not the only deciding factor in the heat of battle. Endurance, stamina, and tenacious spirit are necessary aspects of combat survival, and the addition of a shield can help increase the heartiness of the fighter. Shield Fighters are quick to utilize their armament by blocking blows, richocheting strikes, and the avoidance of massive damage. Fortitude, patience, and a defensive stance are what define a true Shield Fighter.",
-    "equips_granted": [
-        "Small Bucklers"
-    ],
     "name": "Shield Fighter",
     "powers": [
         "brutal-slam",
@@ -19,14 +16,17 @@
         "Off-hand Weapon Slot"
     ],
     "slots_removed": [],
-    "stats_granted": [
-        "Armor Penetration: Crushing"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": 6.25
+        }
+    ],
+    "equips": [
+        "Small Bucklers"
+    ],
+    "tray_granted": "",
+    "tray_removed": ""
 }

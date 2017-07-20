@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "The Church of Arkon is said to have flawless methods of finishing their ennemies.",
-    "equips_granted": [],
     "name": "Finish Him",
     "powers": [
         "executioner"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

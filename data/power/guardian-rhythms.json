@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "bard",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

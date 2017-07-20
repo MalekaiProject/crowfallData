@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "blood-pact",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

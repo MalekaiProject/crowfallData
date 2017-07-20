@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "master-of-focus",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "blade-master",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

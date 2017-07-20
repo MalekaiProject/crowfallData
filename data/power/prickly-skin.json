@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "prickly-skin",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

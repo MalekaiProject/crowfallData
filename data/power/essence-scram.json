@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "druid",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [

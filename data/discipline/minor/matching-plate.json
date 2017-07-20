@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "Don't let anyone ever dull your sparkle.",
-    "equips_granted": [],
     "name": "Matching Plate",
     "powers": [
         "matching-plate"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

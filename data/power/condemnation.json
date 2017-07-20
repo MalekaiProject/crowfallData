@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "confessor",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [

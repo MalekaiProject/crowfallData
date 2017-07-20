@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "Not all skin conditions are detrimental.",
-    "equips_granted": [],
     "name": "Prickly Skin",
     "powers": [
         "prickly-skin"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

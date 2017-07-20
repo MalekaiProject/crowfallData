@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "destroyer",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "guinecean",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "An Illusionist alters the perception of those within their proximity which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements an Illusionist maintains a dapper appearance while also being a worth adversary in combat.",
-    "equips_granted": [],
     "name": "Illusionist",
     "powers": [
         "glamour-weapon",
@@ -22,14 +21,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Perception"
-    ],
-    "stats_values": [
-        20
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Perception",
+            "value": 20
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "agent-provocateur",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

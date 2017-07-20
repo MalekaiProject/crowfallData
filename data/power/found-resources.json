@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "found-resources",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

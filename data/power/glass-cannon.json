@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "glass-cannon",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

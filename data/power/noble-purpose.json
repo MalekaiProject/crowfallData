@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "field-surgeon",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

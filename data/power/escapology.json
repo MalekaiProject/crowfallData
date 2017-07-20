@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "escape-artist",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

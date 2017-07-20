@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "uniform-leather",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

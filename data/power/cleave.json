@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "master-of-hammers",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

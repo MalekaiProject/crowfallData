@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "master-of-shields",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

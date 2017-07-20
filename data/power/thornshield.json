@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "thornshield",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

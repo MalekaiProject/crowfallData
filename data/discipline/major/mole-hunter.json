@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "A heightened sense of awareness has often been compared to paranoia, but on the battlefield it is the ultimate key to fending off unexpected attacks. Those who are cloaked in the shadows are more exposed and more vulnerable when a Mole Hunter is present. Whacking moles and stealthers eventually becomes an easy game of Hide and Seek.",
-    "equips_granted": [],
     "name": "Mole Hunter",
     "powers": [
         "heads-up",
@@ -23,16 +22,19 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Perception",
-        "Dodge Regen Tick Rate"
-    ],
-    "stats_values": [
-        20,
-        -0.01
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Perception",
+            "value": 20
+        },
+        {
+            "name": "Dodge Regen Tick Rate",
+            "value": -0.01
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "dryad",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

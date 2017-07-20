@@ -18,7 +18,7 @@
     "sources": [
         {
             "id": "champion",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [],

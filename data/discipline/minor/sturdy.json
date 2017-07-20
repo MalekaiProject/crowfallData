@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "The only thing said to unsettle a Stoneborn, is the sight of an immortal summoning a Runestone Hammer...",
-    "equips_granted": [],
     "name": "Sturdy",
     "powers": [
         "sturdy"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

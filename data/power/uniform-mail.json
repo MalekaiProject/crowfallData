@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "uniform-mail",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

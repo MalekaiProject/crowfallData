@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "master-of-mystical-staves",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

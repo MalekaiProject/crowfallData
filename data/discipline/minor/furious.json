@@ -3,17 +3,16 @@
         "champion"
     ],
     "description": "Until you learn to master your rage, your rage will become your master.",
-    "equips_granted": [],
     "name": "Furious",
     "powers": [
         "furious"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

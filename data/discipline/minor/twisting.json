@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "Not for the faint of wrist.",
-    "equips_granted": [],
     "name": "Twisting",
     "powers": [
         "song-twisting"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

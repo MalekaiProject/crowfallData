@@ -13,7 +13,7 @@
     "sources": [
         {
             "id": "duelist",
-            "type": "class"
+            "data_type": "class"
         }
     ],
     "tags": [],

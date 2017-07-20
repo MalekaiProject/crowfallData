@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "troubadour",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

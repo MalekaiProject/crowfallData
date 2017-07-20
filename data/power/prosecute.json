@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "adjudicator",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

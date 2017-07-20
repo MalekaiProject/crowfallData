@@ -13,7 +13,6 @@
         "templar"
     ],
     "description": "Naiads, or Water Spirits, are in tune with the ebb and flow of fresh waters and the possibility of its power. They often take comfort in the flowing of water and view it as a source of life. Water Spirits help alleviate pain and harm while also extinguishing even the most volatile of infernos, after all Water Beats Fire!",
-    "equips_granted": [],
     "name": "Naiad",
     "powers": [
         "fountain-of-life",
@@ -22,14 +21,15 @@
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [
-        "Healing Modifier"
-    ],
-    "stats_values": [
-        6.25
-    ],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "major",
-    "tags": []
+    "tags": [],
+    "stats": [
+        {
+            "name": "Healing Modifier",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

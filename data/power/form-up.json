@@ -16,7 +16,7 @@
     "sources": [
         {
             "id": "secutor",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

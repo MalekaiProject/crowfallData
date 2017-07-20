@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "For generations the Fae have purged males of their species in the service of the greater good. Mothers cling to this belief as they administer The Farewell Kiss, and yet there are those who don't believe. Some other reason compells them.",
-    "equips_granted": [],
     "name": "Burning Hatred",
     "powers": [
         "burning-hatred"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

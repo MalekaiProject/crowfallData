@@ -13,17 +13,16 @@
         "templar"
     ],
     "description": "Makes no sense. At all.",
-    "equips_granted": [],
     "name": "Glass Cannon",
     "powers": [
         "glass-cannon"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }

@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "reality-warper",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

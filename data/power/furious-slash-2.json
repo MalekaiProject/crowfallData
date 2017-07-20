@@ -18,7 +18,7 @@
     "sources": [
         {
             "id": "master-of-axes",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "protective-thorns",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

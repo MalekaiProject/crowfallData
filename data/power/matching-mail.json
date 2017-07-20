@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "matching-mail",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [

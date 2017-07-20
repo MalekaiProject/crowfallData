@@ -11,7 +11,7 @@
     "sources": [
         {
             "id": "overwhelming-odds",
-            "type": "discipline"
+            "data_type": "discipline"
         }
     ],
     "tags": [],

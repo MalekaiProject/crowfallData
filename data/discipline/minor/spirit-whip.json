@@ -11,17 +11,16 @@
         "templar"
     ],
     "description": "Crack that whip and give the past the slip.  It's not too late... To spirit whip it!",
-    "equips_granted": [],
     "name": "Spirit Whip",
     "powers": [
         "spirit-whip"
     ],
     "slots_granted": [],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
     "type": "minor",
-    "tags": []
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
 }
