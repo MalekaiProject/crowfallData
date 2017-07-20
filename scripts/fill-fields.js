@@ -13,7 +13,7 @@ const walk = function(dir) {
 }
 
 function fill(data_type, obj) {
-    obj.id = obj.id || '';
+    // obj.id = obj.id || '';
     obj.name = obj.name || '';
     obj.description = obj.description || '';
     obj.tags = obj.tags || [];
@@ -21,14 +21,14 @@ function fill(data_type, obj) {
         obj.races = obj.races || [];
         obj.powers = obj.powers || [];
     } else if(data_type === 'discipline') {
-        obj.equips_granted = obj.equips_granted || [];
+        obj.classes = obj.classes || [];
+        obj.equips= obj.equips || [];
         obj.powers = obj.powers || [];
         obj.slots_granted = obj.slots_granted || [];
         obj.slots_removed = obj.slots_removed || [];
-        obj.stats_granted = obj.stats_granted || [];
-        obj.stats_values = obj.stats_values || [];
-        obj.trays_granted = obj.trays_granted || '';
-        obj.trays_removed = obj.trays_removed || '';
+        obj.stats = obj.stats || [];
+        obj.tray_granted = obj.tray_granted || '';
+        obj.tray_removed = obj.tray_removed || '';
         obj.type = obj.type || '';
     } else if(data_type === 'power') {
         obj.cast_type = obj.cast_type || '';

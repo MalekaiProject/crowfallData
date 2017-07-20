@@ -49,7 +49,7 @@ for(const file of walk('data')) {
                 childrenIds[key] = obj.races.map(a => 'discipline::' + a).concat(obj.powers.map(a => 'power::' + a));
                 break;
             case 'power':
-                childrenIds[key] = obj.sources.map(a => a.type + '::' + a.id);
+                childrenIds[key] = obj.sources.map(a => a.data_type + '::' + a.id);
                 break;
             case 'discipline':
                 childrenIds[key] = obj.classes.map(a => 'class::' + a).concat(obj.powers.map(a => 'power::' + a));

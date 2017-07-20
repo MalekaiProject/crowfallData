@@ -44,7 +44,3 @@ it will print them to stderr and write them to a "id-errors.txt" file.
 Migrates old data models to newer ones.
 
 **USAGE**: `node scripts/migrate-data.js`
-
-## tagging.js
-
-## validate.js
