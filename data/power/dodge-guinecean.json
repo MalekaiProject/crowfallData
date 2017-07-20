@@ -4,18 +4,18 @@
     "cost": [],
     "duration": 0,
     "max_targets": 1,
-    "name": "Dodge (Duelist)",
+    "name": "Dodge (Guinecean)",
     "next_chain": [],
     "previous_chain": [],
     "range": 5,
     "sources": [
         {
-            "id": "duelist",
-            "type": "class"
+            "id": "guinecean",
+            "type": "discipline"
         }
     ],
     "tags": [],
     "targeting": "self",
     "type": "non-aggressive",
-    "description": "Leap away from danger using your WASD direction."
+    "description": "Roll in a WASD direction."
 }

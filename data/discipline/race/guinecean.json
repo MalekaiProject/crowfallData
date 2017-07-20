@@ -4,16 +4,26 @@
         "cleric",
         "duelist"
     ],
-    "description": "",
+    "description": "By legend, the Guineceans were transformed from their animal forefathers into sentient creatures by Gaea, the Earth Mother, at her moment of death.",
     "name": "Guinecean",
     "tags": [],
     "equips_granted": [],
-    "powers": [],
-    "slots_granted": [],
+    "powers": [
+        "guinecean-bloodline",
+        "dodge-guinecean",
+        "guinecean-burrow",
+        "saltpeter-rounds"
+    ],
+    "slots_granted": [
+        "ring"
+    ],
     "slots_removed": [],
-    "stats_granted": [],
-    "stats_values": [],
-    "trays_granted": "",
-    "trays_removed": "",
+    "stats": [
+        { "name": "dexterity", "value": 60 },
+        { "name": "intellect", "value": 30 },
+        { "name": "subsistence", "value": 0.1 }
+    ],
+    "tray_granted": "",
+    "tray_removed": "",
     "type": "race"
 }

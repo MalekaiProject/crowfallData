@@ -4,14 +4,14 @@
     "cost": [],
     "duration": 0,
     "max_targets": 1,
-    "name": "Enter Burrow",
+    "name": "Guinecean Burrow",
     "next_chain": [],
     "previous_chain": [],
     "range": 0,
     "sources": [
         {
-            "id": "duelist",
-            "type": "class"
+            "id": "guinecean",
+            "type": "discipline"
         }
     ],
     "tags": [
@@ -19,5 +19,5 @@
     ],
     "targeting": "self",
     "type": "transformation",
-    "description": "Tunnel underground to avoid detection and gain access to new abilities. Taking damage forces you out of your Burrow."
+    "description": "Toggle: Stealths Player."
 }

@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "pips",
+            "cost": 0
+        }
+    ],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Saltpeter Rounds",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "guinecean",
+            "type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "",
+    "type": "",
+    "description": "Pistol Shots Can Snare Targets."
+}
