@@ -19,7 +19,9 @@
             "data_type": "discipline"
         }
     ],
-    "tags": [],
+    "tags": [
+        "Snare"
+    ],
     "targeting": "",
     "type": "",
     "description": "Pistol Shots Can Snare Targets."

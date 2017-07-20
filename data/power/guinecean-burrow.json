@@ -15,7 +15,8 @@
         }
     ],
     "tags": [
-        "Burrow"
+        "Burrow",
+        "Stealth"
     ],
     "targeting": "self",
     "type": "transformation",
