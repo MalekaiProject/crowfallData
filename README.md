@@ -17,6 +17,10 @@ Scree, Michael Fedora, [LOD] Will, Remm, That_Eriksson, Typ3cast
     - `{subtype}`: Extra organization, for `major`, `minor`, `weapon`, and `race` types
   - `power`: All of the powers
 
+# Data Schemes
+
+See [DATA_SCHEMES.md](DATA_SCHEMES.md);
+
 # Scripts
 
 ## fill-fields.js
