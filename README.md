@@ -24,6 +24,16 @@ Fills the fields of the data objects to *at least* a default value;
 
 **USAGE**: `node scripts/fill-fields.js`
 
+## tagging.js
+Output possible matches for tagging lexicon.
+
+**USAGE**: `node scripts/tagging.js`
+
+## validate.js
+Checks the json data for valid data types.  Validates correct cast, targetting, and type values are used, prevents from mispellings. Checks that all items in `powers` node actually exist.
+
+**USAGE**: `node scripts/validate.js`
+
 ## validate-ids.js
 Validates the ids for all the files in the data directory. If there are errors,
 it will print them to stderr and write them to a "id-errors.txt" file.
