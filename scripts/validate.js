@@ -1,57 +1,64 @@
 const fs = require('fs');
+const path = require('path');
 
 const powerTypeMappings = [
-  'Buff',
-  'Crowd Control',
-  'Crowd Control Self',
-  'Debuff',
-  'Melee Attack',
-  'Passive',
-  'Ranged Attack',
-  'Non-Aggressive',
-  'Retaliate',
-  'Transformation',
-  'Ultimate'
+  'buff',
+  'crowd control',
+  'crowd control self',
+  'debuff',
+  'melee attack',
+  'passive',
+  'ranged attack',
+  'non-aggressive',
+  'retaliate',
+  'transformation',
+  'ultimate'
 ];
 
 const powerCastTypeMappings = [
-  'Instant',
-  'Channeled',
-  'Charged',
-  'Ground Aimed',
-  'Hold Charged',
-  'Hold Channeled',
-  'Passive',
-  'Toggle'
+  'instant',
+  'channeled',
+  'charged',
+  'ground aimed',
+  'hold charged',
+  'hold channeled',
+  'passive',
+  'toggle'
 ];
 
 const targetingMappings = [
-  'Area',
-  'Cone',
-  'Group',
-  'Point Blank Area',
-  'Ray',
-  'Rectangle',
-  'Reticle',
-  'Self',
-  'Sphere'
+  'area',
+  'cone',
+  'group',
+  'point blank area',
+  'ray',
+  'rectangle',
+  'reticle',
+  'self',
+  'sphere'
 ];
 
-// load data
-let data = fs.readdirSync('data')
-  .reduce((obj, folder) => {
-    let directory = `data/${folder}`;
+const walk = function(dir) {
+  let results = [];
+  let list = fs.readdirSync(dir);
+  list.forEach(function(file) {
+    file = dir + '/' + file;
+    let stat = fs.statSync(file);
+    if (stat && stat.isDirectory()) results = results.concat(walk(file));
+    else results.push(file);
+  });
+  return results;
+};
 
-    if (fs.lstatSync(directory).isDirectory()) {
-      obj[folder] = fs.readdirSync(directory)
-        .reduce((obj, file) => {
-          let name = file.replace('.json', '');
-          obj[name] = require(`./${directory}/${file}`);
-          return obj;
-        }, {});
-    }
-    return obj;
-  }, {});
+let data = walk('data').reduce((obj, file) => {
+  let type = /^data\/(.+?)\//.exec(file)[1];
+  let json = require(`../${file}`);
+  let parsed = path.parse(file);
+
+  obj[type] = obj[type] || {};
+  obj[type][parsed.name] = json;
+  return obj;
+}, {});
 
 // type checking
 Object.keys(data)
@@ -87,8 +94,8 @@ Object.keys(data)
   });
 
 // power validations
-Object.keys(data.powers)
-  .map(d => Object.assign({ id: d }, data.powers[d]))
+Object.keys(data.power)
+  .map(d => Object.assign({ id: d }, data.power[d]))
   .forEach(p => {
     let { cast_type: castType, targeting, type } = p;
 
@@ -109,12 +116,12 @@ Object.keys(data.powers)
   });
 
 // validate powers exist in their sources
-Object.keys(data.powers)
-  .map(d => Object.assign({ id: d }, data.powers[d]))
+Object.keys(data.power)
+  .map(d => Object.assign({ id: d }, data.power[d]))
   .forEach(power => {
     power.sources
       .forEach(source => {
-        let type = source.sub_type || source.type;
+        let type = source.type;
         let { powers } = data[type][source.id];
 
         if (!powers || powers.indexOf(power.id) === -1) {
@@ -125,7 +132,7 @@ Object.keys(data.powers)
   });
 
 // validate powers lists have valid powers
-['class', 'major', 'minor', 'weapon']
+['class', 'discipline']
   .map(type => data[type])
   .forEach(type => {
     Object.keys(type)
@@ -134,7 +141,7 @@ Object.keys(data.powers)
         let { powers = [] } = d;
 
         powers.forEach(power => {
-          if (!data.powers[power]) {
+          if (!data.power[power]) {
             console.log(`${power} from ${d.name} is not a valid power`);
           }
         });
