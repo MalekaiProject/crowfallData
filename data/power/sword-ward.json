@@ -1,0 +1,28 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Sword Ward",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "militant-mage",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Slashing"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Enchant your armor with a ward against Slashing attacks increasing your Slashing Armor by 25.  Slashing attacks cause Sword Ward to slowly weaken temporarily."
+}

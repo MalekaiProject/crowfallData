@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "health",
+            "cost": 55
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Sacrifice",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Sacrifice 55 Health for 15% Essence."
+}

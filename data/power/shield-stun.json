@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 18
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Shield Stun",
+    "next_chain": [],
+    "previous_chain": [
+        "shield-swipe"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing",
+        "Stun"
+    ],
+    "targeting": "cone",
+    "type": "crowd control",
+    "description": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage."
+}

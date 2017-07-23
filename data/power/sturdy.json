@@ -1,0 +1,21 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Sturdy",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "sturdy",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Reinforce your body reducing Health loss by 20% when your Health is above 80%."
+}

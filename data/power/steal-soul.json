@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Steal Soul",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-daggers",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Lifesteal"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Basic attacks gain the Lifesteal effect."
+}

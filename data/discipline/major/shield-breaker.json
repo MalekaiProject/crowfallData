@@ -1,0 +1,44 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "A shield is a mighty piece of weaponry and armor that is often difficult to bypass, but a Shield Breaker has the ability to plow through such armament with ease. Breaking barriers and exposing weakness are just a few attributes they are privy to adding another layer of complexity to combat.",
+    "name": "Shield Breaker",
+    "powers": [
+        "shield-breaker",
+        "dispel",
+        "reveal-weakness",
+        "rupture-barrier"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "major",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": 3.75
+        },
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": 3.75
+        },
+        {
+            "name": "Armor Penetration: Piercing",
+            "value": 3.75
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 17
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Cast Net",
+    "next_chain": [
+        "net-pull",
+        "charge"
+    ],
+    "previous_chain": [],
+    "range": 30,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Root"
+    ],
+    "targeting": "reticle",
+    "type": "crowd control",
+    "description": "Fling a net at your target rooting them in place and inflicting 83 - 102 + 93% Weapon Damage."
+}

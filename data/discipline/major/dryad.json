@@ -1,0 +1,40 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Arboreal energy exists in ways that can only be harnessed by the most insightful of nature enthusiasts.  Utilizing the power of trees assists with quick healing efforts that cannot be surpassed.  Dryads are quite in tune with nature and are quick to offer a helpful blast of leaves to the face.",
+    "name": "Dryad",
+    "powers": [
+        "form-life",
+        "form-life-2",
+        "blast-of-leaves",
+        "take-root"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "major",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Healing Modifier",
+            "value": 6.25
+        },
+        {
+            "name": "Enhanced Druid Orbs",
+            "value": 90
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 9
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Pistol Shot",
+    "next_chain": [
+        "pistol-shot-2"
+    ],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "master-of-pistols",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Fire"
+    ],
+    "targeting": "ray",
+    "type": "ranged attack",
+    "description": "Shoot an enemy for 35 - 52 + 43% Weapon Damage while generating a Pip with a chance to reset the cooldown of Rapid Fire."
+}

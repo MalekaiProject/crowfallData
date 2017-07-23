@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 20,
+    "max_targets": 1,
+    "name": "Illusionary Armor",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "armor-of-faith",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Conjure an illusion effective enough to reduce incoming damage by 20% for 20 seconds."
+}

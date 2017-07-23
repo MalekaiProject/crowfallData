@@ -1,0 +1,26 @@
+{
+    "cast_type": "hold channeled",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 33
+        }
+    ],
+    "duration": 0,
+    "max_targets": 3,
+    "name": "Bull Rush",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 7,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "rectangle",
+    "type": "crowd control",
+    "description": "Charge forward dragging enemies along with you and causing 82 - 100 + 91% Weapon Damage. Enemies are flung into the air if the attack is over 65% charged."
+}

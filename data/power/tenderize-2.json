@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Tenderize 2",
+    "next_chain": [],
+    "previous_chain": [
+        "tenderize"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knife-grinder",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Cut an enemy for 76 - 103 + 90% Weapon Damage and reducing their Bleed Armor for 15 seconds."
+}

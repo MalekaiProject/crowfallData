@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 30,
+    "max_targets": 5,
+    "name": "Benediction",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "friar",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Benediction Bless group members and yourself increasing Bleed Armor by 50 for 30 seconds."
+}

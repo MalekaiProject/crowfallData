@@ -1,0 +1,31 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "As a host of the most noxious of contaminants your popularity may ebb and flow as you infect your enemies. The odors and muck you may leave behind will help remind those of your legacy as a plague bearer and a master of the rank andf oul making you one highly feared adversary.",
+    "name": "Plague Lord",
+    "powers": [
+        "shrivel",
+        "decay",
+        "festering-wounds",
+        "touch-of-rot"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "major",
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

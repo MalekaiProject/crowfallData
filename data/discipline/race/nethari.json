@@ -1,0 +1,18 @@
+{
+    "classes": [
+        "confessor",
+        "templar",
+        "assassin"
+    ],
+    "description": "",
+    "name": "Nethari",
+    "tags": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "race",
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

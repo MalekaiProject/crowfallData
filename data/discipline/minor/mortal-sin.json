@@ -1,0 +1,19 @@
+{
+    "classes": [
+        "confessor",
+        "templar"
+    ],
+    "description": "Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.",
+    "name": "Mortal Sin",
+    "powers": [
+        "mortal-sin"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "minor",
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

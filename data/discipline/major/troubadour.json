@@ -1,0 +1,36 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "A lyrical poet with a heavy output of vocal assault, the troubadour is one fierce vocalist. The importance of song and rhythms are what set the Troubadour apart from any other lyrical counterpart and can make a great addition to any party.",
+    "name": "Troubadour",
+    "powers": [
+        "consonant-chains",
+        "requiem",
+        "dirge-of-dissonance",
+        "lament-of-sadness"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "major",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Organic Mitigation",
+            "value": 3.75
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

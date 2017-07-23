@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Purgative",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "field-surgeon",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Cleanse your group and yourself of damage over time effects healing for 32 - 39 + 35% Weapon Damage for each effect removed."
+}

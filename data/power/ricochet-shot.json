@@ -1,0 +1,26 @@
+{
+    "cast_type": "charged",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1
+        }
+    ],
+    "duration": 10,
+    "max_targets": 1,
+    "name": "Ricochet Shot",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 40,
+    "sources": [
+        {
+            "id": "ranger",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "reticle",
+    "type": "ranged attack",
+    "description": "Charge an arrow and shoot it towards your reticle dealing 158 - 213 + 186% Weapon Damage. The arrow will chain to a second target within 6m and then chain to a third target. If you hit 3 targets with this power applies 150 Critical Hit Damage for 10 seconds."
+}

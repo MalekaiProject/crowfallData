@@ -1,0 +1,21 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 3,
+    "name": "Retaliate (Champion)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "sphere",
+    "type": "retaliate",
+    "description": "Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies."
+}

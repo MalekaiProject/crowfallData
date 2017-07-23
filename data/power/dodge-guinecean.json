@@ -1,0 +1,21 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Dodge (Guinecean)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "guinecean",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Roll in a WASD direction."
+}

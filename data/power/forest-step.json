@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 34
+        }
+    ],
+    "duration": 3,
+    "max_targets": 1,
+    "name": "Forest Step",
+    "next_chain": [
+        "tendon-slice"
+    ],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "ranger",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Movement Speed"
+    ],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Blink through the forest shadows forward and gain 50 Movement Speed for 3 seconds."
+}

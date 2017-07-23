@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 7
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Crippling Stab",
+    "next_chain": [
+        "crippling-stab-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-daggers",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Stab an enemy for 48 - 64 + 56% Weapon Damage."
+}

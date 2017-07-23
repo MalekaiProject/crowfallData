@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Drive",
+    "next_chain": [],
+    "previous_chain": [
+        "uppercut"
+    ],
+    "range": 8,
+    "sources": [
+        {
+            "id": "cleric",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Piercing",
+        "Weapon Break"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Stab in front of you for 75 - 92 + 83% Weapon Damage as Piercing Damage. Applies a Weapon Break to all hit, which reduces all Damage they deal by 20% for 15 seconds."
+}

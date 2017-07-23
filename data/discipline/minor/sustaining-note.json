@@ -1,0 +1,31 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Sometimes the wrists just need a break.",
+    "name": "Sustaining Note",
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "minor",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Song Duration",
+            "value": 6
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 30,
+    "max_targets": 5,
+    "name": "Sanctuary",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 10,
+    "sources": [
+        {
+            "id": "rune-caster",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "area",
+    "type": "buff",
+    "description": "Defend an area with a runic symbol increasing allies' All Armor by 20%."
+}

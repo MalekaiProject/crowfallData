@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 3,
+    "name": "Obliterate",
+    "next_chain": [],
+    "previous_chain": [
+        "brutal-strike",
+        "twin-assault"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "sphere",
+    "type": "crowd control",
+    "description": "Slash around you three times for 40 - 54 + 47% Weapon Damage each hit. Applies a moderate bleed to all hit."
+}

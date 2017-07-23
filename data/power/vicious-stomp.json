@@ -1,0 +1,31 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 7
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Vicious Stomp",
+    "next_chain": [
+        "disarming-shout",
+        "rend"
+    ],
+    "previous_chain": [],
+    "range": 6,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Movement Speed"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Stomp the ground in front of you, dealing 63 - 85 + 74% Weapon Damage. Applies a 50% movement speed reduction to all hit."
+}

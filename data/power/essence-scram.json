@@ -1,0 +1,29 @@
+{
+    "cast_type": "channeled",
+    "cooldown": 180,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 26
+        }
+    ],
+    "duration": 7,
+    "max_targets": 1,
+    "name": "Essence Scram",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Heal",
+        "Invulnerable"
+    ],
+    "targeting": "self",
+    "type": "ultimate",
+    "description": "Become invulnerable while you channel. While in the Life tray you lose 5% Essence and inflict 40 to 60 every 0.25 seconds.  While in the Death tray heal 1500 Health every .025 seconds while pushing enemies away every 1 second, and if you successfully channel the max duration gain the Power of Death which grants 30% Bonuse Damage for 30 seconds."
+}

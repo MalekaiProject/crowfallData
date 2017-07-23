@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 17
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Net Pull",
+    "next_chain": [],
+    "previous_chain": [
+        "cast-net"
+    ],
+    "range": 30,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "reticle",
+    "type": "crowd control",
+    "description": "Pull your target toward you inflicting 95 - 116 + 106% Weapon Damage."
+}

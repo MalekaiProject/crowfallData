@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 57
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Blight",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 10,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Electric"
+    ],
+    "targeting": "area",
+    "type": "debuff",
+    "description": "Deploy a field causing each COALESCE LIFE orb to explode catasrophically for 86 - 120 + 108% Weapon Damage while COALESCE NATURE orbs explode for 90 to 136 + 113% Weapon Damage. Reduces Earth and Electric defenses by 20%."
+}

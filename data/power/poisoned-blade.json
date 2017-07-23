@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Poisoned Blade",
+    "next_chain": [
+        "poisoned-blade-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "poisoner",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Poison"
+    ],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Attack for 113 - 153 + 133% Weapon Damage and cause the enemy to become Poisoned taking 8 - 9 + 1% Weapon Damage per tick."
+}

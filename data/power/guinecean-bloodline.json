@@ -1,0 +1,21 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Guinecean Bloodline",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "guinecean",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Racial Passive: Reduced Stamina Usage."
+}

@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Skullcracker 2",
+    "next_chain": [],
+    "previous_chain": [
+        "skullcracker"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-maces",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Stun"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Smash an enemy, stunning them and causing 94 - 127 + 111% Weapon Damage."
+}

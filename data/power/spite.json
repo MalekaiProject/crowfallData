@@ -1,0 +1,24 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 5,
+    "max_targets": 1,
+    "name": "Spite",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "juggernaut",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Knock Down",
+        "Stun"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Seethe dangerously each time you suffer a Knockdown or Stun and recover 4 - 6% of your maximum Health over 5 seconds."
+}

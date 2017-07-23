@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Nova",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "master-of-focus",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "area",
+    "type": "debuff",
+    "description": "Draw enemies toward you repeatedly inflicting 2 - 3 + 2% Weapon Damage."
+}

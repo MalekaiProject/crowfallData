@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1
+        }
+    ],
+    "duration": 15,
+    "max_targets": 5,
+    "name": "Devotion",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "templar",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Heal",
+        "Sin"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Recite a benediction healing group members and you based on the damage you inflict and revealing Sin within enemies attacked for 15 seconds."
+}

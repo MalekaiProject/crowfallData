@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 46
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Lightning Strike",
+    "next_chain": [
+        "aurora-emitter"
+    ],
+    "previous_chain": [
+        "lightning-burst"
+    ],
+    "range": 35,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "ray",
+    "type": "ranged attack",
+    "description": "Strike enemies with lightning for 109 - 163 + 136% Weapon Damage and Dazing them."
+}

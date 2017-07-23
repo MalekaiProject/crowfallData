@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Shield Glare 2",
+    "next_chain": [],
+    "previous_chain": [
+        "shield-glare"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-shields",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Blind"
+    ],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Blind an enemy with light reflected from your shield causing 104 - 140 + 122% Weapon Damage."
+}

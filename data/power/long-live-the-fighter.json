@@ -1,0 +1,23 @@
+{
+    "cast_type": "",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Long Live the Fighter",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "knife-grinder",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Your last Basic attack inflicts a Bleed."
+}

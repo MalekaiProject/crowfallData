@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Firewall",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 10,
+    "sources": [
+        {
+            "id": "master-of-arcane",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Fire",
+        "Slow"
+    ],
+    "targeting": "rectangle",
+    "type": "debuff",
+    "description": "Summon a raging inferno to slow and damage any enemies for 30 - 40 + 35% Fire Weapon Damage."
+}

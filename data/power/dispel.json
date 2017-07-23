@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Dispel",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "shield-breaker",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Barrier",
+        "Knock Down"
+    ],
+    "targeting": "reticle",
+    "type": "debuff",
+    "description": "Strip away an enemy's Barrier inflicting 91 - 123 + 107% Weapon Damage and causing Knockdown if a Barrier is removed."
+}

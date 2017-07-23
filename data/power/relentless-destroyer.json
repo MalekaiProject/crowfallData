@@ -1,0 +1,21 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Relentless (Destroyer)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "destroyer",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "passive",
+    "description": "You no longer degenerate Rage.  Instead, you generate 1.5 Rage every 1 second while in Combat."
+}

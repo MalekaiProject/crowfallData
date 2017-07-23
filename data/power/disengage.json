@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 100
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Disengage",
+    "next_chain": [],
+    "previous_chain": [
+        "sweep"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "ranger",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "non-aggressive",
+    "description": "Leap backwards dealing 244 - 331 + 287% Weapon Damage. Places your Power Tray into Ranged Mode."
+}

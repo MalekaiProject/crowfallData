@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 68,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 45,
+    "max_targets": 5,
+    "name": "Toughness",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "juggernaut",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Strengthen group members and yourself increasing their Maximum Health by 20% for 45 seconds."
+}

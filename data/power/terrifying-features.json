@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Terrifying Features",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "scarecrow",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Stun"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Protect yourself with a powerful enchantment periodically stunning attackers."
+}

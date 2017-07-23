@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Jelly Skin",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "mudman",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Barrier",
+        "Crushing"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Protect yourself with skin like rubber granting you a barrier with immunity to Crushing damage."
+}

@@ -1,0 +1,21 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 3,
+    "max_targets": 0,
+    "name": "Concentration",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-arcane",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Standing still for 3 seconds restores Mana and Zealotry every second until you move."
+}

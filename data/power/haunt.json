@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 14
+        }
+    ],
+    "duration": 20,
+    "max_targets": 3,
+    "name": "Haunt",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "banshee",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Haunt 3 enemies, reflecting 35% of their attack damage as Nature damage (max 1050) and healing you for 35% of damage taken."
+}

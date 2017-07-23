@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Battle Cry",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 2,
+    "sources": [
+        {
+            "id": "cleric",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Movement Speed"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Removes all movement impairing effects. Increases group movement speed by 10%."
+}

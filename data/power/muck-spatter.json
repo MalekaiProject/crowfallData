@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 15,
+    "max_targets": 0,
+    "name": "Muck Spatter",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "mudman",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Corruption",
+        "Crushing"
+    ],
+    "targeting": "self",
+    "type": "debuff",
+    "description": "Crushing attacks made against you have a chance to cause nearby enemies to be afflicted with Blindness and Severe Corruption."
+}

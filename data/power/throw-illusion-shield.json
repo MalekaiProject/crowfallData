@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 2,
+    "name": "Throw Illusion Shield",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 15,
+    "sources": [
+        {
+            "id": "shield-fighter",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Throw an illusion shield and ricochet off multiple nearby enemies for 85 - 115 + 100% Weapon Damage.  THROW ILLUSION SHIELD will ricochet to as many as 2 with damage reduced by 30% each ricochet."
+}

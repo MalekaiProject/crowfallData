@@ -1,0 +1,21 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Opportunist",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "duelist",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Saber Attacks have a 20% chance to reset the cooldown on Flintlock shot."
+}

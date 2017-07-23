@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Frighten",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "destroyer",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Shout at an enemy inflicting 91 - 123 + 107% Weapon Damage and reducing their damage bonus."
+}

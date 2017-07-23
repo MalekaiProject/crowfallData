@@ -1,0 +1,27 @@
+{
+    "classes": [
+        "druid"
+    ],
+    "description": "Crafted with care and the utmost consideration for personalization, the Mystical Stave is one of the most unique items used for magical and combative purposes.  A key element for rooting the enemy, enchantment, and conjuration, the stave can also be used similar to a polearm in close-quarters combat.",
+    "name": "Master of Mystical Staves",
+    "powers": [
+        "grasping-roots",
+        "soothing-winds",
+        "stars-align",
+        "quick-burn",
+        "slow-growth"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "weapon",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Electricity",
+            "value": 6
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

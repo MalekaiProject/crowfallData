@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 35
+        }
+    ],
+    "duration": 45,
+    "max_targets": 1,
+    "name": "Empower",
+    "next_chain": [],
+    "previous_chain": [
+        "natural-bond"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Embrace Death increasing your Essence Gain by 35% for 45 seconds."
+}

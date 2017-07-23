@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Bloodied Swipe",
+    "next_chain": [
+        "gore",
+        "colossus-smash"
+    ],
+    "previous_chain": [],
+    "range": 5.5,
+    "sources": [
+        {
+            "id": "myrmidon",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Leap forward striking twice for 39 - 48 + 43% Weapon Damage."
+}

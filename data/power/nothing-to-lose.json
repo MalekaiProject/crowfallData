@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 1000
+        }
+    ],
+    "duration": 20,
+    "max_targets": 0,
+    "name": "Nothing to Lose",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "runescarred-gladiator",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Sacrifice 1,000 Health to increase Critical Hit Chance by 5% and Critical Hit Damage by 50% for 20 seconds."
+}

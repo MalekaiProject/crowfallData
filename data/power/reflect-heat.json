@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 6
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Reflect Heat",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "firewalker",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Fire"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Reflects 50% Fire Weapon Damage back to the source of a Fire damage attack."
+}

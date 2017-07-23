@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 17
+        }
+    ],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Demolish Armor",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-axes",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Demolish an enemy's Physical armor causing 120 - 163 + 142% Weapon Damage."
+}

@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 20,
+    "max_targets": 5,
+    "name": "Stars Align",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "master-of-mystical-staves",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Invoke forces of death increasing your Damage Bonus by 30% and reducing Weapon Resource Cost for 20 seconds."
+}

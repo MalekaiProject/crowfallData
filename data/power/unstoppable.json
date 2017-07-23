@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Unstoppable",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "juggernaut",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Embrace overwhelming mania, maximuze your Resolve and trigger Crowd Control Immunity for a short time."
+}

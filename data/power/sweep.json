@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 31
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Sweep",
+    "next_chain": [
+        "jab",
+        "disengage"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "ranger",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "crowd control self",
+    "description": "Slash in front of you for 68 - 92 - 80% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds 15% Bonus Damage to their next attack."
+}

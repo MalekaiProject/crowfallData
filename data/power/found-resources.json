@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Found Resources",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "found-resources",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Stealth"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Return to a minimum of two pips when entering stealth."
+}

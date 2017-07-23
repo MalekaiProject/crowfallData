@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 18
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Critical Hack",
+    "next_chain": [
+        "critical-hack-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "master-of-swords",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Slash an enemy for 131-177 +154% Weapon Damage."
+}

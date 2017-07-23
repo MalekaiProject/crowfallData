@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 31
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Cross Slash",
+    "next_chain": [
+        "cross-slash-2"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "ranger",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Slash in front of you for 35 - 47 + 41% Weapon Damage. Applies a Moderate Bleed effect."
+}

@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Smash",
+    "next_chain": [
+        "giant-smash"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Strike in front of you for 68 - 92 + 80% Weapon Damage, generating 4 Rage if you hit."
+}

@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 29
+        }
+    ],
+    "duration": 5,
+    "max_targets": 5,
+    "name": "Eternal Rage",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 2,
+    "sources": [
+        {
+            "id": "cleric",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Instantly generates 35 Rage while allies recover their native resource over time. Allies and you also heal for 158 - 193 + 175% Weapon Damage 2 times over 5 seconds."
+}

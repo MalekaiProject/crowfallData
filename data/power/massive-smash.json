@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 15,
+    "max_targets": 1,
+    "name": "Massive Smash",
+    "next_chain": [],
+    "previous_chain": [
+        "giant-smash"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Heal",
+        "Mortal Strike"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Strike in front of you for 152 - 206 + 179% Weapon Damage, generating 4 Rage if you hit. Applies Mortal Strike to all hit, which reduces the effectiveness of any Healing that target receives by 25% for 15 seconds."
+}

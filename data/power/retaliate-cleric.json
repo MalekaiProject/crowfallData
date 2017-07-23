@@ -1,0 +1,21 @@
+{
+    "cast_type": "instant",
+    "cooldown": 30,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 3,
+    "name": "Retaliate (Cleric)",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "cleric",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "sphere",
+    "type": "retaliate",
+    "description": "Jump to your feet, hitting all nearby enemies twice for 60 - 73 + 67% Weapon Damage."
+}

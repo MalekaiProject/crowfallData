@@ -1,0 +1,33 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 22
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Brutal Strike",
+    "next_chain": [
+        "shockwave",
+        "obliterate"
+    ],
+    "previous_chain": [
+        "onslaught"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Attack in front of you for 144 - 195 + 170% Crushing Weapon Damage."
+}

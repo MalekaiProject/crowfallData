@@ -1,0 +1,19 @@
+{
+    "classes": [
+        "knight",
+        "confessor",
+        "templar",
+        "ranger"
+    ],
+    "description": "",
+    "name": "Elken",
+    "tags": [],
+    "powers": [],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "race",
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

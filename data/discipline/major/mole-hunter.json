@@ -1,0 +1,40 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "A heightened sense of awareness has often been compared to paranoia, but on the battlefield it is the ultimate key to fending off unexpected attacks. Those who are cloaked in the shadows are more exposed and more vulnerable when a Mole Hunter is present. Whacking moles and stealthers eventually becomes an easy game of Hide and Seek.",
+    "name": "Mole Hunter",
+    "powers": [
+        "heads-up",
+        "flare",
+        "get-em",
+        "revenge"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "major",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Perception",
+            "value": 20
+        },
+        {
+            "name": "Dodge Regen Tick Rate",
+            "value": -0.01
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

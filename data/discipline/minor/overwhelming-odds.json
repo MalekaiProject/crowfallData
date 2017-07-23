@@ -1,0 +1,28 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "For an immortal there is no surrender, no mercy asked, none given.  With the rules of battle as such, they fight no matter the odds.",
+    "name": "Overwhelming Odds",
+    "powers": [
+        "overwhelming-odds"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "minor",
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 15
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Fire Eater",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "firewalker",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Fire",
+        "Heal"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Absorb heat from incoming Fire damage attacks to heal for 125% of Fire damage inflicted."
+}

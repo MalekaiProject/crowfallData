@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 31
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Shroud of Darkness",
+    "next_chain": [
+        "wicked-winds"
+    ],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Stun"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Attacks made against you have a chance of Stunning the enemy who struck you."
+}

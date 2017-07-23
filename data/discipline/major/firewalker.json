@@ -1,0 +1,35 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Fire management has been a basic aspect of advanced life, but only a select few are able to manipulate and mitigate the flames with true power. Absorbing and reflecting the blaze allows the Firewalker to manage fire as a benefit rather than a hindrance.",
+    "name": "Firewalker",
+    "powers": [
+        "fire-eater",
+        "reflect-heat",
+        "conduction"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "major",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Resistance: Fire",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

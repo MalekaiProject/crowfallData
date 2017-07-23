@@ -1,0 +1,26 @@
+{
+    "cast_type": "hold channeled",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 21
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Wild Charge",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 12,
+    "sources": [
+        {
+            "id": "cleric",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "rectangle",
+    "type": "melee attack",
+    "description": "Charge forward while the input key is depressed, dealing 110 - 135 + 123% Weapon Damage to anything in your way."
+}

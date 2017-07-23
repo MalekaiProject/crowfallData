@@ -1,0 +1,25 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Leap",
+    "next_chain": [
+        "leap-2"
+    ],
+    "previous_chain": [],
+    "range": 4,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "sphere",
+    "type": "melee attack",
+    "description": "Leap forward, dealing 65 - 88 + 77% Weapon Damage as Crushing Damage as you land. Briefly able to perform a second Leap for zero resource cost."
+}

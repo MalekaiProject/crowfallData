@@ -1,0 +1,18 @@
+{
+    "classes": [
+        "champion"
+    ],
+    "description": "Until you learn to master your rage, your rage will become your master.",
+    "name": "Furious",
+    "powers": [
+        "furious"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "minor",
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

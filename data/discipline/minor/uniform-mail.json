@@ -1,0 +1,28 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "The inhabitants of the Dyling Lands have little time to worry about appearances, yet Guinecean's always seem poised to strut at a fashion show.",
+    "name": "Uniform Mail",
+    "powers": [
+        "uniform-mail"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "minor",
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

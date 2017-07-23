@@ -1,0 +1,25 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Form Life 2",
+    "next_chain": [],
+    "previous_chain": [
+        "form-life"
+    ],
+    "range": 35,
+    "sources": [
+        {
+            "id": "dryad",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "area",
+    "type": "non-aggressive",
+    "description": "Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage."
+}

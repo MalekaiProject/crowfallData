@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 22
+        }
+    ],
+    "duration": 0,
+    "max_targets": 2,
+    "name": "Chain Heal",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "friar",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "ray",
+    "type": "buff",
+    "description": "Heals a targeted ally for 158 - 193 + 175% Weapon Damage, then jumps to heal a nearby ally. Chain Heal will jump to as many as 2 with healing reduced by 30% each jump."
+}

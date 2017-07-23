@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 18
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Shield Swipe",
+    "next_chain": [
+        "shield-stun"
+    ],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "knight",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Attack in front of you for 91 - 123 + 107% Crushing Weapon Damage."
+}

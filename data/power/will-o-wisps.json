@@ -1,0 +1,28 @@
+{
+    "cast_type": "charged",
+    "cooldown": 25,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 63
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Will o' Wisps",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Heal"
+    ],
+    "targeting": "area",
+    "type": "non-aggressive",
+    "description": "Charge up and fling a Will o' Wisp to heal allies in a #range# area for 270 - 330 + 300% Weapon Damage."
+}

@@ -1,0 +1,30 @@
+{
+    "cast_type": "ground aimed",
+    "cooldown": 30,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 13
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Stink Bomb",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 35,
+    "sources": [
+        {
+            "id": "agent-provocateur",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Corruption",
+        "Stealth",
+        "Stun"
+    ],
+    "targeting": "area",
+    "type": "crowd control",
+    "description": "Torment enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth."
+}

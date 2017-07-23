@@ -1,0 +1,33 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Tapping into your motivation and channeling it into your current situation is key; no one else is an in tune with their surroundings as that of the Holy Avenger.  The opposition may consider you a scene-stealing hack but you know your methods are far more superior to others.  Always remember the battle chant of your brethren: never give up, never surrender!",
+    "name": "Holy Avenger",
+    "powers": [
+        "grabthars-hammer",
+        "grabthars-hammer-2",
+        "battle-chant",
+        "suns-of-worvan",
+        "you-shall-be-avenged"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "major",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Crushing",
+            "value": 6.25
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

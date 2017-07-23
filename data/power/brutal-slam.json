@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 16
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Brutal Slam",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 5,
+    "sources": [
+        {
+            "id": "shield-fighter",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Strike with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Armor by 20."
+}

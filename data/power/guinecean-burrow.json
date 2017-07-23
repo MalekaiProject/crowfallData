@@ -1,0 +1,24 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Guinecean Burrow",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "guinecean",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Burrow",
+        "Stealth"
+    ],
+    "targeting": "self",
+    "type": "transformation",
+    "description": "Toggle: Stealths Player."
+}

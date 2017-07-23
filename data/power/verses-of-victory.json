@@ -1,0 +1,24 @@
+{
+    "cast_type": "toggle",
+    "cooldown": 1,
+    "cost": [],
+    "duration": 12,
+    "max_targets": 5,
+    "name": "Verses of Victory",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "bard",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Attack Power",
+        "Support Power"
+    ],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Increases your groups Attack Power by 150 as well as Support Power by 150 for 12 seconds. Type 4 Song."
+}

@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 5,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 0,
+    "max_targets": 5,
+    "name": "Blood Strike 2",
+    "next_chain": [
+        "blood-strike-3"
+    ],
+    "previous_chain": [
+        "blood-strike"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "blade-master",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "cone",
+    "type": "melee attack",
+    "description": "Slash enemies for 51 - 69 + 60% Weapon Damage."
+}

@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Molon Labe",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "shield-fighter",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Block"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Block high damage attacks with reduced cost and a 5% increase in bonus damage for 2 additional seconds."
+}

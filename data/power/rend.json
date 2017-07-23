@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 23
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Rend",
+    "next_chain": [],
+    "previous_chain": [
+        "vicious-stomp"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "cone",
+    "type": "debuff",
+    "description": "Rend in front of you, dealing 234 - 316 + 275% Weapon Damage. Applies a Severe Bleed to all hit."
+}

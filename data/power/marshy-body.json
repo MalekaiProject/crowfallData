@@ -1,0 +1,23 @@
+{
+    "cast_type": "passive",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Marshy Body",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "mudman",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Crushing"
+    ],
+    "targeting": "self",
+    "type": "passive",
+    "description": "Cover yourself with a boggy enchantment that increase your Crushing Armor by 0.2 for each point of Stamina."
+}

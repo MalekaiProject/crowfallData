@@ -1,0 +1,33 @@
+{
+    "classes": [
+        "assassin",
+        "champion",
+        "cleric",
+        "confessor",
+        "druid",
+        "duelist",
+        "frostweaver",
+        "knight",
+        "myrmidon",
+        "ranger",
+        "templar"
+    ],
+    "description": "Through my peripheral I see ya scheming.",
+    "name": "Peripheral Vision",
+    "powers": [
+        "peripheral-vision"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "minor",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Peripheral Vision",
+            "value": 1.15
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

@@ -1,0 +1,24 @@
+{
+    "cast_type": "hold channeled",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Righteous Stand",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "templar",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Parry",
+        "Righteousness"
+    ],
+    "targeting": "self",
+    "type": "crowd control self",
+    "description": "Raise your sword to defend yourself increasing your damage mitigation and becoming immune to crow control effects. Being struck with a melee attack restores Righteousness and triggers Righteous Parry"
+}

@@ -1,0 +1,30 @@
+{
+    "cast_type": "instant",
+    "cooldown": 23,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Aegis of Salvation 2",
+    "next_chain": [],
+    "previous_chain": [
+        "aegis-of-salvation"
+    ],
+    "range": 5,
+    "sources": [
+        {
+            "id": "destroyer",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Barrier"
+    ],
+    "targeting": "cone",
+    "type": "buff",
+    "description": "Attack causing 76 - 103 + 89% Weapon Damage and applies a barrier to you.  When it is removed you recover 10% to 15% to your Health"
+}

@@ -1,0 +1,31 @@
+{
+    "classes": [
+        "confessor",
+        "frostweaver"
+    ],
+    "description": "The ultimate power of focus allows for an expansion of one's own capability.  With fixation and intent, the power of the mind allows for the ultimate weapon to take form.  Novas, piercing orbs, and revenge are just a few of the aspects of concentration a master can wield.",
+    "name": "Master of Focus",
+    "powers": [
+        "nova",
+        "piercing-orb",
+        "mana-shield",
+        "mind-revenge"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "weapon",
+    "tags": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Fire",
+            "value": 6
+        },
+        {
+            "name": "Damage Bonus: Ice",
+            "value": 6
+        }
+    ],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

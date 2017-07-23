@@ -1,0 +1,29 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 1.1,
+    "max_targets": 1,
+    "name": "Throw Hurlbat",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Movement Speed",
+        "Piercing"
+    ],
+    "targeting": "reticle",
+    "type": "ranged attack",
+    "description": "Throw a projectile forward, dealing 113 - 153 + 133% Weapon Damage as Piercing Damage. Applies a 50% movement speed reduction to those hit."
+}

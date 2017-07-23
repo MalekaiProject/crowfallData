@@ -1,0 +1,26 @@
+{
+    "cast_type": "instant",
+    "cooldown": 45,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 12
+        }
+    ],
+    "duration": 30,
+    "max_targets": 5,
+    "name": "Fortification",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "rune-caster",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [],
+    "targeting": "group",
+    "type": "buff",
+    "description": "Aid group members and yourself increasing Health by 1000."
+}

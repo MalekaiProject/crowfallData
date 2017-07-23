@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 8,
+    "name": "Immolation",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "confessor",
+            "data_type": "class"
+        }
+    ],
+    "tags": [
+        "Blind"
+    ],
+    "targeting": "sphere",
+    "type": "ultimate",
+    "description": "Blinds up to 8 nearby enemies while rendering you immune to physics impulses and damage effects. Remove all movement impairments."
+}

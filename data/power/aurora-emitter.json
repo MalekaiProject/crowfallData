@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 24,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 77
+        }
+    ],
+    "duration": 15,
+    "max_targets": 5,
+    "name": "Aurora Emitter",
+    "next_chain": [],
+    "previous_chain": [
+        "lightning-strike"
+    ],
+    "range": 35,
+    "sources": [
+        {
+            "id": "druid",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "sphere",
+    "type": "ranged attack",
+    "description": "Strike enemies with lightning in an area for 79 - 119 damage. Enemies are left electrified and will inflict and additional 27 to 40 + #weapon_damage_2_value#% Weapon Damage over 15 seconds to nearby friendlies."
+}

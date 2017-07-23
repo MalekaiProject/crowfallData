@@ -1,0 +1,23 @@
+{
+    "cast_type": "instant",
+    "cooldown": 0,
+    "cost": [],
+    "duration": 0,
+    "max_targets": 1,
+    "name": "Cancel Combo (Champion)",
+    "next_chain": [],
+    "previous_chain": [
+        "whirling-pain"
+    ],
+    "range": 0,
+    "sources": [
+        {
+            "id": "champion",
+            "data_type": "class"
+        }
+    ],
+    "tags": [],
+    "targeting": "self",
+    "type": "non-aggressive",
+    "description": "Cancels the current combo power being executed."
+}

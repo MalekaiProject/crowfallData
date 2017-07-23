@@ -1,0 +1,20 @@
+{
+    "classes": [
+        "assassin",
+        "duelist",
+        "ranger"
+    ],
+    "description": "Many experience bad luck that is associated with enormous winnings; this is oft to be thought of as the law of found resources at work.",
+    "name": "Found Resources",
+    "powers": [
+        "found-resources"
+    ],
+    "slots_granted": [],
+    "slots_removed": [],
+    "type": "minor",
+    "tags": [],
+    "stats": [],
+    "equips": [],
+    "tray_granted": "",
+    "tray_removed": ""
+}

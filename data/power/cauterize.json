@@ -1,0 +1,28 @@
+{
+    "cast_type": "instant",
+    "cooldown": 9,
+    "cost": [
+        {
+            "name": "resource",
+            "cost": 10
+        }
+    ],
+    "duration": 0,
+    "max_targets": 0,
+    "name": "Cauterize",
+    "next_chain": [],
+    "previous_chain": [],
+    "range": 0,
+    "sources": [
+        {
+            "id": "knife-grinder",
+            "data_type": "discipline"
+        }
+    ],
+    "tags": [
+        "Bleed"
+    ],
+    "targeting": "self",
+    "type": "buff",
+    "description": "Remove Bleeding effects."
+}
