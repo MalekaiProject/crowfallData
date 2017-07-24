@@ -4,6 +4,7 @@
   "category": "Leatherworking Component",
   "success_chance": 0.77,
   "difficulty": 35.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Stitched Leather",

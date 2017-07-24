@@ -4,6 +4,7 @@
   "category": "Discipline",
   "success_chance": 0.53,
   "difficulty": 50.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Unmarked Large Stone Runestone",

@@ -1,0 +1,25 @@
+{
+  "name": "Pistol",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Pistol Body",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Pistol Barrel",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Hunger Shard",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

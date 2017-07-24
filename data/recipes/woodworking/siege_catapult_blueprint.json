@@ -4,6 +4,7 @@
   "category": "Siege Warfare",
   "success_chance": 0.78,
   "difficulty": 25.0,
+  "number_created": 1,
   "components": [
     {
       "name": "[Wild Card]",
@@ -21,7 +22,7 @@
       "required": true
     }
   ],
-  "Variants": [
+  "variants": [
     {
       "name": "Catapult MK1",
       "attribute": null,
@@ -32,6 +33,14 @@
         {
           "name": "Biege Scroll",
           "amount": 1
+        },
+        {
+          "name": "Gears",
+          "amount": 10
+        },
+        {
+          "name": "Ethereal Dust",
+          "amount": 150
         }
       ]
     },
@@ -45,6 +54,14 @@
         {
           "name": "Ivory Scroll",
           "amount": 1
+        },
+        {
+          "name": "Gears",
+          "amount": 10
+        },
+        {
+          "name": "Ethereal Dust",
+          "amount": 150
         }
       ]
     },
@@ -58,6 +75,14 @@
         {
           "name": "Taupe Scroll",
           "amount": 1
+        },
+        {
+          "name": "Gears",
+          "amount": 10
+        },
+        {
+          "name": "Ethereal Dust",
+          "amount": 150
         }
       ]
     },
@@ -71,6 +96,14 @@
         {
           "name": "Ashen Scroll",
           "amount": 1
+        },
+        {
+          "name": "Gears",
+          "amount": 10
+        },
+        {
+          "name": "Ethereal Dust",
+          "amount": 150
         }
       ]
     },
@@ -84,6 +117,14 @@
         {
           "name": "Carmine Scroll",
           "amount": 1
+        },
+        {
+          "name": "Gears",
+          "amount": 10
+        },
+        {
+          "name": "Ethereal Dust",
+          "amount": 150
         }
       ]
     }

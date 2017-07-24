@@ -4,6 +4,7 @@
   "category": "Alchemy Component",
   "success_chance": 0.28,
   "difficulty": 75.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Philosopher Solution",

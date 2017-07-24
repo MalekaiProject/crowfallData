@@ -1,9 +1,10 @@
 {
   "name": "Basic Chest",
-  "profession": "Basic crafting",
+  "profession": "Basic Crafting",
   "category": "Basic Weapon",
   "success_chance": 0.95,
   "difficulty": 10.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Wood",

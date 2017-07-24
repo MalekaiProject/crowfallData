@@ -1,0 +1,30 @@
+{
+  "name": "Weapon Head: Great Mace",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

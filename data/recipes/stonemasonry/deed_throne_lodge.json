@@ -1,9 +1,10 @@
 {
   "name": "Deed: Throne Lodge",
   "profession": "Stonemasonry",
-  "category": "Geomancy",
+  "category": "Geomancy Architecture",
   "success_chance": 0.53,
   "difficulty": 50.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Foundation Segment",

@@ -4,6 +4,7 @@
   "category": "",
   "success_chance": 0.68,
   "difficulty": 35.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Chapter",

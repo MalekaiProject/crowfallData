@@ -1,9 +1,10 @@
 {
   "name": "Polish Gemstone",
   "profession": "Jewelcrafting",
-  "category": "Jewelcrafting component",
+  "category": "Accessory",
   "success_chance": 0.28,
   "difficulty": 75.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Grind Gem",

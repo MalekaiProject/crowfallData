@@ -1,9 +1,10 @@
 {
   "name": "Polish Soulgem",
   "profession": "Jewelcrafting",
-  "category": "Jewelcrafting component",
+  "category": "Accessory",
   "success_chance": 0.78,
   "difficulty": 25.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Rough Soulgem",

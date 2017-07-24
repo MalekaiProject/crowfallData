@@ -1,9 +1,10 @@
 {
   "name": "Deed: Manor",
   "profession": "Stonemasonry",
-  "category": "Geomancy",
+  "category": "Geomancy Architecture",
   "success_chance": 0.53,
   "difficulty": 25.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Deed: Villa",

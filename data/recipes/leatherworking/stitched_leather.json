@@ -4,6 +4,7 @@
   "category": "Leatherworking Component",
   "success_chance": 0.95,
   "difficulty": 5.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Hide",
@@ -26,7 +27,7 @@
       "required": false
     }
   ],
-  "Variants": [
+  "variants": [
     {
       "name": "Composite Cat Leather",
       "attribute": "Damage bonus: Retribution",
@@ -44,6 +45,10 @@
         },
         {
           "name": "Cat Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -66,6 +71,10 @@
         {
           "name": "Boar Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -86,6 +95,10 @@
         },
         {
           "name": "Auroch Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -108,6 +121,10 @@
         {
           "name": "Elk Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -128,6 +145,10 @@
         },
         {
           "name": "Bear Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -150,6 +171,10 @@
         {
           "name": "Cat Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -170,6 +195,10 @@
         },
         {
           "name": "Boar Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -192,6 +221,10 @@
         {
           "name": "Auroch Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -212,6 +245,10 @@
         },
         {
           "name": "Elk Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -234,6 +271,10 @@
         {
           "name": "Bear Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -254,6 +295,10 @@
         },
         {
           "name": "Cat Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -276,6 +321,10 @@
         {
           "name": "Boar Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -296,6 +345,10 @@
         },
         {
           "name": "Auroch Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -318,6 +371,10 @@
         {
           "name": "Elk Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -338,6 +395,10 @@
         },
         {
           "name": "Bear Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -360,6 +421,10 @@
         {
           "name": "Cat Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -381,6 +446,10 @@
         {
           "name": "Boar Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -401,6 +470,10 @@
         },
         {
           "name": "Auroch Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -423,6 +496,10 @@
         {
           "name": "Elk Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -443,6 +520,10 @@
         },
         {
           "name": "Bear Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -465,6 +546,10 @@
         {
           "name": "Cat Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -486,6 +571,10 @@
         {
           "name": "Boar Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -506,6 +595,10 @@
         },
         {
           "name": "Auroch Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -528,6 +621,10 @@
         {
           "name": "Elk Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -549,6 +646,10 @@
         {
           "name": "Bear Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -569,6 +670,10 @@
         },
         {
           "name": "Auroch Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -591,6 +696,10 @@
         {
           "name": "Elk Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -612,6 +721,10 @@
         {
           "name": "Bear Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -632,6 +745,10 @@
         },
         {
           "name": "Elk Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -654,6 +771,10 @@
         {
           "name": "Bear Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -674,6 +795,10 @@
         },
         {
           "name": "Bear Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -696,6 +821,10 @@
         {
           "name": "Elk Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -716,6 +845,10 @@
         },
         {
           "name": "Bear Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]
@@ -738,6 +871,10 @@
         {
           "name": "Bear Hide",
           "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
+          "amount": 1
         }
       ]
     },
@@ -758,6 +895,10 @@
         },
         {
           "name": "Bear Hide",
+          "amount": 1
+        },
+        {
+          "name": "Specialty Seal",
           "amount": 1
         }
       ]

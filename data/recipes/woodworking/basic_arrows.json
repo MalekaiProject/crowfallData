@@ -1,0 +1,15 @@
+{
+  "name": "Basic Arrows",
+  "profession": "Woodworking",
+  "category": "",
+  "success_chance": 0.95,
+  "difficulty": 10.0,
+  "number_created": 25,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

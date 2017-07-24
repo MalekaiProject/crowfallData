@@ -4,6 +4,7 @@
   "category": "Runemaking Component",
   "success_chance": 0.68,
   "difficulty": 35.0,
+  "number_created": 1,
   "components": [
     {
       "name": "[Wild Card]",
@@ -21,7 +22,7 @@
       "required": true
     }
   ],
-  "Variants": [
+  "variants": [
     {
       "name": "Chapter : Fervor",
       "attribute": "Mana Regen: In Combat",
@@ -34,12 +35,12 @@
           "amount": 3
         },
         {
-          "name": "Hide",
-          "amount": 3
+          "name": "Stitched Leather",
+          "amount": 1
         },
         {
-          "name": "Ore",
-          "amount": 3
+          "name": "Metal Bar",
+          "amount": 1
         }
       ]
     },
@@ -55,12 +56,12 @@
           "amount": 3
         },
         {
-          "name": "Hide",
-          "amount": 3
+          "name": "Stitched Leather",
+          "amount": 1
         },
         {
-          "name": "Ore",
-          "amount": 3
+          "name": "Metal Bar",
+          "amount": 1
         }
       ]
     },
@@ -76,18 +77,18 @@
           "amount": 3
         },
         {
-          "name": "Hide",
-          "amount": 3
+          "name": "Stitched Leather",
+          "amount": 1
         },
         {
-          "name": "Ore",
-          "amount": 3
+          "name": "Metal Bar",
+          "amount": 1
         }
       ]
     },
     {
       "name": "Chapter : Absolution",
-      "attribute": "Offense Stun",
+      "attribute": null,
       "impact": null,
       "success_chance": null,
       "difficulty": null,
@@ -97,12 +98,12 @@
           "amount": 3
         },
         {
-          "name": "Hide",
-          "amount": 3
+          "name": "Stitched Leather",
+          "amount": 1
         },
         {
-          "name": "Ore",
-          "amount": 3
+          "name": "Metal Bar",
+          "amount": 1
         }
       ]
     },
@@ -118,12 +119,12 @@
           "amount": 3
         },
         {
-          "name": "Hide",
-          "amount": 3
+          "name": "Stitched Leather",
+          "amount": 1
         },
         {
-          "name": "Ore",
-          "amount": 3
+          "name": "Metal Bar",
+          "amount": 1
         }
       ]
     }

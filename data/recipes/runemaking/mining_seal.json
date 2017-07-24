@@ -1,0 +1,430 @@
+{
+  "name": "Mining Seal",
+  "profession": "Runemaking",
+  "category": "Runemaking Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Granite",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Copper",
+      "amount": 1,
+      "required": true
+    }
+  ],
+  "variants": [
+    {
+      "name": "Chopping Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Granite",
+          "amount": 1
+        },
+        {
+          "name": "Iron",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Prospecting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Granite",
+          "amount": 1
+        },
+        {
+          "name": "Tin",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Granite",
+          "amount": 1
+        },
+        {
+          "name": "Silver",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Granite",
+          "amount": 1
+        },
+        {
+          "name": "Gold",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Limestone",
+          "amount": 1
+        },
+        {
+          "name": "Copper",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Limestone",
+          "amount": 1
+        },
+        {
+          "name": "Iron",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Limestone",
+          "amount": 1
+        },
+        {
+          "name": "Tin",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Limestone",
+          "amount": 1
+        },
+        {
+          "name": "Silver",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Limestone",
+          "amount": 1
+        },
+        {
+          "name": "Gold",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Leatherworking Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Travertine",
+          "amount": 1
+        },
+        {
+          "name": "Copper",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Travertine",
+          "amount": 1
+        },
+        {
+          "name": "Iron",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Travertine",
+          "amount": 1
+        },
+        {
+          "name": "Tin",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Skinning Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Travertine",
+          "amount": 1
+        },
+        {
+          "name": "Silver",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Travertine",
+          "amount": 1
+        },
+        {
+          "name": "Gold",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stonemasonry Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Slate",
+          "amount": 1
+        },
+        {
+          "name": "Copper",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Blacksmith Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Slate",
+          "amount": 1
+        },
+        {
+          "name": "Iron",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Slate",
+          "amount": 1
+        },
+        {
+          "name": "Tin",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Woodworking Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Slate",
+          "amount": 1
+        },
+        {
+          "name": "Silver",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Jewelcrafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Slate",
+          "amount": 1
+        },
+        {
+          "name": "Gold",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crafting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Marble",
+          "amount": 1
+        },
+        {
+          "name": "Copper",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Enchanting Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Marble",
+          "amount": 1
+        },
+        {
+          "name": "Iron",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Necromancy Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Marble",
+          "amount": 1
+        },
+        {
+          "name": "Tin",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Runemaking Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Marble",
+          "amount": 1
+        },
+        {
+          "name": "Silver",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Alchemy Seal",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Marble",
+          "amount": 1
+        },
+        {
+          "name": "Gold",
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}

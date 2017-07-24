@@ -1,0 +1,157 @@
+{
+  "name": "Armor Layer",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Armor",
+  "success_chance": 0.93,
+  "difficulty": 10.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": true
+    },
+    {
+      "name": "Ore",
+      "amount": 2,
+      "required": true
+    },
+    {
+      "name": "Stone",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Hide",
+      "amount": 2,
+      "required": true
+    }
+  ],
+  "variants": [
+    {
+      "name": "Physical Armor Layer",
+      "attribute": "All physical mitigation",
+      "impact": 0.19,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Granite",
+          "amount": 1
+        },
+        {
+          "name": "Hide",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Physical Armor Layer",
+      "attribute": "All physical mitigation",
+      "impact": 0.19,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Limestone",
+          "amount": 1
+        },
+        {
+          "name": "Hide",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Piercing Armor Layer",
+      "attribute": "Piercing mitigation",
+      "impact": 0.32,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Travertine",
+          "amount": 1
+        },
+        {
+          "name": "Hide",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crushing Armor Layer",
+      "attribute": "Crushing mitigation",
+      "impact": 0.32,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Slate",
+          "amount": 1
+        },
+        {
+          "name": "Hide",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Slashing Armor Layer",
+      "attribute": "Slashing mitigation",
+      "impact": 0.32,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Ore",
+          "amount": 2
+        },
+        {
+          "name": "Marble",
+          "amount": 1
+        },
+        {
+          "name": "Hide",
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}

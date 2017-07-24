@@ -1,9 +1,10 @@
 {
   "name": "Floor Tiles",
   "profession": "Stonemasonry",
-  "category": "Geomancy",
+  "category": "Geomancy Architecture",
   "success_chance": 0.95,
   "difficulty": 5.0,
+  "number_created": 10,
   "components": [
     {
       "name": "Premium Stone/Wood",

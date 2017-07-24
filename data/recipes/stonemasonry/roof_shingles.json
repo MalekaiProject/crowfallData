@@ -1,9 +1,10 @@
 {
   "name": "Roof Shingles",
   "profession": "Stonemasonry",
-  "category": "Geomancy",
+  "category": "Geomancy Architecture",
   "success_chance": 0.95,
   "difficulty": 5.0,
+  "number_created": 20,
   "components": [
     {
       "name": "Premium Wood",

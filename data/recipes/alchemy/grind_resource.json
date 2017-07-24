@@ -4,6 +4,7 @@
   "category": "Alchemy Component",
   "success_chance": 0.97,
   "difficulty": 5.0,
+  "number_created": 1,
   "components": [
     {
       "name": "[Wild Card]",
@@ -11,7 +12,7 @@
       "required": true
     }
   ],
-  "Variants": [
+  "variants": [
     {
       "name": "Sand",
       "attribute": null,
@@ -86,6 +87,71 @@
       "components": [
         {
           "name": "Marble",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Ground Cinnabar",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Cinnabar",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Ground Nitrate",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Nitrate",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Ground Sulfur",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Sulfur",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Ground Hattel",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Hattel",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Ground Dolomite",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Dolomite",
           "amount": 2
         }
       ]

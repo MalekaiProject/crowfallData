@@ -4,6 +4,7 @@
   "category": "Alchemy Component",
   "success_chance": 0.53,
   "difficulty": 50.0,
+  "number_created": 1,
   "components": [
     {
       "name": "[Wild Card]",
@@ -16,9 +17,96 @@
       "required": true
     },
     {
-      "name": "Water Flask",
+      "name": "Water flask",
       "amount": 1,
       "required": false
+    }
+  ],
+  "variants": [
+    {
+      "name": "Strength",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ground Cinnabar",
+          "amount": 1
+        },
+        {
+          "name": "Powdered Granite",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Constitution",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ground Nitrate",
+          "amount": 1
+        },
+        {
+          "name": "Powdered Limestone",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Spirit",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ground Sulfur",
+          "amount": 1
+        },
+        {
+          "name": "Powdered Travertine",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Dexterity",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ground Hattel",
+          "amount": 1
+        },
+        {
+          "name": "Powdered Slate",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Intellect",
+      "attribute": null,
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Ground Dolomite",
+          "amount": 1
+        },
+        {
+          "name": "Powdered Marble",
+          "amount": 2
+        }
+      ]
     }
   ]
 }

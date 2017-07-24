@@ -1,0 +1,25 @@
+{
+  "name": "Major Discipline",
+  "profession": "Runemaking",
+  "category": "Discipline",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Unmarked Large Stone Runestone",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Captured Thrall",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Blood",
+      "amount": 6,
+      "required": false
+    }
+  ]
+}

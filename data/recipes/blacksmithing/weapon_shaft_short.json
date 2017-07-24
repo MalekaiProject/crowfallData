@@ -1,0 +1,20 @@
+{
+  "name": "Weapon Shaft: Short",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.78,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Metal Bar / Plank",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Metal Bar / Plank",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

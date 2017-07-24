@@ -4,6 +4,7 @@
   "category": "Siege Warfare",
   "success_chance": 0.95,
   "difficulty": 5.0,
+  "number_created": 1,
   "components": [
     {
       "name": "[Wild Card]",
@@ -16,9 +17,9 @@
       "required": true
     }
   ],
-  "Variants": [
+  "variants": [
     {
-      "name": "Biege Scroll",
+      "name": "Siege Scroll",
       "attribute": null,
       "impact": null,
       "success_chance": null,
@@ -27,6 +28,10 @@
         {
           "name": "Oak Heartwood",
           "amount": 1
+        },
+        {
+          "name": "Beeswax",
+          "amount": 5
         }
       ]
     },
@@ -40,6 +45,10 @@
         {
           "name": "Birch Heartwood",
           "amount": 1
+        },
+        {
+          "name": "Beeswax",
+          "amount": 5
         }
       ]
     },
@@ -53,6 +62,10 @@
         {
           "name": "Spruce Heartwood",
           "amount": 1
+        },
+        {
+          "name": "Beeswax",
+          "amount": 5
         }
       ]
     },
@@ -66,6 +79,10 @@
         {
           "name": "Ash Heartwood",
           "amount": 1
+        },
+        {
+          "name": "Beeswax",
+          "amount": 5
         }
       ]
     },
@@ -79,6 +96,10 @@
         {
           "name": "Yew Heartwood",
           "amount": 1
+        },
+        {
+          "name": "Beeswax",
+          "amount": 5
         }
       ]
     }

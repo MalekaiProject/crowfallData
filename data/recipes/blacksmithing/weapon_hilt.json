@@ -1,0 +1,25 @@
+{
+  "name": "Weapon Hilt",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Weapon Pommel",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Weapon Crossguard",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Weapon Grip",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

@@ -1,9 +1,10 @@
 {
   "name": "Survivalist Campfire ",
-  "profession": "Basic crafting",
+  "profession": "Basic Crafting",
   "category": "Survivalist",
   "success_chance": 0.95,
   "difficulty": 5.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Wood",
@@ -14,6 +15,38 @@
       "name": "Animal Meat",
       "amount": 4,
       "required": false
+    }
+  ],
+  "variants": [
+    {
+      "name": "Small Campfire",
+      "attribute": "Heal health overtime",
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Wood",
+          "amount": 12
+        }
+      ]
+    },
+    {
+      "name": "Survival Campfire",
+      "attribute": "Heal health and food overtime",
+      "impact": null,
+      "success_chance": null,
+      "difficulty": null,
+      "components": [
+        {
+          "name": "Wood",
+          "amount": 12
+        },
+        {
+          "name": "Animal Meat",
+          "amount": 4
+        }
+      ]
     }
   ]
 }

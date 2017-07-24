@@ -1,0 +1,15 @@
+{
+  "name": "Arrowhead Bundle: Slashing",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.88,
+  "difficulty": 15.0,
+  "number_created": 10,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": true
+    }
+  ]
+}

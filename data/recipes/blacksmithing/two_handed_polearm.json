@@ -1,0 +1,30 @@
+{
+  "name": "Two Handed Polearm",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Weapon Hilt: Great",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Weapon Head: Great Axe",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Weapon Shaft: Long",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Hunger Shard",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

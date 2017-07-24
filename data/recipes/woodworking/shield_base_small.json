@@ -1,9 +1,10 @@
 {
   "name": "Shield Base: Small",
   "profession": "Woodworking",
-  "category": "",
+  "category": "Woodworking Armor",
   "success_chance": 0.78,
   "difficulty": 25.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Plank",

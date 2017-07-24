@@ -4,6 +4,7 @@
   "category": "Body Parts",
   "success_chance": 0.93,
   "difficulty": 10.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Dessicated Leg",

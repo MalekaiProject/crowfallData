@@ -4,6 +4,7 @@
   "category": "",
   "success_chance": 0.65,
   "difficulty": 35.0,
+  "number_created": 1,
   "components": [
     {
       "name": "Plank",

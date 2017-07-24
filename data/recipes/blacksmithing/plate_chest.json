@@ -1,0 +1,50 @@
+{
+  "name": "Plate Chest",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Armor",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Iron",
+      "amount": 45,
+      "required": true
+    },
+    {
+      "name": "Copper",
+      "amount": 10,
+      "required": true
+    },
+    {
+      "name": "Hide",
+      "amount": 20,
+      "required": true
+    },
+    {
+      "name": "Reinforced Padding",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Metal Sheet",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Metal Sheet",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Metal Sheet",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Treated Steel",
+      "amount": 4,
+      "required": false
+    }
+  ]
+}

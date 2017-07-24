@@ -1,0 +1,25 @@
+{
+  "name": "Pistol Body",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Pistol Hammer and Frizzen",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Pistol Trigger",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Weapon Grip",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

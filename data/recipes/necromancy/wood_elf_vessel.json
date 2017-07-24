@@ -1,0 +1,45 @@
+{
+  "name": "Wood-Elf Vessel",
+  "profession": "Necromancy",
+  "category": "Vessel",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Restored Elven Head",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Restored Elven Torso",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Restored Elven Arm",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Restored Elven Arm",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Restored Elven Leg",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Restored Elven Leg",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Philosopher Stone",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

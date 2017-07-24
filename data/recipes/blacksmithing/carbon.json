@@ -1,0 +1,15 @@
+{
+  "name": "Carbon",
+  "profession": "Blacksmithing",
+  "category": "Fuel",
+  "success_chance": 0.95,
+  "difficulty": 1.0,
+  "number_created": 2,
+  "components": [
+    {
+      "name": "Animal meat",
+      "amount": 5,
+      "required": true
+    }
+  ]
+}
