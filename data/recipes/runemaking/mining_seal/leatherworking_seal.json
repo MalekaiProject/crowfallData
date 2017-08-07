@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Travertine",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Copper",
-      "amount": 1
+      "amount": 1,
+      "required": true
     }
   ]
 }

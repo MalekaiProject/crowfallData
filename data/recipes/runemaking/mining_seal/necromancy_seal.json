@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Marble",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Tin",
-      "amount": 1
+      "amount": 1,
+      "required": true
     }
   ]
 }

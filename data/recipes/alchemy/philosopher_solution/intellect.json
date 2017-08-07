@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Ground Dolomite",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Powdered Marble",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

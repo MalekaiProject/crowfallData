@@ -8,7 +8,8 @@
   "components": [
     {
       "name": "Spruce wood",
-      "amount": 3
+      "amount": 3,
+      "required": true
     }
   ]
 }

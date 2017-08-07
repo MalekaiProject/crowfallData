@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Wood",
-      "amount": 12
+      "amount": 12,
+      "required": true
     },
     {
       "name": "Animal Meat",
-      "amount": 4
+      "amount": 4,
+      "required": false
     }
   ]
 }

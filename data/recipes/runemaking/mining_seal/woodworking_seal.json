@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Slate",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Silver",
-      "amount": 1
+      "amount": 1,
+      "required": true
     }
   ]
 }

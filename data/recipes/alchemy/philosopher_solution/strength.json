@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Ground Cinnabar",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Powdered Granite",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

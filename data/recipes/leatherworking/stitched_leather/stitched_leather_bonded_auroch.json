@@ -8,19 +8,23 @@
   "components": [
     {
       "name": "Auroch Hide",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Auroch Hide",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Elk Hide",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Specialty Seal",
-      "amount": 1
+      "amount": 1,
+      "required": false
     }
   ]
 }

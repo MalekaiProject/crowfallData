@@ -8,15 +8,18 @@
   "components": [
     {
       "name": "Wood",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Wood",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Ore",
-      "amount": 1
+      "amount": 1,
+      "required": true
     }
   ]
 }

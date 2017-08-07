@@ -148,12 +148,12 @@ c.sheets.each_with_index do |t,i|
 	components = Array.new
         (5..11).each do |res_col|
 	  if row[res_col]
-	    components << { name: strip_counts(row[res_col]), amount: get_counts(row[res_col])} 
+	    components << { name: strip_counts(row[res_col]), amount: get_counts(row[res_col], required: true)} 
 	  end
 	end
 	(12..16).each do |res_col|
 	  if row[res_col]
-	    components << { name: strip_counts(row[res_col]), amount: get_counts(row[res_col])} 
+	    components << { name: strip_counts(row[res_col]), amount: get_counts(row[res_col], required: false)} 
 	  end
 	end
         if parent_recipe != new_name || (new_name.include?('Sigil') && components.first['name'] != "Ore")

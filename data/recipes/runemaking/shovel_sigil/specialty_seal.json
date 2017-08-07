@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Stone",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Ore",
-      "amount": 1
+      "amount": 1,
+      "required": true
     }
   ]
 }

@@ -8,15 +8,18 @@
   "components": [
     {
       "name": "Ore",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Ore",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Elk Hide",
-      "amount": 5
+      "amount": 5,
+      "required": true
     }
   ]
 }

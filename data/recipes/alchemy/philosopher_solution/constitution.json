@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Ground Nitrate",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Powdered Limestone",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Ground Sulfur",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Powdered Travertine",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

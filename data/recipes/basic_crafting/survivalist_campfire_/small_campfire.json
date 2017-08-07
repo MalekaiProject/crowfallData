@@ -8,7 +8,8 @@
   "components": [
     {
       "name": "Wood",
-      "amount": 12
+      "amount": 12,
+      "required": true
     }
   ]
 }

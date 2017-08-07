@@ -8,35 +8,43 @@
   "components": [
     {
       "name": "Boar Hide",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Boar Hide",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Auroch Hide",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Lacing Sinew",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Leather Armor Layer",
-      "amount": 1
+      "amount": 1,
+      "required": false
     },
     {
       "name": "Leather Armor Layer",
-      "amount": 1
+      "amount": 1,
+      "required": false
     },
     {
       "name": "Leather Armor Layer",
-      "amount": 1
+      "amount": 1,
+      "required": false
     },
     {
       "name": "Specialty Seal",
-      "amount": 1
+      "amount": 1,
+      "required": false
     }
   ]
 }

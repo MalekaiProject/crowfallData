@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Yew Heartwood",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Beeswax",
-      "amount": 5
+      "amount": 5,
+      "required": true
     }
   ]
 }

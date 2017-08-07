@@ -8,15 +8,18 @@
   "components": [
     {
       "name": "Carmine Scroll",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Gears",
-      "amount": 10
+      "amount": 10,
+      "required": true
     },
     {
       "name": "Ethereal Dust",
-      "amount": 300
+      "amount": 300,
+      "required": true
     }
   ]
 }

@@ -8,7 +8,8 @@
   "components": [
     {
       "name": "Travertine",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

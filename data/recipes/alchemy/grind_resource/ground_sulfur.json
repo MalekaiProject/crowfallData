@@ -8,7 +8,8 @@
   "components": [
     {
       "name": "Sulfur",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

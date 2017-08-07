@@ -8,23 +8,28 @@
   "components": [
     {
       "name": "Cat Hide",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Cat Hide",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Elk Hide",
-      "amount": 2
+      "amount": 2,
+      "required": true
     },
     {
       "name": "Ore",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Specialty Seal",
-      "amount": 1
+      "amount": 1,
+      "required": false
     }
   ]
 }

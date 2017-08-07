@@ -8,11 +8,13 @@
   "components": [
     {
       "name": "Ground Hattel",
-      "amount": 1
+      "amount": 1,
+      "required": true
     },
     {
       "name": "Powdered Slate",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

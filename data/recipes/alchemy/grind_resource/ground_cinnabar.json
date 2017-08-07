@@ -8,7 +8,8 @@
   "components": [
     {
       "name": "Cinnabar",
-      "amount": 2
+      "amount": 2,
+      "required": true
     }
   ]
 }

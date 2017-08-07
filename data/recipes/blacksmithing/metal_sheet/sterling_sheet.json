@@ -8,35 +8,43 @@
   "components": [
     {
       "name": "Silver",
-      "amount": 3
+      "amount": 3,
+      "required": true
     },
     {
       "name": "Silver",
-      "amount": 3
+      "amount": 3,
+      "required": true
     },
     {
       "name": "Copper",
-      "amount": 3
+      "amount": 3,
+      "required": true
     },
     {
       "name": "Armor Layer",
-      "amount": 1
+      "amount": 1,
+      "required": false
     },
     {
       "name": "Armor Layer",
-      "amount": 1
+      "amount": 1,
+      "required": false
     },
     {
       "name": "Armor Layer",
-      "amount": 1
+      "amount": 1,
+      "required": false
     },
     {
       "name": "Armor Layer",
-      "amount": 1
+      "amount": 1,
+      "required": false
     },
     {
       "name": "Specialty Seal",
-      "amount": 1
+      "amount": 1,
+      "required": false
     }
   ]
 }
