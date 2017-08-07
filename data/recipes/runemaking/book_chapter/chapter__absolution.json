@@ -1,0 +1,22 @@
+{
+  "name": "Chapter : Absolution",
+  "parent": "Book Chapter",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Slate",
+      "amount": 3
+    },
+    {
+      "name": "Stitched Leather",
+      "amount": 1
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1
+    }
+  ]
+}

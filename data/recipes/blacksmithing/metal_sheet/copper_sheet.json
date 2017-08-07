@@ -1,0 +1,42 @@
+{
+  "name": "Copper Sheet",
+  "parent": "Metal Sheet",
+  "attribute": "Max hitpoint",
+  "impact": 21.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

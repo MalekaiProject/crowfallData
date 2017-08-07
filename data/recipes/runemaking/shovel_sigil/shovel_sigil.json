@@ -1,0 +1,22 @@
+{
+  "name": "Shovel Sigil",
+  "parent": "Shovel Sigil",
+  "attribute": "Harvest Critical Chance: Grave",
+  "impact": 2.6,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Parchment Paper",
+      "amount": 1
+    },
+    {
+      "name": "Gold",
+      "amount": 2
+    },
+    {
+      "name": "Silver",
+      "amount": 2
+    }
+  ]
+}

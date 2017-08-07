@@ -1,0 +1,26 @@
+{
+  "name": "Electrum Bar",
+  "parent": "Metal Bar",
+  "attribute": "Stealth",
+  "impact": 0.5,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Silver",
+      "amount": 3
+    },
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Chapter : Sin",
+  "parent": "Book Chapter",
+  "attribute": "Attack Power",
+  "impact": 0.05,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Marble",
+      "amount": 3
+    },
+    {
+      "name": "Stitched Leather",
+      "amount": 1
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1
+    }
+  ]
+}

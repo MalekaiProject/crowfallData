@@ -1,0 +1,22 @@
+{
+  "name": "Ballista MK2",
+  "parent": "Siege Ballista Blueprint",
+  "attribute": null,
+  "impact": 2.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Taupe Scroll",
+      "amount": 1
+    },
+    {
+      "name": "Gears",
+      "amount": 10
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 300
+    }
+  ]
+}

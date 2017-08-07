@@ -1,0 +1,22 @@
+{
+  "name": "Chapter : Indulgence",
+  "parent": "Book Chapter",
+  "attribute": "Max Mana",
+  "impact": 0.5,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Limestone",
+      "amount": 3
+    },
+    {
+      "name": "Stitched Leather",
+      "amount": 1
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1
+    }
+  ]
+}

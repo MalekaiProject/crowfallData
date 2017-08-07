@@ -1,0 +1,22 @@
+{
+  "name": "Axe Sigil",
+  "parent": "Axe Sigil",
+  "attribute": "Harvest Critical Chance: Wood",
+  "impact": 2.6,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Parchment Paper",
+      "amount": 1
+    },
+    {
+      "name": "Gold",
+      "amount": 2
+    },
+    {
+      "name": "Silver",
+      "amount": 2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Stitched Leather: Ice Resistant",
+  "parent": "Stitched Leather",
+  "attribute": "Ice resist",
+  "impact": 0.02,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Bear Hide",
+      "amount": 1
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 1
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

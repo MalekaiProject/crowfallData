@@ -1,0 +1,42 @@
+{
+  "name": "Rose Gold Sheet",
+  "parent": "Metal Sheet",
+  "attribute": "Health regen: Out of combat",
+  "impact": 0.4,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

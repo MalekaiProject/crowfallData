@@ -1,0 +1,25 @@
+{
+  "name": "Philosopher Solution",
+  "profession": "Alchemy",
+  "category": "Alchemy Component",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Water flask",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

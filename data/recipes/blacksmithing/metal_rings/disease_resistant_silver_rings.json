@@ -1,0 +1,42 @@
+{
+  "name": "Disease Resistant Silver Rings",
+  "parent": "Metal Rings",
+  "attribute": "Disease resist",
+  "impact": 0.02,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Silver",
+      "amount": 3
+    },
+    {
+      "name": "Silver",
+      "amount": 3
+    },
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

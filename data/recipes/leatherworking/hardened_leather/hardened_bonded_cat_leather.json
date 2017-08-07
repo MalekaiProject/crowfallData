@@ -1,0 +1,42 @@
+{
+  "name": "Hardened Bonded Cat Leather",
+  "parent": "Hardened Leather",
+  "attribute": "Critical hit chance",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 2
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

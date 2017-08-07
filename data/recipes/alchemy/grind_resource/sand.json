@@ -1,0 +1,14 @@
+{
+  "name": "Sand",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cobblestone",
+      "amount": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Padded Earthen Boar Leather",
+  "parent": "Reinforced Padding",
+  "attribute": "Damage bonus: Nature",
+  "impact": 0.06,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

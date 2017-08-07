@@ -1,0 +1,22 @@
+{
+  "name": "Chapter : Redemption",
+  "parent": "Book Chapter",
+  "attribute": "Damage Bonus: Fire",
+  "impact": 0.08,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Travertine",
+      "amount": 3
+    },
+    {
+      "name": "Stitched Leather",
+      "amount": 1
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1
+    }
+  ]
+}

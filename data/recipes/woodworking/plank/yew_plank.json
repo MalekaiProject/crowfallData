@@ -1,0 +1,14 @@
+{
+  "name": "Yew plank",
+  "parent": "Plank",
+  "attribute": "Life Steal",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Yew wood",
+      "amount": 3
+    }
+  ]
+}

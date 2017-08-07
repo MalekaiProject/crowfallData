@@ -1,0 +1,30 @@
+{
+  "name": "Padded Reinforced Boar Leather",
+  "parent": "Reinforced Padding",
+  "attribute": "Combat resource regen",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

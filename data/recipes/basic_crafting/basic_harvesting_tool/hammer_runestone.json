@@ -1,0 +1,22 @@
+{
+  "name": "Hammer Runestone",
+  "parent": "Basic Harvesting Tool",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 1
+    },
+    {
+      "name": "Wood",
+      "amount": 1
+    },
+    {
+      "name": "Wood",
+      "amount": 1
+    }
+  ]
+}

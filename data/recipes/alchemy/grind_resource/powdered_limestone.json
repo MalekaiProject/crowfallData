@@ -1,0 +1,14 @@
+{
+  "name": "Powdered Limestone",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Limestone",
+      "amount": 2
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ground Dolomite",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Dolomite",
+      "amount": 2
+    }
+  ]
+}

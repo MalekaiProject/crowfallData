@@ -1,0 +1,14 @@
+{
+  "name": "Ash plank",
+  "parent": "Plank",
+  "attribute": "Hit Point",
+  "impact": 21.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Ash wood",
+      "amount": 3
+    }
+  ]
+}

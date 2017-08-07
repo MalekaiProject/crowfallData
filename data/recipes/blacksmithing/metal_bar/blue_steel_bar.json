@@ -1,0 +1,26 @@
+{
+  "name": "Blue Steel Bar",
+  "parent": "Metal Bar",
+  "attribute": "Damage bonus: Bleed",
+  "impact": 0.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Iron",
+      "amount": 3
+    },
+    {
+      "name": "Iron",
+      "amount": 3
+    },
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

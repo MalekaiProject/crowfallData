@@ -1,0 +1,14 @@
+{
+  "name": "Leather Weapon Grip",
+  "parent": "Weapon Grip",
+  "attribute": "Support power",
+  "impact": 0.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Leather",
+      "amount": 1
+    }
+  ]
+}

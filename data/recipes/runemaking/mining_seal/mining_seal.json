@@ -1,0 +1,20 @@
+{
+  "name": "Mining Seal",
+  "profession": "Runemaking",
+  "category": "Runemaking Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Granite",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Copper",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

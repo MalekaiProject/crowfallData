@@ -1,0 +1,20 @@
+{
+  "name": "Blueprint Scroll",
+  "profession": "Woodworking",
+  "category": "Siege Warfare",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Beeswax",
+      "amount": 5,
+      "required": true
+    }
+  ]
+}

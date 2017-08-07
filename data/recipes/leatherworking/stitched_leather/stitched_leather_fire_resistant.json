@@ -1,0 +1,26 @@
+{
+  "name": "Stitched Leather: Fire Resistant",
+  "parent": "Stitched Leather",
+  "attribute": "Fire resistant",
+  "impact": 0.02,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 1
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 1
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

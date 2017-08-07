@@ -1,0 +1,26 @@
+{
+  "name": "Plain Metal Bar",
+  "parent": "Metal Bar",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Silver",
+      "amount": 3
+    },
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

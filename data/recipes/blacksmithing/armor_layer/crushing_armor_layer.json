@@ -1,0 +1,26 @@
+{
+  "name": "Crushing Armor Layer",
+  "parent": "Armor Layer",
+  "attribute": "Crushing mitigation",
+  "impact": 0.32,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Slate",
+      "amount": 1
+    },
+    {
+      "name": "Hide",
+      "amount": 1
+    }
+  ]
+}

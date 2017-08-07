@@ -1,0 +1,14 @@
+{
+  "name": "Wooden weapon grip",
+  "parent": "Weapon Grip",
+  "attribute": "Atk power",
+  "impact": 0.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Plank",
+      "amount": 1
+    }
+  ]
+}

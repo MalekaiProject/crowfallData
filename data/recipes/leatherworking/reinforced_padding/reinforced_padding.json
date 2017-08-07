@@ -1,0 +1,35 @@
+{
+  "name": "Reinforced Padding",
+  "profession": "Leatherworking",
+  "category": "Leatherworking Armor",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Hide",
+      "amount": 2,
+      "required": true
+    },
+    {
+      "name": "Hide",
+      "amount": 2,
+      "required": true
+    },
+    {
+      "name": "Hide",
+      "amount": 2,
+      "required": true
+    },
+    {
+      "name": "Ore",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

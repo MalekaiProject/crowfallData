@@ -6,6 +6,7 @@ c = Roo::Spreadsheet.open('../spreadsheets/crafting.xlsx')
 categories = ["Blacksmith Weapon", "Blacksmith Armor", "Fuel", "Basic Harvesting Tool", "Basic Weapon", "Survivalist", "Leatherworking Armor", "Leatherworking Component", "Woodworking Weapon", "Woodworking Armor", "Component", "Siege Warfare", "Geomancy", "Geomancy Architecture", "Stonemasonry Component", "Harvesting Tool", "Runemaking Component", "Discipline", "Vessel", "Body Parts", "Accessory", "Jewelcrafting component", "Alchemy Component", "Alchemy Potions", "Meat"]
 
 @blob = Hash.new
+variants = Hash.new
 
 def strip_counts(resource)
   if !resource.nil?
@@ -136,6 +137,14 @@ c.sheets.each_with_index do |t,i|
 	    end
 	  end
 	end
+
+        if !variants[t]
+          variants[t] = Hash.new
+        end
+        if !variants[t][parent_type]
+          variants[t][parent_type] = Hash.new
+        end
+
 	components = Array.new
         (5..11).each do |res_col|
 	  if row[res_col]
@@ -147,17 +156,17 @@ c.sheets.each_with_index do |t,i|
 	    components << { name: strip_counts(row[res_col]), amount: get_counts(row[res_col])} 
 	  end
 	end
-	@blob[t][parent_type][parent_recipe]["variants"] = Array.new if !@blob[t][parent_type][parent_recipe]["variants"]
         if parent_recipe != new_name || (new_name.include?('Sigil') && components.first['name'] != "Ore")
-          @blob[t][parent_type][parent_recipe]["variants"] <<
-                {
+          variants[t][parent_type].merge!(
+                new_name => {
                   "name" => new_name,
+                  "parent" => parent_recipe,
                   "attribute" => attribute || nil,
                   "impact" => attribute_impact || nil,
                   "success_chance" => row[2],
                   "difficulty" => row[4],
                   "components" => components
-                }
+                })
         end
 	components = nil
         # not 70?
@@ -169,15 +178,28 @@ c.sheets.each_with_index do |t,i|
   end
 end
 
-
 @blob.each do |profession,types|
   Dir.mkdir clean(profession) unless File.exists?(clean(profession))
   types.each do |type,recipes|
     recipes.each do |name, values|
       #if !values["components"].empty?
-      File.open("#{clean(profession)}/#{clean(name)}.json", "w") do |f|
-        f.puts JSON.pretty_generate(values)
-      end
+      Dir.mkdir "#{clean(profession)}/#{clean(name)}" unless File.exists?("#{clean(profession)}/#{clean(name)}")
+        File.open("#{clean(profession)}/#{clean(name)}/#{clean(name)}.json", "w") do |f|
+          f.puts JSON.pretty_generate(values)
+        end
+    end
+  end
+end
+
+variants.each do |profession,types|
+  Dir.mkdir clean(profession) unless File.exists?(clean(profession))
+  types.each do |type,recipes|
+    recipes.each do |name, values|
+      #if !values["components"].empty?
+      Dir.mkdir("#{clean(profession)}/#{clean(values['parent'])}") unless File.exists?("#{clean(profession)}/#{clean(values['parent'])}")
+        File.open("#{clean(profession)}/#{clean(values['parent'])}/#{clean(name)}.json", "w") do |f|
+          f.puts JSON.pretty_generate(values)
+        end
     end
   end
 end

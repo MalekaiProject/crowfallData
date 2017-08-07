@@ -1,0 +1,26 @@
+{
+  "name": "Stitched Leather: Disease Resistant",
+  "parent": "Stitched Leather",
+  "attribute": "Disease resist",
+  "impact": 0.02,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Elk Hide",
+      "amount": 1
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 1
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

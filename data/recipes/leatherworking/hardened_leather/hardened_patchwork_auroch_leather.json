@@ -1,0 +1,42 @@
+{
+  "name": "Hardened Patchwork Auroch Leather",
+  "parent": "Hardened Leather",
+  "attribute": "Stamina regen: Out of combat",
+  "impact": 0.02,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 2
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 2
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

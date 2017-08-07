@@ -1,0 +1,42 @@
+{
+  "name": "Hardened Diseased Elk Leather",
+  "parent": "Hardened Leather",
+  "attribute": "Damage bonus: Disease",
+  "impact": 0.06,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Elk Hide",
+      "amount": 2
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

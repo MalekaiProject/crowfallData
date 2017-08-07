@@ -1,0 +1,18 @@
+{
+  "name": "Blacksmith Seal",
+  "parent": "Mining Seal",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Slate",
+      "amount": 1
+    },
+    {
+      "name": "Iron",
+      "amount": 1
+    }
+  ]
+}

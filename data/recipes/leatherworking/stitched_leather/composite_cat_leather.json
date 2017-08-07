@@ -1,0 +1,26 @@
+{
+  "name": "Composite Cat Leather",
+  "parent": "Stitched Leather",
+  "attribute": "Damage bonus: Retribution",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cat Hide",
+      "amount": 1
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 1
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

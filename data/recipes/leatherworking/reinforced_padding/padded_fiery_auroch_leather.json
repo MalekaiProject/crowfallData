@@ -1,0 +1,30 @@
+{
+  "name": "Padded Fiery Auroch Leather",
+  "parent": "Reinforced Padding",
+  "attribute": "Damage bonus: Fire",
+  "impact": 0.06,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 2
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 2
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

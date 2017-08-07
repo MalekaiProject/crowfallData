@@ -1,0 +1,14 @@
+{
+  "name": "Ground Hattel",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Hattel",
+      "amount": 2
+    }
+  ]
+}

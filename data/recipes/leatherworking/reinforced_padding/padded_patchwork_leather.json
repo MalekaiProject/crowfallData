@@ -1,0 +1,30 @@
+{
+  "name": "Padded Patchwork Leather",
+  "parent": "Reinforced Padding",
+  "attribute": "Attack power",
+  "impact": 0.4,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 2
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

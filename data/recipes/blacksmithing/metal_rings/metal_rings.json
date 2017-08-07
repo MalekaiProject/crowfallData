@@ -1,0 +1,55 @@
+{
+  "name": "Metal Rings",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Armor",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": true
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": true
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": true
+    },
+    {
+      "name": "Coal",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

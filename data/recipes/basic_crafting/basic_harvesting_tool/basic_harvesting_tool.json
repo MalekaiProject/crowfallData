@@ -1,0 +1,25 @@
+{
+  "name": "Basic Harvesting Tool",
+  "profession": "Basic Crafting",
+  "category": "Basic Harvesting Tool",
+  "success_chance": 0.97,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Wood",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Tin Bar",
+  "parent": "Metal Bar",
+  "attribute": "Stamina",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Hardened Boar Leather",
+  "parent": "Hardened Leather",
+  "attribute": "Resource",
+  "impact": 0.4,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

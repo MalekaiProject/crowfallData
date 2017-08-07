@@ -1,0 +1,42 @@
+{
+  "name": "Hardened Composite Cat Leather",
+  "parent": "Hardened Leather",
+  "attribute": "Critical hit damage",
+  "impact": 0.16,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Leather Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

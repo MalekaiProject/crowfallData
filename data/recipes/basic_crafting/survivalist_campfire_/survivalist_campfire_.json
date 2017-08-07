@@ -1,0 +1,20 @@
+{
+  "name": "Survivalist Campfire ",
+  "profession": "Basic Crafting",
+  "category": "Survivalist",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 12,
+      "required": true
+    },
+    {
+      "name": "Animal Meat",
+      "amount": 4,
+      "required": false
+    }
+  ]
+}

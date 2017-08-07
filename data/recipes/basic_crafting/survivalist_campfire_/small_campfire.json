@@ -1,0 +1,14 @@
+{
+  "name": "Small Campfire",
+  "parent": "Survivalist Campfire ",
+  "attribute": "Heal health overtime",
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 12
+    }
+  ]
+}

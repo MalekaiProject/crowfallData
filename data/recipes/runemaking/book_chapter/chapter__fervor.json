@@ -1,0 +1,22 @@
+{
+  "name": "Chapter : Fervor",
+  "parent": "Book Chapter",
+  "attribute": "Mana Regen: In Combat",
+  "impact": 0.05,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Granite",
+      "amount": 3
+    },
+    {
+      "name": "Stitched Leather",
+      "amount": 1
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1
+    }
+  ]
+}

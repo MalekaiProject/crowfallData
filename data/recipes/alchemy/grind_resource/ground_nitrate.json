@@ -1,0 +1,14 @@
+{
+  "name": "Ground Nitrate",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Nitrate",
+      "amount": 2
+    }
+  ]
+}

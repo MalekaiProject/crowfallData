@@ -1,0 +1,42 @@
+{
+  "name": "Green Gold Sheet",
+  "parent": "Metal Sheet",
+  "attribute": "Combat resource regen",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Silver",
+      "amount": 3
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

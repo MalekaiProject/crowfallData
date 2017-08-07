@@ -1,0 +1,14 @@
+{
+  "name": "Powdered Granite",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Granite",
+      "amount": 2
+    }
+  ]
+}

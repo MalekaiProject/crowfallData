@@ -1,0 +1,26 @@
+{
+  "name": "Piercing Armor Layer",
+  "parent": "Armor Layer",
+  "attribute": "Piercing mitigation",
+  "impact": 0.32,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Travertine",
+      "amount": 1
+    },
+    {
+      "name": "Hide",
+      "amount": 1
+    }
+  ]
+}

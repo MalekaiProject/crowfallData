@@ -1,0 +1,26 @@
+{
+  "name": "Stitched Leather: Reinforced Cat",
+  "parent": "Stitched Leather",
+  "attribute": "Lifesteal",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cat Hide",
+      "amount": 1
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 1
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

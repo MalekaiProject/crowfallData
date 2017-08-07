@@ -1,0 +1,26 @@
+{
+  "name": "Copper Bar",
+  "parent": "Metal Bar",
+  "attribute": "Critical hit chance",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

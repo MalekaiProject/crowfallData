@@ -1,0 +1,30 @@
+{
+  "name": "Padded Elk Leather",
+  "parent": "Reinforced Padding",
+  "attribute": "Support power",
+  "impact": 0.4,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Elk Hide",
+      "amount": 2
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

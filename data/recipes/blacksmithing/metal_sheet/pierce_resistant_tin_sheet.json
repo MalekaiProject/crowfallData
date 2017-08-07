@@ -1,0 +1,42 @@
+{
+  "name": "Pierce Resistant Tin Sheet",
+  "parent": "Metal Sheet",
+  "attribute": "Pierce resist",
+  "impact": 0.02,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Tin",
+      "amount": 3
+    },
+    {
+      "name": "Iron",
+      "amount": 3
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Armor Layer",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

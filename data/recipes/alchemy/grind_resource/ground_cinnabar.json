@@ -1,0 +1,14 @@
+{
+  "name": "Ground Cinnabar",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cinnabar",
+      "amount": 2
+    }
+  ]
+}

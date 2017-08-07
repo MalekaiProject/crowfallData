@@ -1,0 +1,22 @@
+{
+  "name": "Catapult MK1",
+  "parent": "Siege Catapult Blueprint",
+  "attribute": null,
+  "impact": 1.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Taupe Scroll",
+      "amount": 1
+    },
+    {
+      "name": "Gears",
+      "amount": 10
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 150
+    }
+  ]
+}

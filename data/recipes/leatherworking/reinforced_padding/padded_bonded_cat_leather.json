@@ -1,0 +1,30 @@
+{
+  "name": "Padded Bonded Cat Leather",
+  "parent": "Reinforced Padding",
+  "attribute": "Critical hit chance",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

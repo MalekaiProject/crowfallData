@@ -1,0 +1,26 @@
+{
+  "name": "Stitched Leather: Bear",
+  "parent": "Stitched Leather",
+  "attribute": "Attack power",
+  "impact": 0.4,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Bear Hide",
+      "amount": 1
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 1
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

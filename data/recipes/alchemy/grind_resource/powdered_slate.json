@@ -1,0 +1,14 @@
+{
+  "name": "Powdered Slate",
+  "parent": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Slate",
+      "amount": 2
+    }
+  ]
+}

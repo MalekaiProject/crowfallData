@@ -1,0 +1,22 @@
+{
+  "name": "Leather Layer: Earth",
+  "parent": "Leather Armor Layer",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 5
+    }
+  ]
+}

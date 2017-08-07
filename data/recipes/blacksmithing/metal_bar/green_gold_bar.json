@@ -1,0 +1,26 @@
+{
+  "name": "Green gold bar",
+  "parent": "Metal Bar",
+  "attribute": "Stamina regen: In combat",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Silver",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Rose Gold Bar",
+  "parent": "Metal Bar",
+  "attribute": "Critical hit damage",
+  "impact": 0.16,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Copper",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Physical Armor Layer",
+  "parent": "Armor Layer",
+  "attribute": "All physical mitigation",
+  "impact": 0.19,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 2
+    },
+    {
+      "name": "Limestone",
+      "amount": 1
+    },
+    {
+      "name": "Hide",
+      "amount": 1
+    }
+  ]
+}

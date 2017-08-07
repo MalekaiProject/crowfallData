@@ -1,0 +1,15 @@
+{
+  "name": "Plank",
+  "profession": "Woodworking",
+  "category": "Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 3,
+      "required": true
+    }
+  ]
+}

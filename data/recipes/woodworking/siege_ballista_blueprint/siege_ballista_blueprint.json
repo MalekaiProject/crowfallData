@@ -1,0 +1,25 @@
+{
+  "name": "Siege Ballista Blueprint",
+  "profession": "Woodworking",
+  "category": "Siege Warfare",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Gears",
+      "amount": 10,
+      "required": true
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 300,
+      "required": true
+    }
+  ]
+}

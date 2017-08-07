@@ -1,0 +1,26 @@
+{
+  "name": "Fiery gold bar",
+  "parent": "Metal Bar",
+  "attribute": "bonus dmg : Fire",
+  "impact": 0.06,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Gold",
+      "amount": 3
+    },
+    {
+      "name": "Iron",
+      "amount": 3
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

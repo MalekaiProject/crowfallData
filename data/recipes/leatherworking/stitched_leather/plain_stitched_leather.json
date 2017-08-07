@@ -1,0 +1,26 @@
+{
+  "name": "Plain Stitched Leather",
+  "parent": "Stitched Leather",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 1
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 1
+    },
+    {
+      "name": "Bear Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

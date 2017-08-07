@@ -1,0 +1,25 @@
+{
+  "name": "Book Chapter",
+  "profession": "Runemaking",
+  "category": "Runemaking Component",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "[Wild Card]",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Stitched Leather",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Metal Bar",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

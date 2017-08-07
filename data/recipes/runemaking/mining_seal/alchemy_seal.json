@@ -1,0 +1,18 @@
+{
+  "name": "Alchemy Seal",
+  "parent": "Mining Seal",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Marble",
+      "amount": 1
+    },
+    {
+      "name": "Gold",
+      "amount": 1
+    }
+  ]
+}

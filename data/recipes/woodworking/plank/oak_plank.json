@@ -1,0 +1,14 @@
+{
+  "name": "Oak plank",
+  "parent": "Plank",
+  "attribute": "Critical chance",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Oak wood",
+      "amount": 3
+    }
+  ]
+}

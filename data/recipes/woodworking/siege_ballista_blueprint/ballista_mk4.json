@@ -1,0 +1,22 @@
+{
+  "name": "Ballista MK4",
+  "parent": "Siege Ballista Blueprint",
+  "attribute": null,
+  "impact": 4.0,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Carmine Scroll",
+      "amount": 1
+    },
+    {
+      "name": "Gears",
+      "amount": 10
+    },
+    {
+      "name": "Ethereal Dust",
+      "amount": 300
+    }
+  ]
+}

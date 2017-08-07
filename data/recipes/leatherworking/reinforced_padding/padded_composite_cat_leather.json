@@ -1,0 +1,30 @@
+{
+  "name": "Padded Composite Cat Leather",
+  "parent": "Reinforced Padding",
+  "attribute": "Critical hit damage",
+  "impact": 0.16,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Cat Hide",
+      "amount": 2
+    },
+    {
+      "name": "Boar Hide",
+      "amount": 2
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}

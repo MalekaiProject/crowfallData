@@ -1,0 +1,30 @@
+{
+  "name": "Metal Bar",
+  "profession": "Blacksmithing",
+  "category": "Blacksmith Weapon",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": true
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": true
+    },
+    {
+      "name": "Ore",
+      "amount": 3,
+      "required": true
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

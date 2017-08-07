@@ -1,0 +1,14 @@
+{
+  "name": "Birch plank",
+  "parent": "Plank",
+  "attribute": "Max Stamina",
+  "impact": 0.04,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Birch wood",
+      "amount": 3
+    }
+  ]
+}

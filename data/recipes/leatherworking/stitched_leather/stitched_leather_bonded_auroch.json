@@ -1,0 +1,26 @@
+{
+  "name": "Stitched Leather: Bonded Auroch",
+  "parent": "Stitched Leather",
+  "attribute": "Health regen: In combat",
+  "impact": 0.4,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Auroch Hide",
+      "amount": 1
+    },
+    {
+      "name": "Auroch Hide",
+      "amount": 1
+    },
+    {
+      "name": "Elk Hide",
+      "amount": 1
+    },
+    {
+      "name": "Specialty Seal",
+      "amount": 1
+    }
+  ]
+}
