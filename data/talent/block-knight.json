@@ -1,20 +1,19 @@
 {
-  "id": "ambush",
-  "class": "Duelist",
+  "id": "block-knight",
+  "class": "Knight",
   "promotion": "",
-  "name": "Ambush",
+  "name": "Block",
   "unlocks": [
-    "ambush"
+    "block"
   ],
   "modifies": [],
   "maxPips": 1,
   "prerequisite": {
     "precursors": [
-      "go-for-broke"
+      "shield-bash"
     ],
     "spentPips": 0,
     "levelRequired": 0
   },
-  "details": "This talent grants the Ambush power."
-}h power."
+  "details": "This talent grants the Block power."
 }

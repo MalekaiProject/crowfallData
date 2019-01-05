@@ -1,5 +1,5 @@
 {
-  "id": "rapid-fire",
+  "id": "rapid-fire-ranger",
   "class": "Ranger",
   "promotion": "",
   "name": "Rapid Fire",
@@ -14,7 +14,4 @@
     "levelRequired": 0
   },
   "details": "This talent grants the Rapid Fire power."
-}Required": 0
-  },
-  "details": "This talent grants the Rapid Fire and Snipe powers."
 }

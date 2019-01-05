@@ -1,19 +1,19 @@
 {
-  "id": "block",
-  "class": "Cleric",
+  "id": "ambush-duelist",
+  "class": "Duelist",
   "promotion": "",
-  "name": "Block",
+  "name": "Ambush",
   "unlocks": [
-    "block"
+    "ambush"
   ],
   "modifies": [],
   "maxPips": 1,
   "prerequisite": {
     "precursors": [
-      "illuminate"
+      "go-for-broke"
     ],
     "spentPips": 0,
     "levelRequired": 0
   },
-  "details": "This talent grants the Block power."
-}}
+  "details": "This talent grants the Ambush power."
+}

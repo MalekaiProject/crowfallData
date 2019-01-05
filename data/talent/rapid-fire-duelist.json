@@ -1,0 +1,22 @@
+{
+  "id": "rapid-fire-duelist",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Rapid Fire",
+  "unlocks": [
+    "rapid-fire",
+    "snipe"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "artful-advance",
+      "wily",
+      "charming"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Rapid Fire and Snipe powers."
+}

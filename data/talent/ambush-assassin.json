@@ -1,0 +1,19 @@
+{
+  "id": "ambush-assassin",
+  "class": "Assassin",
+  "promotion": "Cutthroat",
+  "name": "Ambush",
+  "unlocks": [
+    "ambush"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "kiss-of-death"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Ambush power."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "block-cleric",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Block",
+  "unlocks": [
+    "block"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "illuminate"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Block power."
+}

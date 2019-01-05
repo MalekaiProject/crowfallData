@@ -1,0 +1,19 @@
+{
+  "id": "cutthroat-assassin",
+  "class": "Assassin",
+  "promotion": "Cutthroat",
+  "name": "Cutthroat",
+  "unlocks": [
+    "shadow-strikes"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "killers-gift"
+    ],
+    "spentPips": 0,
+    "levelRequired": 25
+  },
+  "details": "This talent grants the Shadow Strikes passive power.\r\nIncreases by 10%: Piercing Damage Bonus|Piercing Damage Bonus Cap\r\nYou can now equip: Runic Axes|Runic Daggers|Runic Maces"
+}
