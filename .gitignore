@@ -4,3 +4,4 @@ data/discipline/major/blank-major.json
 data/crafting/combinations/combinations-default.json
 data/crafting/recipes/recipe_default.json
 data/crafting/resources/resource-default.json
+node_modules/
