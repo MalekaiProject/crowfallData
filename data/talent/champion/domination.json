@@ -1,0 +1,22 @@
+{
+    "id": "domination",
+    "name": "Domination",
+    "class": "champion",
+    "description": "Domination improves Attack Power by 30 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "massive-cleave",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cutthroat",
+        "champion-minor-ii",
+        "mighty-warrior"
+    ],
+    "locksSkill": []
+}

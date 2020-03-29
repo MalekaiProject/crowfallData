@@ -1,0 +1,21 @@
+{
+    "id": "icy-shock",
+    "name": "Icy Shock",
+    "class": "frostweaver",
+    "description": "Icy Shock improves Critical Strike by 3% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "dangerous-weaving",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "fatal-lance",
+        "flash-freezing"
+    ],
+    "locksSkill": []
+}

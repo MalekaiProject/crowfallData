@@ -1,0 +1,20 @@
+{
+    "id": "animosity",
+    "name": "Animosity",
+    "class": "champion",
+    "description": "Animosity improves Control Defense by 5% per point spent.",
+    "icon": "Skill_Icon_043_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ire",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "outrage"
+    ],
+    "locksSkill": []
+}

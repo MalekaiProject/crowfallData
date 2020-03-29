@@ -1,0 +1,19 @@
+{
+    "id": "grave-digging-empowered-digging",
+    "name": "Empowered Grave Digging",
+    "description": "enhances Energetic Harvesting with additional Grave Digging effects.\\n\\n1 Harvest Pip: Gain Empowered Grave Digging increasing Grave Digging by 5% while Energetic Harvest is active.\\n\\n2 Harvest Pips: Gain Perceptive Grave Digging increasing Spot Weakness: Grave by 5% while Perceptive Harvest is active.\\n\\n3 Harvest Pips: Increase Stamina restore amount by 4.\\n\\n4 Harvest Pips: Gain Heightened Grave Digging increasing the effectiveness of Energetic Harvest, Perceptive Harvest, and Stamina restore effects gained in the next 7 seconds when Heightened Harvest is active.\\n\\n5 Harvest Pips: Gain Furious Grave Digging increasing Harvest Base Damage: Grave by 30 for 6 seconds or 2 hits, whichever comes first when Furious Reaping is active.",
+    "shortDescription": "Passive: Adds Grave Digging specific Buffs to all Energetic Harvesting Buffs",
+    "icon": "Graphic_Disc_Digging.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

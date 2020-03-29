@@ -1,0 +1,22 @@
+{
+    "id": "cleric-passive-radical",
+    "name": "Radical",
+    "description": "empowers critical Spirit Hammer attacks to reset the cooldown of Searing Light and restore a small amount of Mana.",
+    "icon": "Graphic_Clrc_Radical.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

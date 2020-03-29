@@ -1,0 +1,28 @@
+{
+    "id": "druid-zb-attack-1",
+    "name": "Spark",
+    "description": "channels lightning at your target for 33 - 50 + 42% Weapon Damage as Electricity Damage, and chaining around to other nearby enemies for further damage. Striking with Spark three times in succession triggers Spark Focus, increasing your Critical Strike by 100% for 9 seconds or until your next hit.",
+    "icon": "Graphic_Drud_ArcingLightning.png",
+    "stats": {
+        "cast_time": "Channeled",
+        "target": "Reticle",
+        "range": "30",
+        "cost": "28",
+        "cost_type": "Essence",
+        "cost_type_time": "cost_type_time_per_second",
+        "min_damage_1": "33",
+        "max_damage_1": "50",
+        "weapon_damage_value": "42",
+        "weapon_damage_type": "Electricity"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

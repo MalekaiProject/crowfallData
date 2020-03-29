@@ -1,0 +1,28 @@
+{
+    "id": "fortification",
+    "name": "Fortification",
+    "class": "champion",
+    "description": "Fortification improves Resist All by 100 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "potency",
+            "point": 2
+        },
+        {
+            "skill": "ultimate-warrior",
+            "point": 1
+        },
+        {
+            "skill": "whirling-pain",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-exploration-ii"
+    ],
+    "locksSkill": []
+}

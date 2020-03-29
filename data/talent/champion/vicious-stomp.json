@@ -1,0 +1,22 @@
+{
+    "id": "vicious-stomp",
+    "name": "Vicious Stomp",
+    "class": "champion",
+    "description": "This talent grants the Vicious Stomp power.",
+    "icon": "Skill_Icon_017_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "champion-vicious-stomp"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "leap",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-exploration-i"
+    ],
+    "locksSkill": []
+}

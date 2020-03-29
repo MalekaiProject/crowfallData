@@ -1,0 +1,21 @@
+{
+    "id": "kiss-of-death",
+    "name": "Kiss of Death",
+    "class": "assassin",
+    "description": "Kiss of Death enhances Kidney Shot to cause Stunned enemies to take 10% increased damage for 6 seconds.",
+    "icon": "Skill_Icon_045_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "overachieve",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "ambush",
+        "opportunist"
+    ],
+    "locksSkill": []
+}

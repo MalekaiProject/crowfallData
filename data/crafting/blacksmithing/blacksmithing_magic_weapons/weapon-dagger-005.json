@@ -1,0 +1,57 @@
+{
+    "name": "Runic Dagger",
+    "id": "weapon-dagger-005",
+    "icon": "oneHandedDagger.png",
+    "description": "Creates a One Handed Runic Dagger, usable by those who have a mastery of Daggers.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "blacksmithing_magic_weapons",
+    "ingredients": [
+        {
+            "name": "Jeweled Weapon Hilt",
+            "id": "jeweled-weapon-hilt",
+            "icon": "hilt.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runed Weapon Blade: Short",
+            "id": "runed-weapon-blade-short",
+            "icon": "weaponBladeMedium.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Blade Rivets",
+            "id": "blade-rivets",
+            "icon": "steelRivets.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

@@ -1,37 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A felling axe is a logger's best friend. Even a small axe can take down a big tree and the resource it yields hold endless possibilities.",
-  "name": "Logger",
-  "powers": [
-    "empowered-logging"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [{
-      "name": "Plentiful Resources Wood: All",
-      "value": 1.25
-    },
-    {
-      "name": "Harvest Power Pips Bonus",
-      "value": 0.63
-    }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "logger",
+    "name": "Logger",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Logger.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Wood: All",
+            "value": 1
+        },
+        {
+            "name": "Harvest Power Pips Bonus",
+            "value": 0.5
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "logger-empowered-logging",
+            "name": "Empowered Logging",
+            "description": "Passive: Adds Logging specific Buffs to all Energetic Harvesting Buffs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A felling axe is a logger's best friend. Even a small axe can take down a big tree, and the resources it yields hold endless possibilities.",
+    "lore": "The fresh smell of sawdust is the sweetest scent one can inhale."
 }

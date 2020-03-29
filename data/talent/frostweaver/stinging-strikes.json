@@ -1,0 +1,22 @@
+{
+    "id": "stinging-strikes",
+    "name": "Stinging Strikes",
+    "class": "frostweaver",
+    "description": "Stinging Strikes improves Critical Damage by 3% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "free-weaving",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "biting-cold",
+        "frostweaver-minor-ii",
+        "shatter-storm"
+    ],
+    "locksSkill": []
+}

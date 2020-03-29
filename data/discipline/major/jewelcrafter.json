@@ -1,42 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "An unchiseled stone is a stone full of possibilities.",
-  "name": "Jewelcrafter",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Jewelcrafting"
-  ],
-  "stats": [{
-    "name": "Jewelcrafting",
-    "value": 10
-  },
-  {
-    "name": "Jewelcrafting Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Jewelcrafting Experimentation Points",
-    "value": 2
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "jewelcrafter",
+    "name": "Jewelcrafter",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Jewelcrafting.png",
+    "stats": [
+        {
+            "name": "Jewelcrafting",
+            "value": 5
+        },
+        {
+            "name": "Jewelcrafting Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Jewelcrafting Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Jewelcrafter"
+    ],
+    "description": "Recipes Granted:\\nGem Cuts\\nGem Grinds\\nGem Polishes\\nJewelry Components\\nNecklaces\\nRings",
+    "lore": "Jewels, gems, and shiny metals combine to make useful and sometimes bloody trinkets."
 }

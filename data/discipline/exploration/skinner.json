@@ -1,37 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "name": "Skinner",
-  "description": "A responsibility not to be taken lightly, the job of a skinner is one of the most important roles in the Dying Worlds. Taking down a wild creature and acquiring the necessary hides and meats from the carrion requires absolute finesse and a distinguished spirit.",
-  "powers": [
-    "empowered-skinning"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [{
-    "name": "Plentiful Resources Animal: All",
-    "value": 1.25
-  },
-  {
-    "name": "Harvest Power Pips Bonus",
-    "value": 0.63
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "skinner",
+    "name": "Skinner",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Skinner.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Animal: All",
+            "value": 1
+        },
+        {
+            "name": "Harvest Power Pips Bonus",
+            "value": 0.5
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "skinner-empowered-skinning",
+            "name": "Empowered Skinning",
+            "description": "Passive: Adds Skinning specific Buffs to all Energetic Harvesting Buffs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A responsibility not to be taken lightly, the job of a skinner is one of the most important roles in the Dying Worlds. Taking down a wild creature and acquiring the necessary hides and meats from the carrion requires absolute finesse and a distinguished spirit.",
+    "lore": "Not for the squeamish!"
 }

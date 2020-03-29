@@ -1,0 +1,29 @@
+{
+    "id": "mysticalmaster-stars-align",
+    "name": "Kinetic Boost",
+    "description": "empowers you briefly increasing your Damage Bonus by 20% and Power Efficiency by 20% for 20 seconds.",
+    "shortDescription": "Gain Damage Bonus; Reduce Ability Cost",
+    "icon": "Graphic_Disc_StarsAlign.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "68",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "20 seconds",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "20%",
+        "buff_type_2": "Power Efficiency",
+        "buff_amount_2": "20%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

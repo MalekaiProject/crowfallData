@@ -1,0 +1,30 @@
+{
+    "id": "ranger-supression-shot",
+    "name": "Suppression Shot",
+    "description": "shoots at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit.\\n\\nThis power's Maximum Range cannot be modified.",
+    "icon": "Graphic_Rngr_SuppressionShot.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "30",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "1",
+        "cost_type": "Arrow",
+        "min_damage_1": "93",
+        "max_damage_1": "126",
+        "weapon_damage_value": "109"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "unused-ranger-multi-shot"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "explosive-light",
+    "name": "Explosive Light",
+    "class": "templar",
+    "description": "Explosive Light enhances Divine Light to also inflict a Knockdown when deployed and to Daze enemies within the field.",
+    "icon": "Skill_Icon_017_030.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "edict-of-damnation",
+            "point": 2
+        },
+        {
+            "skill": "scintillating-smash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "punishing-decree"
+    ],
+    "locksSkill": []
+}

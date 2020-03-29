@@ -1,57 +1,79 @@
 {
-  "classes": [
-    "knight",
-    "confessor",
-    "templar",
-    "ranger",
-    "cleric"
-  ],
-  "description": "Silent and brooding, the Elken speak mostly through gestures. They apparently keep no memory of the men they once were, but retain their intellect and, of course, their love of the hunt.",
-  "name": "Elken",
-  "tags": [],
-  "powers": [
-    "elken-bloodline",
-    "bound",
-    "head-butt",
-    "gestalt"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Strength",
-      "value": 30
-    },
-    {
-      "name": "Constitution",
-      "value": 30
-    },
-    {
-      "name": "Perception",
-      "value": 25
-    },
-    {
-      "name": "Leatherworking",
-      "value": 10
-    },
-    {
-      "name": "Leatherworking Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Woodworking",
-      "value": 5
-    },
-    {
-      "name": "Woodworking Experimentation",
-      "value": 10
-    },
-    {
-      "name": "Food Regen Rate",
-      "value": -30
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "elken",
+    "name": "Elken",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_Elken.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 250
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 300
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 200
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 350
+        },
+        {
+            "name": "Strength",
+            "value": 30
+        },
+        {
+            "name": "Constitution",
+            "value": 60
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-ranged-distance-cap",
+            "name": "Follow-Through",
+            "description": "Passive: Increase Ranged Distance Bonus Cap"
+        },
+        {
+            "id": "racial-passive-critical-healing-amount",
+            "name": "Gaea's Tears",
+            "description": "Passive: Increase Critical Healing Amount"
+        },
+        {
+            "id": "racial-passive-craft-leatherworking",
+            "name": "Tannin Techniques",
+            "description": "Passive: Increase Leatherworking Crafting Statistics"
+        },
+        {
+            "id": "racial-passive-trailmaster",
+            "name": "Trailmaster",
+            "description": "Passive: Greatly Increase Movement Speed while Out of Combat"
+        },
+        {
+            "id": "elken-headbutt",
+            "name": "Head Butt",
+            "description": "Charge Forward, Targets Suffer Knockdown"
+        },
+        {
+            "id": "elken-gestalt",
+            "name": "Gestalt",
+            "description": "Limited Duration See Stealthed Players"
+        },
+        {
+            "id": "elken-dodge",
+            "name": "Dive Roll",
+            "description": "Dive Roll in a WASD direction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Quiver Proficiency"
+    ],
+    "lore": "Silent and brooding, the Elken speak mostly through gestures. They apparently keep no memory of the men they once were, but retain their intellect and, of course, their love of the hunt."
 }

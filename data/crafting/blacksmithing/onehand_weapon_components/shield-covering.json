@@ -1,0 +1,39 @@
+{
+    "name": "Shield Covering",
+    "id": "shield-covering",
+    "icon": "shieldCover.png",
+    "description": "Creates a Shield Covering that is used to create a Shield.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "blacksmithing",
+    "subCategory": "onehand_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Section",
+            "id": "metal-section",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Section",
+            "id": "metal-section",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "ore.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

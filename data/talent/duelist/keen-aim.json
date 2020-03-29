@@ -1,0 +1,21 @@
+{
+    "id": "keen-aim",
+    "name": "Keen Aim",
+    "class": "duelist",
+    "description": "Keen Aim improves Ranged Distance Bonus by 3 per point spent.",
+    "icon": "Skill_Icon_044_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "dead-eye",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "run-and-gun",
+        "triple-aught-shot"
+    ],
+    "locksSkill": []
+}

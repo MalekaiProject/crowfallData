@@ -1,0 +1,20 @@
+{
+    "id": "flow-state",
+    "name": "Flow State",
+    "class": "assassin",
+    "description": "In The Zone has a chance to refund Combo Points on every attack.",
+    "icon": "Skill_Icon_024_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "no-escape",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ruthlessness"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "overachieve",
+    "name": "Overachieve",
+    "class": "assassin",
+    "description": "Overachieve improves Critical Strike by 2% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-cutthroat",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cruel-blades",
+        "kiss-of-death"
+    ],
+    "locksSkill": []
+}

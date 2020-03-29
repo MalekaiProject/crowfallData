@@ -1,0 +1,21 @@
+{
+    "id": "dangerous-weaving",
+    "name": "Dangerous Weaving",
+    "class": "frostweaver",
+    "description": "Dangerous Weaving increases Attack Power by 75 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-archmage",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "icy-shock",
+        "concussion"
+    ],
+    "locksSkill": []
+}

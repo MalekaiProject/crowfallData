@@ -1,0 +1,28 @@
+{
+    "id": "friar-indulgence",
+    "name": "Indulgence",
+    "description": "cleanses you and become immune to Sin for 30 seconds.",
+    "shortDescription": "Gain Sin immunity",
+    "icon": "Graphic_Disc_Indulgence.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "12",
+        "cost_type": "Resource",
+        "duration": "30 seconds",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

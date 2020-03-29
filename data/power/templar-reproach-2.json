@@ -1,0 +1,30 @@
+{
+    "id": "templar-reproach-2",
+    "name": "Castigate",
+    "description": "slashes multiple enemies, dealing 61 - 92 + 76% Weapon Damage.",
+    "icon": "Graphic_Tmpr_Castigate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "5",
+        "range": "5",
+        "min_damage_1": "61",
+        "max_damage_1": "92",
+        "weapon_damage_value": "76"
+    },
+    "nextChain": [
+        "templar-reproach-3a",
+        "templar-reproach-3b"
+    ],
+    "lastChain": [
+        "templar-reproach-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "inconceivable",
+    "name": "Inconceivable",
+    "class": "duelist",
+    "description": "This talent grants the Inconceivable! power.",
+    "icon": "Skill_Icon_043_015.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-inconceivable"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "energetic",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "charming"
+    ],
+    "locksSkill": []
+}

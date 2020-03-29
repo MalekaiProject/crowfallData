@@ -1,0 +1,23 @@
+{
+    "id": "ranger-sustain",
+    "name": "Sustain",
+    "description": "grants 40% Lifesteal for 30 seconds or until you have restored 30% of Maximum Health.\\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "icon": "Graphic_Rngr_Sustain.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "duration": "30 seconds",
+        "buff_type_1": "Lifesteal",
+        "buff_amount_1": "40"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

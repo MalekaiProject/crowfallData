@@ -1,0 +1,23 @@
+{
+    "id": "racial-passive-craft-woodworking",
+    "name": "Shaper of Wood",
+    "description": "increases your Woodworking and Woodworking Experimentation statistics by 10.",
+    "shortDescription": "Passive: Increase Woodworking Crafting Statistics",
+    "icon": "Graphic_Disc_WoodworkingTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Woodworking",
+        "buff_amount_1": "10",
+        "buff_type_2": "Woodworking Experimentation",
+        "buff_amount_2": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

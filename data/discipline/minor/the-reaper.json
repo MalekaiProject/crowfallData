@@ -1,31 +1,17 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "When you hear the ringing of a cowbell in the distance, it is time to put on some pants, and get to the harvest.",
-  "name": "The Reaper",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [
-    "Gathering"
-  ],
-  "stats": [{
-    "name": "Harvest Power Pips Bonus",
-    "value": 0.58
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "the-reaper",
+    "name": "The Reaper",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_Reaper.png",
+    "stats": [
+        {
+            "name": "Harvest Power Pips Bonus",
+            "value": 0.5
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "When you hear the ringing of a cowbell in the distance, it is time to put on some pants, and get to the harvest."
 }

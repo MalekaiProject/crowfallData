@@ -1,0 +1,28 @@
+{
+    "id": "persecution",
+    "name": "Persecution",
+    "class": "confessor",
+    "description": "Persecution improves Basic Attack Damage by 2% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "feed-the-flames",
+            "point": 2
+        },
+        {
+            "skill": "confessor-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "moment-of-glory",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-exploration-ii"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "invincible-warrior",
+    "name": "Invincible Warrior",
+    "class": "champion",
+    "description": "This talent grants the Invincible Warrior power.",
+    "icon": "Skill_Icon_026_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "champion-invincible-warrior"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ferocious",
+            "point": 2
+        },
+        {
+            "skill": "fast-counter-attack",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "almighty-hugeness"
+    ],
+    "locksSkill": []
+}

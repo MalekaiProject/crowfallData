@@ -1,0 +1,39 @@
+{
+    "name": "Composite Wood Plank",
+    "id": "plank-003",
+    "icon": "plank.png",
+    "description": "Creates a Composite Wood Plank that is used in various Woodworking recipes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "wood.png",
+            "quantity": 3,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "wood.png",
+            "quantity": 3,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "wood.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

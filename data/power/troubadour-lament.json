@@ -1,0 +1,29 @@
+{
+    "id": "troubadour-lament",
+    "name": "Lament Of Sadness",
+    "description": "sings for 12 seconds decreasing Attack Power by 150 and Support Power by 150 for up to 5 enemies within 5.\\n\\nType 4 Song.",
+    "shortDescription": "Song: Reduce Enemy Attack, Support Power",
+    "icon": "Graphic_Disc_LamentOfSadness.png",
+    "stats": {
+        "cast_time": "2 Seconds",
+        "target": "Point Blank Area",
+        "cooldown": "1",
+        "max_targets": "5",
+        "range": "5",
+        "duration": "12 seconds",
+        "buff_type_1": "Attack Power",
+        "buff_amount_1": "150",
+        "buff_type_2": "Support Power",
+        "buff_amount_2": "150"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

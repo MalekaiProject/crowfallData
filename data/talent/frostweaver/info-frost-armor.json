@@ -1,0 +1,13 @@
+{
+    "id": "info-frost-armor",
+    "name": "Info: Frost Armor",
+    "class": "frostweaver",
+    "description": "Frost Armor can be picked up by allies and you to add 3500 Armor. It lasts until you take damage and then up to 15 seconds after. Each hit adds one Frost Armor Crack counter (one per second max) and the effect ends if you are hit after your third Frost Armor Crack./n/nFrost Armor can be created directly with Frost Armor and Frost Armory. Frost Armor cannot be converted into another Ice type.",
+    "icon": "Skill_Icon_025_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

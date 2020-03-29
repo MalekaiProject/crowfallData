@@ -1,0 +1,27 @@
+{
+    "id": "leap",
+    "name": "Leap",
+    "class": "champion",
+    "description": "This talent grants the Leap power.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "champion-reverse-chain"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "guts",
+            "point": 1
+        },
+        {
+            "skill": "armaments",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "throw-hurlbat",
+        "vicious-stomp"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "shiny-coat",
+    "name": "Shiny Coat",
+    "class": "duelist",
+    "description": "Shiny Coat improves Personal Healing Modifier by 1.5% per point spent.",
+    "icon": "Skill_Icon_034_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "spy-master",
+            "point": 1
+        },
+        {
+            "skill": "cheap-shots",
+            "point": 1
+        },
+        {
+            "skill": "fast-tunneling",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "vanguard-scout"
+    ],
+    "locksSkill": []
+}

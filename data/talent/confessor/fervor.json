@@ -1,0 +1,27 @@
+{
+    "id": "fervor",
+    "name": "Fervor",
+    "class": "confessor",
+    "description": "This talent grants the Fervor power.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "confessor-fervor"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "vendetta",
+            "point": 1
+        },
+        {
+            "skill": "heart-of-flame",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "meteor-purge",
+        "condemnation"
+    ],
+    "locksSkill": []
+}

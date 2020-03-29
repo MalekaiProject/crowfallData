@@ -1,0 +1,26 @@
+{
+    "id": "assassin-in-zone",
+    "name": "In The Zone",
+    "description": "increases your Power Efficiency by 20%, and increases your Hit From Behind damage by 10% with the duration of the power scaling with amount of Pips spent.\\n\\n1 Pip: 10 seconds \\n2 Pips: 15 seconds\\n3 Pips: 20 seconds \\n4 Pips: 25 seconds\\n5 Pips: 30 seconds",
+    "icon": "Graphic_Assn_InTheZone.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cost": "1",
+        "cost_type": "Pips",
+        "buff_type_1": "Power Efficiency",
+        "buff_amount_1": "20%",
+        "buff_type_2": "Hit From Behind",
+        "buff_amount_2": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

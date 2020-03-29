@@ -1,0 +1,21 @@
+{
+    "id": "moral-prerogative",
+    "name": "Moral Prerogative",
+    "class": "templar",
+    "description": "Moral Prerogative enhances Righteous Stand to increase its channel duration by 50% allowing more time before another Pip is spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "martyrdom",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "profound-devotion",
+        "virtuous-light"
+    ],
+    "locksSkill": []
+}

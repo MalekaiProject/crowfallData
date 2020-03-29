@@ -1,0 +1,20 @@
+{
+    "id": "slayer",
+    "name": "Slayer",
+    "class": "duelist",
+    "description": "This talent grants the Slayer passive power.\\n\\nIncreases by 10%:\\nPiercing Damage Bonus\\nPiercing Damage Cap\\n\\nIncreases by 15%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery",
+    "icon": "Skill_Icon_034_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "duelist-passive-slayer"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "bewildering-offense",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

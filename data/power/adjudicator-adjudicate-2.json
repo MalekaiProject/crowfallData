@@ -1,0 +1,31 @@
+{
+    "id": "adjudicator-adjudicate-2",
+    "name": "Adjudicate",
+    "description": "judges an enemy inflicting 136 - 184 + 160% Holy Weapon Damage and cannot be mitigated normally.",
+    "icon": "Graphic_Disc_Adjudicate_B.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "136",
+        "max_damage_1": "184",
+        "weapon_damage_value": "160",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "adjudicator-adjudicate-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blunt_users"
+    ]
+}

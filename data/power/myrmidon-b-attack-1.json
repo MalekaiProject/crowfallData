@@ -1,0 +1,29 @@
+{
+    "id": "myrmidon-b-attack-1",
+    "name": "Ferocious Cuts",
+    "description": "attacks with your right weapon for 35 - 42 + 38% Weapon Damage.",
+    "icon": "Graphic_Myrm_Basic1.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "17",
+        "cost_type": "Fury",
+        "min_damage_1": "35",
+        "max_damage_1": "42",
+        "weapon_damage_value": "38"
+    },
+    "nextChain": [
+        "myrmidon-b-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

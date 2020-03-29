@@ -1,0 +1,21 @@
+{
+    "id": "edict-of-damnation",
+    "name": "Edict of Damnation",
+    "class": "templar",
+    "description": "Edict of Damnation improves Hard Control Intensity by 7% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "scourge",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "inner-light",
+        "explosive-light"
+    ],
+    "locksSkill": []
+}

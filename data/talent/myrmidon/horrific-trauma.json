@@ -1,0 +1,21 @@
+{
+    "id": "horrific-trauma",
+    "name": "Horrific Trauma",
+    "class": "myrmidon",
+    "description": "Horrific Trauma improves Movement Control Intensity by 7% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-conqueror",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "pitiless",
+        "dreadful-silencing"
+    ],
+    "locksSkill": []
+}

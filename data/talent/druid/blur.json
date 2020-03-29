@@ -1,0 +1,21 @@
+{
+    "id": "blur",
+    "name": "Blur",
+    "class": "druid",
+    "description": "Blur reduces the amount of Damage Taken by 2% per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "forest-affinity",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "pack-avatar",
+        "might-of-blight"
+    ],
+    "locksSkill": []
+}

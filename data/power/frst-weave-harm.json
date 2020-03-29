@@ -1,0 +1,25 @@
+{
+    "id": "frst-weave-harm",
+    "name": "Sew Discord",
+    "description": "leads toward the creation of harmful Ice types to thwart enemies and restore 50 mana.",
+    "icon": "Graphic_FrostWeaver_SewDiscord_01.png",
+    "stats": {
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "frst-weave-harm-frig",
+        "frst-weave-harm-vol"
+    ],
+    "lastChain": [
+        "frst-weave-activate"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

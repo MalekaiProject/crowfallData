@@ -1,0 +1,22 @@
+{
+    "id": "ambush",
+    "name": "Ambush",
+    "class": "duelist",
+    "description": "This talent grants the Ambush power.",
+    "icon": "Skill_Icon_034_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-stealth-ambush"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "go-for-broke",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-exploration-i"
+    ],
+    "locksSkill": []
+}

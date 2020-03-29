@@ -1,0 +1,66 @@
+{
+    "name": "Staff Head",
+    "id": "staff-head",
+    "icon": "staffHead.png",
+    "description": "Creates a Staff Head that is used to create a Mystical Staff.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Runestone: Life",
+            "id": "runestone-life",
+            "icon": "runestoneLife.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runestone: Death",
+            "id": "runestone-death",
+            "icon": "runestoneDeath.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "weaponGrip.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "weaponGrip.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runestone: Esoteric",
+            "id": "runestone-esoteric",
+            "icon": "RunestoneEsoteric.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Runestone: Esoteric",
+            "id": "runestone-esoteric",
+            "icon": "RunestoneEsoteric.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "gut-wound",
+    "name": "Gut Wound",
+    "class": "duelist",
+    "description": "Gut Wound enhances Impale to inflict Stun when performed using five Pips.",
+    "icon": "Skill_Icon_045_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "marksmanship",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "quick-reload"
+    ],
+    "locksSkill": []
+}

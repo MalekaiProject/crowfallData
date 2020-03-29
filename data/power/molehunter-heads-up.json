@@ -1,0 +1,30 @@
+{
+    "id": "molehunter-heads-up",
+    "name": "Heads Up",
+    "description": "increases the Perception of group members and you by 25 and removes the Exposed state.",
+    "shortDescription": "Group increase Perception; Remove Expose",
+    "icon": "Graphic_Disc_HeadsUp.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "68",
+        "max_targets": "5",
+        "cost": "12",
+        "cost_type": "Resource",
+        "buff_type_1": "Perception",
+        "buff_amount_1": "25",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "runewright",
+    "name": "Runewright",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_Runecrafting.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "runemaking-techniques",
+            "name": "Symbol Sculpting",
+            "description": "Passive: Increase Runemaking Assembly and Experimentation Caps"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Runewright"
+    ],
+    "description": "Temporary Additive Slots:\\nGrants Polished Soulgem additive slots for the Advanced Harvesting Tools recipe.\\n\\nReduced Recipe Resource Costs:\\nUnmarked Runestone",
+    "lore": "The markings aren't always clear, but they are still rather charming."
+}

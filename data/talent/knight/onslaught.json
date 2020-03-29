@@ -1,0 +1,26 @@
+{
+    "id": "onslaught",
+    "name": "Onslaught",
+    "class": "knight",
+    "description": "This talent grants the Onslaught power.",
+    "icon": "Skill_Icon_014_016.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "knight-onslaught-1"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-major-i",
+        "knight-major-ii",
+        "promotion-class-swordsman",
+        "promotion-class-secutor",
+        "promotion-class-sentinel"
+    ],
+    "locksSkill": []
+}

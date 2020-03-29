@@ -1,0 +1,39 @@
+{
+    "name": "Basic Shield",
+    "id": "basic-shield",
+    "icon": "shield.png",
+    "description": "Creates a Basic Shield, the type of resources determines the Shield created.\\n\\nStone yields a Buckler,\\nWood yields a Medium Shield.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_weapons",
+    "ingredients": [
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 6,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 6,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood or Stone",
+            "id": "wood-or-stone",
+            "icon": "",
+            "quantity": 6,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

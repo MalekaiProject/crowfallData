@@ -1,0 +1,34 @@
+{
+    "id": "molehunter-flare",
+    "name": "Flare",
+    "description": "deploys a flare revealing any Stealth users entering the area. Stealth users revealed in this way are Exposed, take 170 - 230 + 200% Fire Weapon Damage and begin Burning.",
+    "shortDescription": "Ground Target Stealth Users Revealed; Punished",
+    "icon": "Graphic_Disc_Flare.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "23",
+        "max_targets": "5",
+        "range": "30",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "30 seconds",
+        "buff_type_1": "Physical Resistances",
+        "buff_amount_1": "20",
+        "min_damage_1": "170",
+        "max_damage_1": "230",
+        "weapon_damage_value": "200",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

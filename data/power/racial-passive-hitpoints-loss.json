@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-hitpoints-loss",
+    "name": "Pain Tolerance",
+    "description": "reduces damage taken by 3%.",
+    "shortDescription": "Passive: Reduce All Damage You Take",
+    "icon": "Graphic_Disc_Racial_Human.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Personal Damage Modifier",
+        "buff_amount_1": "3%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

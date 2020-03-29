@@ -1,0 +1,20 @@
+{
+    "id": "press-the-advantage",
+    "name": "Press the Advantage",
+    "class": "duelist",
+    "description": "Press the Advantage enhances Redirect Pain to also apply a heal over time effect.",
+    "icon": "Skill_Icon_017_005.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "go-for-the-knees",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "quick-reload"
+    ],
+    "locksSkill": []
+}

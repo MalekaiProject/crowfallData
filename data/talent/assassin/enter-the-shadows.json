@@ -1,0 +1,26 @@
+{
+    "id": "enter-the-shadows",
+    "name": "Enter the Shadows",
+    "class": "assassin",
+    "description": "This talent grants the Stealth power tray and Recon power.",
+    "icon": "Skill_Icon_045_008.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "assassin-stealth-recon"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-major-i",
+        "assassin-major-ii",
+        "promotion-class-cutthroat",
+        "promotion-class-blackguard",
+        "promotion-class-vandal"
+    ],
+    "locksSkill": []
+}

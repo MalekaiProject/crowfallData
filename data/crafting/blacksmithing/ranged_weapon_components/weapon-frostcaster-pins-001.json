@@ -1,0 +1,21 @@
+{
+    "name": "Meta-Magical Conducter",
+    "id": "weapon-frostcaster-pins-001",
+    "icon": "MetaMagicalConducter.png",
+    "description": "Creates a Meta-Magical Conducter that is used to create a Frostcaster",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "ranged_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

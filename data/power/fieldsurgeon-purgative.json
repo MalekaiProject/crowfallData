@@ -1,0 +1,30 @@
+{
+    "id": "fieldsurgeon-purgative",
+    "name": "Purgative",
+    "description": "cleanses your group and yourself of damage over time effects healing for 13 - 15 + 5.6% Support Power for each effect removed.",
+    "shortDescription": "Group Cleanse Damage Over Time with Healing",
+    "icon": "Graphic_Disc_Purgative.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "23",
+        "max_targets": "5",
+        "range": "50",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "13",
+        "max_damage_1": "15",
+        "weapon_damage_value": "5.6"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_healing"
+    ]
+}

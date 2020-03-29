@@ -1,0 +1,28 @@
+{
+    "id": "halfgiant-backhand",
+    "name": "Backhand",
+    "description": "backhands the target in front of you, stunning and dealing 113 - 153 + 133% Crushing Weapon Damage.",
+    "shortDescription": "Attack: Stun target",
+    "icon": "Graphic_Disc_Backhand.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Melee",
+        "cooldown": "30",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

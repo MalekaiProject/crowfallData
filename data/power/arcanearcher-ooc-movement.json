@@ -1,0 +1,23 @@
+{
+    "id": "arcanearcher-ooc-movement",
+    "name": "Way Of The Trails",
+    "description": "grants the Trailblazer passive increasing Out of Combat Movement Speed by 15% or upgrades you to Trailmaster increasing Out of Combat Movement Speed by 25% if you already have Trailblazer.",
+    "shortDescription": "Passive: Increase Out of Combat Movement",
+    "icon": "Graphic_Disc_Trailmaster.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Out of Combat Movement Speed",
+        "buff_amount_1": "15%",
+        "buff_type_2": "Out of Combat Movement Speed",
+        "buff_amount_2": "25%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

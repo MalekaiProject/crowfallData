@@ -1,0 +1,31 @@
+{
+    "id": "naiad-fountain",
+    "name": "Fountain Of Life",
+    "description": "creates a Fountain of Life at the targeted location chaining heals to nearby allies and lasting 15 seconds or 30 heals.",
+    "shortDescription": "Ground Target Area: Healing",
+    "icon": "Graphic_Disc_FountainOfLife.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "20",
+        "max_targets": "3",
+        "cost": "46",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_amount_1": "30",
+        "max_damage_1": "25",
+        "weapon_damage_value": "31",
+        "weapon_damage_type": "11.2"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "anyone_but_druid",
+        "druid_healing"
+    ]
+}

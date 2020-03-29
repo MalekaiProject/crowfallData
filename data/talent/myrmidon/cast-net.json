@@ -1,0 +1,27 @@
+{
+    "id": "cast-net",
+    "name": "Cast Net",
+    "class": "myrmidon",
+    "description": "This talent grants the Cast Net power.",
+    "icon": "Skill_Icon_012_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "myrmidon-cast-net"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ferocity",
+            "point": 1
+        },
+        {
+            "skill": "brawny",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "arcing-slash",
+        "pulverize"
+    ],
+    "locksSkill": []
+}

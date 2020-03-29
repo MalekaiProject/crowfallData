@@ -1,0 +1,26 @@
+{
+    "id": "ranger-stealth-ambush",
+    "name": "Ambush",
+    "description": "delivers a lethal surprise attack from the shadows causing 193 - 261 + 227% Weapon Damage.",
+    "icon": "Graphic_Assn_Ambush.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "193",
+        "max_damage_1": "261",
+        "weapon_damage_value": "227"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

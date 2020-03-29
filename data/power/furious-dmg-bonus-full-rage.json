@@ -1,0 +1,24 @@
+{
+    "id": "furious-dmg-bonus-full-rage",
+    "name": "Furious",
+    "description": "increases your Damage Bonus by 10% for 15 seconds when reaching 100 Rage.",
+    "shortDescription": "Passive: Increase Damage Bonus if Rage hits max",
+    "icon": "Graphic_Disc_Furious.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "15",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

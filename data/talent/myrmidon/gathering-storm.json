@@ -1,0 +1,20 @@
+{
+    "id": "gathering-storm",
+    "name": "Gathering Storm",
+    "class": "myrmidon",
+    "description": "Gathering Storm enhances Whirlwind to stack the Gathering Storm buff up to 20 times with each hit adding +1 Fury Regen in Combat and base Whirlwind Damage.",
+    "icon": "Skill_Icon_018_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "solid-muscle",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "inhuman-strength"
+    ],
+    "locksSkill": []
+}

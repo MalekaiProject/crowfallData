@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-titan",
+    "name": "Promotion Class - Titan",
+    "class": "myrmidon",
+    "description": "Role: Melee Damage\\n\\nA furious berserker who becomes deadlier when focusing their attention on bleeding opponents.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Titan promotion class and prevents access to the Battle Rager and Conqueror promotion classes.",
+    "icon": "Skill_Icon_024_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "neck-slash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "vicious-cruelty"
+    ],
+    "locksSkill": [
+        "promotion-class-battle-rager",
+        "promotion-class-conqueror"
+    ]
+}

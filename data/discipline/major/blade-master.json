@@ -1,33 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The blade takes shape in many forms: swords, daggers, and knives, all of which are quite lethal.  Blade Masters often seek prayer with Maeve, The Goddess of War, and are quick to force their enemies to pay a toll with their blood.  Whether it is a backstab, a sword fight, or the toss of a knife, the blade craves the blood of the enemy as much as the wielder craves victory.",
-  "name": "Blade Master",
-  "powers": [
-    "blood-strike",
-    "blood-strike-ii",
-    "blood-strike-iii",
-    "dazzling-blades",
-    "retribution-slash",
-    "blood-price"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Armor Penetration: Slashing",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "blade-master",
+    "name": "Blade Master",
+    "type": "major",
+    "trait": "Bladed Weapon Training",
+    "icon": "Major_BladeMaster.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": -3
+        },
+        {
+            "name": "Slashing Damage Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "blademaster-bleed-combo-1",
+            "name": "Blood Strike",
+            "description": "Attack: Bleed multiple enemies"
+        },
+        {
+            "id": "blademaster-dazzling-blades",
+            "name": "Dazzling Blades",
+            "description": "Attack: Reduce Enemy Crit Hit Chance"
+        },
+        {
+            "id": "blademaster-retribution-strike",
+            "name": "Retribution Slash",
+            "description": "Attack: Gain Retribution"
+        },
+        {
+            "id": "blademaster-blood-price",
+            "name": "Blood Price",
+            "description": "Passive: Spawn Healing Orbs; Attack Power"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "The blade takes shape in many forms - swords, daggers, and knives - all of which are quite lethal. Blade Masters often seek prayer with Maeve, The Goddess of War, and are quick to force their enemies to pay a toll with their blood. Whether it is a backstab, a sword fight, or the toss of a knife, the blade craves the blood of the enemy as much as the wielder craves victory.",
+    "lore": "The blade demands respect and payment in the form of bloodshed."
 }

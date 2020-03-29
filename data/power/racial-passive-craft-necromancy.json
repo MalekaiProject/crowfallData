@@ -1,0 +1,23 @@
+{
+    "id": "racial-passive-craft-necromancy",
+    "name": "Subcuticular Suturing",
+    "description": "increases your Necromancy and Necromancy Experimentation statistics by 10.",
+    "shortDescription": "Passive: Increase Necromancy Crafting Statistics",
+    "icon": "Graphic_Disc_NecromancyTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Necromancy",
+        "buff_amount_1": "10",
+        "buff_type_2": "Necromancy Experimentation",
+        "buff_amount_2": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

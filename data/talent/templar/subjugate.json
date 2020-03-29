@@ -1,0 +1,22 @@
+{
+    "id": "subjugate",
+    "name": "Subjugate",
+    "class": "templar",
+    "description": "This talent grants the Subjugate power as an additional combo following Judgement.",
+    "icon": "Skill_Icon_019_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "templar-judgement-1-talent"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "scintillating-smash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "punishing-decree"
+    ],
+    "locksSkill": []
+}

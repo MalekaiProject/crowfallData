@@ -1,0 +1,30 @@
+{
+    "id": "druid-z-wicked-winds",
+    "name": "Wicked Winds",
+    "description": "launches a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage as Nature Damage.",
+    "icon": "Graphic_Drud_WickedWins.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "24",
+        "max_targets": "5",
+        "cost": "79",
+        "cost_type": "Essence",
+        "min_damage_1": "193",
+        "max_damage_1": "290",
+        "weapon_damage_value": "242",
+        "weapon_damage_type": "Nature"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "druid-z-shroud-darkness"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "bard-hymn-of-restoration",
+    "name": "Hymn Of Restoration",
+    "description": "increases your group's In Combat Health Regen by 24 and Out of Combat Health Regen by 32 for 12 seconds.\\n\\nType 3 Song.",
+    "shortDescription": "Song: Increase Group Health Regen",
+    "icon": "Graphic_Disc_HymnOfRestoration.png",
+    "stats": {
+        "cast_time": "2 Seconds",
+        "target": "Group",
+        "cooldown": "1",
+        "max_targets": "5",
+        "duration": "12 seconds",
+        "buff_type_1": "In Combat Health Regen",
+        "buff_amount_1": "24",
+        "buff_type_2": "Out of Combat Health Regen",
+        "buff_amount_2": "32"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone_but_druid"
+    ]
+}

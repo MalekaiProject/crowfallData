@@ -1,0 +1,30 @@
+{
+    "id": "frst-shatter",
+    "name": "Shatter Storm",
+    "description": "unleashes a wintry fury under the ground targeted area repeatedly inflicting 56 - 84 + 70% Weapon Damage to enemies. Any Ice within or forming during the effect is converted to Volatile Ice.\\n\\nVolatile Ice quickly explodes damaging enemies within 5m for 219 - 328 + 273% Weapon Damage.",
+    "icon": "Graphic_FrostWeaver_ShatterStorm_01.png",
+    "stats": {
+        "weapon_damage_2_value": "273",
+        "max_damage_2": "328",
+        "min_damage_2": "219",
+        "weapon_damage_value": "70",
+        "max_damage_1": "84",
+        "min_damage_1": "56",
+        "cost": "160",
+        "range": "30",
+        "max_targets": "5",
+        "cooldown": "12",
+        "target": "Area",
+        "cast_time": "Ground Aimed"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

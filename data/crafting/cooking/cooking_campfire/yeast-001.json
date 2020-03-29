@@ -1,0 +1,39 @@
+{
+    "name": "Yeast",
+    "id": "yeast-001",
+    "icon": "cooking.png",
+    "description": "Creates some Yeast, acooking reagent for use in various Cooking recipes. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_campfire",
+    "ingredients": [
+        {
+            "name": "Mushrooms",
+            "id": "mushrooms",
+            "icon": "",
+            "quantity": 10,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Cooking Foil",
+            "id": "cooking-foil",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

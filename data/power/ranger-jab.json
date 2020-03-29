@@ -1,0 +1,30 @@
+{
+    "id": "ranger-jab",
+    "name": "Jab",
+    "description": "slashes in front of you knocking down your target, dealing 136 - 184 + 160% Weapon Damage. This attack has a 100% Critical Strike modifier.",
+    "icon": "Graphic_Rngr_Jab.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "190",
+        "cost_type": "Energy",
+        "min_damage_1": "136",
+        "max_damage_1": "184",
+        "weapon_damage_value": "160"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "ranger-sweep"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Grind Food Items: Bulk",
+    "id": "grind-resource-002",
+    "icon": "mortarAndPestle.png",
+    "description": "Crush or Grind potatoes and herbs for cooking recipes. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_components",
+    "ingredients": [
+        {
+            "name": "Potatoes or Herbs",
+            "id": "potatoes-or-herbs",
+            "icon": "",
+            "quantity": 20,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

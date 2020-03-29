@@ -1,0 +1,20 @@
+{
+    "id": "permafrost",
+    "name": "Permafrost",
+    "class": "frostweaver",
+    "description": "Permafrost improves Mana Regen Out of Combat by 10 and Maximum Stamina by 5 per point spent.",
+    "icon": "Skill_Icon_034_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "solidify",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "crisp-casting"
+    ],
+    "locksSkill": []
+}

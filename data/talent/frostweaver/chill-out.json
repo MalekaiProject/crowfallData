@@ -1,0 +1,22 @@
+{
+    "id": "chill-out",
+    "name": "Chill Out",
+    "class": "frostweaver",
+    "description": "This talent grants the Chill Out power.\\n\\nTraits Granted:\\nCooling Focus Gem.",
+    "icon": "Skill_Icon_019_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-chill-out"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "solidify",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "crisp-casting"
+    ],
+    "locksSkill": []
+}

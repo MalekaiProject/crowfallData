@@ -1,0 +1,22 @@
+{
+    "id": "holy-symbol",
+    "name": "Holy Symbol",
+    "class": "cleric",
+    "description": "This talent grants the Holy Symbol power.",
+    "icon": "Skill_Icon_043_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "cleric-holy-symbol"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "prudence",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "flog"
+    ],
+    "locksSkill": []
+}

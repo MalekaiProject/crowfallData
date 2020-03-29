@@ -1,0 +1,21 @@
+{
+    "id": "divine-intervention",
+    "name": "Divine Intervention",
+    "class": "cleric",
+    "description": "Divine Intervention improves Critical Healing Chance by 2% per point spent.",
+    "icon": "Skill_Icon_017_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "benediction",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "healing-hand",
+        "divine-illumination"
+    ],
+    "locksSkill": []
+}

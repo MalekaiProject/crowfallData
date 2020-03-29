@@ -1,0 +1,20 @@
+{
+    "id": "guts",
+    "name": "Guts",
+    "class": "champion",
+    "description": "Guts improves Critical Strike by 1% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "spinning-backfist",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "leap"
+    ],
+    "locksSkill": []
+}

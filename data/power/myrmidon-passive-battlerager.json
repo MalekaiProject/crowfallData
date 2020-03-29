@@ -1,0 +1,20 @@
+{
+    "id": "myrmidon-passive-battlerager",
+    "name": "Battle Rager",
+    "description": "increases Maximum Health by 50% of the total Berserk Crash damage prevented when Berserk ends.",
+    "icon": "Graphic_Myrm_BattleRager.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

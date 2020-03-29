@@ -1,0 +1,24 @@
+{
+    "id": "lightning-bugs",
+    "name": "Lightning Bugs",
+    "class": "druid",
+    "description": "Lightning Bugs enhances Faerie Flames and Faerie Fire to reduce the target's Final Electricity Mitigation by 15%. This does not stack with Blight field effects.",
+    "icon": "Skill_Icon_017_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "plasma-spark",
+            "point": 2
+        },
+        {
+            "skill": "storm-avatar",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fury-of-the-storm"
+    ],
+    "locksSkill": []
+}

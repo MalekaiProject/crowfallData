@@ -1,0 +1,23 @@
+{
+    "id": "standardbearer-ooc-regen",
+    "name": "Bearers Insignia",
+    "description": "increases your Out of Combat Health Regen by 10 and apply a barrier when your Health is critically low.",
+    "shortDescription": "Passive: Increase Out of Combat Regeneration",
+    "icon": "Graphic_Disc_BearersInsignia.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Out of Combat Health Regen",
+        "buff_amount_1": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

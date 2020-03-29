@@ -1,0 +1,21 @@
+{
+    "id": "into-the-shadows",
+    "name": "Into the Shadows",
+    "class": "ranger",
+    "description": "Into the Shadows improves Melee Power Damage Bonus by 3% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-brigand",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "lambs-become-lions",
+        "robbery"
+    ],
+    "locksSkill": []
+}

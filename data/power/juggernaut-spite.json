@@ -1,0 +1,23 @@
+{
+    "id": "juggernaut-spite",
+    "name": "Spite",
+    "description": "recovers 4 - 6% of your maximum Health over 5 seconds each time you suffer a Knockdown or Stun.",
+    "shortDescription": "Passive: Regenerate when Stunned; Knocked Down",
+    "icon": "Graphic_Disc_Spite.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "5 seconds",
+        "buff_amount_1": "5%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

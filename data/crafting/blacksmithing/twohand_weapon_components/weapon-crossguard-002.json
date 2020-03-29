@@ -1,0 +1,30 @@
+{
+    "name": "Great Weapon Crossguard",
+    "id": "weapon-crossguard-002",
+    "icon": "weaponCrossguard.png",
+    "description": "Creates a Great Weapon Crossguard that is used to create a Great Weapon Hilt.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "twohand_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

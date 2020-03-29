@@ -1,0 +1,20 @@
+{
+    "id": "guile",
+    "name": "Guile",
+    "class": "duelist",
+    "description": "Guile improves Resist All by 100 per point spent.",
+    "icon": "Skill_Icon_029_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "steady-hand",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "wily"
+    ],
+    "locksSkill": []
+}

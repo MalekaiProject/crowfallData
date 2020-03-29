@@ -1,0 +1,28 @@
+{
+    "id": "holyavenger-battle-chant",
+    "name": "Battle Chant",
+    "description": "summons spinning hammers lasting 15 seconds to damage nearby enemies for 85 - 115 + 100% Weapon Damage.",
+    "shortDescription": "Gain Pulsing damage aura",
+    "icon": "Graphic_Disc_BattleChant.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "24",
+        "cost": "12",
+        "cost_type": "Resource",
+        "duration": "15",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blunt_users"
+    ]
+}

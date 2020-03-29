@@ -1,0 +1,21 @@
+{
+    "id": "assassin-passive-earth-4",
+    "name": "Nature Toxin",
+    "description": "covers your weapon with a Nature Toxin so attacks have a chance to afflict targets with Severe Corruption.\\n\\nWhen used together with Diffusion against an enemy afflicted with Severe Corruption, instantly deals 33 - 49 + 41% Weapon Damage to that enemy, and additional nearby enemies gain Severe Corruption with the number of enemies and radius scaling with Pips spent:\\n\\n1 Pip: 1 additional target within 5m \\n2 Pips: 2 additional targets within 5.5m \\n3 Pips: 3 additional targets within 6m  \\n4 Pips: 4 additional targets within 6.5m  \\n5 Pips: 5 additional targets within 7m\\n\\nOnly 1 Toxin can be equipped at a time.",
+    "icon": "Graphic_Assn_ToxinNature.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "min_damage_1": "33",
+        "max_damage_1": "49",
+        "weapon_damage_value": "41"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,23 +1,24 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 6,
-  "max_targets": 1,
-  "name": "Careless Whisper",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "careless-whisper",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Critical Hit Chance",
-    "Critical Damage",
-    "Primary Attack"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Grants stack of Whispers when you execute a Primary Attack that damages an enemy. Empowered Whispers is applied to you if you gain 5 Whispers in 12 seconds. Empowered Whispers increases your Critical Hit Chance by 10% and your Critical Damage by 10% for 6 seconds."
+    "name": "Careless Whisper",
+    "description": "grants stack of Whispers when you execute a Basic attack that damages an enemy.\\n\\nEmpowered Whispers is applied to you if you gain 5 Whispers in 12 seconds.\\n\\nEmpowered Whispers increases your Critical Strike by 10% and your Critical Damage by 10% for 7 seconds.",
+    "shortDescription": "Passive: Basic Attacks Buff Crit Stats",
+    "icon": "Graphic_Disc_CarelessWhisper.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "7 seconds",
+        "buff_type_1": "Critical Strike",
+        "buff_amount_1": "10%",
+        "buff_type_2": "Critical Damage",
+        "buff_amount_2": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

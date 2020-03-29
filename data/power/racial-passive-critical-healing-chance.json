@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-critical-healing-chance",
+    "name": "Reflection of Nature",
+    "description": "increases your Critical Healing Chance statistic by 3%.",
+    "shortDescription": "Passive: Increase Critical Healing Chance",
+    "icon": "Graphic_Disc_Racial_WoodElf.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Critical Healing Chance",
+        "buff_amount_1": "3%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "assassin-passive-disease-3",
+    "name": "Disease Toxin",
+    "description": "coats your weapon with Disease Toxin so attacks have a chance to afflict targets with Serious Disease.\\n\\nWhen used together with Diffusion, Diseased enemies are also afflicted with Blackmantle which prevents healing based on Pips spent:\\n\\n1 Pip: 100 Healing Prevented \\n2 Pips: 200 Healing Prevented \\n3 Pips: 300 Healing Prevented \\n4 Pips: 400 Healing Prevented \\n5 Pips: 500 Healing Prevented\\n\\nOnly 1 Toxin can be equipped at a time.",
+    "icon": "Graphic_Assn_ToxinDisease.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

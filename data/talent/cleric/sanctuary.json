@@ -1,0 +1,28 @@
+{
+    "id": "sanctuary",
+    "name": "Sanctuary",
+    "class": "cleric",
+    "description": "Sanctuary improves Resist All by 100 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "purity",
+            "point": 2
+        },
+        {
+            "skill": "divine-auras",
+            "point": 1
+        },
+        {
+            "skill": "righteous-defense",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-exploration-ii"
+    ],
+    "locksSkill": []
+}

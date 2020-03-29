@@ -1,0 +1,23 @@
+{
+    "id": "robbery",
+    "name": "Robbery",
+    "class": "ranger",
+    "description": "This talent grants the Stealth power tray and the Ambush power.\\n\\nWood-Elves purchasing this talent will lose the Camouflage racial power.\\n\\nTraits Granted:\\nStealther\\n\\nTraits Removed:\\nDaywalker\\nGaea's Inspiration",
+    "icon": "Skill_Icon_034_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-stealth-ambush"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "into-the-shadows",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "twin-surge",
+        "quick-arming"
+    ],
+    "locksSkill": []
+}

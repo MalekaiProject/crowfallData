@@ -1,0 +1,30 @@
+{
+    "id": "champion-rend",
+    "name": "Rend",
+    "description": "deals 187 - 253 + 220% Weapon Damage. Rend applies a Severe Bleed to all hit.",
+    "icon": "Graphic_Chmp_Rend.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "24",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "18",
+        "cost_type": "Rage",
+        "min_damage_1": "187",
+        "max_damage_1": "253",
+        "weapon_damage_value": "220"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "champion-vicious-stomp"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

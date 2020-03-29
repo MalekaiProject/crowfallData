@@ -1,0 +1,28 @@
+{
+    "id": "pell-training",
+    "name": "Pell Training",
+    "class": "knight",
+    "description": "Pell Training improves Critical Strike by 2% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "tactical-mastery",
+            "point": 1
+        },
+        {
+            "skill": "knight-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "echoing-assault",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-exploration-ii"
+    ],
+    "locksSkill": []
+}

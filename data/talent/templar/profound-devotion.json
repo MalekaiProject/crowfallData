@@ -1,0 +1,20 @@
+{
+    "id": "profound-devotion",
+    "name": "Profound Devotion",
+    "class": "templar",
+    "description": "Profound Devotion enhances Devotion to scale with Support Power.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "moral-prerogative",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "saintly-protection"
+    ],
+    "locksSkill": []
+}

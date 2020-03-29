@@ -1,0 +1,20 @@
+{
+    "id": "consecrated-armor",
+    "name": "Consecrated Armor",
+    "class": "cleric",
+    "description": "Consecrated Armor improves Anti-Critical Strike by 2% per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "hand-of-the-gods",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "illuminate"
+    ],
+    "locksSkill": []
+}

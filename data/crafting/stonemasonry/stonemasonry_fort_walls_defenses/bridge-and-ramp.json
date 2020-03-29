@@ -1,0 +1,75 @@
+{
+    "name": "Bridge and Ramp",
+    "id": "bridge-and-ramp",
+    "icon": "deed.png",
+    "description": "Creates a Wood Bridge and Ramp Deed.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_fort_walls_defenses",
+    "ingredients": [
+        {
+            "name": "Wood Wall Section",
+            "id": "wood-wall-section",
+            "icon": "wall.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "carpentryNails.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "masonryArch.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "architecturalFoundation.png",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Floor Tiles",
+            "id": "floor-tiles",
+            "icon": "floorTiles.png",
+            "quantity": 3,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Quality Assurance Control Kit",
+            "id": "quality-assurance-control-kit",
+            "icon": "staffHeel.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

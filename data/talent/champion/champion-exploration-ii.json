@@ -1,0 +1,28 @@
+{
+    "id": "champion-exploration-ii",
+    "name": "Exploration Discipline Slot",
+    "class": "champion",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "brutality",
+            "point": 2
+        },
+        {
+            "skill": "fortification",
+            "point": 2
+        },
+        {
+            "skill": "outrage",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "second-wind"
+    ],
+    "locksSkill": []
+}

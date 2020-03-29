@@ -1,0 +1,31 @@
+{
+    "id": "knight-onslaught-1",
+    "name": "Onslaught",
+    "description": "attacks in front of you twice for 74 - 100 + 87% Weapon Damage each strike.",
+    "icon": "Graphic_Kngt_Onslaught.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "5",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "156",
+        "cost_type": "Energy",
+        "min_damage_1": "74",
+        "max_damage_1": "100",
+        "weapon_damage_value": "87"
+    },
+    "nextChain": [
+        "knight-onslaught-2a",
+        "knight-onslaught-2b"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

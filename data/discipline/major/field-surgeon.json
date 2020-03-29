@@ -1,36 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Field Surgeons are the first to act in the event of a combat disaster. Quick to rescue, triage and rehabilitate, these selfless Field Surgeons are your one-stop shop for quick remedies to get you back in the action. Disclaimer, use as directed and be sure to follow up with a real physician. Satisfaction is not guaranteed and once payment has been processed there are no refunds.",
-  "name": "Field Surgeon",
-  "powers": [
-    "purgative",
-    "rehabilitation",
-    "rescue",
-    "noble-purpose"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Healing Modifier",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "field-surgeon",
+    "name": "Field Surgeon",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_FieldSurgeon.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "value": 3
+        },
+        {
+            "name": "Healing Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "fieldsurgeon-rehabilitation",
+            "name": "Rehabilitation",
+            "description": "Target Heal Ally Over Time Scaling with Stamina"
+        },
+        {
+            "id": "fieldsurgeon-purgative",
+            "name": "Purgative",
+            "description": "Group Cleanse Damage Over Time with Healing"
+        },
+        {
+            "id": "fieldsurgeon-rescue",
+            "name": "Rescue",
+            "description": "Target Ally Avoids Death"
+        },
+        {
+            "id": "fieldsurgeon-noble-purpose",
+            "name": "Noble Purpose",
+            "description": "Passive: Recover Resource Based on Healing"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Field Surgeons are the first to act in the event of a combat disaster. Quick to rescue, triage, and rehabilitate, these selfless Field Surgeons are your one-stop shop for quick remedies to get you back into the action. Disclaimer, use as directed and be sure to follow up with a real physician. Satisfaction is not guaranteed and once payment has been processed there are no refunds.",
+    "lore": "Your onsite go-to for quick and easy clinical care!"
 }

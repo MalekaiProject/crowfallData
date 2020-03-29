@@ -1,0 +1,21 @@
+{
+    "id": "militant",
+    "name": "Militant",
+    "class": "confessor",
+    "description": "Militant improves Resist All and Final Mitigations Cap by 200 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "melt-shackles",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "salvation",
+        "embrace-the-hellfire"
+    ],
+    "locksSkill": []
+}

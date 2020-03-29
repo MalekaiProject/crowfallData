@@ -1,0 +1,30 @@
+{
+    "name": "Carbon",
+    "id": "carbon",
+    "icon": "Carbon.png",
+    "description": "Creates Carbon that is used to create Treated Steel. Produces 5.",
+    "outputQuantity": 5,
+    "xp": 0.75,
+    "category": "blacksmithing",
+    "subCategory": "blacksmithing_fuel",
+    "ingredients": [
+        {
+            "name": "Animal Meat",
+            "id": "animal-meat",
+            "icon": "meat.png",
+            "quantity": 3,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

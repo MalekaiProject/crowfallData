@@ -1,0 +1,22 @@
+{
+    "id": "common-resurrection-single",
+    "name": "Resurrection",
+    "description": "targets a small area and revives one unconscious vessel.",
+    "icon": "Graphic_Rez_Templar.png",
+    "stats": {
+        "cast_time": "15 Seconds",
+        "target": "Area",
+        "cooldown": "600",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

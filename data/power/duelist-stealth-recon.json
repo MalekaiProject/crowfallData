@@ -1,0 +1,21 @@
+{
+    "id": "duelist-stealth-recon",
+    "name": "Recon",
+    "description": "applies the Exposed debuff to reveal weaknesses you and other specialists may capitalize on.",
+    "icon": "Graphic_Duel_Recon.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

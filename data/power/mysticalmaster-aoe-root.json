@@ -1,0 +1,30 @@
+{
+    "id": "mysticalmaster-aoe-root",
+    "name": "Grasping Roots",
+    "description": "commands nature to envelope enemies in the targeted area rooting them in place and inflicting 50 - 75 + 63% Nature Weapon Damage.",
+    "shortDescription": "Attack: Ground Target Area Root",
+    "icon": "Graphic_Disc_GraspingRoots.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "50",
+        "max_damage_1": "75",
+        "weapon_damage_value": "63",
+        "weapon_damage_type": "Nature"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Roasting Stick",
+    "id": "woodworking-roast-stick-001",
+    "icon": "weaponShaftLong.png",
+    "description": "Creates some Roasting Sticks, a fancy stick that you use to cook things over a campfire. Produce 10.",
+    "outputQuantity": 10,
+    "xp": 0.38,
+    "category": "cooking",
+    "subCategory": "cooking_components",
+    "ingredients": [
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "wood.png",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

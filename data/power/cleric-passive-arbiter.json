@@ -1,0 +1,22 @@
+{
+    "id": "cleric-passive-arbiter",
+    "name": "Arbiter",
+    "description": "recovers 35 to 45 Mana and increase your Spirit Hammer base damage by 30 stacking up to three times whenever you inflict Stun, Knockdown, Blindness or Root.",
+    "icon": "Graphic_Clrc_Arbiter.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

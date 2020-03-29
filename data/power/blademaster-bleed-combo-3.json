@@ -1,0 +1,33 @@
+{
+    "id": "blademaster-bleed-combo-3",
+    "name": "Blood Strike",
+    "description": "attacks multiple enemies for 117 - 158 + 138% Weapon Damage and causing them to Bleed for 50 - 75 + 6% Weapon Damage per tick.",
+    "icon": "Graphic_Disc_BloodStrike_B.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "25",
+        "cost_type": "Resource",
+        "min_damage_1": "117",
+        "max_damage_1": "158",
+        "weapon_damage_value": "138",
+        "min_damage_2": "50",
+        "max_damage_2": "75",
+        "weapon_damage_2_value": "6"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "blademaster-bleed-combo-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

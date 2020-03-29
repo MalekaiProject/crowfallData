@@ -1,0 +1,57 @@
+{
+    "name": "Discipline: Exploration",
+    "id": "discipline-exploration",
+    "icon": "runestoneWeaponDiscipline.png",
+    "description": "Creates a Major Discipline. The type of Soul used will determine the type of Discipline created.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "runemaking",
+    "subCategory": "runemaking_runes",
+    "ingredients": [
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Unmarked Stone Runestone",
+            "id": "unmarked-stone-runestone",
+            "icon": "runestoneBlank.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Blood",
+            "id": "animal-blood",
+            "icon": "blood.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soul Gem: Exploration",
+            "id": "soul-gem-exploration",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Domination Dust",
+            "id": "domination-dust",
+            "icon": "etherealDust.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

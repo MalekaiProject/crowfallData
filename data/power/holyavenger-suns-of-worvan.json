@@ -1,0 +1,28 @@
+{
+    "id": "holyavenger-suns-of-worvan",
+    "name": "Suns Of Worvan",
+    "description": "applies a Fire damage immune Barrier for 15 seconds.",
+    "shortDescription": "Barrier negates Fire damage",
+    "icon": "Graphic_Disc_SunsOfWorvan.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "23",
+        "cost": "13",
+        "cost_type": "Resource",
+        "duration": "15",
+        "min_damage_1": "91",
+        "max_damage_1": "123",
+        "weapon_damage_value": "107"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blunt_users"
+    ]
+}

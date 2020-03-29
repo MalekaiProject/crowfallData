@@ -1,0 +1,27 @@
+{
+    "id": "juggernaut-unstoppable",
+    "name": "Unstoppable",
+    "description": "maximizes your Resolve and triggers Crowd Control Immunity for a short time.\\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "shortDescription": "Gain Crowd Control Immunity",
+    "icon": "Graphic_Disc_Unstoppable.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

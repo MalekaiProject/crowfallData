@@ -1,0 +1,20 @@
+{
+    "id": "restoration",
+    "name": "Restoration",
+    "class": "confessor",
+    "description": "Restoration improves In and Out of Combat Health Regeneration by 5 per point spent.",
+    "icon": "Skill_Icon_043_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "blessed",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "divine-armor"
+    ],
+    "locksSkill": []
+}

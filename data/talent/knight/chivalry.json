@@ -1,0 +1,22 @@
+{
+    "id": "chivalry",
+    "name": "Chivalry",
+    "class": "knight",
+    "description": "Chivalry improves Movement Speed while mounted by 3% per point spent.",
+    "icon": "Skill_Icon_017_028.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "hoplitodromos",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tactical-mastery",
+        "knight-minor-iii",
+        "echoing-assault"
+    ],
+    "locksSkill": []
+}

@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Take then thy bond, take thou thy pound of flesh.",
-  "name": "Pound of Flesh",
-  "powers": [
-    "pound-of-flesh"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "pound-of-flesh",
+    "name": "Pound of Flesh",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_PoundOfFlesh.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "high-health-damage-bonus",
+            "name": "Pound Of Flesh",
+            "description": "Passive: Damage Bonus versus High Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Take then thy bond, take thou thy pound of flesh."
 }

@@ -1,0 +1,20 @@
+{
+    "id": "biting-cold",
+    "name": "Biting Cold",
+    "class": "frostweaver",
+    "description": "Biting Cold improves Armor Penetration: Elemental by 1% per point spent.",
+    "icon": "Skill_Icon_017_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "stinging-strikes",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "freezing-reign"
+    ],
+    "locksSkill": []
+}

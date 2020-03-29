@@ -1,0 +1,21 @@
+{
+    "id": "weakest-link",
+    "name": "Phantom Feints",
+    "description": "tricks enemies with a slow debuff to see illusory attacks causing your true attacks to inflict 20% more damage.",
+    "shortDescription": "Passive: Increase Damage vs Slowed enemies",
+    "icon": "Graphic_Disc_WeakestLink.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

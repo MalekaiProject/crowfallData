@@ -1,0 +1,29 @@
+{
+    "id": "champion-leap-2",
+    "name": "Leap",
+    "description": "launches you forward 16m, dealing 95 - 129 + 112% Weapon Damage as Crushing Damage as you land.",
+    "icon": "Graphic_Chmp_Leap.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "5",
+        "restore": "10.5",
+        "restore_type": "Rage",
+        "min_damage_1": "95",
+        "max_damage_1": "129",
+        "weapon_damage_value": "112",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "champion-reverse-chain"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

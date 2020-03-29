@@ -1,0 +1,57 @@
+{
+    "name": "Coffee",
+    "id": "coffee-001",
+    "icon": "ambrosia.png",
+    "description": "Creates some warm coffee! Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_campfire",
+    "ingredients": [
+        {
+            "name": "Coffee Beans",
+            "id": "coffee-beans",
+            "icon": "",
+            "quantity": 10,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Empty Flask",
+            "id": "empty-flask",
+            "icon": "emptyFlask.png",
+            "quantity": 5,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Sugarcane",
+            "id": "sugarcane",
+            "icon": "",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Pasteurized Milk",
+            "id": "pasteurized-milk",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 5,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

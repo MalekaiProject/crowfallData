@@ -1,0 +1,30 @@
+{
+    "id": "escapeartist-free-action",
+    "name": "Free Action",
+    "description": "liberates group members and yourself gaining immunity to Crowd Control effects for 5 seconds.\\n\\nThis attack can be instantly Flash-Cast.",
+    "shortDescription": "Group Crowd Control Immunity; Cleanse",
+    "icon": "Graphic_Disc_FreeAction.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "45",
+        "max_targets": "5",
+        "range": "50",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "5 seconds",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

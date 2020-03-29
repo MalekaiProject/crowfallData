@@ -1,0 +1,20 @@
+{
+    "id": "martial-weaponry",
+    "name": "Martial Weaponry",
+    "class": "knight",
+    "description": "Martial Weaponry improves Weapon Damage by 3 per point spent.",
+    "icon": "Skill_Icon_001_015.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "shield-swipe",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "shield-bash"
+    ],
+    "locksSkill": []
+}

@@ -1,53 +1,76 @@
 {
-  "classes": [
-    "ranger",
-    "assassin",
-    "druid"
-  ],
-  "description": "A loose-knit collection of outcasts bound together by their mixed blood and their exclusion from pure-blood society.",
-  "name": "Half-Elf",
-  "tags": [],
-  "powers": [
-    "half-elf-bloodline",
-    "spin-step"
-  ],
-  "slots_granted": ["Cloak Slot"],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Dexterity",
-      "value": 60
-    },
-    {
-      "name": "Intellect",
-      "value": 30
-    },
-    {
-      "name": "Spirit",
-      "value": 30
-    },
-    {
-      "name": "Power Bar Bonus Slots",
-      "value": 1
-    },
-    {
-      "name": "Necromancy",
-      "value": 10
-    },
-    {
-      "name": "Necromancy Experimentation",
-      "value": 10
-    },
-    {
-      "name": "Woodworking",
-      "value": 10
-    },
-    {
-      "name": "Woodworking Experimentation",
-      "value": 5
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "half-elf",
+    "name": "Half-Elf",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_HalfElf.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 200
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 250
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 300
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 250
+        },
+        {
+            "name": "Dexterity",
+            "value": 60
+        },
+        {
+            "name": "Intellect",
+            "value": 30
+        },
+        {
+            "name": "Spirit",
+            "value": 30
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-harvest-mining",
+            "name": "Lay of The Land",
+            "description": "Passive: Increase Mining"
+        },
+        {
+            "id": "racial-passive-extra-minor-discipline",
+            "name": "Past Lives",
+            "description": "Passive: Unlock a Minor Discipline Slot"
+        },
+        {
+            "id": "racial-passive-trailblazer",
+            "name": "Trailblazer",
+            "description": "Passive: Increase Movement Speed while Out of Combat"
+        },
+        {
+            "id": "racial-passive-was-just-c-cd",
+            "name": "Wildkin's Retort",
+            "description": "Passive: Heal Over Time when any Knockdown, Stun, Root, or Snare is Applied"
+        },
+        {
+            "id": "halfelf-barrier",
+            "name": "Bandit's Armor",
+            "description": "Gain a Barrier, and Piercing Barrier Resistance"
+        },
+        {
+            "id": "ranger-spin-step",
+            "name": "Spin Step",
+            "description": "Roll in a WASD direction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "A loose-knit collection of outcasts bound together by their mixed blood and their exclusion from pure-blood society."
 }

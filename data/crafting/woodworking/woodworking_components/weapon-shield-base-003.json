@@ -1,0 +1,57 @@
+{
+    "name": "Shield Base: Large",
+    "id": "weapon-shield-base-003",
+    "icon": "shieldBase.png",
+    "description": "Creates a Shield Base: Large that is used to create a Tower Shield.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runestone: Esoteric",
+            "id": "runestone-esoteric",
+            "icon": "RunestoneEsoteric.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

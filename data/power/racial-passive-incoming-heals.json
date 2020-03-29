@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-incoming-heals",
+    "name": "Blood of the Mountain",
+    "description": "increases your Incoming Healing statistic by 15%.",
+    "shortDescription": "Passive: Increase Incoming Heals",
+    "icon": "Graphic_Disc_Racial_Stoneborn.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Incoming Healing",
+        "buff_amount_1": "15%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "transcendence",
+    "name": "Transcendence",
+    "class": "cleric",
+    "description": "Transcendence improves Ranged Distance Bonus by 2 per point spent.",
+    "icon": "Skill_Icon_044_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "searing-light",
+            "point": 1
+        },
+        {
+            "skill": "critical-illumination",
+            "point": 1
+        },
+        {
+            "skill": "divine-purpose",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "radical"
+    ],
+    "locksSkill": []
+}

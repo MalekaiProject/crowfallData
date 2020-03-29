@@ -1,0 +1,32 @@
+{
+    "id": "cleric-illuminate",
+    "name": "Illuminate",
+    "description": "empowers group members and you restoring some of their native Resource over five seconds.",
+    "icon": "Graphic_Cleric_Illuminate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "23",
+        "max_targets": "5",
+        "range": "50",
+        "cost": "185",
+        "cost_type": "Mana",
+        "lifetime": "2",
+        "duration": "5 seconds",
+        "buff_type_1": "Critical Strike",
+        "buff_amount_1": "15",
+        "min_damage_1": "63",
+        "max_damage_1": "77",
+        "weapon_damage_value": "280"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

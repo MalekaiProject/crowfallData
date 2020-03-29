@@ -1,0 +1,22 @@
+{
+    "id": "bard-twisting",
+    "name": "Song Twisting",
+    "description": "activates the Pure Voice buff greatly increasing the effects of the next song played when singing 4 different songs within 6 seconds.",
+    "shortDescription": "Passive: Twisting Songs Increases Song Potency",
+    "icon": "Graphic_Disc_BardTwisting.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "6 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

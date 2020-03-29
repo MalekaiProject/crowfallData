@@ -1,0 +1,21 @@
+{
+    "id": "matching-support-leather",
+    "name": "Matching Leather",
+    "description": "increases your Support Power by 100 when wearing a full set of non-basic Leather armor.",
+    "shortDescription": "Passive: Gain Support Power with a Full Set of Leather Equipped",
+    "icon": "Graphic_Disc_MatchingLeather.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Support Power",
+        "buff_amount_1": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

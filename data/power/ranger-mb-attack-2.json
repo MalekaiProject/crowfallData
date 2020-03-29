@@ -1,0 +1,29 @@
+{
+    "id": "ranger-mb-attack-2",
+    "name": "Wicked Slash",
+    "description": "slashes in front of you twice for 50 - 67 + 59% Weapon Damage.",
+    "icon": "Graphic_Rngr_BasicMelee2.png",
+    "stats": {
+        "weapon_damage_value": "59",
+        "max_damage_1": "67",
+        "min_damage_1": "50",
+        "range": "4",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "ranger-mb-attack-3"
+    ],
+    "lastChain": [
+        "ranger-mb-attack-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

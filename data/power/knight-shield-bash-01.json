@@ -1,0 +1,27 @@
+{
+    "id": "knight-shield-bash-01",
+    "name": "Shield Bash",
+    "description": "strikes with a shield attack that hits for 50 - 67 + 58% Crushing Weapon Damage, leaving your target Dazed and removing two Dodge. Shield Bash has a 100% Critical Strike for 94 - 128 if used again within five seconds.\\n\\nThis attack is enabled after performing three consecutive basic attacks or when you fill your Block Meter.\\n\\nThis attack can be instantly Flash-Cast.",
+    "icon": "Graphic_Kngt_ShieldBash02.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "range": "3",
+        "min_damage_1": "50",
+        "max_damage_1": "67",
+        "weapon_damage_value": "58",
+        "weapon_damage_type": "Crushing",
+        "min_damage_2": "94",
+        "max_damage_2": "128"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

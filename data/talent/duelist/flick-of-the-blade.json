@@ -1,0 +1,20 @@
+{
+    "id": "flick-of-the-blade",
+    "name": "Flick of the Blade",
+    "class": "duelist",
+    "description": "Flick of the Blade improves Critical Strike by 1% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "flintlock-shot",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "go-for-broke"
+    ],
+    "locksSkill": []
+}

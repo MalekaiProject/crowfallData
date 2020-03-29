@@ -1,0 +1,25 @@
+{
+    "id": "druid-natures-grace-2",
+    "name": "Nature's Grace",
+    "description": "graces you for 12 seconds, healing you for 2% of your maximum health each time you damage an enemy with a Basic Attack.",
+    "icon": "Graphic_Drud_NaturesGrace.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "68",
+        "cost": "22",
+        "cost_type": "Essence",
+        "duration": "12 seconds",
+        "buff_amount_1": "2%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "druid_nuking"
+    ]
+}

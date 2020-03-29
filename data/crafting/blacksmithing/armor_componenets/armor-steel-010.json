@@ -1,0 +1,39 @@
+{
+    "name": "Treated Steel",
+    "id": "armor-steel-010",
+    "icon": "metalSheet.png",
+    "description": "Creates Treated Steel that can be used in various Blacksmithing recipes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "armor_componenets",
+    "ingredients": [
+        {
+            "name": "Iron",
+            "id": "iron",
+            "icon": "ore.png",
+            "quantity": 8,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Iron",
+            "id": "iron",
+            "icon": "ore.png",
+            "quantity": 8,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carbon",
+            "id": "carbon",
+            "icon": "Carbon.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

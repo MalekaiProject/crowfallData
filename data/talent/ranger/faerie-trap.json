@@ -1,0 +1,22 @@
+{
+    "id": "faerie-trap",
+    "name": "Faerie Trap",
+    "class": "ranger",
+    "description": "This talent grants the Faerie Trap power.",
+    "icon": "Skill_Icon_033_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-trap-faerie-melee"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "boundless-energy",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "sleight-of-hand"
+    ],
+    "locksSkill": []
+}

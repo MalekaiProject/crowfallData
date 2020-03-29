@@ -1,0 +1,24 @@
+{
+    "id": "frst-chill-out",
+    "name": "Chill Out",
+    "description": "refreshes group members and you instantly restoring a small amount of their native Resource instantly. Any of your ice within a 5m radius is converted to Cool Ice.\\n\\nCool Ice benefits allies within 10m over time restoring their native resource and healing them for 14 - 17 + 62% Support Power. This effect stacks.",
+    "icon": "Graphic_Frst_ChillOut.png",
+    "stats": {
+        "weapon_damage_value": "62",
+        "max_damage_1": "17",
+        "min_damage_1": "14",
+        "cooldown": "12",
+        "target": "Group",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

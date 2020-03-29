@@ -1,0 +1,29 @@
+{
+    "id": "templar-devotion",
+    "name": "Devotion",
+    "description": "is a benediction, healing you and group members based on the damage you inflict once per second (max 200). \\n\\nYou reveal Sin within enemies attacked for 15 seconds.",
+    "icon": "Graphic_Tmpr_Devotion.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "23",
+        "max_targets": "5",
+        "cost": "1",
+        "cost_type": "Righteousness",
+        "duration": "15",
+        "min_damage_1": "107",
+        "max_damage_1": "160",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "melee",
+        "harvest"
+    ]
+}

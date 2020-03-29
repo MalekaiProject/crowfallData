@@ -1,0 +1,66 @@
+{
+    "name": "Leather Gloves",
+    "id": "armor-leather-gloves-010",
+    "icon": "gloves.png",
+    "description": "Creates Advanced Armor Leather Gloves, usable by those who are proficient with Leather Armor.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "leatherworking",
+    "subCategory": "leatherworking_armor",
+    "ingredients": [
+        {
+            "name": "Leather Square",
+            "id": "leather-square",
+            "icon": "leatherSquare.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Leather Square",
+            "id": "leather-square",
+            "icon": "leatherSquare.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Rivets",
+            "id": "metal-rivets",
+            "icon": "steelRivets.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 6,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Treated Leather",
+            "id": "treated-leather",
+            "icon": "additive.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Specialty Seal",
+            "id": "specialty-seal",
+            "icon": "additive.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

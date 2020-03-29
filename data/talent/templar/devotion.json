@@ -1,0 +1,24 @@
+{
+    "id": "devotion",
+    "name": "Devotion",
+    "class": "templar",
+    "description": "This talent grants the Devotion power.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        "templar-devotion"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "infallible-dictum",
+        "divine-favor",
+        "ecstasy"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Metal Rings",
+    "id": "metal-rings",
+    "icon": "metalRings.png",
+    "description": "Creates Metal Rings that are used in various Blacksmithing recipes, the Metal Rings produced depends on the type of ore used to create it.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "armor_componenets",
+    "ingredients": [
+        {
+            "name": "Iron",
+            "id": "iron",
+            "icon": "ore.png",
+            "quantity": 20,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 20,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 20,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Coal",
+            "id": "coal",
+            "icon": "coal.png",
+            "quantity": 6,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

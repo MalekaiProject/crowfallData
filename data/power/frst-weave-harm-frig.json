@@ -1,0 +1,29 @@
+{
+    "id": "frst-weave-harm-frig",
+    "name": "Frigid Ice Weave",
+    "description": "uses Weaving to create Frigid Ice. Adds the Weaving: Frigid Ice effect allowing you to use Ice Weave to continue creating Frigid Ice.",
+    "icon": "Graphic_FrostWeaver_FrigidIceWeave_01.png",
+    "stats": {
+        "weapon_damage_3_value": "251",
+        "max_damage_3": "301",
+        "min_damage_3": "201",
+        "weapon_damage_2_value": "70",
+        "max_damage_2": "86",
+        "min_damage_2": "57",
+        "cost_type": "Weaving",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "frst-weave-harm"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

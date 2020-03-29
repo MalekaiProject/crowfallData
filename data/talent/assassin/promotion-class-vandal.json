@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-vandal",
+    "name": "Promotion Class - Vandal",
+    "class": "assassin",
+    "description": "Role: Melee Control\\n\\nA master of shadows who believes the key to winning is controlling targets so they never have a chance.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vandal promotion class and prevents access to the Blackguard and Cutthroat promotion classes.",
+    "icon": "Skill_Icon_001_036.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "enter-the-shadows",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "toxicology"
+    ],
+    "locksSkill": [
+        "promotion-class-cutthroat",
+        "promotion-class-blackguard"
+    ]
+}

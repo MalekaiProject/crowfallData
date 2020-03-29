@@ -1,0 +1,27 @@
+{
+    "id": "assassin-infect",
+    "name": "Diffusion",
+    "description": "executes a versatile attack dealing damage to your target. Any victim already afflicted with a Toxin suffers additional negative effects. Effects vary by your equipped Toxin and increase in severity with the amount of Pips spent.\\n\\nExposed targets are knocked down if struck while attacking.\\n\\nIncreases your chance to apply Toxins by 20% for 5 seconds scaling up by 2 seconds per Pip spent.\\n\\nSpecific Toxin Effects:\\nPoison Toxin: Cause additional damage and applies a movement reduction to enemies afflicted with a Poison Toxin.\\n\\nDisease Toxin: Prevent healing with Blackmantle against enemies afflicted with a Disease Toxin.\\n\\nNature Toxin: Additional nearby enemies can have a Severe Corruption applied to them when used against a target afflicted with a Nature Toxin.",
+    "icon": "Graphic_Assn_Infect.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "1",
+        "cost_type": "Pips",
+        "min_damage_1": "112",
+        "max_damage_1": "168",
+        "weapon_damage_value": "140"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

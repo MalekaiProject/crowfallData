@@ -1,22 +1,21 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Risk Management",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "risk-management",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Additional Risk Difficulty Reduction"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Additional Risk Difficulty Reduction by 10."
+    "name": "Risk Management",
+    "description": "increases your Additional Risk Difficulty Reduction by 5.",
+    "shortDescription": "Passive: Reduces Experiment Additional Risk",
+    "icon": "Graphic_Disc_RiskManagement.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Additional Risk Difficulty Reduction",
+        "buff_amount_1": "5"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

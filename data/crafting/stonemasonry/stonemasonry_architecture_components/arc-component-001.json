@@ -1,0 +1,39 @@
+{
+    "name": "Architectural Arches",
+    "id": "arc-component-001",
+    "icon": "masonryArch.png",
+    "description": "Creates Architectural Arches used in Architectural crafting.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_architecture_components",
+    "ingredients": [
+        {
+            "name": "Bricks",
+            "id": "bricks",
+            "icon": "setOfBricks.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Frame",
+            "id": "frame",
+            "icon": "architecturalFrame.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "carpentryNails.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

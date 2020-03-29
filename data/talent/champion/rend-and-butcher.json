@@ -1,0 +1,20 @@
+{
+    "id": "rend-and-butcher",
+    "name": "Rend and Butcher",
+    "class": "champion",
+    "description": "Rend and Butcher enhances Rend to reduce an enemy's Anti-Critical Strike by 7%.",
+    "icon": "Skill_Icon_041_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "dominant-smashing",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "barbarity"
+    ],
+    "locksSkill": []
+}

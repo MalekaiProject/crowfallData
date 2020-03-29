@@ -1,0 +1,26 @@
+{
+    "id": "agentprovocateur-stinkbomb",
+    "name": "Stink Bomb",
+    "description": "torments enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth.",
+    "shortDescription": "Stealth: Target Area Stun; Moderate Corruption",
+    "icon": "Graphic_Disc_StinkBomb.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "30",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "13",
+        "cost_type": "Resource"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

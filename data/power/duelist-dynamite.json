@@ -1,0 +1,25 @@
+{
+    "id": "duelist-dynamite",
+    "name": "Dynamite",
+    "description": "explodes for 320 - 480 + 400% Weapon Damage while generating two Dodge pips and allowing you to dodge 14m away.\\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "icon": "Graphic_Duel_Dynamite.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cost": "500",
+        "cost_type": "Soul Power",
+        "min_damage_1": "320",
+        "max_damage_1": "480",
+        "weapon_damage_value": "400"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

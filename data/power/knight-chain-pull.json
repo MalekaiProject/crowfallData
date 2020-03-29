@@ -1,0 +1,29 @@
+{
+    "id": "knight-chain-pull",
+    "name": "Chain Attack",
+    "description": "throws a chain to pull an enemy toward you causing 130 - 176 + 153% Weapon Damage.",
+    "icon": "Graphic_Kngt_ChainAttack.png",
+    "stats": {
+        "weapon_damage_type": "Piercing",
+        "weapon_damage_value": "153",
+        "max_damage_1": "176",
+        "min_damage_1": "130",
+        "cost_type": "Energy",
+        "cost": "281",
+        "range": "30",
+        "max_targets": "1",
+        "cooldown": "24",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

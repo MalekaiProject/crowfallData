@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-conqueror",
+    "name": "Promotion Class - Conqueror",
+    "class": "myrmidon",
+    "description": "Role: Melee Control\\n\\nUsually known for recklessness, this thoughtful warrior knows the key to winning a fight is to hamper and control your opponents.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Conqueror promotion class and prevents access to the Battle Rager and Titan promotion classes.",
+    "icon": "Skill_Icon_024_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "neck-slash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "horrific-trauma"
+    ],
+    "locksSkill": [
+        "promotion-class-titan",
+        "promotion-class-battle-rager"
+    ]
+}

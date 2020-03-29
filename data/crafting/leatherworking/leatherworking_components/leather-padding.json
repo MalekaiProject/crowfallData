@@ -1,0 +1,48 @@
+{
+    "name": "Leather Padding",
+    "id": "leather-padding",
+    "icon": "reinforcedPadding.png",
+    "description": "Creates Leather Padding that is used in various Leatherworking recipes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "leatherworking",
+    "subCategory": "leatherworking_components",
+    "ingredients": [
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Lacing Sinew",
+            "id": "lacing-sinew",
+            "icon": "sinew.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

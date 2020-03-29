@@ -1,0 +1,27 @@
+{
+    "id": "fae-faerie-fire",
+    "name": "Faerie Fire",
+    "description": "lines an enemy in Faerie Fire decreasing their Anti-Critical Strike by 8% for 30 seconds. The target cannot stealth while affected.",
+    "shortDescription": "Target Debuff Anti-Critical Strike",
+    "icon": "Graphic_Disc_FaerieFire.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "cooldown": "45",
+        "max_targets": "1",
+        "range": "20",
+        "duration": "30 seconds",
+        "buff_type_1": "Critically Hit",
+        "buff_amount_1": "8%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

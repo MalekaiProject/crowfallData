@@ -1,0 +1,57 @@
+{
+    "name": "Quality Assurance Control Kit",
+    "id": "component-quality-kit-001",
+    "icon": "staffHeel.png",
+    "description": "Creates a Quality Assurance Control Kit used in Architectural crafting.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_components",
+    "ingredients": [
+        {
+            "name": "Non-Basic Ore",
+            "id": "non-basic-ore",
+            "icon": "ore.png",
+            "quantity": 25,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "wood.png",
+            "quantity": 25,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "stone.png",
+            "quantity": 25,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 25,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 15,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

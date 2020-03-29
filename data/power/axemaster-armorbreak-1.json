@@ -1,0 +1,30 @@
+{
+    "id": "axemaster-armorbreak-1",
+    "name": "Demolish Armor",
+    "description": "demolishes an enemy's Physical Mitigations causing 120 - 163 + 142% Weapon Damage.",
+    "shortDescription": "Attack: Inflict stacking Armor Break",
+    "icon": "Graphic_Disc_DemolishArmor.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "23",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "17",
+        "cost_type": "Resource",
+        "buff_type_1": "Physical Armor Penetration",
+        "min_damage_1": "120",
+        "max_damage_1": "163",
+        "weapon_damage_value": "142"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

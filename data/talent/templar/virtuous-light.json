@@ -1,0 +1,24 @@
+{
+    "id": "virtuous-light",
+    "name": "Virtuous Light",
+    "class": "templar",
+    "description": "Virtuous Light enhances Divine Light to heal without draining additional Righteousness pips from you each tick.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "divine-protection",
+            "point": 2
+        },
+        {
+            "skill": "moral-prerogative",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "saintly-protection"
+    ],
+    "locksSkill": []
+}

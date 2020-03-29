@@ -1,0 +1,28 @@
+{
+    "id": "templar-exploration-ii",
+    "name": "Exploration Discipline Slot",
+    "class": "templar",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "righteous-indignation",
+            "point": 2
+        },
+        {
+            "skill": "shining-armor",
+            "point": 2
+        },
+        {
+            "skill": "intercession",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "resurrection"
+    ],
+    "locksSkill": []
+}

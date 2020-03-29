@@ -1,0 +1,22 @@
+{
+    "id": "sure-aim",
+    "name": "Sure Aim",
+    "class": "ranger",
+    "description": "Sure Aim improves Critical Strike by 1% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-savvy",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "on-target",
+        "ranger-minor-ii",
+        "flare"
+    ],
+    "locksSkill": []
+}

@@ -1,36 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Mischievious, energetic, and jovial in nature, Pixies are known to be an asset to their allies and a pesky nuisance to their enemies.  A bit of the essence of Cybele lives in each Pixie as they offer an ally a quick fix, use their magic dust to assist in healing, and can use their conjury to also alter the size and intimidation of a foe with true ease.",
-  "name": "Pixie",
-  "powers": [
-    "pixie-dust",
-    "wee-one",
-    "pix-fix",
-    "soothing-winds"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Healing Modifier",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "pixie",
+    "name": "Pixie",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Pixie.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "value": 3
+        },
+        {
+            "name": "Healing Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "pixie-wee-one",
+            "name": "Wee One",
+            "description": "Attack: Ground Target Area Reduce Enemy Damage"
+        },
+        {
+            "id": "pixie-pixie-dust",
+            "name": "Pixie Dust",
+            "description": "Ground Target Area Increase Incoming Heals"
+        },
+        {
+            "id": "mysticalmaster-chain-ho-t",
+            "name": "Soothing Winds",
+            "description": "Target Heal Allies over Time"
+        },
+        {
+            "id": "pixie-pix-fix",
+            "name": "Pix Fix",
+            "description": "Passive: Increase Chain Heal Jumps; Falloff Reduction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Mischievious, energetic, and jovial in nature, Pixies are known to be an asset to their allies and a pesky nuisance to their enemies. A bit of the essence of Cybele emerges in each Pixie as they offer an ally a quick fix, use their magic dust to assist in healing, and use their conjury to alter the size of a foe with ease.",
+    "lore": "Ever see a monster the size of a house turned into something no bigger than a mouse?"
 }

@@ -1,0 +1,26 @@
+{
+    "id": "cleric-block",
+    "name": "Shield Block",
+    "description": "reduces damage and prevents crowd control effects.\\n\\nThis attack can be instantly Flash-Cast.",
+    "icon": "Graphic_Cleric_Block.png",
+    "stats": {
+        "cast_time": "Hold Channeled",
+        "target": "Self",
+        "cost": "6",
+        "cost_type": "Stamina",
+        "cost_type_time": "cost_type_time_per_second",
+        "min_damage_1": "150",
+        "max_damage_1": "15",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

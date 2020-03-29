@@ -1,0 +1,28 @@
+{
+    "id": "ruthlessness",
+    "name": "Ruthlessness",
+    "class": "assassin",
+    "description": "Ruthlessness improves Hard Crowd Control by 6% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "flow-state",
+            "point": 1
+        },
+        {
+            "skill": "blackout",
+            "point": 1
+        },
+        {
+            "skill": "cheap-shot",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "vandal"
+    ],
+    "locksSkill": []
+}

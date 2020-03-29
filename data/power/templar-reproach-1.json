@@ -1,0 +1,29 @@
+{
+    "id": "templar-reproach-1",
+    "name": "Reproach",
+    "description": "slashes multiple enemies, dealing 54 - 81 + 67% Weapon Damage.",
+    "icon": "Graphic_Tmpr_Reproach.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "1",
+        "cost_type": "Righteousness",
+        "min_damage_1": "54",
+        "max_damage_1": "81",
+        "weapon_damage_value": "67"
+    },
+    "nextChain": [
+        "templar-reproach-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

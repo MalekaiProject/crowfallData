@@ -1,0 +1,20 @@
+{
+    "id": "inquisitor",
+    "name": "Inquisitor",
+    "class": "confessor",
+    "description": "This talent grants the Cleansing Fire passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nFire Damage Bonus Cap\\nArmor Penetration: Fire\\n\\nTraits Granted:\\nBook Mastery",
+    "icon": "Skill_Icon_033_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "confessor-talent-cleansing-fire"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "redeem",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

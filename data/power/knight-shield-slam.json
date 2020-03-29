@@ -1,0 +1,29 @@
+{
+    "id": "knight-shield-slam",
+    "name": "Shield Slam",
+    "description": "charges you forward 7m and slams up to three enemies in front of you for 82 - 111 + 97% Crushing Weapon Damage.\\n\\nIf charged more than 66%, this attack has a 100% Critical Strike modifier and pushes your targets back.",
+    "icon": "Graphic_Kngt_ShieldSlam.png",
+    "stats": {
+        "cast_time": "Charged",
+        "target": "Cone",
+        "cooldown": "24",
+        "max_targets": "3",
+        "range": "7",
+        "cost": "344",
+        "cost_type": "Energy",
+        "min_damage_1": "82",
+        "max_damage_1": "111",
+        "weapon_damage_value": "97",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

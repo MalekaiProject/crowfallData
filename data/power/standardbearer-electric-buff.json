@@ -1,0 +1,30 @@
+{
+    "id": "standardbearer-electric-buff",
+    "name": "Banner Of Storms",
+    "description": "deploys a banner overriding the damage of all nearby group members to Electricity and increasing their Electricity Resistance by 25.",
+    "shortDescription": "Group Electricity Damage Override; Electricity Resistance",
+    "icon": "Graphic_Disc_BannerOfStorms.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "45",
+        "max_targets": "5",
+        "range": "15",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "30 seconds",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

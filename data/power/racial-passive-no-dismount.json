@@ -1,0 +1,19 @@
+{
+    "id": "racial-passive-no-dismount",
+    "name": "Sure Footed",
+    "description": "prevents damage from removing you from a mounted state.",
+    "shortDescription": "Passive: Prevents the Player from Being Dismounted via Damage",
+    "icon": "Graphic_Disc_Racial_Centaur.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

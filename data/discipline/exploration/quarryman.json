@@ -1,37 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "name": "Quarryman",
-  "description": "Boring into the earth and uncovering the minerals deep below the surface requires a steady hammer and basic understanding of geology. Knowing which minerals to keep and which to discard may seem tedious but can make the biggest difference in using stone and minerals to create rare commodities.",
-  "powers": [
-    "empowered-quarrying"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [{
-    "name": "Plentiful Resources Stone: All",
-    "value": 1.25
-  },
-  {
-    "name": "Harvest Power Pips Bonus",
-    "value": 0.63
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "quarryman",
+    "name": "Quarryman",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Quarryman.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Stone: All",
+            "value": 1
+        },
+        {
+            "name": "Harvest Power Pips Bonus",
+            "value": 0.5
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "quarryman-empowered-quarrying",
+            "name": "Empowered Quarrying",
+            "description": "Passive: Adds Quarrying specific Buffs to all Energetic Harvesting Buffs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Boring into the earth and uncovering the minerals deep below the surface requires a steady hammer and basic understanding of geology. Knowing which minerals to keep and which to discard may seem tedious but can make the biggest difference in using stone and minerals to create rare commodities.",
+    "lore": "The foundation can be broken, and from it comes a plethora of minerals."
 }

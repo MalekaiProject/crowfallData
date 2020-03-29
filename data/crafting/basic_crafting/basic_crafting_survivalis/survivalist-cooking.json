@@ -1,0 +1,21 @@
+{
+    "name": "Survivalist Cooking",
+    "id": "survivalist-cooking",
+    "icon": "pineNuts.png",
+    "description": "Turn scavenged food ingredients into edible delicacies! Produces 2.\\n\\nPine Nuts yield Roasted Pine Nuts,\\nGrubs yield Roasted Grubs\\nZombie Guts yield Zombie Surprise,\\nBloodworms yield Roasted Bloodworms.",
+    "outputQuantity": 2,
+    "xp": 1.88,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_survivalis",
+    "ingredients": [
+        {
+            "name": "Scavenged Ingredient",
+            "id": "scavenged-ingredient",
+            "icon": "pineNuts.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

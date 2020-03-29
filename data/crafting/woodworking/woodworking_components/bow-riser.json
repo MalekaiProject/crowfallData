@@ -1,0 +1,66 @@
+{
+    "name": "Bow Riser",
+    "id": "bow-riser",
+    "icon": "bowRiser.png",
+    "description": "Creates a Bow Riser that is used to create a Bow.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "weaponGrip.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "weaponGrip.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Bow Sight",
+            "id": "bow-sight",
+            "icon": "bowSight.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Bow Rest",
+            "id": "bow-rest",
+            "icon": "bowRest.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "ore.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "ore.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

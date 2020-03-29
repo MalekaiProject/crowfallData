@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-weapon-damage",
+    "name": "Superior Weapons",
+    "description": "increases your Weapon Damage statistic by 8.",
+    "shortDescription": "Passive: Increase Weapon Damage",
+    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Weapon Damage",
+        "buff_amount_1": "8"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

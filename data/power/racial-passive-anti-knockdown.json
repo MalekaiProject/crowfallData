@@ -1,0 +1,23 @@
+{
+    "id": "racial-passive-anti-knockdown",
+    "name": "I Get Knocked Down",
+    "description": "reduces the length of Knockdowns you suffer by two seconds and increases Damage Bonus and Healing Bonus statistics by 5% for 12 seconds after suffering a Knockdown.",
+    "shortDescription": "Passive: Knockdown Reduction; Increase Damage and Healing after being Knocked Down",
+    "icon": "Graphic_Disc_Racial_Stoneborn.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "12 seconds",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "5%",
+        "buff_type_2": "Healing Bonus"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

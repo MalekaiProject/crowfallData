@@ -1,0 +1,20 @@
+{
+    "id": "healing-hand",
+    "name": "Healing Hand",
+    "class": "cleric",
+    "description": "Healing Hand enhances Hand Of The Gods to also heal friendly targets within its deploy radius.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "divine-intervention",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "invocation-of-renewal"
+    ],
+    "locksSkill": []
+}

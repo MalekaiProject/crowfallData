@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-swordsman",
+    "name": "Promotion Class - Swordsman",
+    "class": "knight",
+    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this master of blades has perfected the art of swordplay.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Swordsman promotion class and prevents access to the Secutor and Sentinel promotion classes.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "onslaught",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "commanding-vow"
+    ],
+    "locksSkill": [
+        "promotion-class-secutor",
+        "promotion-class-sentinel"
+    ]
+}

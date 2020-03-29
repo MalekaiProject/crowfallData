@@ -1,31 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "As a host of the most noxious of contaminants your popularity may ebb and flow as you infect your enemies. The odors and muck you may leave behind will help remind those of your legacy as a plague bearer and a master of the rank andf oul making you one highly feared adversary.",
-  "name": "Plague Lord",
-  "powers": [
-    "shrivel",
-    "decay",
-    "festering-wounds",
-    "touch-of-rot"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "plague-lord",
+    "name": "Plague Lord",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_PlagueLord.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "value": 100
+        },
+        {
+            "name": "Organic Resistance",
+            "value": 5
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "plaguelord-decay",
+            "name": "Decay",
+            "description": "Attack: Reduce Healing taken; Disease; Expose Punish"
+        },
+        {
+            "id": "plaguelord-festering-wounds",
+            "name": "Festering Wounds",
+            "description": "Attack: Reduce Healing; Disease; Expose on Healing"
+        },
+        {
+            "id": "plaguelord-shrivel",
+            "name": "Shrivel",
+            "description": "Attack: Blackmantle; Disease; Expose Punish"
+        },
+        {
+            "id": "plaguelord-support-debuff-basic",
+            "name": "Touch Of Rot",
+            "description": "Passive: Reduce Support Power on last Basic"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "As a host of the most noxious of contaminants, your popularity may ebb and flow as you infect your enemies. The odors and muck you may leave behind will help remind those of your legacy as a plague bearer and a master of the rank and foul, making you one highly feared adversary.",
+    "lore": "The pandemic: a silent killer that has no prejudice and does not discriminate."
 }

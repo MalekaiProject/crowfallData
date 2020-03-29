@@ -1,0 +1,20 @@
+{
+    "id": "partial-indulgence",
+    "name": "Partial Indulgence",
+    "class": "confessor",
+    "description": "Partial Indulgence increases the amount of Mana gained from the Fervor power by 50%.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "blessed",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "divine-armor"
+    ],
+    "locksSkill": []
+}

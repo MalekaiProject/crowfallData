@@ -1,0 +1,30 @@
+{
+    "id": "champion-disarming-shout",
+    "name": "Disarming Shout",
+    "description": "suppresses an enemy, disabling their powers for 6 seconds. Disarming Shout deals 154 - 208 + 181% Weapon Damage.",
+    "icon": "Graphic_Chmp_DisarmingShout.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "30",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "14",
+        "cost_type": "Rage",
+        "min_damage_1": "154",
+        "max_damage_1": "208",
+        "weapon_damage_value": "181"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "champion-vicious-stomp"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

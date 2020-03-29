@@ -1,0 +1,31 @@
+{
+    "id": "myrmidon-b-attack-3",
+    "name": "Cross Gashes",
+    "description": "attacks with both weapons simultaneously for 139 - 170 damage, causing your target to Bleed for 18 - 24 + 155% Weapon Damage.",
+    "icon": "Graphic_Myrm_Basic3.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "22",
+        "cost_type": "Fury",
+        "min_damage_1": "139",
+        "max_damage_1": "170",
+        "weapon_damage_value": "155",
+        "min_damage_2": "18",
+        "max_damage_2": "24"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "myrmidon-b-attack-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

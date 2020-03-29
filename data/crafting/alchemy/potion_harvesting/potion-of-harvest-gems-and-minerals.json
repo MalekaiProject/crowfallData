@@ -1,0 +1,39 @@
+{
+    "name": "Potion of Harvest: Gems and Minerals",
+    "id": "potion-of-harvest-gems-and-minerals",
+    "icon": "potion.png",
+    "description": "Creates a Potion of Harvest: Gems and Minerals, this can be used to increase Gem and Mineral Harvest chance on Mother Lodes for 30 minutes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "alchemy",
+    "subCategory": "potion_harvesting",
+    "ingredients": [
+        {
+            "name": "Empty Flask",
+            "id": "empty-flask",
+            "icon": "emptyFlask.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Powdered Animal Bone",
+            "id": "powdered-animal-bone",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

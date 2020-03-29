@@ -1,36 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "ranger",
-    "templar"
-  ],
-  "description": "An Illusionist alters the perception of those within their proximity which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements an Illusionist maintains a dapper appearance while also being a worth adversary in combat.",
-  "name": "Illusionist",
-  "powers": [
-    "invisibility",
-    "glamour-weapon",
-    "phantom-feints",
-    "hot-foot"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Critical Strike",
-    "value": 5
-  },
-  {
-    "name": "Stealth",
-    "value": 5
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "illusionist",
+    "name": "Illusionist",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Illusionist.png",
+    "stats": [
+        {
+            "name": "Stealth",
+            "value": 5
+        },
+        {
+            "name": "Critical Strike",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "illusionist-glamour-weapon",
+            "name": "Glamour Weapon",
+            "description": "Increase Attack Power"
+        },
+        {
+            "id": "illusionist-invisibility",
+            "name": "Invisibility",
+            "description": "Toggle: Invisible while motionless; Non-Stealth Users Only"
+        },
+        {
+            "id": "rapiermaster-hamstring",
+            "name": "Hot Foot",
+            "description": "Passive: Slow on last Basic"
+        },
+        {
+            "id": "weakest-link",
+            "name": "Phantom Feints",
+            "description": "Passive: Increase Damage vs Slowed enemies"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "An Illusionist alters the perception of those within their proximity, which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements, an Illusionist maintains a dapper appearance while also being a worthy adversary in combat.",
+    "lore": "The difference between reality and an illusion lies with the observer."
 }

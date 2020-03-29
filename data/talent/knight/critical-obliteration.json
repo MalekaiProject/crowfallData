@@ -1,0 +1,20 @@
+{
+    "id": "critical-obliteration",
+    "name": "Critical Obliteration",
+    "class": "knight",
+    "description": "Critical Obliteration enhances Obliterate to cause Bleed effects to have a 100% Critical Strike.",
+    "icon": "Skill_Icon_018_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "mercy",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "combat-tactics"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-critical-healing-amount",
+    "name": "Gaea's Tears",
+    "description": "increases your Critical Healing Amount statistic by 10%.",
+    "shortDescription": "Passive: Increase Critical Healing Amount",
+    "icon": "Graphic_Disc_Racial_Elken.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Critical Healing Amount",
+        "buff_amount_1": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

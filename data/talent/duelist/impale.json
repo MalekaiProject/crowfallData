@@ -1,0 +1,22 @@
+{
+    "id": "impale",
+    "name": "Impale",
+    "class": "duelist",
+    "description": "This talent grants the Impale power.",
+    "icon": "Skill_Icon_018_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-impale"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "critical-insight",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "artful-advance"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "druid-natures-avatar",
+    "name": "Nature's Avatar",
+    "description": "empowers a targeted ally adding 30% Critical Strike, 50% Critical Damage, 24% Damage Bonus and 350 Attack Power.",
+    "icon": "Graphic_Drud_NaturesAvatar.png",
+    "stats": {
+        "cast_time": "Hold Channeled",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "50",
+        "cost": "35",
+        "cost_type": "Essence",
+        "cost_type_time": "cost_type_time_per_second"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_healing"
+    ]
+}

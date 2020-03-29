@@ -1,42 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Hide and go seek? More like seek, skin, and then hide!",
-  "name": "Leatherworker",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Leatherworking"
-  ],
-  "stats": [{
-    "name": "Leatherworking",
-    "value": 10
-  },
-  {
-    "name": "Leatherworking Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Leatherworking Experimentation Points",
-    "value": 2
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "leatherworker",
+    "name": "Leatherworker",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Leatherworking.png",
+    "stats": [
+        {
+            "name": "Leatherworking",
+            "value": 5
+        },
+        {
+            "name": "Leatherworking Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Leatherworking Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Leatherworker"
+    ],
+    "description": "Recipes Granted:\\nAdvanced Leather Armor\\nAdvanced Leather Armor Components\\n\\nReduced Recipe Resource Costs:\\nStitched Leather",
+    "lore": "Hide and go seek? More like seek, skin, and then hide!"
 }

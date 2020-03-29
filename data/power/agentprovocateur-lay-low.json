@@ -1,0 +1,25 @@
+{
+    "id": "agentprovocateur-lay-low",
+    "name": "Lay Low",
+    "description": "tends to your wounds, and recover 30% maximum Health over 15 as long as Stealth is maintained.",
+    "shortDescription": "Stealth: Heal Over Time",
+    "icon": "Graphic_Disc_LayLow.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "30",
+        "cost": "0",
+        "cost_type": "Resource",
+        "duration": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

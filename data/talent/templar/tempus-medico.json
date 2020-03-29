@@ -1,0 +1,20 @@
+{
+    "id": "tempus-medico",
+    "name": "Tempus Medico",
+    "class": "templar",
+    "description": "Tempus Medico improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent.",
+    "icon": "Skill_Icon_043_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ecstasy",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "intercession"
+    ],
+    "locksSkill": []
+}

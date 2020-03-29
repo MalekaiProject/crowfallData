@@ -1,45 +1,56 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "knight",
-    "myrmidon",
-    "ranger"
-  ],
-  "description": "The arcane Archer is one of the most deadly of mystical manipulators. Harnessing the power of the elements allows the archer to root their enemies while also creating protective barriers and enhancing their quickness with an unrivaled adroitness.",
-  "name": "Arcane Archer",
-  "powers": [
-    "arcane-barrier",
-    "multi-shot",
-    "way-of-the-trails",
-    "binding-arrows"
-  ],
-  "slots_granted": ["Ranged", "Ammo"],
-  "slots_removed": [],
-  "type": "major",
-  "tags": ["Far Sight", "Ranged Distance Bonus"],
-  "stats": [{
-      "name": "Elemental Armor Bonus",
-      "value": 3.75
-    },
-    {
-      "name": "Ranged Distance Bonus",
-      "value": 5
-    },
-    {
-      "name": "Far Sight",
-      "value": 6.25
-    }
-  ],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-    "Basic Bows",
-    "Spellbound Bows",
-    "Arrows",
-    "Elemental Arrows"
-  ],
-  "trays": [
-    "Ranged"
-  ]
+    "id": "arcane-archer",
+    "name": "Arcane Archer",
+    "type": "major",
+    "trait": "Archery Practice",
+    "icon": "Major_ArcaneArcher.png",
+    "stats": [
+        {
+            "name": "Ice Damage Bonus",
+            "value": 3
+        },
+        {
+            "name": "Fire Damage Bonus",
+            "value": 3
+        },
+        {
+            "name": "Ranged Distance Bonus",
+            "value": 5
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "arcanearcher-aoe-root",
+            "name": "Binding Arrows",
+            "description": "Attack: Ground Target Area Root"
+        },
+        {
+            "id": "bowmaster-multishot",
+            "name": "Multi-Shot",
+            "description": "Attack: Cone damage three enemies"
+        },
+        {
+            "id": "arcanearcher-barrier",
+            "name": "Arcane Barrier",
+            "description": "Gain a Barrier, and Elemental Barrier Resistance"
+        },
+        {
+            "id": "arcanearcher-ooc-movement",
+            "name": "Way Of The Trails",
+            "description": "Passive: Increase Out of Combat Movement"
+        }
+    ],
+    "grantsSlot": [
+        "Ranged",
+        "Ammo"
+    ],
+    "grantsEquip": [
+        "Basic Bow Proficiency",
+        "Spellbound Longbow Proficiency",
+        "Arrows",
+        "Elemental Arrows",
+        "Quiver Proficiency"
+    ],
+    "description": "The Arcane Archer is one of the most deadly of mystical manipulators. Harnessing the power of the elements allows the archer to root their enemies while also creating protective barriers and enhancing their quickness with an unrivaled adroitness.",
+    "lore": "With my bow and arrows I rain down the elements upon my enemy, slowing them and prolonging their agony as I swiftly maneuver to my next target."
 }

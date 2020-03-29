@@ -1,0 +1,28 @@
+{
+    "id": "loved-by-the-sun",
+    "name": "Loved by the Sun",
+    "class": "druid",
+    "description": "Loved by the Sun improves Healing Bonus by 1% per point spent.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "dream-away",
+            "point": 2
+        },
+        {
+            "skill": "druid-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "leeching-seed",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-exploration-ii"
+    ],
+    "locksSkill": []
+}

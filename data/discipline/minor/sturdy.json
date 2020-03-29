@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The only thing said to unsettle a Stoneborn, is the sight of an immortal summoning a Runestone Hammer...",
-  "name": "Sturdy",
-  "powers": [
-    "sturdy"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "sturdy",
+    "name": "Sturdy",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_Sturdy.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "hitpoint-loss-high-health-buff",
+            "name": "Sturdy",
+            "description": "Passive: Reduce Health Loss at High Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "The only thing said to unsettle a Stoneborn is the sight of an immortal summoning a Runestone Hammer..."
 }

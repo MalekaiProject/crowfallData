@@ -1,0 +1,24 @@
+{
+    "id": "wrathful-illumination",
+    "name": "Wrathful Illumination",
+    "class": "cleric",
+    "description": "Wrathful Illumination enhances Illuminate causing your next Blessed Hammer attack within 5 seconds to stun an enemy.",
+    "icon": "Skill_Icon_045_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "spiritual-restraint",
+            "point": 2
+        },
+        {
+            "skill": "seismic-symbol",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "celestial-authority"
+    ],
+    "locksSkill": []
+}

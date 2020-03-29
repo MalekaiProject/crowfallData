@@ -1,0 +1,39 @@
+{
+    "name": "Leather Sheet",
+    "id": "leather-band-001",
+    "icon": "leatherBand.png",
+    "description": "Creates a Leather Sheet that is used in various Leatherworking recipes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "leatherworking",
+    "subCategory": "leatherworking_components",
+    "ingredients": [
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

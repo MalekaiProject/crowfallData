@@ -1,0 +1,20 @@
+{
+    "id": "basic-attack-damage",
+    "name": "Sparring",
+    "description": "increases your basic attack damage 10.",
+    "shortDescription": "Passive: Increase Basic Attack Damage",
+    "icon": "Graphic_Disc_Sparring.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_amount_1": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

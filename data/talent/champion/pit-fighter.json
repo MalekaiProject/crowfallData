@@ -1,0 +1,20 @@
+{
+    "id": "pit-fighter",
+    "name": "Pit Fighter",
+    "class": "champion",
+    "description": "This talent grants the Pit Fighter passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGreat Axe Mastery\\nGreat Mace Mastery",
+    "icon": "Skill_Icon_019_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "champion-passive-pit-fighter"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "almighty-hugeness",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

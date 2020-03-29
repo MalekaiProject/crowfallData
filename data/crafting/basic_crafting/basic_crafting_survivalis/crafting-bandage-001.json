@@ -1,0 +1,30 @@
+{
+    "name": "Bandage",
+    "id": "crafting-bandage-001",
+    "icon": "bandage.png",
+    "description": "Creates a Bandage used for healing out of combat. The type of wood used will determine the type of bandage created.",
+    "outputQuantity": 1,
+    "xp": 3.75,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_survivalis",
+    "ingredients": [
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Cloth",
+            "id": "cloth",
+            "icon": "hide.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "ranger-cross-slash-2",
+    "name": "Cross Slash",
+    "description": "slashes in front of you for 86 - 116 + 101% Weapon Damage. Applies a Moderate Bleed effect.",
+    "icon": "Graphic_Rngr_CrossSlash.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "131",
+        "cost_type": "Energy",
+        "min_damage_1": "86",
+        "max_damage_1": "116",
+        "weapon_damage_value": "101"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "ranger-cross-slash"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

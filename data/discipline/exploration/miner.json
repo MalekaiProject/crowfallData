@@ -1,37 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Extracting minerals from the depths of the earth is the type of work that requires strength, endurance, stamina, and a lot of persistence. Contrary to popular belief, it is hard work rather than luck that springs forth the bounty of minerals from the earth. Armed with a trusty pick and plenty of bag room, the miner is prepared for a great haul but also understands that sometimes you have to go deeper.",
-  "name": "Miner",
-  "powers": [
-    "empowered-mining"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": ["Gathering"],
-  "stats": [{
-    "name": "Plentiful Resources Ore: All",
-    "value": 1.25
-  },
-  {
-    "name": "Harvest Power Pips Bonus",
-    "value": 0.63
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "miner",
+    "name": "Miner",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Miner.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Ore: All",
+            "value": 1
+        },
+        {
+            "name": "Harvest Power Pips Bonus",
+            "value": 0.5
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "miner-empowered-mining",
+            "name": "Empowered Mining",
+            "description": "Passive: Adds Mining specific Buffs to all Energetic Harvesting Buffs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Extracting minerals from the depths of the earth is the type of work that requires strength, endurance, stamina, and a lot of persistence. Contrary to popular belief, it is hard work rather than luck that springs forth the bounty of minerals from the earth. Armed with a trusty pick and plenty of bag room, the miner is prepared for a great haul but also understands that sometimes you have to go deeper.",
+    "lore": "The day's work is not done until a 'pile' has been made."
 }

@@ -1,0 +1,75 @@
+{
+    "name": "Gate 4x1 (Open)",
+    "id": "fort-wall-defense-004",
+    "icon": "deed.png",
+    "description": "Creates a Wood Open Gate 4x1 Deed.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_fort_walls_defenses",
+    "ingredients": [
+        {
+            "name": "Wood Wall Section",
+            "id": "wood-wall-section",
+            "icon": "wall.png",
+            "quantity": 3,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "carpentryNails.png",
+            "quantity": 3,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Roof Segment",
+            "id": "roof-segment",
+            "icon": "roofSegment.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "masonryArch.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "architecturalFoundation.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Floor Tiles",
+            "id": "floor-tiles",
+            "icon": "floorTiles.png",
+            "quantity": 2,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "underdog-retalite-low-hp-knockdown",
+    "name": "Death Throws",
+    "description": "knocks down nearby enemies when you use a Retaliate ability if your Health is under 50%.",
+    "shortDescription": "Passive: Area Knockdown on Retaliation at Low Health",
+    "icon": "Graphic_Disc_DeathThrows.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

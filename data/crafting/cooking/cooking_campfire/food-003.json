@@ -1,0 +1,39 @@
+{
+    "name": "Roasted Produce",
+    "id": "food-003",
+    "icon": "apple.png",
+    "description": "Creates Roasted Produce. Roast apples, carrots, potatoes, mushrooms, onions, and peppers for a zesty and quick snack! Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_campfire",
+    "ingredients": [
+        {
+            "name": "Produce",
+            "id": "produce",
+            "icon": "apple.png",
+            "quantity": 10,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Roasting Stick",
+            "id": "roasting-stick",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

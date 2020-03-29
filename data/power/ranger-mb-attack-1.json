@@ -1,0 +1,27 @@
+{
+    "id": "ranger-mb-attack-1",
+    "name": "Sinister Slash",
+    "description": "slashes in front of you twice for 38 - 52 + 45% Weapon Damage.",
+    "icon": "Graphic_Rngr_BasicMelee1.png",
+    "stats": {
+        "weapon_damage_value": "45",
+        "max_damage_1": "52",
+        "min_damage_1": "38",
+        "range": "4",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "ranger-mb-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

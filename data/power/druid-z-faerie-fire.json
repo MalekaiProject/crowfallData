@@ -1,0 +1,29 @@
+{
+    "id": "druid-z-faerie-fire",
+    "name": "Faerie Flames",
+    "description": "engulfs an enemy in Faerie Flames decreasing Physical Mitigations by 20 for 30 seconds.\\n\\nWhile affected, the target cannot stealth.",
+    "icon": "Graphic_Drud_FaerieFire.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "23",
+        "range": "35",
+        "cost": "50",
+        "cost_type": "Essence",
+        "duration": "30 seconds",
+        "min_damage_1": "44",
+        "max_damage_1": "67",
+        "weapon_damage_value": "6",
+        "weapon_damage_type": "Nature"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

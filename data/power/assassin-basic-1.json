@@ -1,0 +1,28 @@
+{
+    "id": "assassin-basic-1",
+    "name": "Swift Cut",
+    "description": "jabs for 44 - 66 + 55% Weapon Damage.\\n\\nGenerates 1 Pip.",
+    "icon": "Graphic_Assn_Basic1.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "44",
+        "max_damage_1": "66",
+        "weapon_damage_value": "55"
+    },
+    "nextChain": [
+        "assassin-basic-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee",
+        "stealth"
+    ]
+}

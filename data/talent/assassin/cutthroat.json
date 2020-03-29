@@ -1,0 +1,20 @@
+{
+    "id": "cutthroat",
+    "name": "Cutthroat",
+    "class": "assassin",
+    "description": "This talent grants the Shadow Strikes passive power.\\n\\nIncreases by 10%:\\nPiercing Damage Bonus\\nPiercing Damage Bonus Cap\\n\\nTraits Granted:\\nAxe Mastery\\nDagger Mastery\\nMace Mastery",
+    "icon": "Skill_Icon_043_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "assassin-talent-shadow-strikes"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "killer-s-gift",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

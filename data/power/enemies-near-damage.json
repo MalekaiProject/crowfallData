@@ -1,0 +1,21 @@
+{
+    "id": "enemies-near-damage",
+    "name": "Resolution",
+    "description": "increases your Damage Bonus by 10% when three or more enemies are within 15m.",
+    "shortDescription": "Passive: Gain Damage when Enemies Near",
+    "icon": "Graphic_Disc_Resolution.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

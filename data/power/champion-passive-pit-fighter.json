@@ -1,0 +1,20 @@
+{
+    "id": "champion-passive-pit-fighter",
+    "name": "Pit Fighter",
+    "description": "adds 150 Attack Power whenever you trigger a healing effect on yourself.",
+    "icon": "Graphic_Chmp_PitFighter.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "illusionist-glamour-weapon",
+    "name": "Glamour Weapon",
+    "description": "adds a Glamour to your weapon increasing your Attack Power by 150 for 15 seconds.",
+    "shortDescription": "Increase Attack Power",
+    "icon": "Graphic_Conf_HellfireShield.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "68",
+        "cost": "16",
+        "cost_type": "Resource"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

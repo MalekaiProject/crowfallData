@@ -1,0 +1,25 @@
+{
+    "id": "templar-exploration-i",
+    "name": "Exploration Discipline Slot",
+    "class": "templar",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "censure",
+            "point": 1
+        },
+        {
+            "skill": "judgment",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-minor-i",
+        "devotion"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "templar-passive-vindicator",
+    "name": "Vindicator",
+    "description": "modifies your Slashing Damage Bonus by the value of your Fire Damage Bonus.",
+    "icon": "Graphic_Tmpr_Vindicator.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

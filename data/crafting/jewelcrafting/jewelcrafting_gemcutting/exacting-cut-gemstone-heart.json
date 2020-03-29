@@ -1,0 +1,39 @@
+{
+    "name": "Exacting Cut Gemstone: Heart",
+    "id": "exacting-cut-gemstone-heart",
+    "icon": "gem_heart.png",
+    "description": "The first stage of crafting an exacting cut gemstone out of a rough stone involves the use of a Chaos Ember Cutting Blade. This is used to trim and shape the stone into a primitive shape.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_gemcutting",
+    "ingredients": [
+        {
+            "name": "Rough Gem",
+            "id": "rough-gem",
+            "icon": "gem_baguette.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Chaos Ember Cutting Blade",
+            "id": "chaos-ember-cutting-blade",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

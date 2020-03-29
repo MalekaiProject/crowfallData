@@ -1,0 +1,84 @@
+{
+    "name": "Book Casing",
+    "id": "book-casing",
+    "icon": "bookBinding.png",
+    "description": "Creates a Book Casing that is used to create a Book.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Stitched Leather",
+            "id": "stitched-leather",
+            "icon": "leatherHide.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Adhesive",
+            "id": "adhesive",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Stitched Leather",
+            "id": "stitched-leather",
+            "icon": "leatherHide.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 8,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runestone: Esoteric",
+            "id": "runestone-esoteric",
+            "icon": "RunestoneEsoteric.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Runestone: Esoteric",
+            "id": "runestone-esoteric",
+            "icon": "RunestoneEsoteric.png",
+            "quantity": 1,
+            "slotIndex": 7,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

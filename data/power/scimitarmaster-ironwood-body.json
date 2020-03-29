@@ -1,0 +1,24 @@
+{
+    "id": "scimitarmaster-ironwood-body",
+    "name": "Ironwood Body",
+    "description": "reduces all damage taken by 50% for 10 seconds when your Health drops below 35%. \\n\\nThis cannot occur more than once every 45 seconds.",
+    "shortDescription": "Passive: Reduce Damage when Low Health",
+    "icon": "Graphic_Drud_IronwoodBody.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "10 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "harvest",
+        "druid_nuking",
+        "druid_healing"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "blademaster-blood-price",
+    "name": "Blood Price",
+    "description": "extracts Blood Orbs from enemies as you attack. Picking up Blood Orbs heals you for 63 - 77 + 28% Support Power and increases your Attack Power by 100 for 30 seconds.",
+    "shortDescription": "Passive: Spawn Healing Orbs; Attack Power",
+    "icon": "Graphic_Disc_BloodPrice.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "60 seconds",
+        "buff_type_1": "Attack Power",
+        "buff_amount_1": "100",
+        "min_damage_1": "63",
+        "max_damage_1": "77",
+        "weapon_damage_value": "28"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

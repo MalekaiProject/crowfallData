@@ -1,0 +1,48 @@
+{
+    "name": "Philosopher's Stone",
+    "id": "philosophers-stone-001",
+    "icon": "philosophersStone.png",
+    "description": "Rumored to extend one's life and often called the Elixir of Life, the Philosopher's Stone is used during the vessel creation process.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "alchemy",
+    "subCategory": "arcane_mixings",
+    "ingredients": [
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosopher-s-solution",
+            "icon": "ambrosia.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosopher-s-solution",
+            "icon": "ambrosia.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosopher-s-solution",
+            "icon": "ambrosia.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosopher-s-solution",
+            "icon": "ambrosia.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

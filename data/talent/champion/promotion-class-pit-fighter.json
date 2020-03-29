@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-pit-fighter",
+    "name": "Promotion Class - Pit Fighter",
+    "class": "champion",
+    "description": "Role: Melee Defense\\n\\nThis well rounded pugilist excels at both dealing and mitigating damage.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Pit Fighter promotion class and prevents access to the Alpha Warrior  and Barbarian promotion classes.",
+    "icon": "Skill_Icon_019_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "second-wind",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "obstinance"
+    ],
+    "locksSkill": [
+        "promotion-class-alpha-warrior",
+        "promotion-class-barbarian"
+    ]
+}

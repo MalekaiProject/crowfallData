@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-ranged-distance-cap",
+    "name": "Follow-Through",
+    "description": "increases your Ranged Distance Bonus Cap by 5.",
+    "shortDescription": "Passive: Increase Ranged Distance Bonus Cap",
+    "icon": "Graphic_Disc_Racial_Elken.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Ranged Distance Bonus Cap",
+        "buff_amount_1": "5"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

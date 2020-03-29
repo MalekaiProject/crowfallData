@@ -1,0 +1,18 @@
+{
+    "id": "druid-major-ii",
+    "name": "Major Discipline Slot",
+    "class": "druid",
+    "description": "Unlock a Major Discipline slot.",
+    "icon": "Skill_Icon_011_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 20,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "nature-s-cornerstone",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

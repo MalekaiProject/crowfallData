@@ -1,0 +1,30 @@
+{
+    "name": "Blended Cloth",
+    "id": "crafting-cloth-001",
+    "icon": "parchmentPaper.png",
+    "description": "Creates Blended Cloth that is used to create Bandages",
+    "outputQuantity": 2,
+    "xp": 1.88,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_survivalis",
+    "ingredients": [
+        {
+            "name": "Fibrous Root",
+            "id": "fibrous-root",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Fibrous Root",
+            "id": "fibrous-root",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

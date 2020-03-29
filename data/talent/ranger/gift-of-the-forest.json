@@ -1,0 +1,21 @@
+{
+    "id": "gift-of-the-forest",
+    "name": "Gift of the Forest",
+    "class": "ranger",
+    "description": "Gift of the Forest improves Melee Power Damage Bonus, Ranged Power Damage Bonus, and Physical Resistance by 100 per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-warden",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ravencoat",
+        "silencing-blades"
+    ],
+    "locksSkill": []
+}

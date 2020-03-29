@@ -1,19 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Helper Monkey",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "helper-monkey",
-    "data_type": "discipline"
-  }],
-  "tags": ["Crafting"],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Assembly Difficulty Reduction by 10 and Experiment Difficulty Reduction by 10."
+    "name": "Helper Monkey",
+    "description": "increases your Assembly Difficulty Reduction by 5 and Experiment Difficulty Reduction by 5.",
+    "shortDescription": "Passive: Reduces Craft Assembly and Experiment Difficulty of Recipes",
+    "icon": "Graphic_Disc_HelperMonkey.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Assembly Difficulty Reduction",
+        "buff_amount_1": "5",
+        "buff_type_2": "Experiment Difficulty Reduction",
+        "buff_amount_2": "5"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

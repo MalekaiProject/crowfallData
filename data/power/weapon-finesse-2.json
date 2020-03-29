@@ -1,0 +1,21 @@
+{
+    "id": "weapon-finesse-2",
+    "name": "Weapon Finesse",
+    "description": "increases your Power Efficiency statistic by 20%, which reduces the resource cost of using powers.",
+    "shortDescription": "Passive: Greatly Reduces Power Resource Costs",
+    "icon": "Graphic_Disc_WeaponFinesse.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Power Efficiency",
+        "buff_amount_1": "20%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

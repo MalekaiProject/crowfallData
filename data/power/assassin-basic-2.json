@@ -1,0 +1,30 @@
+{
+    "id": "assassin-basic-2",
+    "name": "Double Swing",
+    "description": "jabs twice for 53 - 80 + 66% Weapon Damage.\\n\\nGenerates 1 Pip.",
+    "icon": "Graphic_Assn_Basic2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "53",
+        "max_damage_1": "80",
+        "weapon_damage_value": "66"
+    },
+    "nextChain": [
+        "assassin-basic-3"
+    ],
+    "lastChain": [
+        "assassin-basic-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee",
+        "stealth"
+    ]
+}

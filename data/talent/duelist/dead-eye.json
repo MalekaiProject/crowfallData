@@ -1,0 +1,21 @@
+{
+    "id": "dead-eye",
+    "name": "Dead Eye",
+    "class": "duelist",
+    "description": "Dead Eye improves Critical Strike by 2% per point spent and Attack Power by 50 per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-slayer",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "keen-aim",
+        "quick-draw"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-cutthroat",
+    "name": "Promotion Class - Cutthroat",
+    "class": "assassin",
+    "description": "Role: Melee Damage\\n\\nA dealer of death that focuses on ambushing and attacking enemies from behind.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Cutthroat promotion class and prevents access to the Blackguard and Vandal promotion classes.",
+    "icon": "Skill_Icon_043_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "enter-the-shadows",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "overachieve"
+    ],
+    "locksSkill": [
+        "promotion-class-blackguard",
+        "promotion-class-vandal"
+    ]
+}

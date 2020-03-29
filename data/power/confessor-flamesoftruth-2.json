@@ -1,0 +1,30 @@
+{
+    "id": "confessor-flamesoftruth-2",
+    "name": "Forced Confession",
+    "description": "consumes the Flames of Truth applied to your target, causing an explosion that deals 47 - 71 + 59% Weapon Damage and leaves your target Stunned.",
+    "icon": "Graphic_Conf_ForcedConfession.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "cooldown": "30",
+        "max_targets": "1",
+        "range": "25",
+        "cost": "55",
+        "cost_type": "Mana",
+        "min_damage_1": "47",
+        "max_damage_1": "71",
+        "weapon_damage_value": "59"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "confessor-flamesoftruth"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

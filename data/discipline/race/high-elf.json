@@ -1,47 +1,70 @@
 {
-  "classes": [
-    "knight",
-    "confessor",
-    "assassin",
-    "frostweaver"
-  ],
-  "description": "It is said they convinced Malekai to teach them the language of the gods, the Songs of Creation and the Words of Power. In doing so, they gained mastery over the elements of fire and frost.",
-  "name": "High-Elf",
-  "tags": [],
-  "powers": [
-    "high-elf-bloodline",
-    "cartwheel",
-    "humiliate"
-  ],
-  "slots_granted": ["Amulet"],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Intellect",
-      "value": 30
-    },
-    {
-      "name": "Elemental Armor Bonus",
-      "value": "5%"
-    },
-    {
-      "name": "Jewelcrafting",
-      "value": 10
-    },
-    {
-      "name": "Jewelcrafting Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Leatherworking",
-      "value": 10
-    },
-    {
-      "name": "Leatherworking Experimentation",
-      "value": 5
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "high-elf",
+    "name": "High-Elf",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_HighElf.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 200
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 300
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 300
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 200
+        },
+        {
+            "name": "Intellect",
+            "value": 30
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-dodge-restore",
+            "name": "Acrobatics",
+            "description": "Passive: Chance for Extra Dodge Power when Dodging"
+        },
+        {
+            "id": "racial-passive-critical-damage",
+            "name": "Hauteur",
+            "description": "Passive: Increase Critical Damage Amount"
+        },
+        {
+            "id": "racial-passive-elemental-mitigation",
+            "name": "Vanity",
+            "description": "Passive: Increase Elemental Resistance"
+        },
+        {
+            "id": "weapon-finesse",
+            "name": "Mental Fortitude",
+            "description": "Passive: Reduces Power Resource Costs"
+        },
+        {
+            "id": "highelf-humiliate",
+            "name": "Humiliate",
+            "description": "Increases Power Cost Multiplier"
+        },
+        {
+            "id": "highelf-dodge",
+            "name": "Dive Roll",
+            "description": "Dive Roll in a WASD direction"
+        }
+    ],
+    "grantsSlot": [
+        "Amulet"
+    ],
+    "grantsEquip": [],
+    "lore": "It is said they convinced Malekai to teach them the language of the gods, the Songs of Creation and the Words of Power. In doing so, they gained mastery over the elements of fire and frost."
 }

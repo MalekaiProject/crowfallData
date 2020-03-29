@@ -1,0 +1,48 @@
+{
+    "name": "Kebab Skewers",
+    "id": "kebab-skewers",
+    "icon": "steamedHams.png",
+    "description": "Creates Kebab Skewers, a quick and rustic meal. Use meat or mushrooms and produce to create a few sticks of deliciousness. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_campfire",
+    "ingredients": [
+        {
+            "name": "Meats or Mushrooms",
+            "id": "meats-or-mushrooms",
+            "icon": "steamedHams.png",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Roasting Stick",
+            "id": "roasting-stick",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Produce",
+            "id": "produce",
+            "icon": "apple.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

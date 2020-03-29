@@ -1,0 +1,29 @@
+{
+    "id": "legionnaire-rear-react",
+    "name": "Rear Kick",
+    "description": "kick behind you inflicting Knockdown and causing 68 - 83 + 75% Weapon Damage.",
+    "shortDescription": "Attack: Knockdown Enemies Behind You",
+    "icon": "Graphic_Cntr_RearKick.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Rectangle",
+        "cooldown": "30",
+        "max_targets": "5",
+        "range": "5",
+        "min_damage_1": "68",
+        "max_damage_1": "83",
+        "weapon_damage_value": "75"
+    },
+    "nextChain": [],
+    "lastChain": [
+        ""
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

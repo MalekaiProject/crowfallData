@@ -1,0 +1,57 @@
+{
+    "name": "Runic Frostcaster",
+    "id": "weapon-frostcaster-005",
+    "icon": "Frostcaster.png",
+    "description": "Creates a Frostcaster, usable by those who have a mastery of Frostcasters.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "blacksmithing_magic_weapons",
+    "ingredients": [
+        {
+            "name": "Jeweled Frostcasting Enclosure",
+            "id": "jeweled-frostcasting-enclosure",
+            "icon": "FrostcastingEnclosure.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runed Casting Aperture",
+            "id": "runed-casting-aperture",
+            "icon": "CastingAperture.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Meta-Magical Conducter",
+            "id": "meta-magical-conducter",
+            "icon": "MetaMagicalConducter.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

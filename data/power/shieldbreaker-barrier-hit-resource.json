@@ -1,0 +1,21 @@
+{
+    "id": "shieldbreaker-barrier-hit-resource",
+    "name": "Rupture Barrier",
+    "description": "causes an additional 50% Weapon damage when striking a Barrier and restore your Resource.",
+    "shortDescription": "Passive: Increase Damage vs Barriers; Gain Resource",
+    "icon": "Graphic_Disc_RuptureBarrier.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

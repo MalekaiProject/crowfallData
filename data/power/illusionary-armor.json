@@ -1,22 +1,27 @@
 {
-  "cast_type": "instant",
-  "cooldown": 23,
-  "cost": {
-    "name": "resource",
-    "cost": 16
-  },
-  "duration": 15,
-  "max_targets": 1,
-  "name": "Illusionary Armor",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
-    "id": "armor-of-faith",
-    "data_type": "discipline"
-  }],
-  "tags": [],
-  "targeting": "self",
-  "type": "buff",
-  "description": "Conjures an illusion effective enough to reduce incoming damage by 7% for 15 seconds."
+    "id": "illusionary-armor",
+    "name": "Illusionary Armor",
+    "description": "conjures an illusion effective enough to reduce incoming damage by 7% for 15 seconds.",
+    "shortDescription": "Reduce Health Loss",
+    "icon": "Graphic_Disc_IllusionaryArmor.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "23",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_type_1": "Personal Damage Modifier",
+        "buff_amount_1": "7%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
 }

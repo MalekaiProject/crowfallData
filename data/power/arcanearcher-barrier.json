@@ -1,0 +1,28 @@
+{
+    "id": "arcanearcher-barrier",
+    "name": "Arcane Barrier",
+    "description": "protects you with a Barrier preventing up to 2500 Elemental damage or 500 damage of other types.",
+    "shortDescription": "Gain a Barrier, and Elemental Barrier Resistance",
+    "icon": "Graphic_Disc_ArcaneBarrier.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "60",
+        "max_damage_1": "81",
+        "weapon_damage_value": "70",
+        "weapon_damage_type": "Elemental"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

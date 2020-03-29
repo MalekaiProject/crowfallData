@@ -1,51 +1,76 @@
 {
-  "classes": [
-    "knight",
-    "champion",
-    "myrmidon",
-    "cleric"
-  ],
-  "description": "Enchanted creatures shaped of raw earth and living tree, with skin of living stone and beards of twisted vines and earthen roots.",
-  "name": "Stoneborn",
-  "tags": [],
-  "powers": [
-    "stoneborn-bloodline",
-    "stone-skin",
-    "barrell-roll"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Strength",
-      "value": 30
-    },
-    {
-      "name": "Spirit",
-      "value": 30
-    },
-    {
-      "name": "Constitution",
-      "value": 30
-    },
-    {
-      "name": "Jewelcrafting",
-      "value": 5
-    },
-    {
-      "name": "Jewelcrafting Experimentation",
-      "value": 10
-    },
-    {
-      "name": "Stonemasonry",
-      "value": 10
-    },
-    {
-      "name": "Stonemasonry Experimentation",
-      "value": 5
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "stoneborn",
+    "name": "Stoneborn",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_Stoneborn.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 300
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 150
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 250
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 350
+        },
+        {
+            "name": "Strength",
+            "value": 30
+        },
+        {
+            "name": "Spirit",
+            "value": 30
+        },
+        {
+            "name": "Constitution",
+            "value": 75
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-incoming-heals",
+            "name": "Blood of the Mountain",
+            "description": "Passive: Increase Incoming Heals"
+        },
+        {
+            "id": "racial-passive-bleed-dot-stripper",
+            "name": "Coagulation",
+            "description": "Passive: Chance to Remove All Bleed Effects From You when Any Bleed is Applied"
+        },
+        {
+            "id": "racial-passive-craft-blacksmithing",
+            "name": "High Forge Apprentice",
+            "description": "Passive: Increase Blacksmithing Crafting Statistics"
+        },
+        {
+            "id": "racial-passive-anti-knockdown",
+            "name": "I Get Knocked Down",
+            "description": "Passive: Knockdown Reduction; Increase Damage and Healing after being Knocked Down"
+        },
+        {
+            "id": "stone-skin",
+            "name": "Stone Skin",
+            "description": "Reduce Damage, Poison Immunity, Reduce Health Gain"
+        },
+        {
+            "id": "stoneborn-dodge",
+            "name": "Barrel Roll",
+            "description": "Barrel Roll in a WASD direction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Enchanted creatures shaped of raw earth and living tree, with skin of living stone and beards of twisted vines and earthen roots."
 }

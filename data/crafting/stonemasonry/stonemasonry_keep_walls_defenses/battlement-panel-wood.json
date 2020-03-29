@@ -1,0 +1,57 @@
+{
+    "name": "Battlement Panel: Wood",
+    "id": "battlement-panel-wood",
+    "icon": "deed.png",
+    "description": "Creates a Stone Attachable Battlement Panel: Wood 1x1.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_keep_walls_defenses",
+    "ingredients": [
+        {
+            "name": "Stone Wall Section",
+            "id": "stone-wall-section",
+            "icon": "wall.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood Wall Section",
+            "id": "wood-wall-section",
+            "icon": "wall.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "carpentryNails.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Quality Assurance Control Kit",
+            "id": "quality-assurance-control-kit",
+            "icon": "staffHeel.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

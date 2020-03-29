@@ -1,0 +1,21 @@
+{
+    "id": "barbed-thorns",
+    "name": "Barbed Thorns",
+    "class": "druid",
+    "description": "Barbed Thorns enhances Bark Skin increasing Thorns by 200%.",
+    "icon": "Skill_Icon_023_008.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "forest-affinity",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "shroud-of-darkness",
+        "might-of-blight"
+    ],
+    "locksSkill": []
+}

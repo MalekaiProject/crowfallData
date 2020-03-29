@@ -1,0 +1,21 @@
+{
+    "id": "persistence",
+    "name": "Persistence",
+    "class": "duelist",
+    "description": "Persistence improves Maximum Health by 250 per point spent and Attack Power by 50 per point spent.",
+    "icon": "Skill_Icon_017_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-dirge",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "marksmanship",
+        "go-for-the-knees"
+    ],
+    "locksSkill": []
+}

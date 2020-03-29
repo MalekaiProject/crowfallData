@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-earth-mitigation",
+    "name": "Nature Resistance",
+    "description": "increases your Nature Resistance statistic by 1000.",
+    "shortDescription": "Passive: Increase Nature Resistance",
+    "icon": "Graphic_Disc_Racial_WoodElf.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Nature Resistance",
+        "buff_amount_1": "1000"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

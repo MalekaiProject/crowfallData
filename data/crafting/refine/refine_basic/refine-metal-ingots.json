@@ -1,0 +1,30 @@
+{
+    "name": "Refine Metal Ingots",
+    "id": "refine-metal-ingots",
+    "icon": "setOfBricks.png",
+    "description": "Refine Metal Ingots into Ore.",
+    "outputQuantity": 200,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Metal Ingot",
+            "id": "metal-ingot",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

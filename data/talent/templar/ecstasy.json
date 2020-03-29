@@ -1,0 +1,22 @@
+{
+    "id": "ecstasy",
+    "name": "Ecstasy",
+    "class": "templar",
+    "description": "Ecstasy improves Maximum Stamina by 3 per point spent.",
+    "icon": "Skill_Icon_034_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "devotion",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "indictment",
+        "templar-minor-iii",
+        "tempus-medico"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "juggernaut-furious-retaliate",
+    "name": "Furious Retaliate",
+    "description": "immediately recovers you from Control effects inflicting 113 - 153 + 133% Weapon Damage. \\n\\nFurious Retaliate also increases your Resolve, reducing the duration of subsequent Control effects or triggering temporary immunity to Control Effects.",
+    "shortDescription": "Retaliate with Increased Resolve",
+    "icon": "Graphic_Disc_FuriousRetaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "champion-b-attack-3",
+    "name": "Overwhelming Uppercut",
+    "description": "strikes in front of you for 179 - 243 + 211% Weapon Damage, generating 4 Rage if you hit. Overwhelming Uppercut applies Mortal Strike to all hit, which reduces the effectiveness of any Healing that target receives by 25% for 15 seconds.",
+    "icon": "Graphic_Chmp_Basic3.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "restore": "4",
+        "restore_type": "Rage",
+        "duration": "15",
+        "buff_type_1": "Healing",
+        "buff_amount_1": "25",
+        "min_damage_1": "179",
+        "max_damage_1": "243",
+        "weapon_damage_value": "211"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "champion-b-attack-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

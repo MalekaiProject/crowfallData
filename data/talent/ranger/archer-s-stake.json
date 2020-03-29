@@ -1,0 +1,27 @@
+{
+    "id": "archer-s-stake",
+    "name": "Archer's Stake",
+    "class": "ranger",
+    "description": "This talent grants the Archers Stake power.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-archers-stake"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "hunting-party",
+            "point": 1
+        },
+        {
+            "skill": "tree-sparring",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ricochet-shot",
+        "ambidexterity"
+    ],
+    "locksSkill": []
+}

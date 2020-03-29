@@ -1,0 +1,21 @@
+{
+    "id": "exceptional-weaponry",
+    "name": "Exceptional Weaponry",
+    "class": "ranger",
+    "description": "Exceptional Weaponry improves Weapon Damage by 3 per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "military-training",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "close-ranks",
+        "amazing-rapidity"
+    ],
+    "locksSkill": []
+}

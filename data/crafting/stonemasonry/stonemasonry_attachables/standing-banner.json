@@ -1,0 +1,48 @@
+{
+    "name": "Standing Banner",
+    "id": "standing-banner",
+    "icon": "deed.png",
+    "description": "Creates a Stone Attachable Standing Banner Deed.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_attachables",
+    "ingredients": [
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "architecturalFoundation.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood Stake",
+            "id": "wood-stake",
+            "icon": "weaponShaftLong.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Quality Assurance Control Kit",
+            "id": "quality-assurance-control-kit",
+            "icon": "staffHeel.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

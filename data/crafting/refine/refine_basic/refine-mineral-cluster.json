@@ -1,0 +1,30 @@
+{
+    "name": "Refine Mineral Cluster",
+    "id": "refine-mineral-cluster",
+    "icon": "powderedAnimalBone.png",
+    "description": "Refine Mineral Cluster into Minerals.",
+    "outputQuantity": 20,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Mineral Cluster",
+            "id": "mineral-cluster",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

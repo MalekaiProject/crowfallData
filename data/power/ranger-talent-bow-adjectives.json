@@ -1,0 +1,13 @@
+{
+    "id": "ranger-talent-bow-adjectives",
+    "icon": "",
+    "stats": {},
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": false,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

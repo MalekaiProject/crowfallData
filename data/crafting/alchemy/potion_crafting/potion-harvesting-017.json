@@ -1,0 +1,48 @@
+{
+    "name": "Potion of Sapho",
+    "id": "potion-harvesting-017",
+    "icon": "potion.png",
+    "description": "Creates a Potion of Sapho, this can be used to increase All Crafting Experimentation Point Caps by 4 for 5 minutes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "alchemy",
+    "subCategory": "potion_crafting",
+    "ingredients": [
+        {
+            "name": "Empty Flask",
+            "id": "empty-flask",
+            "icon": "emptyFlask.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Blood",
+            "id": "animal-blood",
+            "icon": "blood.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Powdered Animal Bone",
+            "id": "powdered-animal-bone",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

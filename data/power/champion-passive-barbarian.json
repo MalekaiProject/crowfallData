@@ -1,0 +1,20 @@
+{
+    "id": "champion-passive-barbarian",
+    "name": "Barbarian",
+    "description": "increases Damage Bonus by 15% and In Combat Movement Speed by 25% whenever you apply a Crowd Control effect.",
+    "icon": "Graphic_Chmp_Barbarian.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

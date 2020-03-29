@@ -1,0 +1,21 @@
+{
+    "id": "villein-seasoned-hand",
+    "name": "Seasoned Hand",
+    "description": "decreases your Decay Rate: All Tools by 50%.",
+    "shortDescription": "Passive: Greatly Decreases Harvesting Tool Decay",
+    "icon": "Graphic_Disc_SeasonedHand.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Decay Rate: All Tools",
+        "buff_amount_1": "50%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

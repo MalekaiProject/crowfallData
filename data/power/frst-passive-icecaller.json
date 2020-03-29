@@ -1,0 +1,19 @@
+{
+    "id": "frst-passive-icecaller",
+    "name": "Icecaller",
+    "description": "grants a stack of Cool Aid increasing Support Power by 50 and Ice Formation Chance by 2% for each stored Ice. Stacks of Cool Aid are not lost if you spend your Ice down but are reset if your Ice Storage hits 0.",
+    "icon": "Graphic_FrostWeaver_Icecaller_01.png",
+    "stats": {
+        "max_targets": "1",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

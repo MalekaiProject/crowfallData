@@ -1,0 +1,20 @@
+{
+    "id": "connoisseur-glycolysis",
+    "name": "Glycolysis",
+    "description": "restores Stamina when consuming Apples.",
+    "shortDescription": "Passive: Apples Additionally Give Stamina",
+    "icon": "Graphic_Disc_Glycolysis.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Stamina"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

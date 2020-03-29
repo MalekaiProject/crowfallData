@@ -1,0 +1,21 @@
+{
+    "id": "atone",
+    "name": "Atone",
+    "class": "confessor",
+    "description": "Atone improves Attack Crowd Control by 6% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-inquisitor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "repent",
+        "plenary-indulgence"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,41 @@
+{
+    "id": "adjudicator-prosecute",
+    "name": "Prosecute",
+    "description": "convicts an enemy causing Fire damage based on their sin:\\n\\n1 Sin or less: 117 - 158 + 138% Weapon Damage\\n 2 Sin: 182 - 247 + 215% Weapon Damage\\n 3 Sin: 253 - 343 + 298% Weapon Damage\\n 4 Sin: 330 - 447 + 388% Weapon Damage\\n 5 Sin: 413 - 558 + 485% Weapon Damage",
+    "shortDescription": "Attack: Damage scales with Sin",
+    "icon": "Graphic_Disc_Prosecute.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "17",
+        "cost_type": "Resource",
+        "min_damage_1": "117",
+        "max_damage_1": "158",
+        "weapon_damage_value": "138",
+        "weapon_damage_type": "Fire",
+        "min_damage_2": "182",
+        "max_damage_2": "247",
+        "weapon_damage_2_value": "215",
+        "min_damage_3": "253",
+        "max_damage_3": "343",
+        "weapon_damage_3_value": "298",
+        "min_damage_4": "330",
+        "max_damage_4": "447",
+        "weapon_damage_4_value": "388",
+        "min_damage_5": "413",
+        "max_damage_5": "558",
+        "weapon_damage_5_value": "485"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blunt_users"
+    ]
+}

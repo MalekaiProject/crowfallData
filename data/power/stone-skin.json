@@ -1,0 +1,27 @@
+{
+    "id": "stone-skin",
+    "name": "Stone Skin",
+    "description": "hardens your skin dramatically increasing Damage Reduction by 50% and making you Poison Immune for 6 seconds, at the cost of reducing any healing done to you by 50%.",
+    "shortDescription": "Reduce Damage, Poison Immunity, Reduce Health Gain",
+    "icon": "Graphic_Disc_StoneSkin.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "6 seconds",
+        "buff_type_1": "Damage Reduction",
+        "buff_amount_1": "50%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

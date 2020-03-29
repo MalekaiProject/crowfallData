@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-blackguard",
+    "name": "Promotion Class - Blackguard",
+    "class": "assassin",
+    "description": "Role: Melee Defense\\n\\nThis dweller of darkness achieves victory through outlasting their opponents, in every possible way.\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Blackguard promotion class and prevents access to the Cutthroat and Vandal promotion classes.",
+    "icon": "Skill_Icon_041_005.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "enter-the-shadows",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "agile-footwork"
+    ],
+    "locksSkill": [
+        "promotion-class-cutthroat",
+        "promotion-class-vandal"
+    ]
+}

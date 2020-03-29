@@ -1,0 +1,18 @@
+{
+    "id": "freezing-blast",
+    "name": "Freezing Blast",
+    "class": "frostweaver",
+    "description": "This talent grants the Freezing Blast power.",
+    "icon": "Skill_Icon_041_001.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-freezing-blast"
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "cold-logic",
+        "hardening"
+    ],
+    "locksSkill": []
+}

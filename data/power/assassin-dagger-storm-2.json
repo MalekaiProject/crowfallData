@@ -1,0 +1,29 @@
+{
+    "id": "assassin-dagger-storm-2",
+    "name": "Dagger Storm",
+    "description": "flings throwing daggers in all directions hitting multiple enemies for 33 - 50 + 41% Weapon Damage.",
+    "icon": "Graphic_Assn_DaggerStorm.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "5",
+        "range": "4",
+        "min_damage_1": "33",
+        "max_damage_1": "50",
+        "weapon_damage_value": "41"
+    },
+    "nextChain": [
+        "assassin-dagger-storm-3"
+    ],
+    "lastChain": [
+        "assassin-dagger-storm-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

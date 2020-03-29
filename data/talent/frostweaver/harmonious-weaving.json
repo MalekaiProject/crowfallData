@@ -1,0 +1,24 @@
+{
+    "id": "harmonious-weaving",
+    "name": "Harmonious Weaving",
+    "class": "frostweaver",
+    "description": "Harmonious Weaving enhances Cool Ice to also restore Health in addition to its existing effect.",
+    "icon": "Skill_Icon_040_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "amity",
+            "point": 2
+        },
+        {
+            "skill": "brisk-refreshment",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tranquility"
+    ],
+    "locksSkill": []
+}

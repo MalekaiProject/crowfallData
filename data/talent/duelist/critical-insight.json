@@ -1,0 +1,22 @@
+{
+    "id": "critical-insight",
+    "name": "Critical Insight",
+    "class": "duelist",
+    "description": "Critical Insight improves Critical Strike by 1% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "pepperbox-shot",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cunning-jabs",
+        "duelist-minor-ii",
+        "impale"
+    ],
+    "locksSkill": []
+}

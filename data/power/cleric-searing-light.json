@@ -1,0 +1,28 @@
+{
+    "id": "cleric-searing-light",
+    "name": "Searing Light",
+    "description": "manifests divine light from your shield Blinding your reticle target and inflicting 169 - 207 + 188% Holy Weapon Damage and can be instantly Flash-Cast. \\n\\nTargets are only blinded when the Charging Flash effect is expired.",
+    "icon": "Graphic_Cleric_FlashOfLight.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "20",
+        "cost": "35",
+        "cost_type": "Mana",
+        "min_damage_1": "169",
+        "max_damage_1": "207",
+        "weapon_damage_value": "188"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

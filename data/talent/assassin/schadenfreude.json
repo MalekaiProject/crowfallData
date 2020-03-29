@@ -1,0 +1,22 @@
+{
+    "id": "schadenfreude",
+    "name": "Schadenfreude",
+    "class": "assassin",
+    "description": "Schadenfreude enhances Stun to recover 1.5% Health per point spent whenever you Stun an enemy.",
+    "icon": "Skill_Icon_034_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "assassin-talent-hard-cc-reward"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "deceptive-strength",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "aggression"
+    ],
+    "locksSkill": []
+}

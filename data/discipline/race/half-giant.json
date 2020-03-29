@@ -1,51 +1,77 @@
 {
-  "classes": [
-    "champion",
-    "myrmidon",
-    "cleric"
-  ],
-  "description": "Little is known of their true origin. If they hailed from a single world, the name is long forgotten.",
-  "name": "Half-Giant",
-  "tags": [],
-  "powers": [
-    "half-giant-bloodline",
-    "dodge-roll",
-    "backhand",
-    "blood-of-the-giant"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Strength",
-      "value": 60
-    },
-    {
-      "name": "Constitution",
-      "value": 60
-    },
-    {
-      "name": "Leatherworking",
-      "value": 5
-    },
-    {
-      "name": "Leatherworking Experimentation",
-      "value": 10
-    },
-    {
-      "name": "Stonemasonry",
-      "value": 10
-    },
-    {
-      "name": "Stonemasonry Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Food Regen Rate",
-      "value": -30
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "half-giant",
+    "name": "Half-Giant",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_HalfGiant.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 350
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 150
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 200
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 350
+        },
+        {
+            "name": "Strength",
+            "value": 60
+        },
+        {
+            "name": "Constitution",
+            "value": 65
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-critical-damage-02",
+            "name": "Brawny",
+            "description": "Passive: Increase Critical Damage Amount"
+        },
+        {
+            "id": "racial-passive-gigantism",
+            "name": "Gigantism",
+            "description": "Passive: Large Body Size Causes Faster Food Pool Decay"
+        },
+        {
+            "id": "racial-passive-maken-me-mad",
+            "name": "Maken Me Mad!",
+            "description": "Passive: Gain a Damage and Healing Bonus After Suffering Multiple Small Hits"
+        },
+        {
+            "id": "racial-passive-harvest-quarrying",
+            "name": "Sticks and Stones",
+            "description": "Passive: Increase Logging and Quarrying"
+        },
+        {
+            "id": "halfgiant-blood-of-the-giant",
+            "name": "Blood Of The Giant",
+            "description": "Harness Hatred, Increasing Damage and Size"
+        },
+        {
+            "id": "halfgiant-backhand",
+            "name": "Backhand",
+            "description": "Attack: Stun target"
+        },
+        {
+            "id": "champion-dodge",
+            "name": "Dodge Roll",
+            "description": "Roll in a WASD direction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Little is known of their true origin. If they hailed from a single world, the name is long forgotten."
 }

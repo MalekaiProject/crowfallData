@@ -1,0 +1,23 @@
+{
+    "id": "dmg-up-def-down",
+    "name": "Glass Cannon",
+    "description": "increases your Damage Bonus by 10% while also increasing the damage you take by 10%.",
+    "shortDescription": "Passive: Increase Damage; Increase Damage Taken",
+    "icon": "Graphic_Disc_GlassCannon.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "10%",
+        "buff_type_2": "Personal Damage Modifier",
+        "buff_amount_2": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

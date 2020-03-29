@@ -1,0 +1,25 @@
+{
+    "id": "villein-back-into-it",
+    "name": "Put Your Back Into It!",
+    "description": "spends Health to gain 5 Harvest Pips on your next 2 harvests for 8 seconds or 2 hits, whichever comes first.",
+    "shortDescription": "Use Health to Gain Harvest Pips",
+    "icon": "Graphic_Disc_PutYourBackIntoIt.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "12",
+        "cost": "1000",
+        "cost_type": "Health",
+        "duration": "8 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

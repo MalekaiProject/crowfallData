@@ -1,0 +1,30 @@
+{
+    "id": "druid-retaliate",
+    "name": "Retaliate",
+    "description": "returns you to your feet dealing 88 - 132 + 110% Weapon Damage to nearby enemies and healing you for 3% of your maximum Health over three seconds.",
+    "icon": "Graphic_Drud_Retaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "88",
+        "max_damage_1": "132",
+        "weapon_damage_value": "110"
+    },
+    "nextChain": [],
+    "lastChain": [
+        ""
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

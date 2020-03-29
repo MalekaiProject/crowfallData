@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-harvest-animal",
+    "name": "Waste Not, Want Not",
+    "description": "increases your Skinning statistic by 15.",
+    "shortDescription": "Passive: Increase Skinning",
+    "icon": "Graphic_Disc_Skinning.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Skinning",
+        "buff_amount_1": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

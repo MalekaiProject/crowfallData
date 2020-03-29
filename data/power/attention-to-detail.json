@@ -1,22 +1,21 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Attention to Detail",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "attention-to-detail",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Additional Risk Points"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Additional Risk Points value by 1."
+    "name": "Attention To Detail",
+    "description": "increases your Additional Risk Points Value by 1.",
+    "shortDescription": "Passive: Increase Percent each Experimentation Point is worth.",
+    "icon": "Graphic_Disc_AttentionToDetail.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Additional Risk Points Value",
+        "buff_amount_1": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

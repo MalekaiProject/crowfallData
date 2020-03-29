@@ -1,0 +1,30 @@
+{
+    "id": "champion-reverse-chain",
+    "name": "Leap",
+    "description": "launches you forward 16m dealing 65 - 88 + 77% Weapon Damage as Crushing Damage as you land and you may perform a second Leap for zero resource cost.",
+    "icon": "Graphic_Chmp_Leap.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "cooldown": "23",
+        "max_targets": "5",
+        "restore": "10.5",
+        "restore_type": "Rage",
+        "min_damage_1": "65",
+        "max_damage_1": "88",
+        "weapon_damage_value": "77",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [
+        "champion-leap-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

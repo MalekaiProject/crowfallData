@@ -1,0 +1,22 @@
+{
+    "id": "disengage",
+    "name": "Disengage",
+    "class": "assassin",
+    "description": "This talent grants the Disengage power.",
+    "icon": "Skill_Icon_017_028.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "assassin-disengage"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "backstab",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-exploration-i"
+    ],
+    "locksSkill": []
+}

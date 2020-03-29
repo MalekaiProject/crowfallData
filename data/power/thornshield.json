@@ -1,24 +1,26 @@
 {
-  "cast_type": "instant",
-  "cooldown": 23,
-  "cost": {
-    "name": "resource",
-    "cost": 16
-  },
-  "duration": 15,
-  "max_targets": 1,
-  "name": "Thornshield",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "thornshield",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Thorns"
-  ],
-  "targeting": "self",
-  "type": "buff",
-  "description": "Envelopes you with dangerous Thorns for 15 seconds causing any who strike you to take damage."
+    "name": "Thornshield",
+    "description": "envelopes you with dangerous Thorns for 15 seconds, causing any who strike you to take damage.",
+    "shortDescription": "Activate Thorns",
+    "icon": "Graphic_Disc_Thornshield.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "23",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_amount_1": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
 }

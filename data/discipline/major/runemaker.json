@@ -1,40 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A Practical Guide to Divination rates runemaking a 'X out of X'.",
-  "name": "Runemaker",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Runemaking"
-  ],
-  "stats": [{
-    "name": "Runemaking",
-    "value": 10
-  },
-  {
-    "name": "Runemaking Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Runemaking Experimentation Points",
-    "value": 2
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "runemaker",
+    "name": "Runemaker",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Runemaking.png",
+    "stats": [
+        {
+            "name": "Runemaking",
+            "value": 5
+        },
+        {
+            "name": "Runemaking Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Runemaking Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Runemaker"
+    ],
+    "description": "Recipes Granted:\\nAdvanced Harvesting Tools\\nAll Runestones\\nAll Sigils",
+    "lore": "A Practical Guide to Divination rates runemaking an 'X out of X'."
 }

@@ -1,0 +1,31 @@
+{
+    "id": "runecaster-fortification",
+    "name": "Fortification",
+    "description": "aids group members and you increasing Health by 1000.",
+    "shortDescription": "Group Increase Health Max",
+    "icon": "Graphic_Disc_PowerRuneFortification.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "45",
+        "max_targets": "5",
+        "cost": "12",
+        "cost_type": "Resource",
+        "buff_type_1": "Health",
+        "buff_amount_1": "10000",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100",
+        "min_damage_2": "1000"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

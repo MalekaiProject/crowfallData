@@ -1,0 +1,28 @@
+{
+    "id": "alligator-blood",
+    "name": "Alligator Blood",
+    "class": "assassin",
+    "description": "Alligator Blood improves Bleed Resistance by 1000 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "zoned-out",
+            "point": 1
+        },
+        {
+            "skill": "assassin-s-point",
+            "point": 1
+        },
+        {
+            "skill": "spirit-dart",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "blackguard"
+    ],
+    "locksSkill": []
+}

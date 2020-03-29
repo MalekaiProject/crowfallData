@@ -1,0 +1,48 @@
+{
+    "name": "Caldera Parcel",
+    "id": "caldera-parcel",
+    "icon": "parcel1.png",
+    "description": "Creates a Rank 1 Caldera Parcel.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_geomancy",
+    "ingredients": [
+        {
+            "name": "Capital Parcel",
+            "id": "capital-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Capital Parcel",
+            "id": "capital-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Capital Parcel",
+            "id": "capital-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Gold Tax",
+            "id": "gold-tax",
+            "icon": "cookies.png",
+            "quantity": 60000,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

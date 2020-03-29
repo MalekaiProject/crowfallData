@@ -1,22 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Necromancy Techniques",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "necromancy-techniques",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Necromancy"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Necromancy Cap by 20 and Necromancy Experimentation Cap by 20."
+    "name": "Reanimation Rites",
+    "description": "increases your Necromancy Cap by 15 and Necromancy Experimentation Cap by 15.",
+    "shortDescription": "Passive: Increase Necromancy Assembly and Experimentation Caps",
+    "icon": "Graphic_Disc_NecromancyTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Necromancy Cap",
+        "buff_amount_1": "15",
+        "buff_type_2": "Necromancy Experimentation Cap",
+        "buff_amount_2": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

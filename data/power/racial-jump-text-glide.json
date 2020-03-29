@@ -1,0 +1,19 @@
+{
+    "id": "racial-jump-text-glide",
+    "name": "Glide",
+    "description": "reduces your falling speed.\\n\\nYou can activate this power with the jump key after a successful double jump or while falling.",
+    "shortDescription": "Passive: Extend your Wings to Greatly Reduce Falling Speed",
+    "icon": "Graphic_Disc_Racial_Fae.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

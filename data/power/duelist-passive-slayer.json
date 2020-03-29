@@ -1,0 +1,19 @@
+{
+    "id": "duelist-passive-slayer",
+    "name": "Slayer",
+    "description": "turns the odds in your favor by earning stacks of Feeling Lucky when scoring Critical Strikes with any non-basic power. Stacks of Feeling Lucky are spent when performing certain powers to modify them as described below:\\n\\nInconceivable:\\nLuck increases coin flips by 1 per 2 stacks\\nLuck increases duration by 1 second per stack\\n\\nRedirect Pain:\\nLuck increases barrier by 100 per stack\\nLuck increases Retribution by 1% per stack\\nLuck increases duration by 1 second per stack\\n\\nDodge:\\nRecover a Dodge pip with 10 stacks",
+    "icon": "Graphic_Duel_Slayer.png",
+    "stats": {
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

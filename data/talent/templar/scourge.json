@@ -1,0 +1,21 @@
+{
+    "id": "scourge",
+    "name": "Scourge",
+    "class": "templar",
+    "description": "Scourge improves Movement Control Intensity by 7% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-fury",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "edict-of-damnation",
+        "scintillating-smash"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "flog",
+    "name": "Flog",
+    "class": "cleric",
+    "description": "Flog improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "flay",
+            "point": 2
+        },
+        {
+            "skill": "cleric-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "holy-symbol",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-exploration-ii"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "ire",
+    "name": "Ire",
+    "class": "champion",
+    "description": "Ire improves Maximum Rage by 3 per point spent and Basic Attack Damage by 1.5% per point spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "massive-cleave",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "brutal-warrior",
+        "champion-minor-iii",
+        "animosity"
+    ],
+    "locksSkill": []
+}

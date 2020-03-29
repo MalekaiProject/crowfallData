@@ -1,0 +1,22 @@
+{
+    "id": "a-toll-is-a-toll",
+    "name": "A Toll is a Toll",
+    "class": "ranger",
+    "description": "A Toll is a Toll enhances Archers Stake to become Treant Wood Stake, which removes its deploy time and applies a Slow to all enemies within 10m.",
+    "icon": "Skill_Icon_019_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-archers-stake-2"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "lambs-become-lions",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "below-the-belt"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,33 @@
+{
+    "id": "scimitarmaster-call-storm",
+    "name": "Call Storm",
+    "description": "calls lightning to strike a target, stunning them and causing 128 - 192 + 160% Electricity Weapon Damage.",
+    "shortDescription": "Attack: Electrocute; Stun enemy",
+    "icon": "Graphic_Disc_CallStorms.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "cooldown": "30",
+        "max_targets": "1",
+        "range": "35",
+        "cost": "26",
+        "cost_type": "Resource",
+        "min_damage_1": "128",
+        "max_damage_1": "192",
+        "weapon_damage_value": "160",
+        "weapon_damage_type": "Electricity",
+        "min_damage_2": "17",
+        "max_damage_2": "25",
+        "weapon_damage_2_value": "2"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

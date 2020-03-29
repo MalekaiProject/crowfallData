@@ -1,0 +1,22 @@
+{
+    "id": "treant-lore",
+    "name": "Treant Lore",
+    "class": "ranger",
+    "description": "Treant Lore enhances Archers Stake to become Treant Wood Stake, which removes its deploy time and reduces all Damage Taken by 15%.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-archers-stake-2"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ravencoat",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tree-sap-blood"
+    ],
+    "locksSkill": []
+}

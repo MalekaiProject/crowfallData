@@ -1,0 +1,20 @@
+{
+    "id": "indictment",
+    "name": "Indictment",
+    "class": "templar",
+    "description": "Indictment enhances Censure to award one Pip when you hit an enemy.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ecstasy",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "intercession"
+    ],
+    "locksSkill": []
+}

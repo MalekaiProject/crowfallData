@@ -1,0 +1,31 @@
+{
+    "id": "champion-spinning-backfist",
+    "name": "Spinning Backfist",
+    "description": "deals 125 - 169 + 147% Weapon Damage as Crushing Damage.",
+    "icon": "Graphic_Chmp_SpinningBackFist.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "14",
+        "cost_type": "Rage",
+        "min_damage_1": "125",
+        "max_damage_1": "169",
+        "weapon_damage_value": "147",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [
+        "champion-kicksand"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

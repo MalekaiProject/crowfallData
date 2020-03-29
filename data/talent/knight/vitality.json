@@ -1,0 +1,22 @@
+{
+    "id": "vitality",
+    "name": "Vitality",
+    "class": "knight",
+    "description": "Vitality improves Maximum Energy by 45 per point spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "hoplitodromos",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "break-the-law",
+        "knight-minor-ii",
+        "chain-attack"
+    ],
+    "locksSkill": []
+}

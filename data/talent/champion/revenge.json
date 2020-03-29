@@ -1,0 +1,28 @@
+{
+    "id": "revenge",
+    "name": "Revenge",
+    "class": "champion",
+    "description": "Revenge improves Hard Control Intensity by 7% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "death-from-above",
+            "point": 1
+        },
+        {
+            "skill": "effortless-neckbreaker",
+            "point": 1
+        },
+        {
+            "skill": "whirling-disaster",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "barbarian"
+    ],
+    "locksSkill": []
+}

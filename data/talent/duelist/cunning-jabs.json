@@ -1,0 +1,20 @@
+{
+    "id": "cunning-jabs",
+    "name": "Cunning Jabs",
+    "class": "duelist",
+    "description": "Cunning Jabs improves Armor Penetration: Physical by 1% per point spent.",
+    "icon": "Skill_Icon_017_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "critical-insight",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "artful-advance"
+    ],
+    "locksSkill": []
+}

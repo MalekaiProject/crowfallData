@@ -1,0 +1,21 @@
+{
+    "id": "seismic-symbol",
+    "name": "Seismic Symbol",
+    "class": "cleric",
+    "description": "Seismic Symbol enhances Holy Symbol to knock down up to three enemies within its radius when it is deployed.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "interdiction",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "divine-alacrity",
+        "wrathful-illumination"
+    ],
+    "locksSkill": []
+}

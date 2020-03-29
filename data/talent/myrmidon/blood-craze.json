@@ -1,0 +1,20 @@
+{
+    "id": "blood-craze",
+    "name": "Blood Craze",
+    "class": "myrmidon",
+    "description": "Blood Craze enhances Berserk to reduce Berserk Crash damage by an additional 25% when damaging an enemy who is Bleeding.",
+    "icon": "Skill_Icon_041_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "impressive-physique",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "unbreakable-contender"
+    ],
+    "locksSkill": []
+}

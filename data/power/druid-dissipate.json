@@ -1,0 +1,25 @@
+{
+    "id": "druid-dissipate",
+    "name": "Dissipate",
+    "description": "teleports you 20 meters in your WASD direction.",
+    "shortDescription": "Blink in a WASD direction",
+    "icon": "Graphic_Drud_Dissipate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "15",
+        "range": "20",
+        "buff_type_1": "Blink",
+        "buff_amount_1": "18m"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

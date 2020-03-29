@@ -1,0 +1,21 @@
+{
+    "id": "knifegrinder-bleed-basic",
+    "name": "Long Live The Fighter",
+    "description": "inflicts a Bleed with your third Basic attack. \\n\\nThe Bleed can be stacked up to three times.",
+    "shortDescription": "Passive: Adds the bleeding debuff to an enemy on every third Basic attack.",
+    "icon": "Graphic_Disc_LongLiveTheFighter.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

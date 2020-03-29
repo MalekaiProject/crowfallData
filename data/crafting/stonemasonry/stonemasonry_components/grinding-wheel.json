@@ -1,0 +1,39 @@
+{
+    "name": "Grinding Wheel",
+    "id": "grinding-wheel",
+    "icon": "gemGrind.png",
+    "description": "Creates a Grinding Wheel used to facet gems.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_components",
+    "ingredients": [
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "stone.png",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "stone.png",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "stone.png",
+            "quantity": 4,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

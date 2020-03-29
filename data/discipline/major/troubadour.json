@@ -1,34 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A lyrical poet with a heavy output of vocal assault, the troubadour is one fierce vocalist. The importance of song and rhythms are what set the Troubadour apart from any other lyrical counterpart and can make a great addition to any party.",
-  "name": "Troubadour",
-  "powers": [
-    "consonant-chains",
-    "requiem",
-    "dirge-of-dissonance",
-    "lament-of-sadness"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Organic Armor Bonus",
-    "value": 3.75
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "troubadour",
+    "name": "Troubadour",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Troubadour.png",
+    "stats": [
+        {
+            "name": "Organic Resistance",
+            "value": 3
+        },
+        {
+            "name": "Critical Strike",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "troubadour-chains",
+            "name": "Consonant Chains",
+            "description": "Song: Damage; Snare Enemies"
+        },
+        {
+            "id": "troubadour-requiem",
+            "name": "Requiem",
+            "description": "Song: Increase Enemy Damage Taken"
+        },
+        {
+            "id": "troubadour-dirge",
+            "name": "Dirge Of Dissonance",
+            "description": "Song: Damage Enemies"
+        },
+        {
+            "id": "troubadour-lament",
+            "name": "Lament Of Sadness",
+            "description": "Song: Reduce Enemy Attack, Support Power"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A lyrical poet with a heavy output of vocal assault, the troubadour is one fierce vocalist. The importance of song and rhymes are what set the Troubadour apart from any other lyrical counterpart and can make a great addition to any party.",
+    "lore": "The first Troubadour is said to have been a giant, boisterous fellow; o'er nine feet tall, clad in purple armor, lyre in hand, heart as black as midnight pitch."
 }

@@ -1,38 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A branch of magic specializing in the manipulation of kinetic energy, Force Mages wield physical forces to both protect themselves and to defeat their enemies. Force fields and impulses are easy things for them but that's not all. They can also use their power to augment their physical strength and seem much stronger than normal. Although capable of summoning forces with surgical precision they are sometimes savagely indiscriminate with their power.",
-  "name": "Force Mage",
-  "powers": [
-    "reactive-barrier",
-    "force-wave",
-    "kinetic-boost",
-    "wreckoning"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Barrier"
-  ],
-  "stats": [{
-    "name": "Barrier Bonus",
-    "value": 125
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "force-mage",
+    "name": "Force Mage",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_RealityWarper.png",
+    "stats": [
+        {
+            "name": "Anti-Critical Strike",
+            "value": -3
+        },
+        {
+            "name": "Barrier Bonus",
+            "value": 100
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "focusmaster-nova",
+            "name": "Force Wave",
+            "description": "Attack: Push Enemies Away"
+        },
+        {
+            "id": "mysticalmaster-stars-align",
+            "name": "Kinetic Boost",
+            "description": "Gain Damage Bonus; Reduce Ability Cost"
+        },
+        {
+            "id": "axemaster-berserker",
+            "name": "Reactive Barrier",
+            "description": "Passive: Attacks randomly add Barrier; Attack Power"
+        },
+        {
+            "id": "focusmaster-mind-revenge",
+            "name": "Wreckoning",
+            "description": "Passive: Area Damage when Barrier Removed"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A branch of magic specializing in the manipulation of kinetic energy, Force Mages wield physical forces to both protect themselves and to defeat their enemies. Force fields and impulses are easy things for them but that's not all. They can also use their power to augment their physical strength and seem much stronger than normal. Although capable of summoning forces with surgical precision they are sometimes savagely indiscriminate with their power.",
+    "lore": "It's not the length of the vector that counts; it's how you apply the force."
 }

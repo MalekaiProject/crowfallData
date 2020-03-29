@@ -1,0 +1,22 @@
+{
+    "id": "assassin-talent-yagas-gift",
+    "name": "Yaga's Gift",
+    "description": "embraces you, causing attacks that would otherwise kill you, instead reduce you to 15% of your maximum health. For 4 seconds afterward, you take 90% reduced damage.\\n\\nCannot trigger more often than once per 5 min.",
+    "icon": "Graphic_Assn_YagasGift.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "stealth",
+        "harvest"
+    ]
+}

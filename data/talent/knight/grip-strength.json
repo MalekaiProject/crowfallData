@@ -1,0 +1,21 @@
+{
+    "id": "grip-strength",
+    "name": "Grip Strength",
+    "class": "knight",
+    "description": "Grip Strength improves Power Efficiency and Power Efficiency Cap by 5% per point spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-sentinel",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "heartless",
+        "ringing-shield"
+    ],
+    "locksSkill": []
+}

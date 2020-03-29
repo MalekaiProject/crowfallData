@@ -1,0 +1,22 @@
+{
+    "id": "siegeengineer-siege-repair",
+    "name": "Repair Siege Engine",
+    "description": "repairs a targeted Siege Engine.",
+    "shortDescription": "Channel: Repair Target Siege Engine",
+    "icon": "Mount_RepairSiegeEngine.png",
+    "stats": {
+        "cast_time": "Channeled",
+        "target": "Reticle",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

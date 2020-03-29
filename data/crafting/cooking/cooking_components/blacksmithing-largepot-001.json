@@ -1,0 +1,21 @@
+{
+    "name": "Large Cooking Pot",
+    "id": "blacksmithing-largepot-001",
+    "icon": "flux.png",
+    "description": "Creates a very large cooking pot that is used in various Cooking recipes.",
+    "outputQuantity": 10,
+    "xp": 0.38,
+    "category": "cooking",
+    "subCategory": "cooking_components",
+    "ingredients": [
+        {
+            "name": "Non-Basic Ore",
+            "id": "non-basic-ore",
+            "icon": "ore.png",
+            "quantity": 6,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

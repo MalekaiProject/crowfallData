@@ -1,0 +1,23 @@
+{
+    "id": "elken-gestalt",
+    "name": "Gestalt",
+    "description": "activates Shadow Sight allowing you to detect enemies in stealth for 15 seconds.\\n\\nThis power has an extremely high Perception base.",
+    "shortDescription": "Limited Duration See Stealthed Players",
+    "icon": "Graphic_Disc_Gestalt.png",
+    "stats": {
+        "cast_time": "2 Seconds",
+        "target": "Self",
+        "cooldown": "45",
+        "duration": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

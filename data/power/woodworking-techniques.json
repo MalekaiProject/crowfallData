@@ -1,22 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Woodworking Techniques",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "woodworking-techniques",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Woodworking"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Woodworking Cap by 20 and Woodworking Experimentation Cap by 20."
+    "name": "Measure Twice Cut Once",
+    "description": "increases your Woodworking Cap by 15 and Woodworking Experimentation Cap by 15.",
+    "shortDescription": "Passive: Increase Woodworking Assembly and Experimentation Caps",
+    "icon": "Graphic_Disc_WoodworkingTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Woodworking Cap",
+        "buff_amount_1": "15",
+        "buff_type_2": "Woodworking Experimentation Cap",
+        "buff_amount_2": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

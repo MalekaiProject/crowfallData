@@ -1,0 +1,27 @@
+{
+    "id": "duelist-b-attack-3",
+    "name": "Swift Swings",
+    "description": "attacks for 65 - 97 + 81% Weapon Damage.",
+    "icon": "Graphic_Duel_Basic3.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "65",
+        "max_damage_1": "97",
+        "weapon_damage_value": "81"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "duelist-b-attack-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

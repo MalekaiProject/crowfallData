@@ -1,0 +1,31 @@
+{
+    "id": "myrmidon-whirlwind",
+    "name": "Whirlwind",
+    "description": "spins you around rapidly hitting nearby enemies multiple times for 24 - 30 + 27% Weapon Damage and causing them to Bleed for 18 - 24 damage.",
+    "icon": "Graphic_Myrm_Whirlwind.png",
+    "stats": {
+        "cast_time": "Channeled",
+        "target": "Sphere",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "9",
+        "cost_type": "Fury",
+        "min_damage_1": "24",
+        "max_damage_1": "30",
+        "weapon_damage_value": "27",
+        "min_damage_2": "18",
+        "max_damage_2": "24"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "myrmidon-arcing-slash"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

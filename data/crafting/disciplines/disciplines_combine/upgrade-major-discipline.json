@@ -1,0 +1,66 @@
+{
+    "name": "Upgrade Major Discipline",
+    "id": "upgrade-major-discipline",
+    "icon": "runestoneMajorDisciplines.png",
+    "description": "Combine identical Major Disciplines of the same quality to create a higher quality version of the same Major Discipline.\\n\\nDisciplines must be Uncommon quality or higher.",
+    "outputQuantity": 1,
+    "xp": 0,
+    "category": "disciplines",
+    "subCategory": "disciplines_combine",
+    "ingredients": [
+        {
+            "name": "Major Discipline",
+            "id": "major-discipline",
+            "icon": "runestoneMajorDisciplines.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Major Discipline",
+            "id": "major-discipline",
+            "icon": "runestoneMajorDisciplines.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Major Discipline",
+            "id": "major-discipline",
+            "icon": "runestoneMajorDisciplines.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

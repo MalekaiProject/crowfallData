@@ -1,0 +1,28 @@
+{
+    "id": "almighty-hugeness",
+    "name": "Almighty Hugeness",
+    "class": "champion",
+    "description": "Almighty Hugeness improves Maximum Health by 250 and the amount healed by Ultimate Warrior by 5% per point spent.",
+    "icon": "Skill_Icon_017_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "leap-to-safety",
+            "point": 1
+        },
+        {
+            "skill": "invincible-warrior",
+            "point": 1
+        },
+        {
+            "skill": "whirling-shield",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "pit-fighter"
+    ],
+    "locksSkill": []
+}

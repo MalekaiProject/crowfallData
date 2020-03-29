@@ -1,0 +1,26 @@
+{
+    "id": "hoarder-usurious-bargain",
+    "name": "Usurious Bargain",
+    "description": "sacrifices 1000 Health for 50 Stamina.",
+    "shortDescription": "Swap Health into Stamina",
+    "icon": "Graphic_Disc_UsuriousBargain.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "1000",
+        "cost_type": "Health",
+        "buff_type_1": "Stamina",
+        "buff_amount_1": "50"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

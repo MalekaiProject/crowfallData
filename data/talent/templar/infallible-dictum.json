@@ -1,0 +1,22 @@
+{
+    "id": "infallible-dictum",
+    "name": "Infallible Dictum",
+    "class": "templar",
+    "description": "Infallible Dictum improves Critical Strike by 1% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "devotion",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fiery-perdition",
+        "templar-minor-ii",
+        "divine-light"
+    ],
+    "locksSkill": []
+}

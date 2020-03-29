@@ -1,0 +1,21 @@
+{
+    "id": "mercy",
+    "name": "Mercy",
+    "class": "knight",
+    "description": "Mercy improves Damage Bonus by 1% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "commanding-vow",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "critical-obliteration",
+        "double-time"
+    ],
+    "locksSkill": []
+}

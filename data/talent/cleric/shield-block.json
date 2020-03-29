@@ -1,0 +1,24 @@
+{
+    "id": "shield-block",
+    "name": "Shield Block",
+    "class": "cleric",
+    "description": "This talent grants the Shield Block power.",
+    "icon": "Skill_Icon_015_014.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        "cleric-block"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "prudence",
+        "mission-of-mercy",
+        "anointed"
+    ],
+    "locksSkill": []
+}

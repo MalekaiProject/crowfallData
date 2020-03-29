@@ -1,0 +1,23 @@
+{
+    "id": "druid-avatar-storm",
+    "name": "Storm Avatar",
+    "description": "empowers you, increasing Critical Strike by 15%, Critical Damage by 25%, Damage Bonus by 12%, and Attack Power by 175 for 30 seconds.\\n\\nReceiving this effect you will gain Avatar Fatigue and be unable to benefit from any form of Avatar for 5 min.",
+    "icon": "Graphic_Drud_StormAvatar.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "max_targets": "1",
+        "cost": "35",
+        "cost_type": "Essence"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

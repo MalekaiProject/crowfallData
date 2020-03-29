@@ -1,0 +1,30 @@
+{
+    "id": "assassin-backstab",
+    "name": "Backstab",
+    "description": "stabs an enemy, causing 17 - 25 + 21% Weapon Damage. Power Damage is increased by 800% and generate a bonus Pip when you are behind your target.\\n\\nGenerates 1 Pip.",
+    "icon": "Graphic_Assn_Backstab.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "6",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "133",
+        "max_damage_1": "200",
+        "weapon_damage_value": "167",
+        "min_damage_2": "17",
+        "max_damage_2": "25",
+        "weapon_damage_2_value": "21"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee",
+        "stealth"
+    ]
+}

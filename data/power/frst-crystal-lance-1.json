@@ -1,0 +1,33 @@
+{
+    "id": "frst-crystal-lance-1",
+    "name": "Crystal Lance",
+    "description": "skewers an enemy with a jagged Ice shard for 181 - 272 + 227% Weapon Damage. Enemies under 35% Health suffer execution scale damage taking 272 - 408 + 340% Weapon Damage.",
+    "icon": "Graphic_Frst_CrystalLance.png",
+    "stats": {
+        "weapon_damage_2_value": "340",
+        "max_damage_2": "408",
+        "min_damage_2": "272",
+        "weapon_damage_value": "227",
+        "max_damage_1": "272",
+        "min_damage_1": "181",
+        "cost_type": "Mana",
+        "cost": "135",
+        "range": "30",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "frst-crystal-lance-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

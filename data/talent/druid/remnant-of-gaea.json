@@ -1,0 +1,27 @@
+{
+    "id": "remnant-of-gaea",
+    "name": "Remnant of Gaea",
+    "class": "druid",
+    "description": "This talent grants the Sacrifice power.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "druid-z-sacrifice-basic"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "foresight",
+            "point": 1
+        },
+        {
+            "skill": "thick-skin",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "bark-skin",
+        "call-storm"
+    ],
+    "locksSkill": []
+}

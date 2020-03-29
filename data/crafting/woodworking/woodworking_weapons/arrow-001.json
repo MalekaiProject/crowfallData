@@ -1,0 +1,39 @@
+{
+    "name": "Advanced Arrows",
+    "id": "arrow-001",
+    "icon": "arrow.png",
+    "description": "Creates some Piercing Arrows.Produces 500.",
+    "outputQuantity": 500,
+    "xp": 0.01,
+    "category": "woodworking",
+    "subCategory": "woodworking_weapons",
+    "ingredients": [
+        {
+            "name": "Arrowhead Bundle",
+            "id": "arrowhead-bundle",
+            "icon": "arrowhead.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Arrow Shaft Bundle",
+            "id": "arrow-shaft-bundle",
+            "icon": "weaponShaftShort.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

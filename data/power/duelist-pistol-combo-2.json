@@ -1,0 +1,31 @@
+{
+    "id": "duelist-pistol-combo-2",
+    "name": "Precise Shot",
+    "description": "shoots an enemy for 45 - 68 + 57% Weapon Damage while generating a Pip.",
+    "icon": "Graphic_Disc_PistolShot_A.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "max_targets": "1",
+        "range": "15",
+        "cost": "11",
+        "cost_type": "Resource",
+        "min_damage_1": "45",
+        "max_damage_1": "68",
+        "weapon_damage_value": "57"
+    },
+    "nextChain": [
+        "duelist-pistol-combo-3"
+    ],
+    "lastChain": [
+        "duelist-pistol-combo-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "refreshing-breeze",
+    "name": "Refreshing Breeze",
+    "class": "frostweaver",
+    "description": "This talent grants the Refreshing Breeze power.\\n\\nTraits Granted:\\nRefreshing Focus Gem",
+    "icon": "Skill_Icon_017_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-cool-breeze"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cool-headed",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "exquisite-detail"
+    ],
+    "locksSkill": []
+}

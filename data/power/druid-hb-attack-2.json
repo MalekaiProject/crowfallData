@@ -1,0 +1,30 @@
+{
+    "id": "druid-hb-attack-2",
+    "name": "Coalesce Forestry",
+    "description": "manifests an Orb at your targeted location that allies or you may use to heal 32 to 40 + 14.4% Support Power.",
+    "icon": "Graphic_Drud_Basic2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "max_targets": "1",
+        "cost": "46",
+        "duration": "60 seconds",
+        "min_damage_1": "32",
+        "max_damage_1": "40",
+        "weapon_damage_value": "14.4"
+    },
+    "nextChain": [
+        "druid-hb-attack-3"
+    ],
+    "lastChain": [
+        "druid-hb-attack-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "druid_healing"
+    ]
+}

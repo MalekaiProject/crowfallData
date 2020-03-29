@@ -1,0 +1,20 @@
+{
+    "id": "myrmidon-passive-titan",
+    "name": "Titan",
+    "description": "stacks the Titan's Strength buff up to 25 times whenever you strike a Bleeding enemy. \\n\\nEach stack increases damage caused by Right Slash, Left Slash, Double Slash and Neck Slash by 2% for 30 seconds.",
+    "icon": "Graphic_Myrm_Titan.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "nature-s-cornerstone",
+    "name": "Nature's Cornerstone",
+    "class": "druid",
+    "description": "This talent grants the Gaea's Wail power.",
+    "icon": "Skill_Icon_044_015.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "druid-z-gaeas-wail"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-major-i",
+        "druid-major-ii",
+        "promotion-class-stormcaller",
+        "promotion-class-archdruid",
+        "promotion-class-earthkeeper"
+    ],
+    "locksSkill": []
+}

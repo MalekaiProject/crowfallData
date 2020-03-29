@@ -1,0 +1,21 @@
+{
+    "id": "frst-passive-cool-casting",
+    "name": "Cooling Focus",
+    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Cool Ice near your target.\\n\\nCool Ice benefits allies within 10m over time restoring their native resource.",
+    "icon": "Graphic_FrostWeaver_CoolingFocus_01.png",
+    "stats": {
+        "weapon_damage_value": "62",
+        "max_damage_1": "17",
+        "min_damage_1": "14",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

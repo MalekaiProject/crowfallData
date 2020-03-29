@@ -1,0 +1,22 @@
+{
+    "id": "frenzy",
+    "name": "Frenzy",
+    "class": "myrmidon",
+    "description": "This talent grants the Frenzy power.",
+    "icon": "Skill_Icon_017_026.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "myrmidon-frenzy"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ruthless-force",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "violent-might"
+    ],
+    "locksSkill": []
+}

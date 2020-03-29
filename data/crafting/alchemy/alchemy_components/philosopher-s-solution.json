@@ -1,0 +1,48 @@
+{
+    "name": "Philosopher's Solution",
+    "id": "philosopher-s-solution",
+    "icon": "ambrosia.png",
+    "description": "Creates a solution used in the crafting of a Philosopher's Stone.\\n\\nGround Halite and Powdered Slate yield a DEX solution,\\nGround Dolomite and Powdered Marble yield a INT solution,\\nGround Sulphur and Powdered Travertine yields a SPR solution,\\nGround Cinnabar and Powdered Granite yield a STR solution,\\nGround Nitrate and Powdered Limestone yield a CON solution",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "alchemy",
+    "subCategory": "alchemy_components",
+    "ingredients": [
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Powdered Stone",
+            "id": "powdered-stone",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Ground Mineral",
+            "id": "ground-mineral",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "critical-illumination",
+    "name": "Critical Illumination",
+    "class": "cleric",
+    "description": "Critical Illumination enhances Illuminate to also increase Critical Strike with each hit until you score three critical strikes or the effect ends.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "hammer-time",
+            "point": 2
+        },
+        {
+            "skill": "symbol-of-fury",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "transcendence"
+    ],
+    "locksSkill": []
+}

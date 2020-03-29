@@ -1,0 +1,21 @@
+{
+    "id": "high-health-damage-bonus",
+    "name": "Pound Of Flesh",
+    "description": "When your target's Health is above 90%, your Damage Bonus is increased against that target by 15%.",
+    "shortDescription": "Passive: Damage Bonus versus High Health",
+    "icon": "Graphic_Disc_PoundOfFlesh.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "30%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

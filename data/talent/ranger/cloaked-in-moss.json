@@ -1,0 +1,22 @@
+{
+    "id": "cloaked-in-moss",
+    "name": "Cloaked in Moss",
+    "class": "ranger",
+    "description": "Cloaked in Moss improves In and Out of Combat Health Regeneration by 3 per point spent.",
+    "icon": "Skill_Icon_043_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-savvy",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "something-s-amiss",
+        "cross-slash",
+        "double-shots"
+    ],
+    "locksSkill": []
+}

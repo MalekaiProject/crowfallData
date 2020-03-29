@@ -1,0 +1,30 @@
+{
+    "name": "Lacing Sinew",
+    "id": "artistry-sinew-001",
+    "icon": "sinew.png",
+    "description": "Creates Lacing Sinew that is used in various crafting recipes. Produces 5.",
+    "outputQuantity": 5,
+    "xp": 0.75,
+    "category": "leatherworking",
+    "subCategory": "leatherworking_components",
+    "ingredients": [
+        {
+            "name": "Animal Meat",
+            "id": "animal-meat",
+            "icon": "meat.png",
+            "quantity": 3,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

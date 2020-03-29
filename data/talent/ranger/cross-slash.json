@@ -1,0 +1,22 @@
+{
+    "id": "cross-slash",
+    "name": "Cross Slash",
+    "class": "ranger",
+    "description": "This talent grants the Cross Slash power.",
+    "icon": "Skill_Icon_018_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-cross-slash"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cloaked-in-moss",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "weathered-resilience"
+    ],
+    "locksSkill": []
+}

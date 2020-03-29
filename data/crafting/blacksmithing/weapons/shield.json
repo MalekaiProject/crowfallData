@@ -1,0 +1,48 @@
+{
+    "name": "Shield",
+    "id": "shield",
+    "icon": "shield.png",
+    "description": "Creates a Shield, the type of Shield Base used determines the type of Shield created.\\n\\nSmall Base yields a Buckler,\\nMedium Base yields a Medium Shield,\\nLarge Base yields a Tower Shield.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "weapons",
+    "ingredients": [
+        {
+            "name": "Shield Covering",
+            "id": "shield-covering",
+            "icon": "shieldCover.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Shield Base",
+            "id": "shield-base",
+            "icon": "shieldBase.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Enarmes",
+            "id": "enarmes",
+            "icon": "shieldEnarmes.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 7,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

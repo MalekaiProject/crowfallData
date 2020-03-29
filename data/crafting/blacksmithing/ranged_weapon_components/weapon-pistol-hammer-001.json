@@ -1,0 +1,21 @@
+{
+    "name": "Pistol Hammer and Frizzen",
+    "id": "weapon-pistol-hammer-001",
+    "icon": "pistolHammer.png",
+    "description": "Creates a Pistol Hammer and Frizzen that is used to create a Pistol.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "ranged_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

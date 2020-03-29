@@ -1,0 +1,66 @@
+{
+    "name": "Limbs: Bow",
+    "id": "weapon-bow-stave-limb-001",
+    "icon": "bowStaveLimb.png",
+    "description": "Creates a Bow Limb that is used to create a Bow.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Bending Form",
+            "id": "bending-form",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 8,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

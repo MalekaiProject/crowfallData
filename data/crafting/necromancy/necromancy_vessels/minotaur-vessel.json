@@ -1,0 +1,75 @@
+{
+    "name": "Minotaur Vessel",
+    "id": "minotaur-vessel",
+    "icon": "vessel_minotaur.png",
+    "description": "Creates a Minotaur Vessel.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "necromancy",
+    "subCategory": "necromancy_vessels",
+    "ingredients": [
+        {
+            "name": "Restored Minotaur Head",
+            "id": "restored-minotaur-head",
+            "icon": "necromancyHead.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Beast Leg",
+            "id": "restored-beast-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Beast Leg",
+            "id": "restored-beast-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Human Torso",
+            "id": "restored-human-torso",
+            "icon": "necromancyTorso.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Human Arm",
+            "id": "restored-human-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Human Arm",
+            "id": "restored-human-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Stone",
+            "id": "philosopher-s-stone",
+            "icon": "philosophersStone.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "solid-muscle",
+    "name": "Solid Muscle",
+    "class": "myrmidon",
+    "description": "Solid Muscle improves Attack Power by 50 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "vicious-cruelty",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "gathering-storm",
+        "blood-thirst"
+    ],
+    "locksSkill": []
+}

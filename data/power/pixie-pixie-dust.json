@@ -1,0 +1,32 @@
+{
+    "id": "pixie-pixie-dust",
+    "name": "Pixie Dust",
+    "description": "blankets the targeted area with Pixie Dust, increasing Incoming Healing by 25% for 25 seconds.",
+    "shortDescription": "Ground Target Area Increase Incoming Heals",
+    "icon": "Graphic_Disc_PixieDust.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "45",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "14",
+        "cost_type": "Resource",
+        "duration": "25 seconds",
+        "buff_type_1": "Incoming Healing",
+        "buff_amount_1": "25%",
+        "min_damage_1": "54",
+        "max_damage_1": "72",
+        "weapon_damage_value": "63"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

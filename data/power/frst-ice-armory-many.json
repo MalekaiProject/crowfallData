@@ -1,0 +1,22 @@
+{
+    "id": "frst-ice-armory-many",
+    "name": "Frost Armory",
+    "description": "instantly creates at least one Frost Armor with additional pieces of Frost Armor formed for each Ice in your Ice Stores, emptying them in the process.\\n\\nFrost Armor can be picked up by allies and you to add 3500 Armor. This effect lasts until you take damage and then up to 15 seconds after. Each hit adds one Frost Armor Crack counter (one per second max) and the effect ends if you are hit after your third Frost Armor Crack.",
+    "icon": "Graphic_FrostWeaver_FrostArmory_01.png",
+    "stats": {
+        "cost_type": "Mana",
+        "cost": "400",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "righteous-defense",
+    "name": "Righteous Defense",
+    "class": "cleric",
+    "description": "Righteous Defense enhances Shield Block to Heal allies and yourself when you are damaged by enemies.",
+    "icon": "Skill_Icon_015_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "mission-of-mercy",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "sanctuary"
+    ],
+    "locksSkill": []
+}

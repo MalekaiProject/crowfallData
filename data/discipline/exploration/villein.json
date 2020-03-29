@@ -1,31 +1,25 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A little bit of elbow grease can go a long way when it comes to harvesting. A bit more practice and patience can make one more adept and experienced while also prolonging the life of the harvesting tools used.",
-  "name": "Villein",
-  "powers": [
-    "put-your-back-into-it",
-    "seasoned-hand"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "villein",
+    "name": "Villein",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Villein.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "villein-back-into-it",
+            "name": "Put Your Back Into It!",
+            "description": "Use Health to Gain Harvest Pips"
+        },
+        {
+            "id": "villein-seasoned-hand",
+            "name": "Seasoned Hand",
+            "description": "Passive: Greatly Decreases Harvesting Tool Decay"
+        },
+        "mechanic_grant_harvest_pips_ui"
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A little bit of elbow grease can go a long way when it comes to harvesting. A bit more practice and patience can make one more adept and experienced while also prolonging the life of the harvesting tools used.",
+    "lore": "It is practice and wisdom that creates a knowledgeable hand."
 }

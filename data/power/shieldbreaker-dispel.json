@@ -1,0 +1,30 @@
+{
+    "id": "shieldbreaker-dispel",
+    "name": "Dispel",
+    "description": "strip away an enemy's Barrier inflicting 91 - 123 + 107% Weapon Damage and causing Knockdown if a Barrier is removed.",
+    "shortDescription": "Attack: Cancel and Punish Barrier Users",
+    "icon": "Graphic_Disc_Dispell.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "15",
+        "cost": "13",
+        "cost_type": "Resource",
+        "min_damage_1": "91",
+        "max_damage_1": "123",
+        "weapon_damage_value": "107"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "frst-weave-well",
+    "name": "Shape Alliance",
+    "description": "continues the dance toward the creation of beneficial Ice types to aid allies and restore 50 mana.",
+    "icon": "Graphic_FrostWeaver_ShapeAlliance_01.png",
+    "stats": {
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "frst-weave-well-ref",
+        "frst-weave-well-cool"
+    ],
+    "lastChain": [
+        "frst-weave-activate"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

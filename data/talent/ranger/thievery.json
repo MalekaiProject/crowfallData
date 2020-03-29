@@ -1,0 +1,20 @@
+{
+    "id": "thievery",
+    "name": "Thievery",
+    "class": "ranger",
+    "description": "Thievery improves Power Efficiency by 5% per point spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "boundless-energy",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "sleight-of-hand"
+    ],
+    "locksSkill": []
+}

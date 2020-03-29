@@ -1,42 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The Book of the Dead. Bound in human flesh and inked in blood, this ancient text contains all you need to know to create the perfect vessel.",
-  "name": "Necromancer",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Necromancy"
-  ],
-  "stats": [{
-    "name": "Necromancy",
-    "value": 10
-  },
-  {
-    "name": "Necromancy Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Necromancy Experimentation Points",
-    "value": 2
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "necromancer",
+    "name": "Necromancer",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Necromancy.png",
+    "stats": [
+        {
+            "name": "Necromancy",
+            "value": 5
+        },
+        {
+            "name": "Necromancy Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Necromancy Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Necromancer"
+    ],
+    "description": "Recipes Granted:\\nAll Vessel Types\\nBody Part Restorations",
+    "lore": "The Book of the Dead. Bound in human flesh and inked in blood, this ancient text contains all you need to know to create the perfect vessel."
 }

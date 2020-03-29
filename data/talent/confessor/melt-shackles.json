@@ -1,0 +1,21 @@
+{
+    "id": "melt-shackles",
+    "name": "Melt Shackles",
+    "class": "confessor",
+    "description": "Melt Shackles reduces the cost of Retaliate by 10% per point spent.",
+    "icon": "Skill_Icon_034_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-sanctifier",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "militant",
+        "poise"
+    ],
+    "locksSkill": []
+}

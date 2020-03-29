@@ -1,0 +1,27 @@
+{
+    "id": "druid-will-wisps",
+    "name": "Will O' Wisps",
+    "description": "charges up and flings a Will o' Wisp to heal allies in an 8m area for 108 - 132 + 48% Support Power.",
+    "icon": "Graphic_Drud_WillOWisp.png",
+    "stats": {
+        "cast_time": "Charged",
+        "target": "Area",
+        "cooldown": "25",
+        "max_targets": "5",
+        "cost": "63",
+        "cost_type": "Essence",
+        "min_damage_1": "108",
+        "max_damage_1": "132",
+        "weapon_damage_value": "48"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "druid_healing"
+    ]
+}

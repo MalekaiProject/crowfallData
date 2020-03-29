@@ -1,0 +1,21 @@
+{
+    "id": "impressive-physique",
+    "name": "Impressive Physique",
+    "class": "myrmidon",
+    "description": "Impressive Physique improves Maximum Health by 175 per point spent.",
+    "icon": "Skill_Icon_017_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "fearless-resilience",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "blood-craze",
+        "invincible-storm"
+    ],
+    "locksSkill": []
+}

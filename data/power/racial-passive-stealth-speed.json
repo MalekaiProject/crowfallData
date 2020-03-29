@@ -1,0 +1,23 @@
+{
+    "id": "racial-passive-stealth-speed",
+    "name": "Walk Without Rhythm",
+    "description": "increases your Movement Speed: Stealth statistic by 20%.",
+    "shortDescription": "Passive: Increase Movement Speed while Stealthed",
+    "icon": "Graphic_Disc_Racial_Nethari.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Movement Speed: Stealth",
+        "buff_amount_1": "20%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

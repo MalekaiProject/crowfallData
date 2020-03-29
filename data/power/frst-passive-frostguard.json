@@ -1,0 +1,19 @@
+{
+    "id": "frst-passive-frostguard",
+    "name": "Frostguard",
+    "description": "improves Frost Armor so Frost Armor Cracks are repaired and Frost Armor fully refreshed when the timer expires, instead of it being removed.",
+    "icon": "Graphic_FrostWeaver_Frostguard_01.png",
+    "stats": {
+        "max_targets": "1",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

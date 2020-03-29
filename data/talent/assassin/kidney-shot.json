@@ -1,0 +1,18 @@
+{
+    "id": "kidney-shot",
+    "name": "Kidney Shot",
+    "class": "assassin",
+    "description": "This talent grants the Kidney Shot power.",
+    "icon": "Skill_Icon_045_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "assassin-kidney-shot"
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "brutal-fury",
+        "shadow-heart"
+    ],
+    "locksSkill": []
+}

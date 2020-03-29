@@ -1,0 +1,26 @@
+{
+    "id": "cheap-shots",
+    "name": "Cheap Shots",
+    "class": "duelist",
+    "description": "This talent grants the Cheap Shots power.",
+    "icon": "Skill_Icon_032_008.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-stealth-cheap-shots"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "tenacity",
+            "point": 2
+        },
+        {
+            "skill": "daring-escape",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "shiny-coat"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Red Wine",
+    "id": "wine-001",
+    "icon": "ambrosia.png",
+    "description": "Creates a robust Red Wine for drinking or for use in various Cooking recipes. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_head_chef",
+    "ingredients": [
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Empty Flask",
+            "id": "empty-flask",
+            "icon": "emptyFlask.png",
+            "quantity": 5,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Yeast",
+            "id": "yeast",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Sugarcane",
+            "id": "sugarcane",
+            "icon": "",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Apple",
+            "id": "apple",
+            "icon": "apple.png",
+            "quantity": 5,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

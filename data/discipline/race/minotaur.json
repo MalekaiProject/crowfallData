@@ -1,47 +1,77 @@
 {
-  "classes": [
-    "ranger",
-    "champion",
-    "myrmidon"
-  ],
-  "description": "Once slaves to Elven nobility, the Minotaurs broke free of their masters in the Celestial War and have lived in and around the outer fringes of civilized society ever since.",
-  "name": "Minotaur",
-  "tags": [],
-  "powers": [
-    "minotaur-bloodline",
-    "dodge-minotaur",
-    "bloodthirst",
-    "bull-rush"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Dexterity",
-      "value": 30
-    },
-    {
-      "name": "Food Regen Rate",
-      "value": -30
-    },
-    {
-      "name": "Necromancy",
-      "value": 10
-    },
-    {
-      "name": "Necromancy Experimentation",
-      "value": 10
-    },
-    {
-      "name": "Stonemasonry",
-      "value": 10
-    },
-    {
-      "name": "Stonemasonry Experimentation",
-      "value": 5
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "minotaur",
+    "name": "Minotaur",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_Minotaur.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 300
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 250
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 150
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 200
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 350
+        },
+        {
+            "name": "Dexterity",
+            "value": 30
+        },
+        {
+            "name": "Constitution",
+            "value": 35
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-gigantism",
+            "name": "Gigantism",
+            "description": "Passive: Large Body Size Causes Faster Food Pool Decay"
+        },
+        {
+            "id": "racial-passive-all-mitigations",
+            "name": "Thick Skin",
+            "description": "Passive: Increase Resist All"
+        },
+        {
+            "id": "racial-passive-frontal-stun-immunity",
+            "name": "Unbreakable",
+            "description": "Passive: Frontal Stun Immunity"
+        },
+        {
+            "id": "racial-passive-harvest-animal",
+            "name": "Waste Not, Want Not",
+            "description": "Passive: Increase Skinning"
+        },
+        {
+            "id": "minotaur-bloodthirst",
+            "name": "Bloodthirst",
+            "description": "Instantly Heals Damage, Damage Taken Becomes DoT"
+        },
+        {
+            "id": "myrmidon-bull-rush",
+            "name": "Bull Rush",
+            "description": "Attack: Charge Forward; Damage Enemies"
+        },
+        {
+            "id": "myrmidon-dodge",
+            "name": "Dive Roll",
+            "description": "Dive Roll in a WASD direction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Once slaves to Elven nobility, the Minotaurs broke free of their masters in the Celestial War and have lived in and around the outer fringes of civilized society ever since."
 }

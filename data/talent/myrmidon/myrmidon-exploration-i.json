@@ -1,0 +1,25 @@
+{
+    "id": "myrmidon-exploration-i",
+    "name": "Exploration Discipline Slot",
+    "class": "myrmidon",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "arcing-slash",
+            "point": 1
+        },
+        {
+            "skill": "pulverize",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-minor-i",
+        "colossus-smash"
+    ],
+    "locksSkill": []
+}

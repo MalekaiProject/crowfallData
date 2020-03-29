@@ -1,0 +1,27 @@
+{
+    "id": "illuminate",
+    "name": "Illuminate",
+    "class": "cleric",
+    "description": "This talent grants the Illuminate power.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "cleric-illuminate"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "empathy",
+            "point": 1
+        },
+        {
+            "skill": "consecrated-armor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tend-wounds",
+        "flash-of-light"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "sawbones",
+    "name": "Sawbones",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_Necromancy.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "necromancy-techniques",
+            "name": "Reanimation Rites",
+            "description": "Passive: Increase Necromancy Assembly and Experimentation Caps"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Sawbones"
+    ],
+    "description": "Reduced Recipe Resource Costs:\\nRestored Arm\\nRestored Centaur Body\\nRestored Head\\nRestored Leg\\nRestored Torso",
+    "lore": "The Book of Shadows holds many secrets, including the basics of necromancy and coupons for S Mart."
+}

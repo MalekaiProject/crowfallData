@@ -1,0 +1,28 @@
+{
+    "id": "assassin-disengage",
+    "name": "Disengage",
+    "description": "dashes you backward 16m with an attack generating a Pip and causing 86 - 129 + 108% Weapon Damage.",
+    "icon": "Graphic_Assn_Disengage.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "16",
+        "min_damage_1": "86",
+        "max_damage_1": "129",
+        "weapon_damage_value": "108"
+    },
+    "nextChain": [
+        "assassin-engage"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

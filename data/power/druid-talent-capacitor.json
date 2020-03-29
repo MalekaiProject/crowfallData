@@ -1,0 +1,20 @@
+{
+    "id": "druid-talent-capacitor",
+    "name": "Capacitor",
+    "description": "generates a stack of Capacitance when you hit a target with Electricity damage.\\n\\nIf you gain 6 stacks in 10 seconds, Lightning Shield is applied to you.\\n\\nLightning Shield grants 20% Retribution, and you gain 25 Essence every 2 seconds for 15 seconds.",
+    "icon": "Graphic_Drud_Capacitor.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

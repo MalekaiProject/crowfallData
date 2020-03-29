@@ -1,0 +1,28 @@
+{
+    "id": "sleight-of-hand",
+    "name": "Sleight of Hand",
+    "class": "ranger",
+    "description": "Sleight of Hand improves Basic Attack Damage by 2% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "thievery",
+            "point": 2
+        },
+        {
+            "skill": "ranger-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "faerie-trap",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-exploration-ii"
+    ],
+    "locksSkill": []
+}

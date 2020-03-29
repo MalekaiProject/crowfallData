@@ -1,0 +1,26 @@
+{
+    "id": "connoisseur-finer-things",
+    "name": "Finer Things",
+    "description": "increases your Gem Harvest Chance, Mineral Harvest Chance, Heartwood Harvest Chance, Grave Goods Harvest Chance, and Hunger Shard Chance by 5% for 8 seconds.",
+    "shortDescription": "Increase Chance to Harvest Node Exotic Items",
+    "icon": "Graphic_Disc_FinerThings.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "6",
+        "cost": "2",
+        "cost_type": "Harvest Pips",
+        "duration": "8 seconds",
+        "buff_amount_1": "5%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

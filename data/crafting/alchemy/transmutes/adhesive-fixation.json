@@ -1,0 +1,48 @@
+{
+    "name": "Adhesive Fixation",
+    "id": "adhesive-fixation",
+    "icon": "ambrosia.png",
+    "description": "A process by which a substance is transformed into a form that is not affected by the elements. The type of mineral determines the Adhesive created.\\n\\nDolomite yields Adhesive: Electric,\\nHalite yields Adhesive: Ice,\\nSulphur yields Adhesive: Fire",
+    "outputQuantity": 1,
+    "xp": 4,
+    "category": "alchemy",
+    "subCategory": "transmutes",
+    "ingredients": [
+        {
+            "name": "Adhesive",
+            "id": "adhesive",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ground Mineral",
+            "id": "ground-mineral",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 3,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Ground Nitre",
+            "id": "ground-nitre",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Chaos Ember",
+            "id": "chaos-ember",
+            "icon": "etherealDust.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "weathered-resilience",
+    "name": "Weathered Resilience",
+    "class": "ranger",
+    "description": "Weathered Resilience improves Maximum Health by 100 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "something-s-amiss",
+            "point": 2
+        },
+        {
+            "skill": "cross-slash",
+            "point": 1
+        },
+        {
+            "skill": "double-shots",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-exploration-ii"
+    ],
+    "locksSkill": []
+}

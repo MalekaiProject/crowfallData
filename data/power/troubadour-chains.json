@@ -1,0 +1,33 @@
+{
+    "id": "troubadour-chains",
+    "name": "Consonant Chains",
+    "description": "damages and slows your target and as many as 3 additional enemies for 119 - 161 + 140% Weapon Damage but with damage reducing by 30% for each additional target.\\n\\nType 1 Song.\\n\\nDoes not toggle.",
+    "shortDescription": "Song: Damage; Snare Enemies",
+    "icon": "Graphic_Disc_ConsonantChains.png",
+    "stats": {
+        "cast_time": "2 Seconds",
+        "target": "Ray",
+        "cooldown": "6",
+        "max_targets": "3",
+        "range": "20",
+        "buff_type_1": "Movement Speed",
+        "min_damage_1": "119",
+        "max_damage_1": "161",
+        "weapon_damage_value": "140",
+        "min_damage_2": "83",
+        "max_damage_2": "113",
+        "min_damage_3": "58",
+        "max_damage_3": "79"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

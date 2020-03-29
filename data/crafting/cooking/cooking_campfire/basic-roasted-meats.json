@@ -1,0 +1,30 @@
+{
+    "name": "Basic Roasted Meats",
+    "id": "basic-roasted-meats",
+    "icon": "brisket.png",
+    "description": "Creates some basic roasted meats, traditionally cooked low and slow, this rustic form of cooking results in something that looks more like a meteorite than a meal. But it is not burnt, and beneath the crust is the most tender, juicy, smoky meat you could want.",
+    "outputQuantity": 2,
+    "xp": 3.75,
+    "category": "cooking",
+    "subCategory": "cooking_campfire",
+    "ingredients": [
+        {
+            "name": "Animal Meat",
+            "id": "animal-meat",
+            "icon": "meat.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "fast-counter-attack",
+    "name": "Fast Counter-Attack",
+    "class": "champion",
+    "description": "Fast Counter-Attack enhances Retaliate abilities to also recover 35 Stamina over 7 seconds.",
+    "icon": "Skill_Icon_034_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "obstinance",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "whirling-shield",
+        "invincible-warrior"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "divine-protection",
+    "name": "Divine Protection",
+    "class": "templar",
+    "description": "Divine Protection improves Resist All by 100 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "martyrdom",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "fanatical",
+        "virtuous-light"
+    ],
+    "locksSkill": []
+}

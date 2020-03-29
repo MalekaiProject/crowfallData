@@ -1,0 +1,22 @@
+{
+    "id": "divine-light",
+    "name": "Divine Light",
+    "class": "templar",
+    "description": "This talent grants the Divine Light power.",
+    "icon": "Skill_Icon_043_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "templar-divine-light"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "infallible-dictum",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "righteous-indignation"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "assassin-talent-hard-cc-reward",
+    "name": "Schadenfreude",
+    "icon": "",
+    "stats": {},
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": false,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

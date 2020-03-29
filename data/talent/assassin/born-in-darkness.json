@@ -1,0 +1,28 @@
+{
+    "id": "born-in-darkness",
+    "name": "Born in Darkness",
+    "class": "assassin",
+    "description": "Born in Darkness improves Maximum Health by 100 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "quietude",
+            "point": 2
+        },
+        {
+            "skill": "nature-toxin",
+            "point": 1
+        },
+        {
+            "skill": "cloaked-in-shadow",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-exploration-ii"
+    ],
+    "locksSkill": []
+}

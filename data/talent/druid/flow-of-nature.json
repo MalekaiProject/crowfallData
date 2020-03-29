@@ -1,0 +1,20 @@
+{
+    "id": "flow-of-nature",
+    "name": "Flow of Nature",
+    "class": "druid",
+    "description": "Flow of Nature improves all Coalesce Life Orbs by 25%.",
+    "icon": "Skill_Icon_017_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "yielding-roots",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "ironwood-skin"
+    ],
+    "locksSkill": []
+}

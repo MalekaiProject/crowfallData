@@ -1,0 +1,23 @@
+{
+    "id": "assassin-dodge",
+    "name": "Dodge",
+    "description": "swoops you 13 meters in your WASD direction.",
+    "shortDescription": "Dash in a WASD direction",
+    "icon": "Graphic_Assn_Dash.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "15",
+        "range": "13"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

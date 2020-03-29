@@ -1,31 +1,45 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "It has been said repeatedly throughout time that the outcome of a match can rarely be predicted. No matter how many times an underdog gets knocked down they are determined to get back up and back into the fray. Remember, its not the size of the dog in the fight!",
-  "name": "Underdog",
-  "powers": [
-    "deadly-retaliation",
-    "payback",
-    "death-throws",
-    "underdog"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "underdog",
+    "name": "Underdog",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Underdog.png",
+    "stats": [
+        {
+            "name": "Max Stamina",
+            "value": 5
+        },
+        {
+            "name": "Critical Strike",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "underdog-retaliate",
+            "name": "Deadly Retaliation",
+            "description": "Retaliate with High Crit Chance"
+        },
+        {
+            "id": "underdog-retalite-low-hp-knockdown",
+            "name": "Death Throws",
+            "description": "Passive: Area Knockdown on Retaliation at Low Health"
+        },
+        {
+            "id": "underdog-retaliate-crit-streak",
+            "name": "Payback",
+            "description": "Passive: Gain Crit Streak Following Retaliation"
+        },
+        {
+            "id": "underdog-attackpower-on-kd",
+            "name": "Underdog",
+            "description": "Passive: Gain Attack Power when Stunned; Knocked Down"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Retaliate Refund (35)"
+    ],
+    "description": "It has been said repeatedly throughout time that the outcome of a match can rarely be predicted. No matter how many times an underdog gets knocked down they are determined to get back up and back into the fray. Remember, it’s not the size of the dog in the fight!",
+    "lore": "Step with care and great tact, and remember that life is a great balancing act. Just never forget to be dexterous and deft. And never mix up your right hook with your left."
 }

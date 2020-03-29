@@ -1,0 +1,27 @@
+{
+    "id": "go-for-broke",
+    "name": "Go for Broke",
+    "class": "duelist",
+    "description": "This talent grants the Go For Broke power.",
+    "icon": "Skill_Icon_045_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-stealth-death-field"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "flick-of-the-blade",
+            "point": 1
+        },
+        {
+            "skill": "well-groomed",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ambush",
+        "tunnel"
+    ],
+    "locksSkill": []
+}

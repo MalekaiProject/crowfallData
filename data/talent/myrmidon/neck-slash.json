@@ -1,0 +1,26 @@
+{
+    "id": "neck-slash",
+    "name": "Neck Slash",
+    "class": "myrmidon",
+    "description": "This talent grants the Neck Slash power.",
+    "icon": "Skill_Icon_018_002.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "myrmidon-neck-slice"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-major-i",
+        "myrmidon-major-ii",
+        "promotion-class-titan",
+        "promotion-class-battle-rager",
+        "promotion-class-conqueror"
+    ],
+    "locksSkill": []
+}

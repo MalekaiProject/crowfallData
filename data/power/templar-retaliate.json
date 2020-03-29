@@ -1,0 +1,30 @@
+{
+    "id": "templar-retaliate",
+    "name": "Retaliate",
+    "description": "returns you to your feet, damaging all nearby enemies for 53 - 80 + 67% Weapon Damage. \\n\\nStriking an enemy who is afflicted with Sin reduces the cooldown of Retaliate. \\n\\nThis attack may only be used while Knocked Down.",
+    "icon": "Graphic_Tmpr_Retaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "53",
+        "max_damage_1": "80",
+        "weapon_damage_value": "67"
+    },
+    "nextChain": [],
+    "lastChain": [
+        ""
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

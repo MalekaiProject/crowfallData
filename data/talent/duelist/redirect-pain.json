@@ -1,0 +1,22 @@
+{
+    "id": "redirect-pain",
+    "name": "Redirect Pain",
+    "class": "duelist",
+    "description": "This talent grants the Redirect Pain power.",
+    "icon": "Skill_Icon_017_005.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-redirect-pain"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "steady-hand",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "wily"
+    ],
+    "locksSkill": []
+}

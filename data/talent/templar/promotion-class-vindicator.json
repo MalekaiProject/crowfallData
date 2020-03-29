@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-vindicator",
+    "name": "Promotion Class - Vindicator",
+    "class": "templar",
+    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this bladesman has increased damage based on their mastery of fire.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vindicator promotion class and prevents access to the Paladin and Fury promotion classes.",
+    "icon": "Skill_Icon_042_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "resurrection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "excoriate"
+    ],
+    "locksSkill": [
+        "promotion-class-paladin",
+        "promotion-class-fury"
+    ]
+}

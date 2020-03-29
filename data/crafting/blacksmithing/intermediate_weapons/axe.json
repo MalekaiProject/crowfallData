@@ -1,0 +1,39 @@
+{
+    "name": "Axe",
+    "id": "axe",
+    "icon": "oneHandedAxe.png",
+    "description": "Creates a One Handed Axe, usable by those who are proficient with Axes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "intermediate_weapons",
+    "ingredients": [
+        {
+            "name": "Metal Billet",
+            "id": "metal-billet",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Basic Axe",
+            "id": "basic-axe",
+            "icon": "oneHandedAxe.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

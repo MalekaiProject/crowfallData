@@ -1,0 +1,20 @@
+{
+    "id": "perfect-storm",
+    "name": "Perfect Storm",
+    "class": "confessor",
+    "description": "Fire Tornadoes can now damage targets up to 4 times.",
+    "icon": "Skill_Icon_032_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "tools-of-justice",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "sanctified"
+    ],
+    "locksSkill": []
+}

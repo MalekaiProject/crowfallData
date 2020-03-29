@@ -1,33 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The art of bleeding a target is one that only a few can accomplish proficiently.  Followers of Maeve have known for years how important the blade is in combat.  With proper training and practice knife grinding can be the determining factor in a victory or a loss.",
-  "name": "Knife Grinder",
-  "powers": [
-    "cripple",
-    "cripple-ii",
-    "cauterize",
-    "tenderize",
-    "tenderize-ii",
-    "long-live-the-fighter"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Damage Bonus: Slashing",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "knife-grinder",
+    "name": "Knife Grinder",
+    "type": "major",
+    "trait": "Bladed Weapon Training",
+    "icon": "Major_KnifeGrinder.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": -3
+        },
+        {
+            "name": "Slashing Damage Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "daggermaster-combo-1",
+            "name": "Cripple",
+            "description": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds."
+        },
+        {
+            "id": "knifegrinder-bleed-debuff-1",
+            "name": "Tenderize",
+            "description": "Attack: Adds a debuff to an enemy that makes them take more bleeding damage for 15 seconds."
+        },
+        {
+            "id": "knifegrinder-cauterize",
+            "name": "Cauterize",
+            "description": "Buff: Removes the bleeding debuff from yourself."
+        },
+        {
+            "id": "knifegrinder-bleed-basic",
+            "name": "Long Live The Fighter",
+            "description": "Passive: Adds the bleeding debuff to an enemy on every third Basic attack."
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "The art of bleeding a target is one that only a few can accomplish proficiently. Followers of Maeve have known for years how important the blade is in combat. With proper training and practice knife grinding can be the determining factor in a victory or a loss.",
+    "lore": "\"Is it not obvious to you, my dear, that I am here to make you bleed and bleed again?\"\\n-Fae Assassin"
 }

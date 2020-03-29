@@ -1,0 +1,36 @@
+{
+    "id": "druid-z-aurora-emitter",
+    "name": "Aurora Emitter",
+    "description": "strikes enemies with lightning in an area for 145 - 218 as Electricity Damage.\\n\\nEnemies damaged are left electrified, and will pulse an additional 63 to 94 + 78% Weapon Damage as Electricity Damage over 15 seconds to nearby friendlies.",
+    "icon": "Graphic_Drud_AuroraEmitter.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "cooldown": "24",
+        "max_targets": "3",
+        "range": "35",
+        "cost": "77",
+        "cost_type": "Essence",
+        "duration": "15",
+        "min_damage_1": "145",
+        "max_damage_1": "218",
+        "weapon_damage_value": "182",
+        "weapon_damage_type": "Electricity",
+        "min_damage_2": "63",
+        "max_damage_2": "94",
+        "weapon_damage_2_value": "78",
+        "weapon_damage_2_type": "Electricity"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "druid-z-lightning-strike"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "fiery-devotion",
+    "name": "Fiery Devotion",
+    "class": "templar",
+    "description": "Fiery Devotion enhances Devotion to also buff your Damage Bonus: Fire by 15%.",
+    "icon": "Skill_Icon_018_010.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "excoriate",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "executioner",
+        "blazing-light"
+    ],
+    "locksSkill": []
+}

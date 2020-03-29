@@ -1,0 +1,33 @@
+{
+    "id": "templar-judgement-2",
+    "name": "Execute",
+    "description": "slashes without remorse, dealing 135 - 202 + 168% Weapon Damage. Enemies under 35% health are hit for 202 - 303 + 167% Weapon Damage, and this attack gains a 100% Critical Strike modifier.",
+    "icon": "Graphic_Tmpr_Execute.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "1",
+        "cost_type": "Righteousness",
+        "min_damage_1": "135",
+        "max_damage_1": "202",
+        "weapon_damage_value": "168",
+        "min_damage_2": "202",
+        "max_damage_2": "303",
+        "weapon_damage_2_value": "167"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "templar-judgement-1-talent",
+        "templar-judgement-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

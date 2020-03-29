@@ -1,43 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A shield is a mighty piece of weaponry and armor that is often difficult to bypass, but a Shield Breaker has the ability to plow through such armament with ease. Breaking barriers and exposing weakness are just a few attributes they are privy to adding another layer of complexity to combat.",
-  "name": "Shield Breaker",
-  "powers": [
-    "shield-breaker",
-    "dispel",
-    "reveal-weakness",
-    "rupture-barrier"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-      "name": "Armor Penetration: Crushing",
-      "value": 3.75
-    },
-    {
-      "name": "Armor Penetration: Piercing",
-      "value": 3.75
-    },
-    {
-      "name": "Armor Penetration: Slashing",
-      "value": 3.75
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "shield-breaker",
+    "name": "Shield Breaker",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_ShieldBreaker.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "value": -3
+        },
+        {
+            "name": "Physical Resistance",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "shieldbreaker-dispel",
+            "name": "Dispel",
+            "description": "Attack: Cancel and Punish Barrier Users"
+        },
+        {
+            "id": "shieldbreaker-shield-breaker",
+            "name": "Shield Breaker",
+            "description": "Attack: Cancel and Punish Block and Parry"
+        },
+        {
+            "id": "shieldbreaker-reveal-weakness",
+            "name": "Reveal Weakness",
+            "description": "Increase Group Physical Armor Penetration"
+        },
+        {
+            "id": "shieldbreaker-barrier-hit-resource",
+            "name": "Rupture Barrier",
+            "description": "Passive: Increase Damage vs Barriers; Gain Resource"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A shield is a mighty piece of weaponry and armor that is often difficult to bypass, but a Shield Breaker has the ability to plow through such armament with ease. Breaking barriers and exposing weakness are just a few attributes they are privy to, adding another layer of complexity to combat.",
+    "lore": "Why avoid a barrier when you can break through it?"
 }

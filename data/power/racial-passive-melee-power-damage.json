@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-melee-power-damage",
+    "name": "Born Under The Knife",
+    "description": "increases your Power Damage Bonus: Melee statistic by 3%.",
+    "shortDescription": "Passive: Increase Melee Power Damage",
+    "icon": "Graphic_Disc_Racial_Fae.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Power Damage Bonus: Melee",
+        "buff_amount_1": "3%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

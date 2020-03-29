@@ -1,0 +1,48 @@
+{
+    "name": "Bound Chapters",
+    "id": "weapon-book-chapters-001",
+    "icon": "bookChapters.png",
+    "description": "Creates Bound Chapters that is used to create a Book.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Book Chapter",
+            "id": "book-chapter",
+            "icon": "bookChapter.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Book Chapter",
+            "id": "book-chapter",
+            "icon": "bookChapter.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Book Chapter",
+            "id": "book-chapter",
+            "icon": "bookChapter.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Lacing Sinew",
+            "id": "lacing-sinew",
+            "icon": "sinew.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

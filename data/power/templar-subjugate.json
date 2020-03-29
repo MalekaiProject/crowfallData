@@ -1,0 +1,28 @@
+{
+    "id": "templar-subjugate",
+    "name": "Subjugate",
+    "description": "slices an enemy for 113 - 169 + 141% Weapon Damage and roots them in place.",
+    "icon": "Graphic_Tmpr_Subjugate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost_type": "Righteousness",
+        "min_damage_1": "113",
+        "max_damage_1": "169",
+        "weapon_damage_value": "141"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "templar-judgement-1-talent"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

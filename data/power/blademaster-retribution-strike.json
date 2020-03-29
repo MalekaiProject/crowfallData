@@ -1,0 +1,32 @@
+{
+    "id": "blademaster-retribution-strike",
+    "name": "Retribution Slash",
+    "description": "turns the tables on an enemy with a strike granting 20% Retribution for 15 seconds and causing 113 - 153 + 133% Weapon Damage.",
+    "shortDescription": "Attack: Gain Retribution",
+    "icon": "Graphic_Disc_RetributionSlash.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "45",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_type_1": "Retribution",
+        "buff_amount_1": "20",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "blade_users"
+    ]
+}

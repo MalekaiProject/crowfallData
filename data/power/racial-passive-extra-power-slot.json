@@ -1,0 +1,20 @@
+{
+    "id": "racial-passive-extra-power-slot",
+    "name": "Hero's Blood",
+    "description": "increases the amount of Power Bar Slots available to you by 1.",
+    "shortDescription": "Passive: Increase the Number of Slots on Power Tray",
+    "icon": "Graphic_Disc_Racial_Human.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_amount_1": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

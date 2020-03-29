@@ -1,0 +1,21 @@
+{
+    "name": "Transmute Chaos",
+    "id": "transmute-chaos",
+    "icon": "craftingSeal.png",
+    "description": "Transmutes a Chaos Ember into its more common form, Ethereal Dust. Produces 75.",
+    "outputQuantity": 75,
+    "xp": 15,
+    "category": "alchemy",
+    "subCategory": "transmutes",
+    "ingredients": [
+        {
+            "name": "Chaos Ember",
+            "id": "chaos-ember",
+            "icon": "etherealDust.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "opportunist",
+    "name": "Opportunist",
+    "class": "assassin",
+    "description": "Opportunist enhances Backstab to deal 10% more damage when used from behind an enemy.",
+    "icon": "Skill_Icon_003_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cruel-blades",
+            "point": 2
+        },
+        {
+            "skill": "kiss-of-death",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "killer-s-gift"
+    ],
+    "locksSkill": []
+}

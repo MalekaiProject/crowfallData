@@ -1,21 +1,20 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 20,
-  "max_targets": 1,
-  "name": "Protective Thorns",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "protective-thorns",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Armor Bonus"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Fortifies your Armor Bonus for 20 seconds when activating Thorns and gain 1% Bonus Armor for every 25 points of Thorns and Bonus Thorns."
+    "name": "Protective Thorns",
+    "description": "fortifies your Resist All for 20 seconds when activating Thorns and gain one percent Resist All for every 25 points Thorns and Bonus Thorns.",
+    "shortDescription": "Passive: Thorns Grant Resistance Class Buff",
+    "icon": "Graphic_Disc_ProtectiveThorns.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "20 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

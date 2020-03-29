@@ -1,0 +1,20 @@
+{
+    "id": "ranger-talent-storm-brewin",
+    "name": "Aero Spin",
+    "description": "greatly empowers your Dagger Spin power. Every 1 second, you will gain 10% increased damage for your next Dagger Spin, stacking up to 10 times.",
+    "icon": "Graphic_Rngr_AeroSpin.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

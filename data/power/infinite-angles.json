@@ -1,21 +1,21 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Infinite Angles",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
-    "id": "shield-whiz",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Snare"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Applies a Movement Speed reduction to all targets hit by Shield Throws."
+    "id": "infinite-angles",
+    "name": "Infinite Angles",
+    "description": "applies a slow to all targets hit by Shield Throws.",
+    "shortDescription": "Passive: Shield Throw Applies Snare",
+    "icon": "Graphic_Disc_InfiniteAngles.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
 }

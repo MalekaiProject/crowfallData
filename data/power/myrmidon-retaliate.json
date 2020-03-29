@@ -1,0 +1,30 @@
+{
+    "id": "myrmidon-retaliate",
+    "name": "Retaliate",
+    "description": "returns you to your feet, dealing 39 - 48 + 44% Weapon Damage to nearby enemies.",
+    "icon": "Graphic_Myrm_Retaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "39",
+        "max_damage_1": "48",
+        "weapon_damage_value": "44"
+    },
+    "nextChain": [],
+    "lastChain": [
+        ""
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

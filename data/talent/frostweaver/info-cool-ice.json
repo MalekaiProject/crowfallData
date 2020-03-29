@@ -1,0 +1,13 @@
+{
+    "id": "info-cool-ice",
+    "name": "Info: Cool Ice",
+    "class": "frostweaver",
+    "description": "Cool Ice benefits allies and you within 10m restoring their native resource over time. This effect stacks./n/nCool Ice can be created directly with Cool Ice Weave and Ice Weave. You may convert Ice you've already created into Cool Ice using Chill Out and it can be created randomly with Cooling Focus",
+    "icon": "Skill_Icon_025_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

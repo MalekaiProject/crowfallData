@@ -1,0 +1,39 @@
+{
+    "name": "Advanced Toxin",
+    "id": "toxin-001",
+    "icon": "potion.png",
+    "description": "Creates a toxic substance used to poison your weapon, causing your attacks to have a chance to afflict targets with Poison. Use scavenged food to define the outcome of your recipe!\\n\\nPine Nuts create a nature toxin,\\nGrubs create a poison toxin,\\nBloodworms create a disease toxin.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "alchemy",
+    "subCategory": "alchemy_toxins",
+    "ingredients": [
+        {
+            "name": "Empty Flask",
+            "id": "empty-flask",
+            "icon": "emptyFlask.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Scavenged Ingredient",
+            "id": "scavenged-ingredient",
+            "icon": "pineNuts.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

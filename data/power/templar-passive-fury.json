@@ -1,0 +1,22 @@
+{
+    "id": "templar-passive-fury",
+    "name": "Fury",
+    "description": "increases Maximum Health by 250 for 15 seconds each time you inflict Blindness, Knockdown, Root, Stun and Suppression. \\n\\nThis effect stacks.",
+    "icon": "Graphic_Tmpr_Fury.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

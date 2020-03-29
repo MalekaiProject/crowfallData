@@ -1,0 +1,39 @@
+{
+    "name": "Fresh Butter",
+    "id": "butter-001",
+    "icon": "cooking.png",
+    "description": "Creates some sticks of butter that is ready to eat or for use in various Cooking recipes. Produces 10",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_sous",
+    "ingredients": [
+        {
+            "name": "Pasteurized Milk",
+            "id": "pasteurized-milk",
+            "icon": "",
+            "quantity": 10,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Cooking Foil",
+            "id": "cooking-foil",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

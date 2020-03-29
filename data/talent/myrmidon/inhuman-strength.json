@@ -1,0 +1,28 @@
+{
+    "id": "inhuman-strength",
+    "name": "Inhuman Strength",
+    "class": "myrmidon",
+    "description": "Titan improves Armor Penetration: Physical by 1% per point spent.",
+    "icon": "Skill_Icon_017_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "gathering-storm",
+            "point": 1
+        },
+        {
+            "skill": "blood-thirst",
+            "point": 1
+        },
+        {
+            "skill": "indestructible-frenzy",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "titan"
+    ],
+    "locksSkill": []
+}

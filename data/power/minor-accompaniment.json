@@ -1,19 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 0,
-  "name": "Minor Accompaniment",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "minor-accompaniment",
-    "data_type": "discipline"
-  }],
-  "tags": [],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Song Damage by 20%."
+    "name": "Minor Accompaniment",
+    "description": "increases your Song Damage by 20%.",
+    "shortDescription": "Passive: Increase Song Damage",
+    "icon": "Graphic_Disc_MinorAccompaniment.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Song Damage",
+        "buff_amount_1": "20%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
 }

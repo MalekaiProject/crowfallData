@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Don't let anyone ever dull your sparkle.",
-  "name": "Matching Plate",
-  "powers": [
-    "matching-plate"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "matching-plate",
+    "name": "Matching Plate",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_MatchingPlate.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "matching-support-plate",
+            "name": "Matching Plate",
+            "description": "Passive: Gain Support Power with a Full Set of Plate Equipped"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Don't ever let anyone dull your sparkle."
 }

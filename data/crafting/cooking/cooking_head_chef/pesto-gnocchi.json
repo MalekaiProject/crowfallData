@@ -1,0 +1,84 @@
+{
+    "name": "Pesto Gnocchi",
+    "id": "pesto-gnocchi",
+    "icon": "cooking.png",
+    "description": "Creates a hefty portion of pesto gnocchi. Produces 10",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_head_chef",
+    "ingredients": [
+        {
+            "name": "Large Cooking Pot",
+            "id": "large-cooking-pot",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Gnocchi",
+            "id": "gnocchi",
+            "icon": "",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Crushed Herbs",
+            "id": "crushed-herbs",
+            "icon": "",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Crushed Herbs",
+            "id": "crushed-herbs",
+            "icon": "",
+            "quantity": 5,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Mushrooms",
+            "id": "mushrooms",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Butter",
+            "id": "butter",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Pine Nuts",
+            "id": "pine-nuts",
+            "icon": "pineNuts.png",
+            "quantity": 5,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 7,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

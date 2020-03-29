@@ -1,0 +1,30 @@
+{
+    "id": "plaguelord-shrivel",
+    "name": "Shrivel",
+    "description": "curses an enemy with Disease and Blackmantle, absorbing up to 500 points of Healing. \\n\\nIf Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
+    "shortDescription": "Attack: Blackmantle; Disease; Expose Punish",
+    "icon": "Graphic_Disc_Shrivel.png",
+    "stats": {
+        "cast_time": "Charged",
+        "target": "Ray",
+        "cooldown": "45",
+        "max_targets": "1",
+        "range": "30",
+        "cost": "13",
+        "cost_type": "Resource",
+        "min_damage_1": "91",
+        "max_damage_1": "123",
+        "weapon_damage_value": "107",
+        "min_damage_2": "500"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

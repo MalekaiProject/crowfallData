@@ -1,0 +1,30 @@
+{
+    "name": "Wall Insulation",
+    "id": "arc-component-006",
+    "icon": "insulation.png",
+    "description": "Creates Wall Insulation used in Architectural crafting.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_architecture_components",
+    "ingredients": [
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 10,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Mulch",
+            "id": "mulch",
+            "icon": "mulch.png",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

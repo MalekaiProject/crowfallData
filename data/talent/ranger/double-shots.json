@@ -1,0 +1,22 @@
+{
+    "id": "double-shots",
+    "name": "Double Shots!",
+    "class": "ranger",
+    "description": "Double Shots! enhances all Charged Bow Powers such that whenever you hit an enemy with a Charged Bow Power you will gain the Double Shots! effect, which will cause Charged Bow Powers to deal 25% more damage for the next 6 seconds.",
+    "icon": "Skill_Icon_042_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-talent-double-shot"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cloaked-in-moss",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "weathered-resilience"
+    ],
+    "locksSkill": []
+}

@@ -1,44 +1,68 @@
 {
-  "classes": [
-    "ranger",
-    "druid",
-    "frostweaver"
-  ],
-  "description": "Mysterious and savage, they differ from their more civilized brethren; they have given up the elegant life of Elven society and prefer the isolate solitude of nature.",
-  "name": "Wood-Elf",
-  "tags": [
-    "Elf"
-  ],
-  "powers": [
-    "wood-elf-bloodline",
-    "dissipate",
-    "camouflage"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Spirit",
-      "value": 30
-    },
-    {
-      "name": "Blacksmithing",
-      "value": 10
-    },
-    {
-      "name": "Blacksmithing Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Woodworking",
-      "value": 10
-    },
-    {
-      "name": "Woodworking Experimentation",
-      "value": 5
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "wood-elf",
+    "name": "Wood-Elf",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_WoodElf.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 200
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 300
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 200
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 300
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 250
+        },
+        {
+            "name": "Spirit",
+            "value": 30
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-earth-mitigation",
+            "name": "Nature Resistance",
+            "description": "Passive: Increase Nature Resistance"
+        },
+        {
+            "id": "racial-passive-critical-healing-chance",
+            "name": "Reflection of Nature",
+            "description": "Passive: Increase Critical Healing Chance"
+        },
+        {
+            "id": "racial-passive-craft-woodworking",
+            "name": "Shaper of Wood",
+            "description": "Passive: Increase Woodworking Crafting Statistics"
+        },
+        {
+            "id": "racial-passive-trailblazer",
+            "name": "Trailblazer",
+            "description": "Passive: Increase Movement Speed while Out of Combat"
+        },
+        {
+            "id": "woodelf-camouflage",
+            "name": "Camouflage",
+            "description": "Toggle: Hides Player while Standing Still; Stealth Users Surrender this Power"
+        },
+        {
+            "id": "druid-dissipate",
+            "name": "Dissipate",
+            "description": "Blink in a WASD direction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Mysterious and savage, they differ from their more civilized brethren; they have given up the elegant life of Elven society and prefer the isolated solitude of nature."
 }

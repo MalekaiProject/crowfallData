@@ -1,0 +1,25 @@
+{
+    "id": "woodelf-camouflage",
+    "name": "Camouflage",
+    "description": "hides you from sight as long as you are standing still and not in combat.\\n\\nIt will take 3 seconds to become Hidden after you stop moving.",
+    "shortDescription": "Toggle: Hides Player while Standing Still; Stealth Users Surrender this Power",
+    "icon": "Graphic_Disc_Camouflage.png",
+    "stats": {
+        "cast_time": "Toggle",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "0.5",
+        "cost_type": "Stamina",
+        "cost_type_time": "cost_type_time_per_second"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

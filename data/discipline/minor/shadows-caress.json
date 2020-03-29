@@ -1,20 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "duelist",
-    "ranger"
-  ],
-  "description": "The shadow's are said to wrap around those who frequent them like a soothing blanket, diminishing their wounds.  Unless of course that blanket is a dagger.  And that dagger is aimed at your heart.",
-  "name": "Shadows Caress",
-  "powers": [
-    "shadows-caress"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
+  "id": "shadows-caress",
+  "name": "Shadow's Caress",
   "type": "minor",
-  "tags": [],
+  "trait": "Stealther",
+  "icon": "Minor_ShadowsCaress.png",
   "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+  "grantsPowers": [
+    {
+      "id": "stealth-regeneration",
+      "name": "Shadow's Caress",
+      "description": "Passive: Increase Health Regen in Stealth"
+    }
+  ],
+  "grantsSlot": [],
+  "grantsEquip": [],
+  "lore": "The shadows are said to wrap around those who frequent them like a soothing blanket, diminishing their wounds. Unless of course that blanket is a dagger. And that dagger is aimed at your heart."
 }

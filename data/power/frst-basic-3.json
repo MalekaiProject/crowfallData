@@ -1,0 +1,29 @@
+{
+    "id": "frst-basic-3",
+    "name": "Spiral Cast",
+    "description": "casts ice at an enemy for 120 - 180 + 150% Weapon Damage.",
+    "icon": "Graphic_FrostWeaver_SpiralCast_01.png",
+    "stats": {
+        "weapon_damage_value": "150",
+        "max_damage_1": "180",
+        "min_damage_1": "120",
+        "cost_type": "Mana",
+        "cost": "19",
+        "range": "30",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "frst-basic-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

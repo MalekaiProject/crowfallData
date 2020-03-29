@@ -1,0 +1,20 @@
+{
+    "id": "fury",
+    "name": "Fury",
+    "class": "templar",
+    "description": "This talent grants the Fury passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nSlashing Damage Bonus\\nFire Damage Cap\\nSlashing Damage Cap\\n\\nTraits Granted:\\nGreat Sword Mastery",
+    "icon": "Skill_Icon_045_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "templar-passive-fury"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "punishing-decree",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

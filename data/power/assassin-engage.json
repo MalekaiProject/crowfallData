@@ -1,0 +1,28 @@
+{
+    "id": "assassin-engage",
+    "name": "Engage",
+    "description": "re-engages moving you 15m forward with an attack doing 71 - 107 + 89% Weapon Damage, generating a Pip and increasing your damage by 10% for 15 seconds.",
+    "icon": "Graphic_Assn_Dash.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "23",
+        "max_targets": "1",
+        "range": "15",
+        "min_damage_1": "71",
+        "max_damage_1": "107",
+        "weapon_damage_value": "89"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "assassin-disengage"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

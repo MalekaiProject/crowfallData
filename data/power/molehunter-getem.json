@@ -1,0 +1,32 @@
+{
+    "id": "molehunter-getem",
+    "name": "Get 'Em",
+    "description": "stops an enemy in its tracks causing 85 - 115 + 100% Weapon Damage and Rooting them. \\n\\nIf Get 'Em hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
+    "shortDescription": "Attack: Root; Expose Punish",
+    "icon": "Graphic_Disc_GetEm.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "24",
+        "max_targets": "1",
+        "range": "35",
+        "cost": "12",
+        "cost_type": "Resource",
+        "buff_type_1": "Physical Resistances",
+        "buff_amount_1": "20",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

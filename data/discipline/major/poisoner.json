@@ -1,31 +1,43 @@
 {
-  "classes": [
-      "assassin",
-      "champion",
-      "knight",
-      "myrmidon",
-      "ranger",
-      "templar"
-  ],
-  "description": "A method of punishment often used by the Gods of Chaos, poison is the most inconspicuous and often underappreciated form of punishment. From the depths o the shadows to the dining halls of kings and queens poison takes many forms with the intention to finish off a target swiftly and with minimal retaliation.",
-  "name": "Poisoner",
-  "powers": [
-      "poisoned-blade",
-      "poisoned-blade-ii",
-      "mithradatism",
-      "poisoned-weapons",
-      "slow-demise",
-      "slow-demise-ii"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Armor Pentration: Poison",
-    "value": 6.25
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "poisoner",
+    "name": "Poisoner",
+    "type": "major",
+    "trait": "Bladed Weapon Training",
+    "icon": "Major_Poisoner.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Poison",
+            "value": -3
+        },
+        {
+            "name": "Slashing Damage Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "poisoner-combo-1",
+            "name": "Poisoned Blade",
+            "description": "Attack: Adds the poison debuff to an enemy."
+        },
+        {
+            "id": "daggermaster-slow-demise-1",
+            "name": "Slow Demise",
+            "description": "Attack: Reduces the amount an enemy can be healed and inflicts a large amount of damage."
+        },
+        {
+            "id": "poisoner-cleanse",
+            "name": "Mithridatism",
+            "description": "Buff: Remove poison debuff from yourself."
+        },
+        {
+            "id": "poisoner-poison-basic",
+            "name": "Poisoned Weapons",
+            "description": "Passive: Adds the poison debuff to an enemy on every third Basic attack."
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Poison is one of the most inconspicuous and often underappreciated forms of punishment. From the depths of the shadows to the dining halls of kings and queens, poison takes many forms with the intention to finish off a target swiftly and with minimal retaliation.",
+    "lore": "You have no idea how close I am to ending your life with the flick of a poisoned blade or just a dash of liquid from a small vial."
 }

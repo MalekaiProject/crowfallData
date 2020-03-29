@@ -1,0 +1,84 @@
+{
+    "name": "Catapult Blueprint",
+    "id": "siege-weapon-catapult-blueprint-001",
+    "icon": "blueprint.png",
+    "description": "Creates a blueprint for a Catapult MK I. Adding additional additive components at a Siege Workshop allows for creation of the more powerful MK II - MK IV.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "woodworking",
+    "subCategory": "woodworking_siege_warfare",
+    "ingredients": [
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 75,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 75,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 75,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hide",
+            "id": "hide",
+            "icon": "hide.png",
+            "quantity": 35,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 35,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Reinforcing Brackets",
+            "id": "reinforcing-brackets",
+            "icon": "ReinforcingBrackets.png",
+            "quantity": 2,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Heartwood Firing Arms",
+            "id": "heartwood-firing-arms",
+            "icon": "bowStaveLimb.png",
+            "quantity": 2,
+            "slotIndex": 6,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Firing Techniques Scroll",
+            "id": "firing-techniques-scroll",
+            "icon": "blueprintScroll.png",
+            "quantity": 1,
+            "slotIndex": 7,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

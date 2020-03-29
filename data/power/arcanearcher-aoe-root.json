@@ -1,0 +1,30 @@
+{
+    "id": "arcanearcher-aoe-root",
+    "name": "Binding Arrows",
+    "description": "pins down multiple enemies in an area Rooting them in place and causing 45 - 60 + 53% Weapon Damage.\\n\\nThis power's Maximum Range cannot be modified.",
+    "shortDescription": "Attack: Ground Target Area Root",
+    "icon": "Graphic_Disc_BindingArrows.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "12",
+        "cost_type": "Resource",
+        "duration": "5 seconds",
+        "min_damage_1": "45",
+        "max_damage_1": "60",
+        "weapon_damage_value": "53"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

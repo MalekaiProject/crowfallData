@@ -1,0 +1,31 @@
+{
+    "id": "blademaster-bleed-combo-1",
+    "name": "Blood Strike",
+    "description": "slashes enemies for 56 - 75 + 65% Weapon Damage.",
+    "shortDescription": "Attack: Bleed multiple enemies",
+    "icon": "Graphic_Disc_BloodStrike_A.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "15",
+        "cost_type": "Resource",
+        "min_damage_1": "56",
+        "max_damage_1": "75",
+        "weapon_damage_value": "65"
+    },
+    "nextChain": [
+        "blademaster-bleed-combo-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

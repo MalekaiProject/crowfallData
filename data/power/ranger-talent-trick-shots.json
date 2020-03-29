@@ -1,0 +1,20 @@
+{
+    "id": "ranger-talent-trick-shots",
+    "name": "Trick Shots",
+    "description": "demonstrates your prowess with a bow, causing your movement speed to no longer be reduced while charging any Bow Basic attacks.\\n\\nAlso, improves the Double Shots! talent so that it deals an additional 25% damage.",
+    "icon": "Graphic_Rngr_FireForEffect.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

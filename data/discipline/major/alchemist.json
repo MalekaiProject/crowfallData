@@ -1,43 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The Alchemist Handbook clearly states the differences between vegetable, mineral, and animal. Use with caution and don't imbide anything without testing on an unwilling subject first.",
-  "name": "Alchemist",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Alchemy"
-  ],
-  "stats": [{
-    "name": "Alchemy",
-    "value": 10
-  },
-  {
-    "name": "Alchemy Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Alchemy Experimentation Points",
-    "value": 2
-  }
-  ],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "alchemist",
+    "name": "Alchemist",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Alchemy.png",
+    "stats": [
+        {
+            "name": "Alchemy",
+            "value": 5
+        },
+        {
+            "name": "Alchemy Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Alchemy Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Alchemist"
+    ],
+    "description": "Recipes Granted:\\nAll Potions\\nAdvanced Toxins\\nGrind Resource: Bulk\\nPhilosopher's Solution & Stone\\nTransmutations\\n\\nReduced Recipe Resource Costs:\\nAmbrosia\\nEmpty Flask",
+    "lore": "The Alchemist Handbook clearly states the differences between vegetable, mineral, and animal. Use with caution and don't imbide anything without testing on an unwilling subject first."
 }

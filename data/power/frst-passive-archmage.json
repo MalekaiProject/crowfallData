@@ -1,0 +1,19 @@
+{
+    "id": "frst-passive-archmage",
+    "name": "Archmage",
+    "description": "modifies Shatter Storm causing a chance to form additional Volatile Ice in the area with each enemy hit.",
+    "icon": "Graphic_FrostWeaver_Archmage_01.png",
+    "stats": {
+        "max_targets": "1",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

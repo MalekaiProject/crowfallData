@@ -1,0 +1,29 @@
+{
+    "id": "champion-b-attack-1",
+    "name": "Strong Swing",
+    "description": "strikes in front of you for 85 - 115 + 100% Weapon Damage, generating 4 Rage if you hit.",
+    "icon": "Graphic_Chmp_Basic1.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "restore": "4",
+        "restore_type": "Rage",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [
+        "champion-b-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

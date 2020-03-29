@@ -1,0 +1,24 @@
+{
+    "id": "blackmask-call-darkness",
+    "name": "Call Darkness",
+    "description": "causes all attacks to count as if performed from behind the target with the duration of the power scaling with amount of Pips spent.\\n\\n1 Pip: 6 seconds \\n2 Pips: 8 seconds\\n3 Pips: 10 seconds \\n4 Pips: 12 seconds\\n5 Pips: 14 seconds",
+    "shortDescription": "All Attacks Count as From Behind",
+    "icon": "Graphic_Disc_CallDarkness.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "max_targets": "1",
+        "cost": "1",
+        "cost_type": "Pips"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth_users_melee"
+    ]
+}

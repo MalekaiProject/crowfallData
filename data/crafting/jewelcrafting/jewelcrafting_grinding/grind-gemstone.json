@@ -1,0 +1,39 @@
+{
+    "name": "Grind Gemstone",
+    "id": "grind-gemstone",
+    "icon": "gemGrind.png",
+    "description": "The second stage of crafting a gem involves the use of a Grinding Stone. This adds facets to a cut gem.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_grinding",
+    "ingredients": [
+        {
+            "name": "Cut Gem",
+            "id": "cut-gem",
+            "icon": "gem_baguette.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Grinding Wheel",
+            "id": "grinding-wheel",
+            "icon": "gemGrind.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Blood or Water",
+            "id": "blood-or-water",
+            "icon": "blood.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

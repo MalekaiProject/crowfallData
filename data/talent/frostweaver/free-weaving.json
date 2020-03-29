@@ -1,0 +1,24 @@
+{
+    "id": "free-weaving",
+    "name": "Free Weaving",
+    "class": "frostweaver",
+    "description": "This talent grants the Free Weaving power.\\n\\nIncreases by 1:\\nIce Storage Capacity",
+    "icon": "Skill_Icon_040_011.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-weave-activate"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "stinging-strikes",
+        "solidify",
+        "cool-headed"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "druid-avatar-pack",
+    "name": "Pack Avatar",
+    "description": "empowers your group, increasing Critical Strike by 15%, Critical Damage by 25%, Damage Bonus by 12%, and Attack Power by 175 for 30 seconds.\\n\\nAllies receiving this effect will gain Avatar Fatigue and be unable to benefit from any form of Avatar for 5 min.",
+    "icon": "Graphic_Drud_PackAvatar.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "max_targets": "5",
+        "cost": "35",
+        "cost_type": "Essence"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_healing",
+        "druid_nuking"
+    ]
+}

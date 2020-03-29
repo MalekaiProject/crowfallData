@@ -1,0 +1,18 @@
+{
+    "id": "cleric-major-i",
+    "name": "Major Discipline Slot",
+    "class": "cleric",
+    "description": "Unlock a Major Discipline slot.",
+    "icon": "Skill_Icon_011_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "circle-of-life",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

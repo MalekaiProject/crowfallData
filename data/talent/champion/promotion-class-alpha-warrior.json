@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-alpha-warrior",
+    "name": "Promotion Class - Alpha Warrior",
+    "class": "champion",
+    "description": "Role: Melee Damage\\n\\nThis terror fuels increased critical strikes with dominance gained from their powers.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Alpha Warrior  promotion class and prevents access to the Pit Fighter and Barbarian promotion classes.",
+    "icon": "Skill_Icon_041_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "second-wind",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "enmity"
+    ],
+    "locksSkill": [
+        "promotion-class-pit-fighter",
+        "promotion-class-barbarian"
+    ]
+}

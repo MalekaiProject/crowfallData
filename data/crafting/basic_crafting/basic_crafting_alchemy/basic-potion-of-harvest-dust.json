@@ -1,0 +1,39 @@
+{
+    "name": "Basic Potion of Harvest: Dust",
+    "id": "basic-potion-of-harvest-dust",
+    "icon": "potion.png",
+    "description": "Creates a Basic Potion of Harvest: Dust, this can be used to increase bonus Ethereal Dust when harvesting Basic Resources for 10 minutes.",
+    "outputQuantity": 1,
+    "xp": 8,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_alchemy",
+    "ingredients": [
+        {
+            "name": "Slag",
+            "id": "slag",
+            "icon": "ore.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Cobblestone",
+            "id": "cobblestone",
+            "icon": "stone.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Knotwood",
+            "id": "knotwood",
+            "icon": "wood.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

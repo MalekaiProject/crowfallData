@@ -1,0 +1,18 @@
+{
+    "id": "champion-major-ii",
+    "name": "Major Discipline Slot",
+    "class": "champion",
+    "description": "Unlock a Major Discipline slot.",
+    "icon": "Skill_Icon_011_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 20,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "second-wind",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "gemologist",
+    "name": "Gemologist",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_Jewelcrafting.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "jewelcrafting-techniques",
+            "name": "Cold Dopping",
+            "description": "Passive: Increase Jewelcrafting Assembly and Experimentation Caps"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Gemologist"
+    ],
+    "description": "Reduced Recipe Resource Costs:\\nNecklace Bail\\nNecklace Chain\\nRing Band\\nRing Setting",
+    "lore": "Shiny and precious things require the utmost precision and detail."
+}

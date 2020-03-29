@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "You may not always feel like you are your best, but at least you're well dressed.",
-  "name": "Uniform Leather",
-  "powers": [
-    "uniform-leather"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "uniform-leather",
+    "name": "Uniform Leather",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_UniformLeather.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "matching-offense-leather",
+            "name": "Uniform Leather",
+            "description": "Passive: Gain Attack Power with a Full Set of Leather Equipped"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "You may not always feel like you are at your best, but at least you're well dressed."
 }

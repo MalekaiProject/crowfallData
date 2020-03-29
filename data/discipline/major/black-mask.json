@@ -1,30 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "duelist",
-    "ranger"
-  ],
-  "description": "Black Masks are masters of disguise. Despite the rumors they are not a group of heartless and evil killers, but rather cunning and sly assassins. They are employed by all that request their blade, even those who seek revenge from previous errands.",
-  "name": "Black Mask",
-  "powers": [
-    "call-darkness",
-    "shadow-mantle",
-    "shadows-linger",
-    "cripple"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Stealth"
-  ],
-  "stats": [{
-    "name": "Stealth",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "black-mask",
+    "name": "Black Mask",
+    "type": "major",
+    "trait": "Stealther",
+    "icon": "Major_BlackMask.png",
+    "stats": [
+        {
+            "name": "Stealth",
+            "value": 5
+        },
+        {
+            "name": "Piercing Damage Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "daggermaster-combo-1",
+            "name": "Cripple",
+            "description": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds."
+        },
+        {
+            "id": "blackmask-shadow-mantle",
+            "name": "Shadow Mantle",
+            "description": "Attack: Reduce Healing Received"
+        },
+        {
+            "id": "blackmask-call-darkness",
+            "name": "Call Darkness",
+            "description": "All Attacks Count as From Behind"
+        },
+        {
+            "id": "blackmask-shadows-linger",
+            "name": "Shadows Linger",
+            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Black Masks are masters of disguise. Despite the rumors, they are not a group of heartless and evil killers, but rather cunning and sly assassins. They are employed by all that request their blade, even those who seek revenge from previous errands.",
+    "lore": "We are the Hands of Fate. Our blades carve the channels which shape the river of Time. We are the true voice of Justice."
 }

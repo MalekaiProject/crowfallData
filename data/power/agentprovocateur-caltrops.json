@@ -1,0 +1,27 @@
+{
+    "id": "agentprovocateur-caltrops",
+    "name": "Caltrops",
+    "description": "harasses enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Mitigation and Slowing them while maintaining Stealth.",
+    "shortDescription": "Stealth: Target Area Snare; Pierce Debuff",
+    "icon": "Graphic_Disc_Caltrops.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "13",
+        "cost_type": "Resource",
+        "duration": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

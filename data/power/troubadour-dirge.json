@@ -1,0 +1,31 @@
+{
+    "id": "troubadour-dirge",
+    "name": "Dirge Of Dissonance",
+    "description": "sings for 12 seconds damaging up to 5 enemies within 5 for 100 - 150 + 12% Weapon Damage every 3 seconds.\\n\\nType 3 Song.",
+    "shortDescription": "Song: Damage Enemies",
+    "icon": "Graphic_Disc_DirgeOfDissonance.png",
+    "stats": {
+        "cast_time": "2 Seconds",
+        "target": "Point Blank Area",
+        "cooldown": "1",
+        "max_targets": "5",
+        "range": "5",
+        "duration": "12 seconds",
+        "min_damage_1": "100",
+        "max_damage_1": "150",
+        "weapon_damage_value": "12",
+        "min_damage_2": "125",
+        "max_damage_2": "187.5"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

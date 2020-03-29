@@ -1,0 +1,30 @@
+{
+    "id": "banshee-banshee-wail",
+    "name": "Banshee Wail",
+    "description": "slows up to 5 enemies.",
+    "shortDescription": "Attack: Reduce Movement Speed",
+    "icon": "Graphic_Disc_BansheeWail.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "14",
+        "cost_type": "Resource",
+        "min_damage_1": "54",
+        "max_damage_1": "72",
+        "weapon_damage_value": "63"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

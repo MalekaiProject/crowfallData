@@ -1,0 +1,21 @@
+{
+    "id": "apothecary",
+    "name": "Apothecary",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_Alchemy.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "alchemy-techniques",
+            "name": "Potion Swirling",
+            "description": "Passive: Increase Alchemy Assembly and Experimentation Caps"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Apothecary"
+    ],
+    "description": "Reduced Recipe Resource Costs:\\nAmbrosia\\nEmpty Flask",
+    "lore": "Bubbly liquids, unique ingredients, and a sense of adventure are the key to alchemy."
+}

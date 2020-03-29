@@ -1,0 +1,32 @@
+{
+    "id": "holyavenger-hammer-1",
+    "name": "Grabthar's Hammer",
+    "description": "smites an enemy for 91 - 124 + 108 Weapon Damage.",
+    "shortDescription": "Attack: Stun an enemy",
+    "icon": "Graphic_Disc_GrabtharsHammer_A.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "5",
+        "cost": "11",
+        "cost_type": "Resource",
+        "min_damage_1": "91",
+        "max_damage_1": "124",
+        "weapon_damage_value": "108",
+        "weapon_damage_type": "Holy"
+    },
+    "nextChain": [
+        "holyavenger-hammer-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blunt_users"
+    ]
+}

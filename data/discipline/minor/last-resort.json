@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Let's test your threshold of pain and let's see how long you last.",
-  "name": "Last Resort",
-  "powers": [
-    "last-resort"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "last-resort",
+    "name": "Last Resort",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_LastResort.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "low-health-crit-buff",
+            "name": "Last Resort",
+            "description": "Passive: Gain Crit Chance on Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "\"Let's test your threshold of pain and let's see how long you last.\"\\n-Nethari Master Torturer"
 }

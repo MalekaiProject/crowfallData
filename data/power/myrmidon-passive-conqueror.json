@@ -1,0 +1,20 @@
+{
+    "id": "myrmidon-passive-conqueror",
+    "name": "Conqueror",
+    "description": "decreases an enemy's Anti-Critical Strike by 3% each time you hit them while they are suffering from a Control Effect. \\n\\nThe Conquered debuff can stack up to five times.",
+    "icon": "Graphic_Myrm_Conqueror.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-hungry-horse",
+    "name": "Hungry as a Horse",
+    "description": "large physical size requires you to eat more often, reducing your Food Regen Rate by 20 seconds.",
+    "shortDescription": "Passive: Large Body Size Causes Faster Food Pool Decay",
+    "icon": "Graphic_Disc_Racial_Centaur.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Food Regen Rate",
+        "buff_amount_1": "20"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

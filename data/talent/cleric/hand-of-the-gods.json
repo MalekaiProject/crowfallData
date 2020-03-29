@@ -1,0 +1,18 @@
+{
+    "id": "hand-of-the-gods",
+    "name": "Hand of the Gods",
+    "class": "cleric",
+    "description": "This talent grants the Hand Of The Gods power.",
+    "icon": "Skill_Icon_019_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "cleric-hand-of-gods"
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "empathy",
+        "consecrated-armor"
+    ],
+    "locksSkill": []
+}

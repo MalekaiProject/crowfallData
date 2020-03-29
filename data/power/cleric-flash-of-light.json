@@ -1,0 +1,28 @@
+{
+    "id": "cleric-flash-of-light",
+    "name": "Flash Of Light",
+    "description": "manifests divine light from your shield Blinding your reticle target and inflicting 113 - 138 + 125% Weapon Damage.",
+    "icon": "Graphic_Cleric_FlashOfLight.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "30",
+        "max_targets": "1",
+        "range": "20",
+        "cost": "75",
+        "cost_type": "Mana",
+        "min_damage_1": "113",
+        "max_damage_1": "138",
+        "weapon_damage_value": "125"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

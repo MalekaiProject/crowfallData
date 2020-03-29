@@ -1,0 +1,24 @@
+{
+    "id": "effortless-neckbreaker",
+    "name": "Effortless Neckbreaker",
+    "class": "champion",
+    "description": "Effortless Neckbreaker enhances Neckbreaker reducing its cost to 300 Soul Power.",
+    "icon": "Skill_Icon_026_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "spite",
+            "point": 2
+        },
+        {
+            "skill": "brutal-followup",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "revenge"
+    ],
+    "locksSkill": []
+}

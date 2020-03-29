@@ -1,0 +1,39 @@
+{
+    "name": "Runestone: Haste",
+    "id": "runecarving-runestone-004",
+    "icon": "sigil.png",
+    "description": "Creates a Haste Runestone that is used to create Magic Quivers.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "runemaking",
+    "subCategory": "runemaking_runes",
+    "ingredients": [
+        {
+            "name": "Sigil: Haste",
+            "id": "sigil-haste",
+            "icon": "sigil.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Unmarked Stone Runestone",
+            "id": "unmarked-stone-runestone",
+            "icon": "runestoneBlank.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Chaos Ember",
+            "id": "chaos-ember",
+            "icon": "etherealDust.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

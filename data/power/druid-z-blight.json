@@ -1,0 +1,35 @@
+{
+    "id": "druid-z-blight",
+    "name": "Blight",
+    "description": "deploys a field causing each Coalesce Life orb to explode catastrophically for 86 - 130 + 108% Weapon Damage as Nature Damage while COALESCE NATURE orbs explode for 90 to 136 + 113% Weapon Damage as Nature Damage.\\n\\nEnemies caught in the field have their Nature and Electricity defenses reduced by 20%.",
+    "icon": "Graphic_Drud_Blight.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "23",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "57",
+        "cost_type": "Essence",
+        "duration": "30 seconds",
+        "buff_amount_1": "20%",
+        "min_damage_1": "86",
+        "max_damage_1": "130",
+        "weapon_damage_value": "108",
+        "weapon_damage_type": "Nature",
+        "min_damage_2": "90",
+        "max_damage_2": "136",
+        "weapon_damage_2_value": "113",
+        "weapon_damage_2_type": "Nature"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "druid_nuking"
+    ]
+}

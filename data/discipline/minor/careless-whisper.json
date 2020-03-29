@@ -1,27 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "There's no comfort in the truth, Pain is all you'll find.",
-  "name": "Careless Whisper",
-  "powers": [
-    "careless-whisper"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "careless-whisper",
+    "name": "Careless Whisper",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_CarelessWhisper.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "careless-whisper",
+            "name": "Careless Whisper",
+            "description": "Passive: Basic Attacks Buff Crit Stats"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "\"There's no comfort in the truth, Pain is all you'll find.\"\\n-Human Bard"
 }

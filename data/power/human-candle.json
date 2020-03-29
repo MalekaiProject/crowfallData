@@ -1,0 +1,24 @@
+{
+    "id": "human-candle",
+    "name": "Candle That Burns",
+    "description": "increases your Damage Bonus by 10% while also making your powers more costly by 5% for 12 seconds.",
+    "shortDescription": "Increase Damage, Increase Resource Cost",
+    "icon": "Graphic_Disc_CandleThatBurns.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "25",
+        "cost_type": "Resource"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

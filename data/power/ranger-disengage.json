@@ -1,0 +1,30 @@
+{
+    "id": "ranger-disengage",
+    "name": "Disengage",
+    "description": "leaps you backwards 25m rooting your target, dealing 148 - 201 + 175% Weapon Damage and placing you into your Ranged tray.",
+    "icon": "Graphic_Rngr_Disengage.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "24",
+        "max_targets": "1",
+        "range": "25",
+        "cost": "380",
+        "cost_type": "Energy",
+        "min_damage_1": "148",
+        "max_damage_1": "201",
+        "weapon_damage_value": "175"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "ranger-sweep"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

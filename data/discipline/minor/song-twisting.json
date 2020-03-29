@@ -1,0 +1,18 @@
+{
+    "id": "song-twisting",
+    "name": "Song Twisting",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_Twisting.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "bard-twisting",
+            "name": "Song Twisting",
+            "description": "Passive: Twisting Songs Increases Song Potency"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Not for the faint of wrist."
+}

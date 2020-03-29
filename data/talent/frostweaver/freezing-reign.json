@@ -1,0 +1,28 @@
+{
+    "id": "freezing-reign",
+    "name": "Freezing Reign",
+    "class": "frostweaver",
+    "description": "Freezing Reign improves Critical Strike by 2% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "biting-cold",
+            "point": 2
+        },
+        {
+            "skill": "frostweaver-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "shatter-storm",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-exploration-ii"
+    ],
+    "locksSkill": []
+}

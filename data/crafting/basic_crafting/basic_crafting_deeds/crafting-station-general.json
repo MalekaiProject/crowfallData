@@ -1,0 +1,48 @@
+{
+    "name": "Crafting Station: General",
+    "id": "crafting-station-general",
+    "icon": "craftingstation_basic.png",
+    "description": "Creates a deed for an Intermediate crafting station. - Used to create intermediate weapons and their components.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_deeds",
+    "ingredients": [
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 15,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "stone.png",
+            "quantity": 18,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "wood.png",
+            "quantity": 18,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Ore",
+            "id": "non-basic-ore",
+            "icon": "ore.png",
+            "quantity": 18,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

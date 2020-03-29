@@ -1,0 +1,20 @@
+{
+    "id": "cold-blooded",
+    "name": "Cold Blooded",
+    "class": "frostweaver",
+    "description": "Cold Blooded enhances Frigid Ice doubling its damage tick rate.",
+    "icon": "Skill_Icon_018_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "concussion",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "piercing-cold"
+    ],
+    "locksSkill": []
+}

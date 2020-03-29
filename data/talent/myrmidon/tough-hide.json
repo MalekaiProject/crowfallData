@@ -1,0 +1,22 @@
+{
+    "id": "tough-hide",
+    "name": "Tough Hide",
+    "class": "myrmidon",
+    "description": "Tough Hide improves Resist All by 75 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "colossus-smash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "audacity",
+        "berserk",
+        "raging"
+    ],
+    "locksSkill": []
+}

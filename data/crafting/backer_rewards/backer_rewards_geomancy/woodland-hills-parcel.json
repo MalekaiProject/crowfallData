@@ -1,0 +1,30 @@
+{
+    "name": "Woodland Hills Parcel",
+    "id": "woodland-hills-parcel",
+    "icon": "parcel1.png",
+    "description": "Creates a Rank 1 Backer Reward Woodland Hills Parcel.",
+    "outputQuantity": 1,
+    "xp": 0,
+    "category": "backer_rewards",
+    "subCategory": "backer_rewards_geomancy",
+    "ingredients": [
+        {
+            "name": "Backer Farm Parcel",
+            "id": "backer-farm-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Backer Woodland Grove Parcel",
+            "id": "backer-woodland-grove-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

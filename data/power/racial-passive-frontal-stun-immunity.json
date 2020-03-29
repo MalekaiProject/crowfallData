@@ -1,0 +1,19 @@
+{
+    "id": "racial-passive-frontal-stun-immunity",
+    "name": "Unbreakable",
+    "description": "grants immunity to all Stun effects that hit you from the front.",
+    "shortDescription": "Passive: Frontal Stun Immunity",
+    "icon": "Graphic_Disc_Racial_Minotaur.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-barbarian",
+    "name": "Promotion Class - Barbarian",
+    "class": "champion",
+    "description": "Role: Melee Control\\n\\nControlling enemies will cause this brute to become even more powerful.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Barbarian promotion class and prevents access to the Pit Fighter and Alpha Warrior  promotion classes.",
+    "icon": "Skill_Icon_025_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "second-wind",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "malice"
+    ],
+    "locksSkill": [
+        "promotion-class-alpha-warrior",
+        "promotion-class-pit-fighter"
+    ]
+}

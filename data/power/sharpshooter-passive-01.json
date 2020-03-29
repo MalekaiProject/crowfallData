@@ -1,0 +1,21 @@
+{
+    "id": "sharpshooter-passive-01",
+    "name": "All Clear",
+    "description": "increases Damage Bonus when there are no enemies within 30m.",
+    "shortDescription": "Passive: Increase Damage when apart from enemies",
+    "icon": "Graphic_Disc_AllClear.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Weapon Shaft: Medium",
+    "id": "weapon-shaft-002",
+    "icon": "weaponShaftMedium.png",
+    "description": "Creates a Medium Weapon Shaft that is used to create Great Axes and Great Maces.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "twohand_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Bar or Plank",
+            "id": "metal-bar-or-plank",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Bar or Plank",
+            "id": "metal-bar-or-plank",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

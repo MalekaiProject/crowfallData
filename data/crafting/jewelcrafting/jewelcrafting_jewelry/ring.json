@@ -1,0 +1,30 @@
+{
+    "name": "Ring",
+    "id": "ring",
+    "icon": "ring.png",
+    "description": "Creates a Ring based on the type of Polished Gemstone used.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_jewelry",
+    "ingredients": [
+        {
+            "name": "Polished Gemstone",
+            "id": "polished-gemstone",
+            "icon": "ore.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Ring Band",
+            "id": "ring-band",
+            "icon": "ringBand.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

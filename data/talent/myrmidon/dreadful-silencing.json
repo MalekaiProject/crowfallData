@@ -1,0 +1,21 @@
+{
+    "id": "dreadful-silencing",
+    "name": "Dreadful Silencing",
+    "class": "myrmidon",
+    "description": "Dreadful Silencing enhances Neck Slash to also inflict Suppression.",
+    "icon": "Skill_Icon_018_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "horrific-trauma",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "unstoppable-vengeance",
+        "torturous-wounding"
+    ],
+    "locksSkill": []
+}

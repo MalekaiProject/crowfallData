@@ -1,0 +1,48 @@
+{
+    "name": "Runic Shield",
+    "id": "weapon-shield-005",
+    "icon": "shield.png",
+    "description": "Creates a Runic Shield, the type of Runed Shield Base used determines the type of Shield created.\\n\\nSmall Base yields a Buckler,\\nMedium Base yields a Medium Shield,\\nLarge Base yields a Tower Shield.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "blacksmithing_magic_weapons",
+    "ingredients": [
+        {
+            "name": "Jeweled Shield Covering",
+            "id": "jeweled-shield-covering",
+            "icon": "JeweledShieldCover.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runed Shield Base",
+            "id": "runed-shield-base",
+            "icon": "RunedShieldBase.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Enarmes",
+            "id": "enarmes",
+            "icon": "shieldEnarmes.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 7,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

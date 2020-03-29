@@ -1,0 +1,25 @@
+{
+    "id": "frostweaver-exploration-i",
+    "name": "Exploration Discipline Slot",
+    "class": "frostweaver",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "crystal-lance",
+            "point": 1
+        },
+        {
+            "skill": "frost-armor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-minor-i",
+        "free-weaving"
+    ],
+    "locksSkill": []
+}

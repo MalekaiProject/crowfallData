@@ -1,0 +1,20 @@
+{
+    "id": "moment-of-glory",
+    "name": "Moment of Glory",
+    "class": "confessor",
+    "description": "Moment of Glory enhances Stun and Knock Up to recover 15% Mana when applied.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "rapture",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "persecution"
+    ],
+    "locksSkill": []
+}

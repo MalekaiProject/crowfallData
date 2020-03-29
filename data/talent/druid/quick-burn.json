@@ -1,0 +1,22 @@
+{
+    "id": "quick-burn",
+    "name": "Quick Burn",
+    "class": "druid",
+    "description": "This talent grants the Quick Burn passive power.\\n\\n\\nWARNING: Purchasing this talent prevents you from purchasing the Slow Growth talent.",
+    "icon": "Skill_Icon_010_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "mysticalmaster-quick-burn"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-archdruid",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "slow-growth"
+    ]
+}

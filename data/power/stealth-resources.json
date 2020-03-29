@@ -1,0 +1,21 @@
+{
+    "id": "stealth-resources",
+    "name": "Found Resources",
+    "description": "returns you to a minimum of two pips when entering stealth.",
+    "shortDescription": "Passive: Return to Two Pips on Stealth",
+    "icon": "Graphic_Disc_FoundResources.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

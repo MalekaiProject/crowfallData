@@ -1,0 +1,21 @@
+{
+    "id": "scimitarmaster-stormcaller",
+    "name": "Electrogenesis",
+    "description": "has a chance to spawn Coalesce Life orbs near you when damaging enemies.",
+    "shortDescription": "Passive: Healing Orbs in Combat",
+    "icon": "Graphic_Disc_Stormcaller.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

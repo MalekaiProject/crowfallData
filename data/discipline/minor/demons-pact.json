@@ -1,0 +1,17 @@
+{
+  "id": "demons-pact",
+  "name": "Demon's Pact",
+  "type": "minor",
+  "trait": "Eternal Crow",
+  "icon": "Minor_DemonsPact.png",
+  "stats": [
+    {
+      "name": "Passive Bonus Slots",
+      "value": 1
+    }
+  ],
+  "grantsPowers": [],
+  "grantsSlot": [],
+  "grantsEquip": [],
+  "lore": "Demons usually deal in souls, this one takes slots."
+}

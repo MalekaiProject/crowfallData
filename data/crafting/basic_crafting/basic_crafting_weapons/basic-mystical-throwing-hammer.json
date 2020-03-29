@@ -1,0 +1,30 @@
+{
+    "name": "Basic Mystical Throwing Hammer",
+    "id": "basic-mystical-throwing-hammer",
+    "icon": "throwingHammer.png",
+    "description": "Creates a Basic Mystical Throwing Hammer, usable by those who are proficient with Hammers.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_weapons",
+    "ingredients": [
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 6,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Stone",
+            "id": "stone",
+            "icon": "stone.png",
+            "quantity": 6,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

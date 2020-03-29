@@ -1,0 +1,21 @@
+{
+    "id": "confessor-talent-feel-burn",
+    "name": "Feel The Burn",
+    "description": "causes all Fire, non-DoT powers to have a 10% chance to apply Feel the Burn effect to the target.\\n\\nFeel the Burn damages the target with Fire damage every second for 10 seconds.",
+    "icon": "Graphic_Conf_FeelTheBurn.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "10 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

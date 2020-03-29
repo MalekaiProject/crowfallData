@@ -1,0 +1,30 @@
+{
+    "name": "Refine Bogwood",
+    "id": "crafting-materials-006",
+    "icon": "wood.png",
+    "description": "Refine Bogwood into Heartwood.",
+    "outputQuantity": 4,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Bogwood",
+            "id": "bogwood",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

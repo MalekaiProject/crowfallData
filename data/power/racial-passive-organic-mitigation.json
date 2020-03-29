@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-organic-mitigation",
+    "name": "Toxic Tolerance",
+    "description": "increases your Organic Resistance statistic by 500.",
+    "shortDescription": "Passive: Increase Organic Resistance",
+    "icon": "Graphic_Disc_Racial_Fae.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Organic Resistance",
+        "buff_amount_1": "500"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

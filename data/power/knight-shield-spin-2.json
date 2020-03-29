@@ -1,0 +1,31 @@
+{
+    "id": "knight-shield-spin-2",
+    "name": "Shield Stun",
+    "description": "attacks in front of you for 115 - 156 + 136% Crushing Weapon Damage, Stunning your target.",
+    "icon": "Graphic_Kngt_ShieldBash.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "30",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "203",
+        "cost_type": "Energy",
+        "min_damage_1": "115",
+        "max_damage_1": "156",
+        "weapon_damage_value": "136",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "knight-shield-spin-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

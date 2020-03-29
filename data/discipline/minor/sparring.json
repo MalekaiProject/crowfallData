@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "It's the thrill of the fight and rising up to the challenge of your rival.",
-  "name": "Sparring",
-  "powers": [
-    "sparring"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "sparring",
+    "name": "Sparring",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_Sparring.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "basic-attack-damage",
+            "name": "Sparring",
+            "description": "Passive: Increase Basic Attack Damage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "It's the thrill of the fight and rising up to the challenge of your rival."
 }

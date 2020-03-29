@@ -1,0 +1,21 @@
+{
+    "id": "tools-of-justice",
+    "name": "Tools of Justice",
+    "class": "confessor",
+    "description": "Tools of Justice improves Damage Bonus: Fire by 1% per point spent.",
+    "icon": "Skill_Icon_018_010.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "lawful",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "perfect-storm",
+        "flames-of-arkon"
+    ],
+    "locksSkill": []
+}

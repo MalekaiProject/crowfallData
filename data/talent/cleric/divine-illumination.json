@@ -1,0 +1,24 @@
+{
+    "id": "divine-illumination",
+    "name": "Divine Illumination",
+    "class": "cleric",
+    "description": "Divine Illumination enhances Illuminate to also heal group members and yourself over time.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "divine-intervention",
+            "point": 2
+        },
+        {
+            "skill": "blessed-symbol",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "invocation-of-renewal"
+    ],
+    "locksSkill": []
+}

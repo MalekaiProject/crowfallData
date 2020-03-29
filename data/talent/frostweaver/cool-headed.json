@@ -1,0 +1,22 @@
+{
+    "id": "cool-headed",
+    "name": "Cool Headed",
+    "class": "frostweaver",
+    "description": "Cool Headed improves Maximum Mana and Support Power by 30 per point spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "free-weaving",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "refreshing-breeze",
+        "frostweaver-minor-iii",
+        "elegant-form"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,31 @@
+{
+    "id": "shieldfighter-brutal-slam",
+    "name": "Brutal Slam",
+    "description": "strikes with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Resistance by 20.",
+    "shortDescription": "Attack: Reduce enemy Physical Mitigation",
+    "icon": "Graphic_Disc_BrutalSlam.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "45",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "16",
+        "cost_type": "Resource",
+        "buff_type_1": "Physical Resistance",
+        "buff_amount_1": "20",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "shield_users"
+    ]
+}

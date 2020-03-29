@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-secutor",
+    "name": "Promotion Class - Secutor",
+    "class": "knight",
+    "description": "Role: Melee Defense\\n\\nA stalwart defender who is a master of fighting with all forms of shields.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Secutor promotion class and prevents access to the Swordsman and Sentinel promotion classes.",
+    "icon": "Skill_Icon_015_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "onslaught",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "unstoppable"
+    ],
+    "locksSkill": [
+        "promotion-class-swordsman",
+        "promotion-class-sentinel"
+    ]
+}

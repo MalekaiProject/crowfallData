@@ -1,0 +1,32 @@
+{
+    "id": "confessor-hellfire-2a",
+    "name": "Fire Wave",
+    "description": "consumes your Hellfire Shield, transforming it into moving fiery wave that damages any target struck by it for 102 - 153 + 127% Weapon Damage.",
+    "icon": "Graphic_Conf_FireWave.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Rectangle",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "15",
+        "cost": "80",
+        "cost_type": "Mana",
+        "min_damage_1": "102",
+        "max_damage_1": "153",
+        "weapon_damage_value": "127"
+    },
+    "nextChain": [
+        "confessor-hellfire-3a"
+    ],
+    "lastChain": [
+        "confessor-hellfire-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

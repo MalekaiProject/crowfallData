@@ -1,0 +1,22 @@
+{
+    "id": "champion-ultimate-warrior",
+    "name": "Ultimate Warrior",
+    "description": "increases your size, heals, restores Rage, briefly applies a short barrier equal to 20% of your maximum Health and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.",
+    "icon": "Graphic_Chmp_UltimateWarrior.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cost": "100",
+        "cost_type": "Hate"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

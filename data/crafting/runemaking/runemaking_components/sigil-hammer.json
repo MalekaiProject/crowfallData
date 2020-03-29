@@ -1,0 +1,39 @@
+{
+    "name": "Sigil: Hammer",
+    "id": "sigil-hammer",
+    "icon": "sigilHammer.png",
+    "description": "Crafting Component used in the assembly of a Runestone Hammer. The combination of Ores used determines the properties of the Hammer.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "runemaking",
+    "subCategory": "runemaking_components",
+    "ingredients": [
+        {
+            "name": "Parchment Paper",
+            "id": "parchment-paper",
+            "icon": "parchmentPaper.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

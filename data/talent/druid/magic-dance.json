@@ -1,0 +1,22 @@
+{
+    "id": "magic-dance",
+    "name": "Magic Dance",
+    "class": "druid",
+    "description": "Magic Dance improves Personal Healing Modifier by 1% per point spent.",
+    "icon": "Skill_Icon_034_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "mark-of-the-storm",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "dream-away",
+        "druid-minor-iii",
+        "leeching-seed"
+    ],
+    "locksSkill": []
+}

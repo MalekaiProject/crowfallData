@@ -1,0 +1,21 @@
+{
+    "name": "Cooking Foil",
+    "id": "blacksmithing-cookingfoil-001",
+    "icon": "wall.png",
+    "description": "Creates Cooking Foil that is used in various Cooking recipes.\\nProduces 10.",
+    "outputQuantity": 10,
+    "xp": 0.38,
+    "category": "cooking",
+    "subCategory": "cooking_components",
+    "ingredients": [
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

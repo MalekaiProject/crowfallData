@@ -1,0 +1,39 @@
+{
+    "name": "Baked Ice Cream",
+    "id": "baked-ice-cream",
+    "icon": "cooking.png",
+    "description": "Creates some delectable Baked Ice Cream. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_head_chef",
+    "ingredients": [
+        {
+            "name": "Large Cooking Pot",
+            "id": "large-cooking-pot",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ice Cream",
+            "id": "ice-cream",
+            "icon": "",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hot Peppers",
+            "id": "hot-peppers",
+            "icon": "",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

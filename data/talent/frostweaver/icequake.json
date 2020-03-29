@@ -1,0 +1,20 @@
+{
+    "id": "icequake",
+    "name": "Icequake",
+    "class": "frostweaver",
+    "description": "Icequake enhances Volatile Ice to inflict Knockdown.",
+    "icon": "Skill_Icon_041_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "iced-over",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frosty-fortification"
+    ],
+    "locksSkill": []
+}

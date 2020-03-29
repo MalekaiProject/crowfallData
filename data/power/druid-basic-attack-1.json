@@ -1,0 +1,29 @@
+{
+    "id": "druid-basic-attack-1",
+    "name": "Static Bolt",
+    "description": "discharges an electrical bolt, causing 107 - 160 + 133% Weapon Damage.",
+    "icon": "Graphic_Drud_ArcingLightning.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "30",
+        "cost": "22",
+        "cost_type": "Essence",
+        "min_damage_1": "107",
+        "max_damage_1": "160",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [
+        "druid-basic-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

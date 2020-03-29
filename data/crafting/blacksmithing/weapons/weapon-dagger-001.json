@@ -1,0 +1,66 @@
+{
+    "name": "Dagger",
+    "id": "weapon-dagger-001",
+    "icon": "oneHandedDagger.png",
+    "description": "Creates a One Handed Dagger, usable by those who are proficient with Daggers.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "weapons",
+    "ingredients": [
+        {
+            "name": "Weapon Hilt",
+            "id": "weapon-hilt",
+            "icon": "hilt.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Blade: Short",
+            "id": "weapon-blade-short",
+            "icon": "weaponBladeMedium.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Blade Rivets",
+            "id": "blade-rivets",
+            "icon": "steelRivets.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Weapon Weights",
+            "id": "weapon-weights",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

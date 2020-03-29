@@ -1,0 +1,84 @@
+{
+    "name": "Weapon Blade: Great",
+    "id": "weapon-blade-great",
+    "icon": "weaponBladeGreat.png",
+    "description": "Creates a Great Weapon Blade, the type of Weapon Blade Mold used determines the Blade.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "blacksmithing",
+    "subCategory": "twohand_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Blade Mold: Great",
+            "id": "blade-mold-great",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 8,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runestone: Esoteric",
+            "id": "runestone-esoteric",
+            "icon": "RunestoneEsoteric.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Runestone: Esoteric",
+            "id": "runestone-esoteric",
+            "icon": "RunestoneEsoteric.png",
+            "quantity": 1,
+            "slotIndex": 7,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

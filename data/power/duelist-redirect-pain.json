@@ -1,0 +1,26 @@
+{
+    "id": "duelist-redirect-pain",
+    "name": "Redirect Pain",
+    "description": "applies a damage preventing Barrier and then begins reflecting damage back to your attackers if the Barrier is broken. Effects scale with Pips spent.\\n\\n1 Pip: Gain 400 Barrier and 15% Retribution for 6 seconds\\n2 Pips: Gain 650 Barrier and 25% Retribution for 9 seconds\\n3 Pips: Gain 900 Barrier and 35% Retribution for 12 seconds\\n4 Pips: Gain 1150 Barrier and 45% Retribution for 15 seconds\\n5 Pips: Gain 1400 Barrier and 55% Retribution for 18 seconds",
+    "icon": "Graphic_Duel_RedirectPain.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "1",
+        "cost_type": "Pips",
+        "min_damage_1": "0",
+        "max_damage_1": "0",
+        "weapon_damage_value": "0"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

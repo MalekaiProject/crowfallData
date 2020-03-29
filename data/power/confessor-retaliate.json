@@ -1,0 +1,30 @@
+{
+    "id": "confessor-retaliate",
+    "name": "Retaliate",
+    "description": "returns you to your feet, dealing 107 - 160 + 133% Weapon Damage to nearby enemies.",
+    "icon": "Graphic_Conf_Retaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "107",
+        "max_damage_1": "160",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [
+        ""
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

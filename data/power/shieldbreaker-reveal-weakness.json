@@ -1,0 +1,31 @@
+{
+    "id": "shieldbreaker-reveal-weakness",
+    "name": "Reveal Weakness",
+    "description": "enhances group members and you increasing Slashing, Piercing and Crushing penetration for 15 seconds.",
+    "shortDescription": "Increase Group Physical Armor Penetration",
+    "icon": "Graphic_Disc_RetributionSlash.png",
+    "stats": {
+        "weapon_damage_value": "107",
+        "max_damage_1": "123",
+        "min_damage_1": "91",
+        "duration": "30 seconds",
+        "cost_type": "Resource",
+        "cost": "13",
+        "range": "50",
+        "max_targets": "5",
+        "cooldown": "45",
+        "target": "Group",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

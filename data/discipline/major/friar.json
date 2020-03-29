@@ -1,36 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Friars of the Church of Arkon provide the community with a unique service that no other can provide.  Friars willingly listen and pardon the sins of the people with an undaunting zeal; no sin is too great, for they have heard them all and they are eager to hear more.  Their unyielding dedication to their trade provides many in their company with benefits in health and the avoidance of sin while also providing the Friars with a few extra perks.",
-  "name": "Friar",
-  "powers": [
-    "indulgence",
-    "benediction",
-    "chain-heal",
-    "fortuitous-blessings"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Critical Healing Chance",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "friar",
+    "name": "Friar",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Friar.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "value": 3
+        },
+        {
+            "name": "Healing Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "friar-benediction",
+            "name": "Benediction",
+            "description": "Group increase Bleed Resistance"
+        },
+        {
+            "id": "discipline-power-001",
+            "name": "Chain Heal",
+            "description": "Target Heal multiple allies"
+        },
+        {
+            "id": "friar-indulgence",
+            "name": "Indulgence",
+            "description": "Gain Sin immunity"
+        },
+        {
+            "id": "friar-random-buffs",
+            "name": "Fortuitous Blessings",
+            "description": "Passive: Periodically gain random buff"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Friars of the Church of Arkon provide the community with a unique service that no other can provide. Friars willingly listen and pardon the sins of the people with an undaunting zeal; no sin is too great, for they have heard them all and they are eager to hear more. Their unyielding dedication to their trade provides many in their company with benefits in health and the avoidance of sin while also providing the Friars with a few extra perks.",
+    "lore": "Share with me your sins and I will absolve you for a fair cost."
 }

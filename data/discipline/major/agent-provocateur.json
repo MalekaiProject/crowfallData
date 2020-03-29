@@ -1,28 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "duelist",
-    "ranger"
-  ],
-  "description": "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
-  "name": "Agent Provocateur",
-  "powers": [
-    "caltrops",
-    "lay-low",
-    "stink-bomb",
-    "preparation"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Stealth",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "agent-provocateur",
+    "name": "Agent Provocateur",
+    "type": "major",
+    "trait": "Stealther",
+    "icon": "Major_AgentProvocateur.png",
+    "stats": [
+        {
+            "name": "Stealth",
+            "value": 5
+        },
+        {
+            "name": "Piercing Damage Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "agentprovocateur-caltrops",
+            "name": "Caltrops",
+            "description": "Stealth: Target Area Snare; Pierce Debuff"
+        },
+        {
+            "id": "agentprovocateur-stinkbomb",
+            "name": "Stink Bomb",
+            "description": "Stealth: Target Area Stun; Moderate Corruption"
+        },
+        {
+            "id": "agentprovocateur-lay-low",
+            "name": "Lay Low",
+            "description": "Stealth: Heal Over Time"
+        },
+        {
+            "id": "agentprovocateur-preparation",
+            "name": "Preparation",
+            "description": "Passive: Generate Pips while Stealthed"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
+    "lore": "A slimy, double-crossing, no-good swindler!"
 }

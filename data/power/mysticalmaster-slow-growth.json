@@ -1,0 +1,24 @@
+{
+    "id": "mysticalmaster-slow-growth",
+    "name": "Slow Growth",
+    "description": "favors the forces of Life, reducing how fast you generate Essence by 50%.\\n\\nAlso increases your Healing Bonus by 3%.",
+    "icon": "Graphic_Disc_SlowGrowth.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Essence",
+        "buff_amount_1": "50%",
+        "buff_type_2": "Healing Bonus",
+        "buff_amount_2": "3%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_healing"
+    ]
+}

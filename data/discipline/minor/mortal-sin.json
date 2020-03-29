@@ -1,19 +1,18 @@
 {
-  "classes": [
-    "confessor",
-    "templar"
-  ],
-  "description": "Peccata mortalia.  Without remorse a sinner will continue to burn with punishment.",
-  "name": "Mortal Sin",
-  "powers": [
-    "mortal-sin"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "mortal-sin",
+    "name": "Mortal Sin",
+    "type": "minor",
+    "trait": "Disciple of Flame",
+    "icon": "Minor_MortalSin.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "mortal-sin",
+            "name": "Mortal Sin",
+            "description": "Passive: Targets Debuff Anti-Critical Strike"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Peccata mortalia. Without remorse a sinner will continue to burn with punishment."
 }

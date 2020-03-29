@@ -1,0 +1,20 @@
+{
+    "id": "champion-passive-alpha-warrior",
+    "name": "Alpha Warrior",
+    "description": "increases Critical Strike by 5% for 15 seconds whenever you spend a point of Dominance. \\n\\nThis effect may stack up to ten times.",
+    "icon": "Graphic_Chmp_AlphaWarrior.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Trail Mix",
+    "id": "trail-mix",
+    "icon": "cooking.png",
+    "description": "Creates some Trail Mix,a fun and portable snack! Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_basics",
+    "ingredients": [
+        {
+            "name": "Cooking Foil",
+            "id": "cooking-foil",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Apple",
+            "id": "apple",
+            "icon": "apple.png",
+            "quantity": 5,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Pine Nuts",
+            "id": "pine-nuts",
+            "icon": "",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Chocolate Bar",
+            "id": "chocolate-bar",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

@@ -1,27 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The Book of Justice is often the only armor a follower of Arkon carries.",
-  "name": "Armor of Faith",
-  "powers": [
-    "illusionary-armor"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "armor-of-faith",
+    "name": "Armor of Faith",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_ArmorOfFaith.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "illusionary-armor",
+            "name": "Illusionary Armor",
+            "description": "Reduce Health Loss"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "The Book of Justice is often the only armor a follower of Arkon carries."
 }

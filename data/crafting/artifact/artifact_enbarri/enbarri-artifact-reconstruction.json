@@ -1,0 +1,57 @@
+{
+    "name": "Enbarri Artifact Reconstruction",
+    "id": "enbarri-artifact-reconstruction",
+    "icon": "runebind.png",
+    "description": "Combines like-quality pieces of Enbarri artifacts to produce an artifact of a higher quality and value.",
+    "outputQuantity": 1,
+    "xp": 0,
+    "category": "artifact",
+    "subCategory": "artifact_enbarri",
+    "ingredients": [
+        {
+            "name": "Enbarri Artifact",
+            "id": "enbarri-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enbarri Artifact",
+            "id": "enbarri-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enbarri Artifact",
+            "id": "enbarri-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enbarri Artifact",
+            "id": "enbarri-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enbarri Artifact",
+            "id": "enbarri-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

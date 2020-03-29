@@ -1,0 +1,22 @@
+{
+    "id": "call-storm",
+    "name": "Call Storm",
+    "class": "druid",
+    "description": "This talent grants the Call Storm power.",
+    "icon": "Skill_Icon_018_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "scimitarmaster-call-storm"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "remnant-of-gaea",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-exploration-i"
+    ],
+    "locksSkill": []
+}

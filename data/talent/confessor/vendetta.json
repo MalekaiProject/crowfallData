@@ -1,0 +1,20 @@
+{
+    "id": "vendetta",
+    "name": "Vendetta",
+    "class": "confessor",
+    "description": "Vendetta improves Critical Strike by 1% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "flames-of-truth",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fervor"
+    ],
+    "locksSkill": []
+}

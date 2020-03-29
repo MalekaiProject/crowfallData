@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A very particular set of skills.",
-  "name": "Attention to Detail",
-  "powers": [
-    "attention-to-detail"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": ["Crafting"],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "attention-to-detail",
+    "name": "Attention to Detail",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_AttentionToDetail.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "attention-to-detail",
+            "name": "Attention To Detail",
+            "description": "Passive: Increase Percent each Experimentation Point is worth."
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "A very particular set of skills."
 }

@@ -1,0 +1,26 @@
+{
+    "id": "circle-of-life",
+    "name": "Circle of Life",
+    "class": "cleric",
+    "description": "This talent grants the Circle Of Life power.",
+    "icon": "Skill_Icon_037_019.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "common-resurrection-group"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-major-i",
+        "cleric-major-ii",
+        "promotion-class-radical",
+        "promotion-class-crusader",
+        "promotion-class-arbiter"
+    ],
+    "locksSkill": []
+}

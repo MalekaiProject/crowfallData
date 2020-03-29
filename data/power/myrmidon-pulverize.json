@@ -1,0 +1,28 @@
+{
+    "id": "myrmidon-pulverize",
+    "name": "Pulverize",
+    "description": "rams you head first into your target for 240 - 293 + 267% Weapon Damage. \\n\\nBerserk Crash is prevented completely while charging Pulverize. \\n\\nThis attack has a 100% Critical Strike modifier when charged over 66%.",
+    "icon": "Graphic_Myrm_Pulverize.png",
+    "stats": {
+        "cast_time": "Charged",
+        "target": "Cone",
+        "cooldown": "10",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "50",
+        "cost_type": "Fury",
+        "min_damage_1": "240",
+        "max_damage_1": "293",
+        "weapon_damage_value": "267"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Meat Tartare",
+    "id": "meat-tartare",
+    "icon": "meatTartare.png",
+    "description": "Turn animal meats into Tartare, while expedient, Tartares don't provide as much nourishment as cooked foods.",
+    "outputQuantity": 1,
+    "xp": 3.75,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_survivalis",
+    "ingredients": [
+        {
+            "name": "Animal Meat",
+            "id": "animal-meat",
+            "icon": "meat.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

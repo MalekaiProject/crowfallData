@@ -1,0 +1,32 @@
+{
+    "id": "druid-z-gaeas-wail",
+    "name": "Gaea's Wail",
+    "description": "unleashes a bear spirit that may chain to additional enemies up to two times causing 168 - 252 + 210% Weapon Damage as Nature Damage.\\n\\nThose hit will also suffer 133 - 200 Nature Damage 3 times over 12 seconds.",
+    "icon": "Graphic_Drud_GaeaWail.png",
+    "stats": {
+        "cast_time": "Charged",
+        "target": "Reticle",
+        "cooldown": "23",
+        "max_targets": "3",
+        "cost": "105",
+        "cost_type": "Essence",
+        "duration": "12 seconds",
+        "min_damage_1": "168",
+        "max_damage_1": "252",
+        "weapon_damage_value": "210",
+        "weapon_damage_type": "Nature",
+        "min_damage_2": "133",
+        "max_damage_2": "200",
+        "weapon_damage_2_type": "Nature"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

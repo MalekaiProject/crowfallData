@@ -1,0 +1,21 @@
+{
+    "id": "druid-talent-force-nature",
+    "name": "Force Of Nature",
+    "description": "empowers you to gain Nature's Force when you successfully hit with more than 3 Blight Orbs in a single Blight detonation.\\n\\nNature's Force causes your Spark to deal 25% additional damage, and Coalesce Life Orbs to Heal for 25% additional healing for 20 seconds.",
+    "icon": "Graphic_Drud_ForceOfNature.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_healing",
+        "druid_nuking"
+    ]
+}

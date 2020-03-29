@@ -1,0 +1,28 @@
+{
+    "id": "aggression",
+    "name": "Aggression",
+    "class": "assassin",
+    "description": "Aggression improves Basic Attack Damage by 2% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "dagger-storm",
+            "point": 1
+        },
+        {
+            "skill": "assassin-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "schadenfreude",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-exploration-ii"
+    ],
+    "locksSkill": []
+}

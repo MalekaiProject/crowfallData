@@ -1,0 +1,34 @@
+{
+    "id": "frst-freezing-blast",
+    "name": "Freezing Blast",
+    "description": "sweeps forward damaging enemies within for 77 - 115 + 96% Weapon Damage. Any of your Ice within the effect is converted to Frigid Ice.\\n\\nFrigid Ice harms enemies within 5m over time Dazing them and inflicting 57 - 86 + 70% Weapon Damage. Enemies destroy it on contact taking 201 - 301 + 251% Weapon Damage, becoming Rooted and suffering Ice Buildup. Tripping it again while afflicted with Ice Buildup causes Knockdown.",
+    "icon": "Graphic_Frst_FreezingBlast.png",
+    "stats": {
+        "weapon_damage_3_value": "251",
+        "max_damage_3": "301",
+        "min_damage_3": "201",
+        "weapon_damage_2_value": "70",
+        "max_damage_2": "86",
+        "min_damage_2": "57",
+        "weapon_damage_value": "96",
+        "max_damage_1": "115",
+        "min_damage_1": "77",
+        "cost_type": "Mana",
+        "cost": "110",
+        "range": "30",
+        "max_targets": "5",
+        "cooldown": "9",
+        "target": "Rectangle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

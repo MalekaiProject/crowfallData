@@ -1,0 +1,30 @@
+{
+    "id": "ranger-tendon-slice",
+    "name": "Tendon Slice",
+    "description": "slashes in front of you for 162 - 219 + 190% Weapon Damage. Tendon Slice applies a 50% movement reduction to the target.",
+    "icon": "Graphic_Rngr_TendonSlice.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "24",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "131",
+        "cost_type": "Energy",
+        "min_damage_1": "162",
+        "max_damage_1": "219",
+        "weapon_damage_value": "190"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "ranger-forest-step"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

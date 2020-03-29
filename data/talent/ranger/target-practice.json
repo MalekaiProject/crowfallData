@@ -1,0 +1,28 @@
+{
+    "id": "target-practice",
+    "name": "Target Practice",
+    "class": "ranger",
+    "description": "Target Practice improves Far-Sight and Ranged Distance Bonus Cap by 7m per point spent.",
+    "icon": "Skill_Icon_044_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "close-ranks",
+            "point": 1
+        },
+        {
+            "skill": "amazing-rapidity",
+            "point": 1
+        },
+        {
+            "skill": "suppression-shot",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "archer"
+    ],
+    "locksSkill": []
+}

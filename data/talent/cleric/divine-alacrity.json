@@ -1,0 +1,20 @@
+{
+    "id": "divine-alacrity",
+    "name": "Divine Alacrity",
+    "class": "cleric",
+    "description": "Divine Alacrity enhances Divine Order to reset the cooldown of Flash Of Light, Big Hands Of The Gods, Holy Symbol, and Illuminate.",
+    "icon": "Skill_Icon_042_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "seismic-symbol",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "celestial-authority"
+    ],
+    "locksSkill": []
+}

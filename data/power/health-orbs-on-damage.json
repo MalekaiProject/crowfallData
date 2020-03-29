@@ -1,0 +1,25 @@
+{
+    "id": "health-orbs-on-damage",
+    "name": "Burning Hatred",
+    "description": "causes you to seethe with anger as your damaging attacks periodically create a Fae Wisp, consumable only by you, restoring 1.8% - 2.2% of your maximum Health.",
+    "shortDescription": "Passive: Spawn Health Orbs on Damage",
+    "icon": "Graphic_Disc_BurningHatred.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "60 seconds",
+        "min_damage_1": "101",
+        "max_damage_1": "123",
+        "weapon_damage_value": "448"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

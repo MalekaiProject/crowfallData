@@ -1,0 +1,39 @@
+{
+    "name": "Soil",
+    "id": "soil-001",
+    "icon": "stone.png",
+    "description": "Creates Soil for crafting Parcels.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_geomancy_components",
+    "ingredients": [
+        {
+            "name": "Gravel",
+            "id": "gravel",
+            "icon": "gravel.png",
+            "quantity": 8,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Mulch",
+            "id": "mulch",
+            "icon": "mulch.png",
+            "quantity": 8,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore Concentrate",
+            "id": "ore-concentrate",
+            "icon": "oreConcentrate.png",
+            "quantity": 8,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

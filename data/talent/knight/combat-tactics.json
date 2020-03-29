@@ -1,0 +1,28 @@
+{
+    "id": "combat-tactics",
+    "name": "Combat Tactics",
+    "class": "knight",
+    "description": "Combat Tactics improves Critical Strike by 2% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "critical-obliteration",
+            "point": 1
+        },
+        {
+            "skill": "double-time",
+            "point": 1
+        },
+        {
+            "skill": "oath-of-destruction",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "swordsman"
+    ],
+    "locksSkill": []
+}

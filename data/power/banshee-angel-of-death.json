@@ -1,0 +1,25 @@
+{
+    "id": "banshee-angel-of-death",
+    "name": "Angel Of Death",
+    "description": "deals 20% more Damage to enemies below 30% Health.",
+    "shortDescription": "Passive: Increase Enemy Damage at Low Health",
+    "icon": "Graphic_Disc_AngelOfDeath.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Damage",
+        "buff_amount_1": "20%",
+        "buff_type_2": "Health",
+        "buff_amount_2": "30%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

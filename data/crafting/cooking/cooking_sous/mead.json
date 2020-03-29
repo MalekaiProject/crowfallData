@@ -1,0 +1,48 @@
+{
+    "name": "Mead",
+    "id": "mead",
+    "icon": "ambrosia.png",
+    "description": "Creates some Mead, the finest of alcoholic beverages. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_sous",
+    "ingredients": [
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Empty Flask",
+            "id": "empty-flask",
+            "icon": "emptyFlask.png",
+            "quantity": 5,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Yeast",
+            "id": "yeast",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Pulverized Potatoes",
+            "id": "pulverized-potatoes",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

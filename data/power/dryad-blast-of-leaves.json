@@ -1,0 +1,30 @@
+{
+    "id": "dryad-blast-of-leaves",
+    "name": "Blast Of Leaves",
+    "description": "blasts Leaves healing allies in front of you for a total of 13 - 15 + 5.6% Support Power over four seconds while you channel.",
+    "shortDescription": "Heal: Channelled Cone AoE",
+    "icon": "Graphic_Disc_BlastOfLeaves.png",
+    "stats": {
+        "cast_time": "Hold Channeled",
+        "target": "Rectangle",
+        "cooldown": "20",
+        "max_targets": "5",
+        "range": "7",
+        "cost": "70",
+        "cost_type": "Resource",
+        "min_damage_1": "13",
+        "max_damage_1": "15",
+        "weapon_damage_value": "5.6"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_healing"
+    ]
+}

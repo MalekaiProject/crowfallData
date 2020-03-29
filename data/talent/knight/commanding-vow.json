@@ -1,0 +1,21 @@
+{
+    "id": "commanding-vow",
+    "name": "Commanding Vow",
+    "class": "knight",
+    "description": "Commanding Vow improves Attack Power by 75 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-swordsman",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "mercy",
+        "fortified-shield-slam"
+    ],
+    "locksSkill": []
+}

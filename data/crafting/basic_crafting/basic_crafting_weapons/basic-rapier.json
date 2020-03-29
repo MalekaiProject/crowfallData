@@ -1,0 +1,30 @@
+{
+    "name": "Basic Rapier",
+    "id": "basic-rapier",
+    "icon": "oneHandedRapier.png",
+    "description": "Creates a Basic Rapier, usable by those who are proficient with Rapiers.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_weapons",
+    "ingredients": [
+        {
+            "name": "Stone",
+            "id": "stone",
+            "icon": "stone.png",
+            "quantity": 6,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 6,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

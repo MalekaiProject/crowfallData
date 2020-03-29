@@ -1,0 +1,39 @@
+{
+    "name": "Metal Rivets",
+    "id": "armor-rivets-001",
+    "icon": "steelRivets.png",
+    "description": "Creates Metal Rivets that are used in various Leatherworking recipes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "armor_componenets",
+    "ingredients": [
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 5,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 3,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Coal",
+            "id": "coal",
+            "icon": "coal.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

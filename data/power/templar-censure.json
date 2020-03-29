@@ -1,0 +1,26 @@
+{
+    "id": "templar-censure",
+    "name": "Censure",
+    "description": "lunges you forward up to 20m with a sword strike, causing 100 - 149 + 124% Weapon Damage and leaving your target Stunned.",
+    "icon": "Graphic_Tmpr_Censure.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "15",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "100",
+        "max_damage_1": "149",
+        "weapon_damage_value": "124"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

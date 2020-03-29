@@ -1,0 +1,66 @@
+{
+    "name": "Mail Armor Themed Stall",
+    "id": "stall-007",
+    "icon": "marketStall_armor_scale.png",
+    "description": "Creates a Mail Armor Themed Vendor Stall you can place in your EK which you will place your vendor in to sell your wares.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_business",
+    "ingredients": [
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "masonryArch.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "wood.png",
+            "quantity": 15,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Frame",
+            "id": "frame",
+            "icon": "architecturalFrame.png",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "architecturalFoundation.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Piece of Armor",
+            "id": "piece-of-armor",
+            "icon": "armor.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

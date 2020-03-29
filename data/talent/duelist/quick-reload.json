@@ -1,0 +1,28 @@
+{
+    "id": "quick-reload",
+    "name": "Quick Reload",
+    "class": "duelist",
+    "description": "Quick Reload improves Hard Control Intensity by 7% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "gut-wound",
+            "point": 1
+        },
+        {
+            "skill": "explosive-shot",
+            "point": 1
+        },
+        {
+            "skill": "press-the-advantage",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "dirge"
+    ],
+    "locksSkill": []
+}

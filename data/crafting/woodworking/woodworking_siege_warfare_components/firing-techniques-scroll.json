@@ -1,0 +1,39 @@
+{
+    "name": "Firing Techniques Scroll",
+    "id": "firing-techniques-scroll",
+    "icon": "blueprintScroll.png",
+    "description": "Creates a Firing Techniques Scroll that are used to create the MK IV Siege Weapons.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "woodworking",
+    "subCategory": "woodworking_siege_warfare_components",
+    "ingredients": [
+        {
+            "name": "Parchment Paper",
+            "id": "parchment-paper",
+            "icon": "parchmentPaper.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Beeswax",
+            "id": "beeswax",
+            "icon": "beeswax.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 55,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

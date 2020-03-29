@@ -1,53 +1,68 @@
 {
-  "classes": [
-    "knight",
-    "templar",
-    "ranger",
-    "cleric"
-  ],
-  "description": "The youngest children of Arkon, Prince of Light, and Gaea the Earth Mother.",
-  "name": "Human",
-  "tags": [
-    "Human"
-  ],
-  "powers": [
-    "human-bloodline",
-    "sidestep",
-    "candle-that-burns"
-  ],
-  "slots_granted": ["Cloak Slot"],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Strength",
-      "value": 30
-    },
-    {
-      "name": "Power Bar Bonus Slots",
-      "value": 1
-    },
-    {
-      "name": "Passive Bonus Slots",
-      "value": 1
-    },
-    {
-      "name": "Blacksmithing",
-      "value": 10
-    },
-    {
-      "name": "Blacksmithing Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Leatherworking",
-      "value": 10
-    },
-    {
-      "name": "Leatherworking Experimentation",
-      "value": 5
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "human",
+    "name": "Human",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_Human.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 250
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 250
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 250
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 250
+        },
+        {
+            "name": "Strength",
+            "value": 30
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-craft-jewelcrafting",
+            "name": "Gemcutter",
+            "description": "Passive: Increase Jewelcrafting Crafting Statistics"
+        },
+        {
+            "id": "racial-passive-extra-power-slot",
+            "name": "Hero's Blood",
+            "description": "Passive: Increase the Number of Slots on Power Tray"
+        },
+        {
+            "id": "racial-passive-hitpoints-loss",
+            "name": "Pain Tolerance",
+            "description": "Passive: Reduce All Damage You Take"
+        },
+        {
+            "id": "racial-passive-extra-minor-discipline",
+            "name": "Past Lives",
+            "description": "Passive: Unlock a Minor Discipline Slot"
+        },
+        {
+            "id": "human-candle",
+            "name": "Candle That Burns",
+            "description": "Increase Damage, Increase Resource Cost"
+        },
+        {
+            "id": "knight-dodge",
+            "name": "Sidestep",
+            "description": "Roll in a WASD direction."
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "The youngest children of Arkon, Prince of Light, and Gaea the Earth Mother."
 }

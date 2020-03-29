@@ -1,0 +1,25 @@
+{
+    "id": "duelist-stealth-cheap-shots",
+    "name": "Cheap Shots",
+    "description": "lets you leave your Burrow temporarily to deliver a quick volley of five shots to a single target each causing 65 - 97 + 81% Weapon Damage before returning to your Burrow again if you can avoid damage. \\n\\nStriking Exposed targets has a 100% Critical Strike modifier.",
+    "icon": "Graphic_Duel_CheapShots.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "max_targets": "1",
+        "range": "15",
+        "min_damage_1": "65",
+        "max_damage_1": "97",
+        "weapon_damage_value": "81"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

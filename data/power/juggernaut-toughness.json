@@ -1,0 +1,29 @@
+{
+    "id": "juggernaut-toughness",
+    "name": "Toughness",
+    "description": "strengthens group members and you increasing their Maximum Health by 20% for 45 seconds.",
+    "shortDescription": "Group Increase Maximum Health",
+    "icon": "Graphic_Disc_Toughness.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "68",
+        "max_targets": "5",
+        "cost": "16",
+        "cost_type": "Resource",
+        "buff_amount_1": "20%",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

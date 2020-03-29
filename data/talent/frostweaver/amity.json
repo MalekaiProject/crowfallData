@@ -1,0 +1,21 @@
+{
+    "id": "amity",
+    "name": "Amity",
+    "class": "frostweaver",
+    "description": "Amity improves Critical Healing Chance by 5% per point spent.",
+    "icon": "Skill_Icon_017_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "numbing-cold",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "clutch-chill",
+        "harmonious-weaving"
+    ],
+    "locksSkill": []
+}

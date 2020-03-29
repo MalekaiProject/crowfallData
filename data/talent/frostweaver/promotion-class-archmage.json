@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-archmage",
+    "name": "Promotion Class - Archmage",
+    "class": "frostweaver",
+    "description": "Role: Ranged Damage\\n\\nSome want to see the world burn, this master of magic wants to freeze the world. And then explode it.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\n\\nWARNING: Purchasing this talent prevents access to the Icecaller and Frostguard promotion classes.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "resurrection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "dangerous-weaving"
+    ],
+    "locksSkill": [
+        "promotion-class-frostguard",
+        "promotion-class-icecaller"
+    ]
+}

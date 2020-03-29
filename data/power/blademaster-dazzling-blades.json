@@ -1,0 +1,32 @@
+{
+    "id": "blademaster-dazzling-blades",
+    "name": "Dazzling Blades",
+    "description": "disorients multiple enemies with an attack reducing their Critical Strike by -40 for 15 seconds and inflicting 151 - 204 + 178% Weapon Damage.",
+    "shortDescription": "Attack: Reduce Enemy Crit Hit Chance",
+    "icon": "Graphic_Disc_DazzlingBlades.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "23",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "21",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_type_1": "Critical Strike",
+        "buff_amount_1": "-40",
+        "min_damage_1": "151",
+        "max_damage_1": "204",
+        "weapon_damage_value": "178"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "blade_users"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "unbreakable",
+    "name": "Unbreakable",
+    "class": "knight",
+    "description": "Unbreakable increases Shield Block and Fortified Shield Slam damage reduction by 10%.",
+    "icon": "Skill_Icon_015_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "endurance",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "bulwark"
+    ],
+    "locksSkill": []
+}

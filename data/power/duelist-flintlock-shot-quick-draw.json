@@ -1,0 +1,26 @@
+{
+    "id": "duelist-flintlock-shot-quick-draw",
+    "name": "Flintlock Shot",
+    "description": "shoots for 107 - 160 + 134% Weapon Damage and generating two Pips. \\n\\nIf Flintlock Shot hits an Exposed enemy while they attack or use an ability they are knocked down, and take additional damage and you generate an additional Pip. \\n\\nBasic Saber Attacks and Pistol Shots have a chance to reset the cooldown of Flintlock Shot.\\n\\nThis attack can be instantly Flash-Cast.",
+    "icon": "Graphic_Duel_FlintlockShot.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "15",
+        "min_damage_1": "107",
+        "max_damage_1": "160",
+        "weapon_damage_value": "134"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

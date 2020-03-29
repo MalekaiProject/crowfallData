@@ -1,0 +1,75 @@
+{
+    "name": "High-Elf Vessel",
+    "id": "vessel-008",
+    "icon": "vessel_highElf.png",
+    "description": "Creates a High-Elf Vessel.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "necromancy",
+    "subCategory": "necromancy_vessels",
+    "ingredients": [
+        {
+            "name": "Restored Elven Head",
+            "id": "restored-elven-head",
+            "icon": "necromancyHead.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Leg",
+            "id": "restored-elven-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Leg",
+            "id": "restored-elven-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Torso",
+            "id": "restored-elven-torso",
+            "icon": "necromancyTorso.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Arm",
+            "id": "restored-elven-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Arm",
+            "id": "restored-elven-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Stone",
+            "id": "philosopher-s-stone",
+            "icon": "philosophersStone.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

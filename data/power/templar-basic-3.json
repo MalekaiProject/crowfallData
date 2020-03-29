@@ -1,0 +1,27 @@
+{
+    "id": "templar-basic-3",
+    "name": "Smiting Spin",
+    "description": "attacks for 129 - 194 + 162% Weapon Damage and generate a pip of Righteousness.",
+    "icon": "Graphic_Tmpr_BasicAttack3.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "129",
+        "max_damage_1": "194",
+        "weapon_damage_value": "162"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "templar-basic-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

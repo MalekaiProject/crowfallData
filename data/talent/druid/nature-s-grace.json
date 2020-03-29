@@ -1,0 +1,22 @@
+{
+    "id": "nature-s-grace",
+    "name": "Nature's Grace",
+    "class": "druid",
+    "description": "This talent grants the Nature's Grace power.",
+    "icon": "Skill_Icon_018_022.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "druid-natures-grace-2"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "potential-energy",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "lines-of-force"
+    ],
+    "locksSkill": []
+}

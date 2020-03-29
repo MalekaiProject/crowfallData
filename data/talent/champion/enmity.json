@@ -1,0 +1,21 @@
+{
+    "id": "enmity",
+    "name": "Enmity",
+    "class": "champion",
+    "description": "Enmity improves Attack Power by 75 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-alpha-warrior",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "style",
+        "dominant-smashing"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,30 @@
+{
+    "id": "underdog-retaliate",
+    "name": "Deadly Retaliation",
+    "description": "returns you to your feet dealing 113 - 153 + 133% Weapon Damage to nearby enemies. \\n\\nThis attack has a 100% Critical Strike modifier.",
+    "shortDescription": "Retaliate with High Crit Chance",
+    "icon": "Graphic_Disc_DeadlyRetaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [
+        ""
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

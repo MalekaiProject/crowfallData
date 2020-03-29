@@ -1,0 +1,27 @@
+{
+    "id": "troubadour-requiem",
+    "name": "Requiem",
+    "description": "sings for 12 seconds increasing Damage Taken by 15% for up to 5 enemies within 5.\\n\\nType 2 Song.",
+    "shortDescription": "Song: Increase Enemy Damage Taken",
+    "icon": "Graphic_Disc_Requiem.png",
+    "stats": {
+        "cast_time": "2 Seconds",
+        "target": "Point Blank Area",
+        "cooldown": "1",
+        "max_targets": "5",
+        "range": "5",
+        "duration": "12 seconds",
+        "buff_type_1": "Damage Taken",
+        "buff_amount_1": "15%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

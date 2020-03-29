@@ -1,0 +1,39 @@
+{
+    "name": "Arrow Shaft Bundle",
+    "id": "arrow-shaft-bundle",
+    "icon": "weaponShaftLong.png",
+    "description": "Creates an Arrow Shaft Bundle that is used in various Woodworking recipes.",
+    "outputQuantity": 1,
+    "xp": 3.75,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 3,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 3,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

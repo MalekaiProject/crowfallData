@@ -1,0 +1,21 @@
+{
+    "id": "poisoner-poison-basic",
+    "name": "Poisoned Weapons",
+    "description": "deals Poison damage with all Basic attacks instead of their native damage type. \\n\\nPoisoned Weapons also inflicts a Minor Poison with your third Basic attack.",
+    "shortDescription": "Passive: Adds the poison debuff to an enemy on every third Basic attack.",
+    "icon": "Graphic_Rngr_WickedIntentions.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

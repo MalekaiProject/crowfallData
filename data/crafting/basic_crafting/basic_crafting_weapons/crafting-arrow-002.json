@@ -1,0 +1,21 @@
+{
+    "name": "Basic Arrows",
+    "id": "crafting-arrow-002",
+    "icon": "arrow.png",
+    "description": "Creates some Basic Piercing Arrows.Produces 100.",
+    "outputQuantity": 100,
+    "xp": 0.04,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_weapons",
+    "ingredients": [
+        {
+            "name": "Wood",
+            "id": "wood",
+            "icon": "wood.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

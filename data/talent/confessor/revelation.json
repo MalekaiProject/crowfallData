@@ -1,0 +1,28 @@
+{
+    "id": "revelation",
+    "name": "Revelation",
+    "class": "confessor",
+    "description": "Revelation improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "flagellation",
+            "point": 2
+        },
+        {
+            "skill": "confessor-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "absolution",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-exploration-ii"
+    ],
+    "locksSkill": []
+}

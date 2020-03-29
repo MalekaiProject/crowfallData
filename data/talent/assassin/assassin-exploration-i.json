@@ -1,0 +1,25 @@
+{
+    "id": "assassin-exploration-i",
+    "name": "Exploration Discipline Slot",
+    "class": "assassin",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "disengage",
+            "point": 1
+        },
+        {
+            "skill": "in-the-zone",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-minor-i",
+        "tools-of-the-trade"
+    ],
+    "locksSkill": []
+}

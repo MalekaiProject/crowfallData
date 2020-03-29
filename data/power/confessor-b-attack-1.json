@@ -1,0 +1,29 @@
+{
+    "id": "confessor-b-attack-1",
+    "name": "Holy Fire",
+    "description": "shoots a fireball, causing 60 - 90 + 75%  Fire Weapon Damage and applying Sin to your target.",
+    "icon": "Graphic_Conf_Basic1.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "25",
+        "cost": "30",
+        "min_damage_1": "60",
+        "max_damage_1": "90",
+        "weapon_damage_value": "75",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [
+        "confessor-b-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

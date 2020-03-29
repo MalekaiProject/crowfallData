@@ -1,0 +1,25 @@
+{
+    "id": "confessor-fervor",
+    "name": "Fervor",
+    "description": "restores 350 Mana over five seconds and reduce your physical mitigations by 15% while channeling.",
+    "icon": "Graphic_Conf_Fervor.png",
+    "stats": {
+        "cast_time": "Channeled",
+        "target": "Self",
+        "cooldown": "45",
+        "restore": "350",
+        "restore_type": "Mana",
+        "restore_type_time": "over five seconds",
+        "duration": "5 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

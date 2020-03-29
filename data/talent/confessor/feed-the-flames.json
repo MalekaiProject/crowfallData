@@ -1,0 +1,20 @@
+{
+    "id": "feed-the-flames",
+    "name": "Feed the Flames",
+    "class": "confessor",
+    "description": "Feed the Flames improves Ranged Distance Bonus by 4 meters per point spent.",
+    "icon": "Skill_Icon_044_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "rapture",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "persecution"
+    ],
+    "locksSkill": []
+}

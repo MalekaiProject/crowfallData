@@ -1,0 +1,19 @@
+{
+    "id": "duelist-passive-vanguard-scout",
+    "name": "Vanguard Scout",
+    "description": "grants 35% Lifesteal for attacks made while maintaining Stealth.",
+    "icon": "Graphic_Duel_VanguardScout.png",
+    "stats": {
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

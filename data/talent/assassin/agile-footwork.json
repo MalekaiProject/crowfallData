@@ -1,0 +1,21 @@
+{
+    "id": "agile-footwork",
+    "name": "Agile Footwork",
+    "class": "assassin",
+    "description": "Agile Footwork improves Anti-Critical Strike by 5% per point spent.",
+    "icon": "Skill_Icon_041_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-blackguard",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "brick-outhouse",
+        "payback"
+    ],
+    "locksSkill": []
+}

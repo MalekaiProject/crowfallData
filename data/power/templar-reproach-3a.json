@@ -1,0 +1,28 @@
+{
+    "id": "templar-reproach-3a",
+    "name": "Radiant Sweep",
+    "description": "slashes multiple enemies, dealing 72 - 108 + 90% Weapon Damage and leaving them Knocked Down.",
+    "icon": "Graphic_Tmpr_RadiantSweep.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "cooldown": "9",
+        "max_targets": "5",
+        "range": "5",
+        "min_damage_1": "72",
+        "max_damage_1": "108",
+        "weapon_damage_value": "90"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "templar-reproach-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

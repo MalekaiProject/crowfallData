@@ -1,0 +1,28 @@
+{
+    "id": "fury-of-the-storm",
+    "name": "Fury of the Storm",
+    "class": "druid",
+    "description": "Fury of the Storm increases your Damage Bonus by 1% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "electric-skin",
+            "point": 1
+        },
+        {
+            "skill": "lightning-bugs",
+            "point": 1
+        },
+        {
+            "skill": "lightning-burst",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "stormcaller"
+    ],
+    "locksSkill": []
+}

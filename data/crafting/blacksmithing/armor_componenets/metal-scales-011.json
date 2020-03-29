@@ -1,0 +1,48 @@
+{
+    "name": "Metal Scales",
+    "id": "metal-scales-011",
+    "icon": "metalScales.png",
+    "description": "Creates Metal Scales that are used in various Blacksmithing recipes, the Metal Scales produced depends on the type of ore used to create it.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "armor_componenets",
+    "ingredients": [
+        {
+            "name": "Iron",
+            "id": "iron",
+            "icon": "ore.png",
+            "quantity": 8,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 5,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Coal",
+            "id": "coal",
+            "icon": "coal.png",
+            "quantity": 3,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

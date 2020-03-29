@@ -1,0 +1,27 @@
+{
+    "id": "lookout-keen-eye",
+    "name": "Keen Eye",
+    "description": "increases your Harvest Weak Spot Chance by 10% for 8 seconds.",
+    "shortDescription": "Increase Harvest Weak Spot Chance",
+    "icon": "Graphic_Disc_KeenEye.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "6",
+        "cost": "2",
+        "cost_type": "Harvest Pips",
+        "duration": "8 seconds",
+        "buff_type_1": "Harvest Weak Spot Chance",
+        "buff_amount_1": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

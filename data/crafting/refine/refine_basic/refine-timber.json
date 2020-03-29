@@ -1,0 +1,30 @@
+{
+    "name": "Refine Timber",
+    "id": "refine-timber",
+    "icon": "wood.png",
+    "description": "Refine Timber into Wood.",
+    "outputQuantity": 200,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Timber",
+            "id": "timber",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

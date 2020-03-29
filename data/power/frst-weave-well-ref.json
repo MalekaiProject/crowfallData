@@ -1,0 +1,23 @@
+{
+    "id": "frst-weave-well-ref",
+    "name": "Refreshing Ice Weave",
+    "description": "uses Weaving to create Refreshing Ice and adds the Weaving: Refreshing Ice effect allowing you to use Ice Weave to continue creating Refreshing Ice.",
+    "icon": "Graphic_FrostWeaver_RefreshingIceWeave_01.png",
+    "stats": {
+        "cost_type": "Weaving",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "frst-weave-well"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

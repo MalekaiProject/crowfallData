@@ -1,0 +1,22 @@
+{
+    "id": "judgment",
+    "name": "Judgment",
+    "class": "templar",
+    "description": "This talent grants the Judgement power.",
+    "icon": "Skill_Icon_042_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "templar-judgement-1"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "reproach",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-exploration-i"
+    ],
+    "locksSkill": []
+}

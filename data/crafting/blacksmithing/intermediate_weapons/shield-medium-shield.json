@@ -1,0 +1,39 @@
+{
+    "name": "Shield: Medium Shield",
+    "id": "shield-medium-shield",
+    "icon": "shield.png",
+    "description": "Creates a Medium Shield, usable by those who are proficient with Medium Shields.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "intermediate_weapons",
+    "ingredients": [
+        {
+            "name": "Non-Basic Ore",
+            "id": "non-basic-ore",
+            "icon": "ore.png",
+            "quantity": 9,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Basic Medium Shield",
+            "id": "basic-medium-shield",
+            "icon": "shield.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "saintly-protection",
+    "name": "Saintly Protection",
+    "class": "templar",
+    "description": "Saintly Protection improves Critical Healing Amount by 4% per point spent.",
+    "icon": "Skill_Icon_017_025.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "fanatical",
+            "point": 1
+        },
+        {
+            "skill": "virtuous-light",
+            "point": 1
+        },
+        {
+            "skill": "profound-devotion",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "paladin"
+    ],
+    "locksSkill": []
+}

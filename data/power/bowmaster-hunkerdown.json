@@ -1,0 +1,29 @@
+{
+    "id": "bowmaster-hunkerdown",
+    "name": "Hunker Down",
+    "description": "deploys a small point-blank field increasing your Damage Bonus and Resist All.",
+    "shortDescription": "Field increases Damage; Resist All",
+    "icon": "Graphic_Disc_HunkerDown.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "23",
+        "range": "1",
+        "cost": "12",
+        "cost_type": "Resource",
+        "duration": "15",
+        "min_damage_1": "16",
+        "max_damage_1": "22",
+        "weapon_damage_value": "19"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

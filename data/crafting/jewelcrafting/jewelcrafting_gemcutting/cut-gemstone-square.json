@@ -1,0 +1,39 @@
+{
+    "name": "Cut Gemstone: Square",
+    "id": "cut-gemstone-square",
+    "icon": "gem_square.png",
+    "description": "The first stage of crafting a gemstone out of a rough stone involves the use of a Diamond Cutting Blade. This is used to trim and shape the stone into a primitive shape.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_gemcutting",
+    "ingredients": [
+        {
+            "name": "Rough Gem",
+            "id": "rough-gem",
+            "icon": "gem_baguette.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Diamond Cutting Blade",
+            "id": "diamond-cutting-blade",
+            "icon": "diamondBlade.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

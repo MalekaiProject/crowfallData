@@ -1,0 +1,36 @@
+{
+    "id": "frst-ice-stable-01",
+    "name": "Ice Weave",
+    "description": "creates Stable Ice or other Ice types after Free Weaving.\\n\\nStable Ice is harmless and visible only to you. It can be picked up and added automatically to your Ice Stores. If your Ice Stores are full, Stable Ice is consumed on contact to restore 50 Mana.\\n\\nIf Stable Ice is created in this way within 3m of another Ice type that one will be converted to Stable Ice as well.\\n\\nWeaving abilities reduce your Ice Stores by one. If your Ice Stores are empty, 250 Mana is drained to create the Ice. If neither cost can be paid, Ice is not woven but Mana is restored instead.\\n\\nOther Ice types unlocked by Free Weaving:\\nCool Ice benefits allies within 10m restoring their native resource over time. This effect stacks.\\n\\nFrigid Ice harms enemies within 5m over time Dazing them and inflicting 57 - 86 + 70% Weapon Damage. Enemies destroy it on contact taking 201 - 301 + 251% Weapon Damage, becoming Rooted and suffering Ice Buildup. Tripping it again while afflicted with Ice Buildup causes Knockdown.\\n\\nRefreshing Ice quickly bursts healing allies within 10m for 35 - 43 + 157% Support Power.\\n\\nVolatile Ice quickly explodes damaging enemies within 5m for 219 - 328 + 273% Weapon Damage.",
+    "icon": "Graphic_FrostWeaver_IceWeave_01.png",
+    "stats": {
+        "weapon_damage_5_value": "273",
+        "max_damage_5": "328",
+        "min_damage_5": "219",
+        "weapon_damage_4_value": "157",
+        "max_damage_4": "43",
+        "min_damage_4": "35",
+        "weapon_damage_3_value": "251",
+        "max_damage_3": "301",
+        "min_damage_3": "201",
+        "weapon_damage_2_value": "70",
+        "max_damage_2": "86",
+        "min_damage_2": "57",
+        "weapon_damage_value": "62",
+        "max_damage_1": "17",
+        "min_damage_1": "14",
+        "cost_type": "Weaving",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "banshee-haunt",
+    "name": "Haunt",
+    "description": "haunts 3 enemies, reflecting 35% their attack damage as Nature damage and healing you for 35% of damage taken.",
+    "shortDescription": "Attack: Reflect Enemy Damage; Healing",
+    "icon": "Graphic_Disc_Haunt.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "45",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "14",
+        "cost_type": "Resource",
+        "buff_amount_1": "50%",
+        "min_damage_1": "5",
+        "max_damage_1": "5",
+        "weapon_damage_type": "Nature"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

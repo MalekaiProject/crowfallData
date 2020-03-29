@@ -1,0 +1,30 @@
+{
+    "name": "Foundation Segment",
+    "id": "arc-component-003",
+    "icon": "architecturalFoundation.png",
+    "description": "Creates a Foundation Segment used in Architectural crafting.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_architecture_components",
+    "ingredients": [
+        {
+            "name": "Bricks",
+            "id": "bricks",
+            "icon": "setOfBricks.png",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Gravel",
+            "id": "gravel",
+            "icon": "gravel.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

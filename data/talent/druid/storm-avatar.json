@@ -1,0 +1,23 @@
+{
+    "id": "storm-avatar",
+    "name": "Storm Avatar",
+    "class": "druid",
+    "description": "This talent grants the Storm Avatar power.",
+    "icon": "Skill_Icon_044_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "druid-avatar-storm"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "weather-sense",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "lightning-burst",
+        "lightning-bugs"
+    ],
+    "locksSkill": []
+}

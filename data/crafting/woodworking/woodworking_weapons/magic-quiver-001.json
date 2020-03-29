@@ -1,0 +1,66 @@
+{
+    "name": "Quiver",
+    "id": "magic-quiver-001",
+    "icon": "magicQuiver.png",
+    "description": "Creates a Quiver that supplies the user with unlimited Ammo but decays over time like other weapons. Usable by those who are proficient with Quivers.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "woodworking",
+    "subCategory": "woodworking_weapons",
+    "ingredients": [
+        {
+            "name": "Arrowhead Bundle",
+            "id": "arrowhead-bundle",
+            "icon": "arrowhead.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Arrow Shaft Bundle",
+            "id": "arrow-shaft-bundle",
+            "icon": "weaponShaftShort.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Arrow Shaft Bundle",
+            "id": "arrow-shaft-bundle",
+            "icon": "weaponShaftShort.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Heartwood",
+            "id": "heartwood",
+            "icon": "wood.png",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runestone: Haste",
+            "id": "runestone-haste",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

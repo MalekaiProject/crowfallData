@@ -1,0 +1,48 @@
+{
+    "name": "Necklace Chain",
+    "id": "necklace-chain-002",
+    "icon": "chain.png",
+    "description": "Creates a Necklace Chain that is used to create a Necklace.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_components",
+    "ingredients": [
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 4,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Necklace Bail",
+            "id": "necklace-bail",
+            "icon": "ringSetting.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

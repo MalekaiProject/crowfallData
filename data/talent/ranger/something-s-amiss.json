@@ -1,0 +1,20 @@
+{
+    "id": "something-s-amiss",
+    "name": "Something's Amiss",
+    "class": "ranger",
+    "description": "Something's Amiss improves Perception by 15 per point spent and Attack Power by 50 per point spent.",
+    "icon": "Skill_Icon_042_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cloaked-in-moss",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "weathered-resilience"
+    ],
+    "locksSkill": []
+}

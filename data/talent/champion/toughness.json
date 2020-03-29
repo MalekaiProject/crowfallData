@@ -1,0 +1,22 @@
+{
+    "id": "toughness",
+    "name": "Toughness",
+    "class": "champion",
+    "description": "Toughness improves Health Regen In Combat and Health Regen Out of Combat by 3 per point spent.",
+    "icon": "Skill_Icon_043_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "massive-cleave",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "potency",
+        "ultimate-warrior",
+        "whirling-pain"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": "duelist-b-attack-2",
+    "name": "Gorgeous Riposte",
+    "description": "attacks for 72 - 109 + 91% Weapon Damage.",
+    "icon": "Graphic_Duel_Basic2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "72",
+        "max_damage_1": "109",
+        "weapon_damage_value": "91"
+    },
+    "nextChain": [
+        "duelist-b-attack-3"
+    ],
+    "lastChain": [
+        "duelist-b-attack-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

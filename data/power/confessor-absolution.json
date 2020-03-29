@@ -1,0 +1,32 @@
+{
+    "id": "confessor-absolution",
+    "name": "Absolution",
+    "description": "absolves an enemy, consuming all stacked Sin and causing 145 - 218 + 181% Fire Weapon Damage. Absolution damage scales to as much as 329 - 494 + 411 Weapon Damage based on the amount of Sin removed.\\n\\nAbsolution slows if five stacks of Sin are consumed.",
+    "icon": "Graphic_Conf_Absolution.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "25",
+        "cost": "110",
+        "cost_type": "Mana",
+        "min_damage_1": "145",
+        "max_damage_1": "218",
+        "weapon_damage_value": "181",
+        "weapon_damage_type": "Fire",
+        "min_damage_2": "329",
+        "max_damage_2": "494",
+        "weapon_damage_2_value": "411"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

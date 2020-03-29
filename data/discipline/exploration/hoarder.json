@@ -1,31 +1,24 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Hoarders have a way of finding more room to keep their newly found treasures without having to part with any of their old goods. Rearranging and restacking are some of the constant tasks a hoarder may have to deal with frequently, but it is a labor of love.",
-  "name": "Hoarder",
-  "powers": [
-    "usurious-bargain",
-    "i-need-this"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "hoarder",
+    "name": "Hoarder",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Hoarder.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "hoarder-usurious-bargain",
+            "name": "Usurious Bargain",
+            "description": "Swap Health into Stamina"
+        },
+        {
+            "id": "hoarder-need-this",
+            "name": "I Need This!",
+            "description": "Passive: Weak Points Grant Stamina"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Hoarders have a way of finding more room to keep their newly-acquired treasures without having to part with any of their old goods. Rearranging and restacking are some of the tasks a hoarder may have to deal with frequently, but it is a labor of love.",
+    "lore": "My dear sir, parting with my collections is such a sweet sorrow that I dare not do it."
 }

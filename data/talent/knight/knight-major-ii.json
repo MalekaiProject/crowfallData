@@ -1,0 +1,18 @@
+{
+    "id": "knight-major-ii",
+    "name": "Major Discipline Slot",
+    "class": "knight",
+    "description": "Unlock a Major Discipline slot.",
+    "icon": "Skill_Icon_011_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 20,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "onslaught",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

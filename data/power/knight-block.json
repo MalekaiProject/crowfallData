@@ -1,0 +1,29 @@
+{
+    "id": "knight-block",
+    "name": "Shield Block",
+    "description": "reduces damage by 50% and prevents crowd control effects.\\n\\nYour damage increases by 15% for 5 seconds for each 150 damage taken while Blocking.\\n\\nTaking more than 150 damage while Blocking increases damage by 15% for 5 seconds for each 150 damage taken while Blocking and activates Shield Bash.\\n\\nThis attack can be instantly Flash-Cast.",
+    "icon": "Graphic_Kngt_Block.png",
+    "stats": {
+        "cast_time": "Hold Channeled",
+        "target": "Self",
+        "cooldown": "1",
+        "cost": "3",
+        "cost_type": "Stamina",
+        "cost_type_time": "cost_type_time_per_second",
+        "duration": ".05 second",
+        "buff_type_1": "Shield Bash",
+        "min_damage_1": "150",
+        "max_damage_1": "15",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

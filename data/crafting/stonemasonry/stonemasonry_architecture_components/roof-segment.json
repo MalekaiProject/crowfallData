@@ -1,0 +1,30 @@
+{
+    "name": "Roof Segment",
+    "id": "roof-segment",
+    "icon": "roofSegment.png",
+    "description": "Creates a Roof Segment used in Architectural crafting.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_architecture_components",
+    "ingredients": [
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "carpentryNails.png",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Wood Shingles",
+            "id": "wood-shingles",
+            "icon": "roofShingles.png",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

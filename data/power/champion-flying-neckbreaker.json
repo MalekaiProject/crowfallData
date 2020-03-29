@@ -1,0 +1,28 @@
+{
+    "id": "champion-flying-neckbreaker",
+    "name": "Neckbreaker",
+    "description": "applies Knockdown to all enemies in the area dealing 288 - 389 + 339% Weapon Damage as Crushing Damage. \\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "icon": "Graphic_Chmp_FlyingNeckbreaker.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "500",
+        "cost_type": "Soul Power",
+        "min_damage_1": "288",
+        "max_damage_1": "389",
+        "weapon_damage_value": "339",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

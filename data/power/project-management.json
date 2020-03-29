@@ -1,22 +1,21 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Project Management",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "project-management",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Partial Re-roll Cost Modifier"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Partial Re-roll Cost Modifier by 25%."
+    "name": "Project Management",
+    "description": "increases your Partial Re-roll Cost Modifier by 25%.",
+    "shortDescription": "Passive: Reduce cost of Low Stat Re-Rolls",
+    "icon": "Graphic_Disc_ProjectManagement.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Partial Re-roll Cost Modifier",
+        "buff_amount_1": "25%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

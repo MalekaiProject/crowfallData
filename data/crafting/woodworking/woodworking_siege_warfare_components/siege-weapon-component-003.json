@@ -1,0 +1,39 @@
+{
+    "name": "Reinforcing Brackets",
+    "id": "siege-weapon-component-003",
+    "icon": "ReinforcingBrackets.png",
+    "description": "Creates Reinforcing Brackets that are used to create the MK II Siege Weapons.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "woodworking",
+    "subCategory": "woodworking_siege_warfare_components",
+    "ingredients": [
+        {
+            "name": "Non-Basic Ore",
+            "id": "non-basic-ore",
+            "icon": "ore.png",
+            "quantity": 25,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Ore",
+            "id": "non-basic-ore",
+            "icon": "ore.png",
+            "quantity": 25,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

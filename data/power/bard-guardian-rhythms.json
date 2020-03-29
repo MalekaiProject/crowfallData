@@ -1,0 +1,26 @@
+{
+    "id": "bard-guardian-rhythms",
+    "name": "Guardian Rhythms",
+    "description": "reduces the group's Damage Taken by 5% for 12 seconds.\\n\\nType 2 Song.",
+    "shortDescription": "Song: Increase Group Mitigation",
+    "icon": "Graphic_Disc_GuardianRythmns.png",
+    "stats": {
+        "cast_time": "2 Seconds",
+        "target": "Group",
+        "cooldown": "1",
+        "max_targets": "5",
+        "duration": "12 seconds",
+        "buff_type_1": "Damage Taken",
+        "buff_amount_1": "5%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

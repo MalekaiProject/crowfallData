@@ -1,0 +1,21 @@
+{
+    "id": "fearless-resilience",
+    "name": "Fearless Resilience",
+    "class": "myrmidon",
+    "description": "Fearless Resilience improves Crowd Control Defense by 10% per point spent.",
+    "icon": "Skill_Icon_043_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-battle-rager",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "impressive-physique",
+        "satisfying-slaughter"
+    ],
+    "locksSkill": []
+}

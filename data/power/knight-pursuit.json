@@ -1,0 +1,29 @@
+{
+    "id": "knight-pursuit",
+    "name": "Pursuit",
+    "description": "charges you forward 20m. When the charge ends, deal 119 - 161 + 140% Crushing Weapon Damage to enemies in front of you.",
+    "icon": "Graphic_Kngt_Pursuit.png",
+    "stats": {
+        "weapon_damage_type": "Crushing",
+        "weapon_damage_value": "140",
+        "max_damage_1": "161",
+        "min_damage_1": "119",
+        "cost_type": "Energy",
+        "cost": "375",
+        "range": "20",
+        "max_targets": "5",
+        "cooldown": "30",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

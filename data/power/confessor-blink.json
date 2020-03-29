@@ -1,0 +1,23 @@
+{
+    "id": "confessor-blink",
+    "name": "Zealot Rush",
+    "description": "thrusts you 20 meters in your WASD direction.",
+    "shortDescription": "Dash in a WASD direction",
+    "icon": "Graphic_Conf_ZealotRush.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "15",
+        "range": "20"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "knight-exploration-i",
+    "name": "Exploration Discipline Slot",
+    "class": "knight",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "shield-block",
+            "point": 1
+        },
+        {
+            "skill": "shield-slam",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-minor-i",
+        "hoplitodromos"
+    ],
+    "locksSkill": []
+}

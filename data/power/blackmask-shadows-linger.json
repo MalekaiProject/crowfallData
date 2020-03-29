@@ -1,0 +1,25 @@
+{
+    "id": "blackmask-shadows-linger",
+    "name": "Shadows Linger",
+    "description": "increases your Critical Damage by 25% for 6 seconds after being removed from Stealth.",
+    "shortDescription": "Passive: Increase Critical Damage Amount after losing Stealth",
+    "icon": "Graphic_Disc_ShadowsLinger.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "6 seconds",
+        "buff_type_1": "Critical Damage",
+        "buff_amount_1": "25%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth",
+        "stealth_users_melee"
+    ]
+}

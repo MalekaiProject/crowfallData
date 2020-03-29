@@ -1,0 +1,32 @@
+{
+    "id": "discipline-power-001",
+    "name": "Chain Heal",
+    "description": "heals a targeted ally for 63 - 77 + 28% Support Power and also healing a nearby ally. \\n\\nThe Chain Healing Bonus Jumps statistic adds additional targets but healing is reduced by 30% per target, up to a maximum of a 60% reduction.",
+    "shortDescription": "Target Heal multiple allies",
+    "icon": "Graphic_Disc_ChainHeal.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "cooldown": "9",
+        "range": "35",
+        "cost": "22",
+        "cost_type": "Resource",
+        "min_damage_1": "63",
+        "max_damage_1": "77",
+        "weapon_damage_value": "28",
+        "min_damage_2": "88",
+        "max_damage_2": "108",
+        "weapon_damage_2_value": "392"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "anyone_but_druid",
+        "druid_healing"
+    ]
+}

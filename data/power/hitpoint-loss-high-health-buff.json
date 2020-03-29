@@ -1,0 +1,19 @@
+{
+    "id": "hitpoint-loss-high-health-buff",
+    "name": "Sturdy",
+    "description": "reinforces your body, reducing Health loss by 33% when your Health is above 80%.",
+    "shortDescription": "Passive: Reduce Health Loss at High Health",
+    "icon": "Graphic_Disc_Sturdy.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

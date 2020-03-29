@@ -1,0 +1,20 @@
+{
+    "id": "clutch-chill",
+    "name": "Clutch Chill",
+    "class": "frostweaver",
+    "description": "Clutch Chill enhances Chill Out to also heal the most injured group member and yourself.",
+    "icon": "Skill_Icon_019_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "amity",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tranquility"
+    ],
+    "locksSkill": []
+}

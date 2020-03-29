@@ -1,0 +1,20 @@
+{
+    "id": "fanatical",
+    "name": "Fanatical",
+    "class": "templar",
+    "description": "Fanatical enhances Holy Warrior to reduce its cooldown by 24 seconds and improves Zealotry gains by 50%. Holy Warrior will also heal your most injured group member in addition to yourself while scaling with Support Power.",
+    "icon": "Skill_Icon_042_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "divine-protection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "saintly-protection"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "shatter-storm",
+    "name": "Shatter Storm",
+    "class": "frostweaver",
+    "description": "This talent grants the Shatter Storm power.\\n\\nTraits Granted:\\nVolatile Focus Gem.",
+    "icon": "Skill_Icon_041_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-shatter"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "stinging-strikes",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "freezing-reign"
+    ],
+    "locksSkill": []
+}

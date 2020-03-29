@@ -1,37 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Often associated with the macabre due to the nature of the work, grave digging is a trade not for those with delicate sensibilities. Surrounded by death and shrouded in darkness, the grave digger plucks from the remains the necessary components to create new life.",
-  "name": "Grave Digger",
-  "powers": [
-    "empowered-grave-digging"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [{
-      "name": "Plentiful Resources Grave: All",
-      "value": 1.25
-    },
-    {
-      "name": "Harvest Power Pips Bonus",
-      "value": 0.63
-    }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "grave-digger",
+    "name": "Grave Digger",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_GraveDigger.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Grave: All",
+            "value": 1
+        },
+        {
+            "name": "Harvest Power Pips Bonus",
+            "value": 0.5
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "grave-digging-empowered-digging",
+            "name": "Empowered Grave Digging",
+            "description": "Passive: Adds Grave Digging specific Buffs to all Energetic Harvesting Buffs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Often associated with the macabre due to the nature of the work, grave digging is a trade not for those with delicate sensibilities. Surrounded by death and shrouded in darkness, the grave digger plucks from the remains the necessary components to create new life.",
+    "lore": "We are creatures made from borrowed parts, but have our own unique souls."
 }

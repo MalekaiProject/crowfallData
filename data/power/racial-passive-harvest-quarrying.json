@@ -1,0 +1,22 @@
+{
+    "id": "racial-passive-harvest-quarrying",
+    "name": "Sticks and Stones",
+    "description": "increases your Logging and Quarrying statistics by 10.",
+    "shortDescription": "Passive: Increase Logging and Quarrying",
+    "icon": "Graphic_Disc_Quarrying.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Logging",
+        "buff_amount_1": "10",
+        "buff_type_2": "Quarrying"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

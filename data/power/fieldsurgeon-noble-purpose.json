@@ -1,0 +1,22 @@
+{
+    "id": "fieldsurgeon-noble-purpose",
+    "name": "Noble Purpose",
+    "description": "inspires you and recovers Resource for every 1000 Health you restore to others. \\n\\nThis effect can only occur once every 15 seconds.",
+    "shortDescription": "Passive: Recover Resource Based on Healing",
+    "icon": "Graphic_Disc_NoblePurpose.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "min_damage_1": "10000"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

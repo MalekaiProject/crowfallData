@@ -1,0 +1,25 @@
+{
+    "id": "cleric-holy-aura",
+    "name": "Holy Aura",
+    "description": "imbues group members and you with sanctified power increasing their maximum Health by 1250 while you maintain the effect.",
+    "icon": "Graphic_Cleric_HolyAura.png",
+    "stats": {
+        "cast_time": "Toggle",
+        "target": "Group",
+        "max_targets": "5",
+        "range": "50",
+        "cost": "180",
+        "cost_type": "Mana"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric",
+        "harvest"
+    ]
+}

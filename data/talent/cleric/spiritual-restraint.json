@@ -1,0 +1,21 @@
+{
+    "id": "spiritual-restraint",
+    "name": "Spiritual Restraint",
+    "class": "cleric",
+    "description": "Spiritual Restraint improves Movement Control Intensity by 5% and Support Power by 100 per point spent.",
+    "icon": "Skill_Icon_017_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "interdiction",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "big-hands",
+        "wrathful-illumination"
+    ],
+    "locksSkill": []
+}

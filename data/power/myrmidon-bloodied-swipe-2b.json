@@ -1,0 +1,28 @@
+{
+    "id": "myrmidon-bloodied-swipe-2b",
+    "name": "Colossus Smash",
+    "description": "lunges you up to 20m toward an enemy and strikes with both axes stunning them and causing 173 - 212 + 192% Weapon Damage.",
+    "icon": "Graphic_Myrm_ColossusSmash.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "15",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "31",
+        "cost_type": "Fury",
+        "min_damage_1": "173",
+        "max_damage_1": "212",
+        "weapon_damage_value": "192"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

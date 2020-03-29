@@ -1,0 +1,28 @@
+{
+    "id": "confessor-arkons-fury",
+    "name": "Arkon's Fury",
+    "description": "unleashes Arkon's Fury on a target dealing 93 - 140 + 117% Weapon Damage and applying Elemental Break to them.",
+    "icon": "Graphic_Conf_ArkonsFury.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Rectangle",
+        "cooldown": "23",
+        "max_targets": "1",
+        "range": "25",
+        "cost": "70",
+        "cost_type": "Mana",
+        "min_damage_1": "93",
+        "max_damage_1": "140",
+        "weapon_damage_value": "117"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

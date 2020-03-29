@@ -1,0 +1,21 @@
+{
+    "id": "plasma-spark",
+    "name": "Plasma Spark",
+    "class": "druid",
+    "description": "Plasma Spark improves Basic Attack Damage by 2% per point spent and enhances Lightning Crack:\\n\\nStriking with Lightning Crack adds a Sparks counter, stacking up to three times. Sparks are triggered when casting the Lightning Burst combo and increase its Critical Strike by 100%. Any Sparks Remaining will also be used to increase Critical Strike for Lightning Strike and Aurora Emitter by 100%.",
+    "icon": "Skill_Icon_018_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "weather-sense",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "electric-skin",
+        "lightning-bugs"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "deplorable",
+    "name": "Deplorable",
+    "class": "myrmidon",
+    "description": "Deplorable improves Hard Control Intensity by 7% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "impenetrable-storm",
+            "point": 1
+        },
+        {
+            "skill": "torturous-wounding",
+            "point": 1
+        },
+        {
+            "skill": "unstoppable-vengeance",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "conqueror"
+    ],
+    "locksSkill": []
+}

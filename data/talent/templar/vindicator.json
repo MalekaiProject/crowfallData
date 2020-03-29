@@ -1,0 +1,20 @@
+{
+    "id": "vindicator",
+    "name": "Vindicator",
+    "class": "templar",
+    "description": "This talent grants the Vindicator passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nSlashing Damage Bonus\\n\\nIncreases by 30%:\\nFire Damage Cap\\nSlashing Damage Cap\\n\\nTraits Granted:\\nGreat Sword Mastery",
+    "icon": "Skill_Icon_042_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "templar-passive-vindicator"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "holy-avenger",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

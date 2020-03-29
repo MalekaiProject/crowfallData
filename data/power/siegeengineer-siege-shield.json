@@ -1,0 +1,21 @@
+{
+    "id": "siegeengineer-siege-shield",
+    "name": "Shield Siege Engine",
+    "description": "reduces damage taken by Siege Engines in the area by 90%.",
+    "shortDescription": "Channel: Shield Nearby Siege Engines From Damage",
+    "icon": "Mount_ShieldSiegeEngine.png",
+    "stats": {
+        "cast_time": "Instant",
+        "max_targets": "3"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

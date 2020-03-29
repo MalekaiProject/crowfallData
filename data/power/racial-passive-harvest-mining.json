@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-harvest-mining",
+    "name": "Lay of The Land",
+    "description": "increases your Mining statistic by 15.",
+    "shortDescription": "Passive: Increase Mining",
+    "icon": "Graphic_Disc_Mining.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Mining",
+        "buff_amount_1": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-inquisitor",
+    "name": "Promotion Class - Inquisitor",
+    "class": "confessor",
+    "description": "Role: Ranged Control\\n\\nPunishing the wicked leads to longer fights, which affords this worshiper of flame plenty of time for multiple mana restores and many chances to slow their opponents.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Inquisitor promotion class and prevents access to the Sanctifier and Fanatic promotion classes.",
+    "icon": "Skill_Icon_033_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "hellfire",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "atone"
+    ],
+    "locksSkill": [
+        "promotion-class-fanatic",
+        "promotion-class-sanctifier"
+    ]
+}

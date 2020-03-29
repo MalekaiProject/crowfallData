@@ -1,43 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A heightened sense of awareness has often been compared to paranoia, but on the battlefield it is the ultimate key to fending off unexpected attacks. Those who are cloaked in the shadows are more exposed and more vulnerable when a Mole Hunter is present. Whacking moles and stealthers eventually becomes an easy game of Hide and Seek.",
-  "name": "Mole Hunter",
-  "powers": [
-    "heads-up",
-    "flare",
-    "get-em",
-    "revenge"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [
-    { "name": "Perception",
-      "value": 20
-    },
-    { "name": "Dodge Regen Tick Rate",
-      "value": -1.00
-    },
-    { "name": "Food Regen Rate",
-      "value": 3.75
-    }
-  ],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "mole-hunter",
+    "name": "Mole Hunter",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_MoleHunter.png",
+    "stats": [
+        {
+            "name": "Perception",
+            "value": 20
+        },
+        {
+            "name": "Dodge Regen Rate",
+            "value": -1
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "molehunter-getem",
+            "name": "Get 'Em",
+            "description": "Attack: Root; Expose Punish"
+        },
+        {
+            "id": "molehunter-flare",
+            "name": "Flare",
+            "description": "Ground Target Stealth Users Revealed; Punished"
+        },
+        {
+            "id": "molehunter-heads-up",
+            "name": "Heads Up",
+            "description": "Group increase Perception; Remove Expose"
+        },
+        {
+            "id": "molehunter-revenge-vs-stealth",
+            "name": "Revenge",
+            "description": "Passive: Increase Critical % after Stealth Attacked"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A heightened sense of awareness has often been compared to paranoia, but on the battlefield it is the ultimate key to fending off unexpected attacks. Those who are cloaked in the shadows are more exposed and more vulnerable when a Mole Hunter is present. Whacking moles and stealthers eventually becomes an easy game of Hide and Seek.",
+    "lore": "Perception is the ability to sense a lurking and harmful presence."
 }

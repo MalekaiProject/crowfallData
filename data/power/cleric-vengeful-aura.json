@@ -1,0 +1,25 @@
+{
+    "id": "cleric-vengeful-aura",
+    "name": "Vengeful Aura",
+    "description": "fortifies group members and you with otherworldly strength increasing their maximum Attack Power by 75 while you maintain the effect.",
+    "icon": "Graphic_Cleric_VengefulAura.png",
+    "stats": {
+        "cast_time": "Toggle",
+        "target": "Group",
+        "max_targets": "5",
+        "range": "50",
+        "cost": "175",
+        "cost_type": "Mana"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric",
+        "harvest"
+    ]
+}

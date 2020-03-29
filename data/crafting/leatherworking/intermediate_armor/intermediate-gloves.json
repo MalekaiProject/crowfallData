@@ -1,0 +1,39 @@
+{
+    "name": "Intermediate Gloves",
+    "id": "intermediate-gloves",
+    "icon": "gloves.png",
+    "description": "Creates a Intermediate Armor Cloth Gloves, usable by all.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "leatherworking",
+    "subCategory": "intermediate_armor",
+    "ingredients": [
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 3,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Leather Sheet",
+            "id": "leather-sheet",
+            "icon": "leatherBand.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

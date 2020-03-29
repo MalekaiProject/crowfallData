@@ -1,0 +1,32 @@
+{
+    "id": "runecaster-sanctuary",
+    "name": "Sanctuary",
+    "description": "defends an area with a runic symbol increasing allies' Resist All by 20%",
+    "shortDescription": "Field Increase Allies Resistances",
+    "icon": "Graphic_Disc_PowerRuneSanctuary.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "23",
+        "max_targets": "5",
+        "range": "10",
+        "cost": "12",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_type_1": "Resist All",
+        "buff_amount_1": "20",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

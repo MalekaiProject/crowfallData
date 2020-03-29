@@ -1,0 +1,20 @@
+{
+    "id": "empowered-circle-of-life",
+    "name": "Empowered Circle of Life",
+    "class": "cleric",
+    "description": "Empowered Circle of Life enhances Circle Of Life so allies are revived with 40% maximum Health.",
+    "icon": "Skill_Icon_037_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "blessed-symbol",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "invocation-of-renewal"
+    ],
+    "locksSkill": []
+}

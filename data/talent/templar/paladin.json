@@ -1,0 +1,20 @@
+{
+    "id": "paladin",
+    "name": "Paladin",
+    "class": "templar",
+    "description": "This talent grants the Paladin passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nFire Damage Cap\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGreat Sword Mastery",
+    "icon": "Skill_Icon_041_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "templar-passive-paladin"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "saintly-protection",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

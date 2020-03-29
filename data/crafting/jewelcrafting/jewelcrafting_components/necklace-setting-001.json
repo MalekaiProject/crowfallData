@@ -1,0 +1,39 @@
+{
+    "name": "Necklace Bail",
+    "id": "necklace-setting-001",
+    "icon": "ringSetting.png",
+    "description": "Creates a Necklace Bail, the type of Ore determines the attributes of the bail.\\n\\nCopper yields STR, Iron yields CON, Tin yields INT,\\nSilver yields DEX, and Gold yields SPR.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_components",
+    "ingredients": [
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 10,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Silver",
+            "id": "silver",
+            "icon": "ore.png",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

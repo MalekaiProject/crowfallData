@@ -1,0 +1,21 @@
+{
+    "id": "dominant-smashing",
+    "name": "Dominant Smashing",
+    "class": "champion",
+    "description": "Dominant Smashing enhances your basic Strong Swing attacks to add a point of Dominance when they critically hit.",
+    "icon": "Skill_Icon_042_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "enmity",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "rend-and-butcher",
+        "violent-neckbreaker"
+    ],
+    "locksSkill": []
+}

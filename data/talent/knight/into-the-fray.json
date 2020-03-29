@@ -1,0 +1,28 @@
+{
+    "id": "into-the-fray",
+    "name": "Into the Fray",
+    "class": "knight",
+    "description": "Into the Fray improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "break-the-law",
+            "point": 2
+        },
+        {
+            "skill": "knight-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "chain-attack",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-exploration-ii"
+    ],
+    "locksSkill": []
+}

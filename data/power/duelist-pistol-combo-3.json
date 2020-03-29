@@ -1,0 +1,29 @@
+{
+    "id": "duelist-pistol-combo-3",
+    "name": "Professional Shot",
+    "description": "shoots an enemy twice for 42 - 64 + 53% Weapon Damage while generating a Pip.",
+    "icon": "Graphic_Disc_PistolShot_B.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "max_targets": "1",
+        "range": "15",
+        "cost": "9",
+        "cost_type": "Resource",
+        "min_damage_1": "42",
+        "max_damage_1": "64",
+        "weapon_damage_value": "53"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "duelist-pistol-combo-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

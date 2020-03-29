@@ -1,0 +1,57 @@
+{
+    "name": "Grilled Cheese Sandwich",
+    "id": "grilled-cheese-sandwich",
+    "icon": "cooking.png",
+    "description": "Just slap some cheese onto your bread and toast it for a portable and tasty snack! Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_sous",
+    "ingredients": [
+        {
+            "name": "Cooking Foil",
+            "id": "cooking-foil",
+            "icon": "",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Bread",
+            "id": "bread",
+            "icon": "",
+            "quantity": 8,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Butter",
+            "id": "butter",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Artisan Cheese",
+            "id": "artisan-cheese",
+            "icon": "",
+            "quantity": 8,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

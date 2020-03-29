@@ -1,0 +1,20 @@
+{
+    "id": "run-and-gun",
+    "name": "Run and Gun",
+    "class": "duelist",
+    "description": "Run and Gun enhances Rapid Fire to increase your Movement Speed In Combat by 25% while you channel.",
+    "icon": "Skill_Icon_017_028.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "keen-aim",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "bewildering-offense"
+    ],
+    "locksSkill": []
+}

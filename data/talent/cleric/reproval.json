@@ -1,0 +1,28 @@
+{
+    "id": "reproval",
+    "name": "Reproval",
+    "class": "cleric",
+    "description": "Reproval improves Attack Power by 50 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "inviolable",
+            "point": 2
+        },
+        {
+            "skill": "cleric-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "thwart-the-wicked",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-exploration-ii"
+    ],
+    "locksSkill": []
+}

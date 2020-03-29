@@ -1,0 +1,18 @@
+{
+    "id": "righteous-stand",
+    "name": "Righteous Stand",
+    "class": "templar",
+    "description": "This talent grants the Righteous Stand power.",
+    "icon": "Skill_Icon_015_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "templar-righteous-stand"
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "chastisement",
+        "humble-duty"
+    ],
+    "locksSkill": []
+}

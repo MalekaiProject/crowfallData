@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Some prefer to armour themselves in cloth and leather, but the more dignified and sturdy combatant prefer a bit more shine.",
-  "name": "Uniform Plate",
-  "powers": [
-    "uniform-plate"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "uniform-plate",
+    "name": "Uniform Plate",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_UniformPlate.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "matching-offense-plate",
+            "name": "Uniform Plate",
+            "description": "Passive: Gain Attack Power with a Full Set of Plate Equipped"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Some prefer to armor themselves in cloth and leather, but the more dignified and sturdy combatant prefers a bit more shine."
 }

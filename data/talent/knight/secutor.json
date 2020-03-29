@@ -1,0 +1,20 @@
+{
+    "id": "secutor",
+    "name": "Secutor",
+    "class": "knight",
+    "description": "This talent grants the Shieldmanship passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nCrushing Damage Bonus Cap\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nAxe Mastery\\nLongsword Mastery\\nMace Mastery\\nShort Sword Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\nTower Shields Mastery\\nTower Shield Proficiency",
+    "icon": "Skill_Icon_015_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "talent-knight-shieldmanship"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "armory",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

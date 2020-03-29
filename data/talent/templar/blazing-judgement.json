@@ -1,0 +1,21 @@
+{
+    "id": "blazing-judgement",
+    "name": "Blazing Judgement",
+    "class": "templar",
+    "description": "Blazing Judgment improves Damage Bonus: Fire by 3% per point spent.",
+    "icon": "Skill_Icon_018_010.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "excoriate",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "warrior-of-vengeance",
+        "blazing-light"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": "frst-basic-1",
+    "name": "Quick Cast",
+    "description": "casts ice at an enemy for 67 - 100 + 83% Weapon Damage.",
+    "icon": "Graphic_FrostWeaver_QuickCast_01.png",
+    "stats": {
+        "weapon_damage_value": "83",
+        "max_damage_1": "100",
+        "min_damage_1": "67",
+        "cost_type": "Mana",
+        "cost": "13",
+        "range": "30",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "frst-basic-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

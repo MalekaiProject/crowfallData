@@ -1,0 +1,28 @@
+{
+    "id": "assassin-exploration-ii",
+    "name": "Exploration Discipline Slot",
+    "class": "assassin",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "killer-s-instinct",
+            "point": 2
+        },
+        {
+            "skill": "born-in-darkness",
+            "point": 2
+        },
+        {
+            "skill": "aggression",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "enter-the-shadows"
+    ],
+    "locksSkill": []
+}

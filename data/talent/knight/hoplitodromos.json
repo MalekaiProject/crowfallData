@@ -1,0 +1,25 @@
+{
+    "id": "hoplitodromos",
+    "name": "Hoplitodromos",
+    "class": "knight",
+    "description": "This talent grants the Pursuit power and the Resolve passive power.",
+    "icon": "Skill_Icon_036_012.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        "knight-pursuit",
+        "second-wind-passive-01"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "vitality",
+        "endurance",
+        "chivalry"
+    ],
+    "locksSkill": []
+}

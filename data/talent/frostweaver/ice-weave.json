@@ -1,0 +1,27 @@
+{
+    "id": "ice-weave",
+    "name": "Ice Weave",
+    "class": "frostweaver",
+    "description": "This talent grants the Ice Weave power.\\n\\nTraits Granted:\\nStable Focus Gem",
+    "icon": "Skill_Icon_025_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-ice-stable-01"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cold-logic",
+            "point": 1
+        },
+        {
+            "skill": "hardening",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "crystal-lance",
+        "frost-armor"
+    ],
+    "locksSkill": []
+}

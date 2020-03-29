@@ -1,0 +1,28 @@
+{
+    "id": "arrogance",
+    "name": "Arrogance",
+    "class": "myrmidon",
+    "description": "Arrogance improves Fury Regen: In Combat by 2 per point spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "vengeance",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "gall",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-exploration-ii"
+    ],
+    "locksSkill": []
+}

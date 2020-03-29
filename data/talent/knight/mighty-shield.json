@@ -1,0 +1,21 @@
+{
+    "id": "mighty-shield",
+    "name": "Mighty Shield",
+    "class": "knight",
+    "description": "Mighty Shield increases the base damage of Shield Slam, Shield Swipe, and Shield Bash by 15%.",
+    "icon": "Skill_Icon_001_028.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "unstoppable",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "oath-of-protection",
+        "fallback"
+    ],
+    "locksSkill": []
+}

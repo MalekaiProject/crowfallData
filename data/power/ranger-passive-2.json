@@ -1,0 +1,21 @@
+{
+    "id": "ranger-passive-2",
+    "name": "Gleeful Strike",
+    "description": "increases your Power Damage Bonus: Melee and Power Damage Bonus: Ranged by 10%.\\n\\nAdditionally, while the Melee Power Tray is your active tray, all critical strikes you land have a chance to restore Energy.",
+    "icon": "Graphic_Rngr_WickedIntentions.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

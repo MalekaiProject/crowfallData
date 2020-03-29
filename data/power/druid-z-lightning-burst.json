@@ -1,0 +1,31 @@
+{
+    "id": "druid-z-lightning-burst",
+    "name": "Lightning Burst",
+    "description": "electrifies enemies with lightning for 210 - 315 + 262% Weapon Damage as Electricity Damage.",
+    "icon": "Graphic_Drud_LightningBurst.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "cooldown": "9",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "68",
+        "cost_type": "Essence",
+        "min_damage_1": "210",
+        "max_damage_1": "315",
+        "weapon_damage_value": "262",
+        "weapon_damage_type": "Electricity"
+    },
+    "nextChain": [
+        "druid-z-lightning-strike"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "promotion-class-brigand",
+    "name": "Promotion Class - Brigand",
+    "class": "ranger",
+    "description": "Role: Melee Damage\\n\\nA stealthy lurker of the shadows focused solely on melee weapons and eliminating their victims with lethal traps.\\n\\nGrants the powers:\\nConcussive Trap\\n\\nGrants a permanent Energy Regeneration Rate of 2(s) in all Power Trays.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Brigand promotion class and prevents access to the Warden and Archer promotion classes.",
+    "icon": "Skill_Icon_005_001.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-trap-stun-melee"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "bring-me-everyone",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "into-the-shadows"
+    ],
+    "locksSkill": [
+        "promotion-class-archer",
+        "promotion-class-warden"
+    ]
+}

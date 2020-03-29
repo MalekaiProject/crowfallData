@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Not all skin conditions are detrimental.",
-  "name": "Prickly Skin",
-  "powers": [
-    "prickly-skin"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "prickly-skin",
+    "name": "Prickly Skin",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_PricklySkin.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "bonus-thorns",
+            "name": "Prickly Skin",
+            "description": "Passive: Increase Bonus Thorns"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Not all skin conditions are detrimental."
 }

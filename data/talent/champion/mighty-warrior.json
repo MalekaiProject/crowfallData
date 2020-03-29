@@ -1,0 +1,22 @@
+{
+    "id": "mighty-warrior",
+    "name": "Mighty Warrior",
+    "class": "champion",
+    "description": "This talent grants the Mighty Warrior power.",
+    "icon": "Skill_Icon_017_026.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "champion-mighty-warrior"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "domination",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "brutality"
+    ],
+    "locksSkill": []
+}

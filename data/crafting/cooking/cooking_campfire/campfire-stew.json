@@ -1,0 +1,48 @@
+{
+    "name": "Campfire Stew",
+    "id": "campfire-stew",
+    "icon": "steamedHams.png",
+    "description": "Creates some Campfire Stew, mixed together in a foil packet and roasted until fully cooked! Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_campfire",
+    "ingredients": [
+        {
+            "name": "Cooking Foil",
+            "id": "cooking-foil",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Meats or Mushrooms",
+            "id": "meats-or-mushrooms",
+            "icon": "steamedHams.png",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Produce",
+            "id": "produce",
+            "icon": "apple.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

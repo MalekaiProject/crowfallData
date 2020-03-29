@@ -1,0 +1,20 @@
+{
+    "id": "icecaller",
+    "name": "Icecaller",
+    "class": "frostweaver",
+    "description": "This talent grants the Icecaller passive power.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 10%:\\nIce Damage Bonus\\nIce Damage Cap",
+    "icon": "Skill_Icon_024_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "frst-passive-icecaller"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "tranquility",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

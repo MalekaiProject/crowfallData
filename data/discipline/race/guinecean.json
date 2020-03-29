@@ -1,52 +1,79 @@
 {
-  "classes": [
-    "knight",
-    "cleric",
-    "duelist"
-  ],
-  "description": "By legend, the Guineceans were transformed from their animal forefathers into sentient creatures by Gaea, the Earth Mother, at her moment of death.",
-  "name": "Guinecean",
-  "tags": [],
-  "powers": [
-    "guinecean-bloodline",
-    "leap-roll",
-    "guinecean-burrow"
-  ],
-  "slots_granted": [
-    "Ring Slot"
-  ],
-  "slots_removed": [],
-  "stats": [{
-      "name": "Dexterity",
-      "value": 60
-    },
-    {
-      "name": "Intellect",
-      "value": 30
-    },
-    {
-      "name": "Subsistence",
-      "value": "10%"
-    },
-    {
-      "name": "Jewelcrafting",
-      "value": 5
-    },
-    {
-      "name": "Jewelcrafting Experimentation",
-      "value": 10
-    },
-    {
-      "name": "Woodworking",
-      "value": 10
-    },
-    {
-      "name": "Woodworking Experimentation",
-      "value": 5
-    }
-  ],
-  "type": "race",
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "guinecean",
+    "name": "Guinecean",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_Guinecean.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 200
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 350
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 250
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 200
+        },
+        {
+            "name": "Dexterity",
+            "value": 60
+        },
+        {
+            "name": "Intellect",
+            "value": 30
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-plentiful-haul",
+            "name": "Caravan Master",
+            "description": "Passive: Increased Chance For More and Higher Quality Materials From Caravans"
+        },
+        {
+            "id": "racial-jump-text-double-jump",
+            "name": "Double Jump",
+            "description": "Passive: Jump Again While Near the Apex of Your First Jump"
+        },
+        {
+            "id": "racial-passive-food-consumption",
+            "name": "Epicurean",
+            "description": "Passive: Gain Bonus Food Pool When You Eat"
+        },
+        {
+            "id": "racial-passive-weapon-damage",
+            "name": "Superior Weapons",
+            "description": "Passive: Increase Weapon Damage"
+        },
+        {
+            "id": "guinecean-burrow-tooltip-passive",
+            "name": "Guinecean_Burrow_Tooltip_Passive_name",
+            "description": "Toggle: Stealths Player, only for Non-Stealth Classes"
+        },
+        {
+            "id": "guinecean-saltpeter-rounds",
+            "name": "Saltpeter Rounds",
+            "description": "Pistol Shots Snare Targets, Increases Pistol Range, only for Duelist"
+        },
+        {
+            "id": "duelist-dodge",
+            "name": "Leap Roll",
+            "description": "Leap Roll in a WASD direction"
+        }
+    ],
+    "grantsSlot": [
+        "Ring"
+    ],
+    "grantsEquip": [],
+    "lore": "By legend, the Guineceans were transformed from their animal forefathers into sentient creatures by Gaea, the Earth Mother, at her moment death."
 }

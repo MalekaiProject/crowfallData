@@ -1,0 +1,23 @@
+{
+    "id": "second-wind-passive-01",
+    "name": "Resolve",
+    "description": "heals 4% of your maximum Health, 20 Stamina, and 25 Energy every second for 4 seconds when your Health drops below 20%.\\n\\nThis can happen once every 90 seconds.",
+    "shortDescription": "Passive: Heal on low Health",
+    "icon": "Graphic_Kngt_Constitution.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "4 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

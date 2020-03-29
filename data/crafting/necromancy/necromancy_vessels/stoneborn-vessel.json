@@ -1,0 +1,75 @@
+{
+    "name": "Stoneborn Vessel",
+    "id": "stoneborn-vessel",
+    "icon": "vessel_stoneborn.png",
+    "description": "Creates a Stoneborn Vessel.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "necromancy",
+    "subCategory": "necromancy_vessels",
+    "ingredients": [
+        {
+            "name": "Restored Stoneborn Head",
+            "id": "restored-stoneborn-head",
+            "icon": "necromancyHead.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Stoneborn Leg",
+            "id": "restored-stoneborn-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Stoneborn Leg",
+            "id": "restored-stoneborn-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Stoneborn Torso",
+            "id": "restored-stoneborn-torso",
+            "icon": "necromancyTorso.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Stoneborn Arm",
+            "id": "restored-stoneborn-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Stoneborn Arm",
+            "id": "restored-stoneborn-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Stone",
+            "id": "philosopher-s-stone",
+            "icon": "philosophersStone.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

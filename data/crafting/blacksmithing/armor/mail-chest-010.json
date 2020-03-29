@@ -1,0 +1,75 @@
+{
+    "name": "Mail Hauberk",
+    "id": "mail-chest-010",
+    "icon": "chestplate.png",
+    "description": "Creates Advanced Armor Mail Hauberk, usable by those who are proficient with Mail Armor.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "armor",
+    "ingredients": [
+        {
+            "name": "Metal Rings",
+            "id": "metal-rings",
+            "icon": "metalRings.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Rings",
+            "id": "metal-rings",
+            "icon": "metalRings.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Rings",
+            "id": "metal-rings",
+            "icon": "metalRings.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Leather Padding",
+            "id": "leather-padding",
+            "icon": "reinforcedPadding.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 18,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Treated Steel",
+            "id": "treated-steel",
+            "icon": "additive.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Specialty Seal",
+            "id": "specialty-seal",
+            "icon": "additive.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-sentinel",
+    "name": "Promotion Class - Sentinel",
+    "class": "knight",
+    "description": "Role: Melee Control\\n\\nA master tactician who controls opponents in the battlefield and has dedicated their life to mastering the mace.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Sentinel promotion class and prevents access to the Swordsman and Secutor promotion classes.",
+    "icon": "Skill_Icon_002_023.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "onslaught",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "grip-strength"
+    ],
+    "locksSkill": [
+        "promotion-class-swordsman",
+        "promotion-class-secutor"
+    ]
+}

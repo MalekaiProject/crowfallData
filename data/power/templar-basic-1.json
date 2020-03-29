@@ -1,0 +1,27 @@
+{
+    "id": "templar-basic-1",
+    "name": "Great Swing",
+    "description": "attacks for 72 - 108 + 90% Weapon Damage.",
+    "icon": "Graphic_Tmpr_BasicAttack1.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "72",
+        "max_damage_1": "108",
+        "weapon_damage_value": "90"
+    },
+    "nextChain": [
+        "templar-basic-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

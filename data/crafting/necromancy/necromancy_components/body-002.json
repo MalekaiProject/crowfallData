@@ -1,0 +1,102 @@
+{
+    "name": "Restored Centaur Body",
+    "id": "body-002",
+    "icon": "necromancyCentaurBody.png",
+    "description": "Restore a Desiccated Centaur Body that is used to create a vessel.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "necromancy",
+    "subCategory": "necromancy_components",
+    "ingredients": [
+        {
+            "name": "Desiccated Centaur Body",
+            "id": "desiccated-centaur-body",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Desiccated Centaur Leg",
+            "id": "desiccated-centaur-leg",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Desiccated Centaur Leg",
+            "id": "desiccated-centaur-leg",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enhanced Heart",
+            "id": "enhanced-heart",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Desiccated Centaur Leg",
+            "id": "desiccated-centaur-leg",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Desiccated Centaur Leg",
+            "id": "desiccated-centaur-leg",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ambrosia Solution",
+            "id": "ambrosia-solution",
+            "icon": "ambrosia.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ambrosia Solution",
+            "id": "ambrosia-solution",
+            "icon": "ambrosia.png",
+            "quantity": 1,
+            "slotIndex": 7,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enhanced Lungs",
+            "id": "enhanced-lungs",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 8,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Enhanced Stomach",
+            "id": "enhanced-stomach",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 9,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

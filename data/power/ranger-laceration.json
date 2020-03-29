@@ -1,0 +1,30 @@
+{
+    "id": "ranger-laceration",
+    "name": "Laceration",
+    "description": "slashes in front of you twice for 58 - 78 + 68% Weapon Damage. Applies a Weapon Break which reduces that target's damage by 20% for 15 seconds.",
+    "icon": "Graphic_Rngr_Laceration.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "23",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "83",
+        "cost_type": "Energy",
+        "min_damage_1": "58",
+        "max_damage_1": "78",
+        "weapon_damage_value": "68"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "ranger-twin-surge"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

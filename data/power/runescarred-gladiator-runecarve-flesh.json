@@ -1,0 +1,28 @@
+{
+    "id": "runescarred-gladiator-runecarve-flesh",
+    "name": "Reprisal",
+    "description": "absorbs 10% of damage taken for 15 and then explodes to inflicting 35% of total damage taken (max 1050) to nearby enemies as Fire damage.",
+    "shortDescription": "Reduce Damage; Reflect Damage Taken",
+    "icon": "Graphic_Disc_RunecarveFlesh.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "30",
+        "range": "5",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_amount_1": "10%",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

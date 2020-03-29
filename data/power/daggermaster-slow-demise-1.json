@@ -1,0 +1,31 @@
+{
+    "id": "daggermaster-slow-demise-1",
+    "name": "Slow Demise",
+    "description": "hits an enemy for 103 - 155 + 129% Weapon Damage.",
+    "shortDescription": "Attack: Reduces the amount an enemy can be healed and inflicts a large amount of damage.",
+    "icon": "Graphic_Disc_SlowDemise_A.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "15",
+        "cost_type": "Resource",
+        "min_damage_1": "103",
+        "max_damage_1": "155",
+        "weapon_damage_value": "129"
+    },
+    "nextChain": [
+        "daggermaster-slow-demise-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

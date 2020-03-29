@@ -1,0 +1,28 @@
+{
+    "id": "armory",
+    "name": "Armory",
+    "class": "knight",
+    "description": "Armory improves Personal Damage Modifier to reduce damage by 1.5% per point spent.",
+    "icon": "Skill_Icon_024_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "board-and-board",
+            "point": 1
+        },
+        {
+            "skill": "fallback",
+            "point": 1
+        },
+        {
+            "skill": "oath-of-protection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "secutor"
+    ],
+    "locksSkill": []
+}

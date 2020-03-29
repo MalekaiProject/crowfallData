@@ -1,0 +1,21 @@
+{
+    "id": "liberality",
+    "name": "Liberality",
+    "class": "knight",
+    "description": "Liberality improves Maximum Health by 500 per point spent.",
+    "icon": "Skill_Icon_017_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "unstoppable",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "board-and-board",
+        "fallback"
+    ],
+    "locksSkill": []
+}

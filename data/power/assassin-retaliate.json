@@ -1,0 +1,28 @@
+{
+    "id": "assassin-retaliate",
+    "name": "Retaliate",
+    "description": "makes you jump to your feet, damaging nearby enemies for 105 - 158 + 132% Weapon Damage and generating a Pip. \\n\\nRetaliating an Exposed enemy generates an additional Pip.",
+    "icon": "Graphic_Assn_Retaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "105",
+        "max_damage_1": "158",
+        "weapon_damage_value": "132"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

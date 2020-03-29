@@ -1,0 +1,19 @@
+{
+    "id": "racial-passive-bleed-dot-stripper",
+    "name": "Coagulation",
+    "description": "has a chance to instantly remove all Bleed effects on you whenever a Bleed effect is applied to you.",
+    "shortDescription": "Passive: Chance to Remove All Bleed Effects From You when Any Bleed is Applied",
+    "icon": "Graphic_Disc_Racial_Stoneborn.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

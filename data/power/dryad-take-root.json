@@ -1,0 +1,26 @@
+{
+    "id": "dryad-take-root",
+    "name": "Take Root",
+    "description": "increases Healing Bonus by 5% and Final Physical Mitigation by 5% when standing still for 2 seconds and until you move.",
+    "shortDescription": "Passive: Standing Still Buffs Healing Bonus",
+    "icon": "Graphic_Disc_TakeRoot.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "2 seconds",
+        "buff_type_1": "Healing Bonus",
+        "buff_amount_1": "5%",
+        "buff_type_2": "Final Physical Mitigation",
+        "buff_amount_2": "5%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

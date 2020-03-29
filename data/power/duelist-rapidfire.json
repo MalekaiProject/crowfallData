@@ -1,0 +1,28 @@
+{
+    "id": "duelist-rapidfire",
+    "name": "Rapid Fire",
+    "description": "unleashes a deadly barrage of hot lead causing 19 - 28 + 24% Weapon Damage and increasing your Critical Strike by 2% for each hit. Number of shots scale with Pips spent:\\n\\n1 Pip: 4 shots. \\n2 Pips: 8 shots.\\n3 Pips: 12 shots.\\n4 Pips: 16 shots.\\n5 Pips: 20 shots.",
+    "shortDescription": "Attack: Pistol Shot Resets Cooldown; Expose Punish",
+    "icon": "Graphic_Disc_RapidFire.png",
+    "stats": {
+        "cast_time": "Channeled",
+        "target": "Ray",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "15",
+        "cost_type": "Pips",
+        "min_damage_1": "19",
+        "max_damage_1": "28",
+        "weapon_damage_value": "24"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

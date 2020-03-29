@@ -1,0 +1,23 @@
+{
+    "id": "frst-ult-re-fridgerate",
+    "name": "Re-Fridgerate",
+    "description": "refills your Ice Stores and restores Mana over 10 seconds.\\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "icon": "Graphic_FrostWeaver_Re-Fridgerate_01.png",
+    "stats": {
+        "cost_type": "Soul Power",
+        "cost": "500",
+        "cooldown": "10",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

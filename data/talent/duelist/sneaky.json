@@ -1,0 +1,20 @@
+{
+    "id": "sneaky",
+    "name": "Sneaky",
+    "class": "duelist",
+    "description": "Sneaky improves Stealth by 25.",
+    "icon": "Skill_Icon_034_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "steady-hand",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "wily"
+    ],
+    "locksSkill": []
+}

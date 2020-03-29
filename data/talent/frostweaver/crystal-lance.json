@@ -1,0 +1,22 @@
+{
+    "id": "crystal-lance",
+    "name": "Crystal Lance",
+    "class": "frostweaver",
+    "description": "This talent grants the Crystal Lance power.",
+    "icon": "Skill_Icon_004_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-crystal-lance-1"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ice-weave",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-exploration-i"
+    ],
+    "locksSkill": []
+}

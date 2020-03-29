@@ -1,0 +1,31 @@
+{
+    "id": "champion-kicksand",
+    "name": "Kick Sand",
+    "description": "kicks sand at a nearby enemy, blinding them for 4 seconds while dealing 158 - 214 + 186% Weapon Damage.",
+    "icon": "Graphic_Chmp_KickSand.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "30",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "14",
+        "cost_type": "Rage",
+        "min_damage_1": "158",
+        "max_damage_1": "214",
+        "weapon_damage_value": "186",
+        "weapon_damage_type": "Crushing"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "champion-spinning-backfist"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

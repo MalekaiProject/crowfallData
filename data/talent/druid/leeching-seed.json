@@ -1,0 +1,22 @@
+{
+    "id": "leeching-seed",
+    "name": "Leeching Seed",
+    "class": "druid",
+    "description": "This talent grants the Leeching Seed power.",
+    "icon": "Skill_Icon_019_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "druid-leaching-seed"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "magic-dance",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "loved-by-the-sun"
+    ],
+    "locksSkill": []
+}

@@ -1,32 +1,34 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Organizing and leading a group can be a tricky duty, but when all the members fall into place a truely efficient unit is formed. The more forces engaged in the effort can expose weakness more frequently and at a faster pace.",
-  "name": "Foreman",
-  "powers": [
-    "take-it-down",
-    "back-to-work",
-    "lead-from-the-front"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "foreman",
+    "name": "Foreman",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Foreman.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "foreman-take-it-down",
+            "name": "Take It Down!",
+            "description": "Reduced Armor on Mother Load Resource Nodes"
+        },
+        {
+            "id": "foreman-back-to-work",
+            "name": "Back To Work!",
+            "description": "Restore Harvest Pips and Stamina to Group"
+        },
+        {
+            "id": "activate-harvest-pips",
+            "name": "Harvesting Power",
+            "description": "Passive: Gain Harvest Power Pips while Harvesting"
+        },
+        {
+            "id": "foreman-lead-from-front",
+            "name": "Lead From The Front",
+            "description": "Passive: Harvests Increase Group's Weak Spot Statistics"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Organizing and leading a group can be a tricky duty, but when all the members fall into place a truly efficient unit is formed. The more forces engaged in the effort can expose weakness more frequently and at a faster pace.",
+    "lore": "Progress is attained quicker with all hands contributing."
 }

@@ -1,0 +1,20 @@
+{
+    "id": "heart-of-flame",
+    "name": "Heart of Flame",
+    "class": "confessor",
+    "description": "Heart of Flame improves Maximum Health by 150 per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "flames-of-truth",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fervor"
+    ],
+    "locksSkill": []
+}

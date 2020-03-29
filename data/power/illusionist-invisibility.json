@@ -1,0 +1,25 @@
+{
+    "id": "illusionist-invisibility",
+    "name": "Invisibility",
+    "description": "makes you disappear automatically while both standing still and not in combat.\\n\\nIt will take 3 seconds to become Invisible after you stop moving.",
+    "shortDescription": "Toggle: Invisible while motionless; Non-Stealth Users Only",
+    "icon": "Graphic_Disc_Camouflage.png",
+    "stats": {
+        "cast_time": "Toggle",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "0.5",
+        "cost_type": "Stamina",
+        "cost_type_time": "cost_type_time_per_second"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

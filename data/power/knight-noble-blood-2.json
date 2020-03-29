@@ -1,0 +1,30 @@
+{
+    "id": "knight-noble-blood-2",
+    "name": "Oath Of Will",
+    "description": "recovers 350 Energy over 3 seconds.",
+    "icon": "Graphic_Kngt_OathOfWill.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "23",
+        "restore": "350",
+        "restore_type": "Energy",
+        "restore_type_time": "over 3 seconds",
+        "min_damage_1": "0",
+        "max_damage_1": "0",
+        "weapon_damage_value": "0"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "knight-noble-blood"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee",
+        "harvest"
+    ]
+}

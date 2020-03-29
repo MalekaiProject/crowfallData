@@ -1,0 +1,37 @@
+{
+    "id": "knight-onslaught-3b",
+    "name": "Obliterate",
+    "description": "slashes three times around you for 67 - 90 + 79% Weapon Damage, applying a moderate Bleed to all hit.",
+    "icon": "Graphic_Kngt_Obliterate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "188",
+        "cost_type": "Energy",
+        "min_damage_1": "67",
+        "max_damage_1": "90",
+        "weapon_damage_value": "79",
+        "min_damage_2": "272",
+        "max_damage_2": "368",
+        "weapon_damage_2_value": "33",
+        "min_damage_3": "272",
+        "max_damage_3": "368",
+        "weapon_damage_3_value": "33"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "knight-onslaught-2a",
+        "knight-onslaught-2b"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

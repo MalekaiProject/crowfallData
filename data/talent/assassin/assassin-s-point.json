@@ -1,0 +1,24 @@
+{
+    "id": "assassin-s-point",
+    "name": "Assassin's Point",
+    "class": "assassin",
+    "description": "Assassin's Point reduces the cooldown of Kidney Shot and Backstab by 30%.",
+    "icon": "Skill_Icon_042_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "brick-outhouse",
+            "point": 2
+        },
+        {
+            "skill": "payback",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "alligator-blood"
+    ],
+    "locksSkill": []
+}

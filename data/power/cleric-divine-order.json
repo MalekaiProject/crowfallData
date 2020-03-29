@@ -1,0 +1,29 @@
+{
+    "id": "cleric-divine-order",
+    "name": "Divine Order",
+    "description": "issues a holy decree instantly restoring some mana and increasing the base damage of both Spirit Hammers and Searing Light by 70. \\n\\nYour Spirit Hammers also chain up to two additional times to strike nearby enemies and occasionally stun them. \\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "icon": "Graphic_Cleric_DivineOrder.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "30",
+        "max_targets": "5",
+        "cost": "1000",
+        "cost_type": "Soul Power",
+        "buff_type_1": "Critical Strike",
+        "buff_amount_1": "15",
+        "min_damage_1": "79",
+        "max_damage_1": "97",
+        "weapon_damage_value": "88"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

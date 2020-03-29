@@ -1,0 +1,48 @@
+{
+    "name": "Limbs: Staff",
+    "id": "weapon-staff-limb-001",
+    "icon": "staffLimb.png",
+    "description": "Creates a Limbs: Staff that is used to create a Mystical Staff.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "woodworking",
+    "subCategory": "woodworking_components",
+    "ingredients": [
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Composite Wood Plank",
+            "id": "composite-wood-plank",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "ore.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "ore.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

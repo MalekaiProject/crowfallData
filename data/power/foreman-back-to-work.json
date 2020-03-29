@@ -1,0 +1,29 @@
+{
+    "id": "foreman-back-to-work",
+    "name": "Back To Work!",
+    "description": "restores 2 Harvest Pips and 8 Stamina instantly to all your group members.\\n\\nDoes not affect the caster.",
+    "shortDescription": "Restore Harvest Pips and Stamina to Group",
+    "icon": "Graphic_Disc_BackToWork.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "6",
+        "cost": "4",
+        "cost_type": "Harvest Pips",
+        "duration": "8 seconds",
+        "buff_type_1": "Harvest Pips",
+        "buff_amount_1": "2",
+        "buff_type_2": "Stamina",
+        "buff_amount_2": "8"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

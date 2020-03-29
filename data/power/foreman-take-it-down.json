@@ -1,0 +1,28 @@
+{
+    "id": "foreman-take-it-down",
+    "name": "Take It Down!",
+    "description": "reduces Ore Mitigation and Stone Mitigation of Ore and Stone Mother Lodes by  45% for 8 seconds.",
+    "shortDescription": "Reduced Armor on Mother Load Resource Nodes",
+    "icon": "Graphic_Disc_TakeItDown.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "6",
+        "cost": "2",
+        "cost_type": "Harvest Pips",
+        "duration": "8 seconds",
+        "buff_type_1": "Ore Mitigation",
+        "buff_amount_1": "45%",
+        "buff_type_2": "Stone Mitigation"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

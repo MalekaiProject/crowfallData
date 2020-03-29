@@ -1,0 +1,22 @@
+{
+    "id": "guinecean-burrow-tooltip-passive",
+    "name": "Guinecean_Burrow_Tooltip_Passive_name",
+    "description": "Guinecean_Burrow_Tooltip_Passive_description",
+    "shortDescription": "Toggle: Stealths Player, only for Non-Stealth Classes",
+    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "stats": {
+        "cost_type_time": "cost_type_time_per_second",
+        "cost_type": "Stamina",
+        "cost": "0.5",
+        "target": "Self",
+        "cast_time": "Power Tray"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

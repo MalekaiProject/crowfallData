@@ -1,0 +1,24 @@
+{
+    "id": "colossus-smash",
+    "name": "Colossus Smash",
+    "class": "myrmidon",
+    "description": "This talent grants the Colossus Smash power.",
+    "icon": "Skill_Icon_045_013.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        "myrmidon-bloodied-swipe-2b"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ruthless-force",
+        "tough-hide",
+        "relentless"
+    ],
+    "locksSkill": []
+}

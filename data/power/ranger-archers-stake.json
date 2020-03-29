@@ -1,0 +1,30 @@
+{
+    "id": "ranger-archers-stake",
+    "name": "Archers Stake",
+    "description": "creates a field granting 100 Attack Power to you for 30 seconds as long as you remain near the Stake.",
+    "icon": "Graphic_Rngr_ArcherStake.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "range": "10",
+        "cost": "380",
+        "cost_type": "Energy",
+        "duration": "30 seconds",
+        "buff_type_1": "Attack Power",
+        "buff_amount_1": "100",
+        "min_damage_1": "227",
+        "max_damage_1": "307",
+        "weapon_damage_value": "267"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "ranged_bow"
+    ]
+}

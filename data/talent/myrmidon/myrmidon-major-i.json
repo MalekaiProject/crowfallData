@@ -1,0 +1,18 @@
+{
+    "id": "myrmidon-major-i",
+    "name": "Major Discipline Slot",
+    "class": "myrmidon",
+    "description": "Unlock a Major Discipline slot.",
+    "icon": "Skill_Icon_011_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "neck-slash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

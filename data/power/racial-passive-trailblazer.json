@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-trailblazer",
+    "name": "Trailblazer",
+    "description": "increases your Out of Combat Movement Speed by 15% after you Pathfind a trail.\\n\\nPathfinding automatically happens whenever you leave combat.",
+    "shortDescription": "Passive: Increase Movement Speed while Out of Combat",
+    "icon": "Graphic_Disc_Racial_HalfElf.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Out of Combat Movement Speed",
+        "buff_amount_1": "15%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

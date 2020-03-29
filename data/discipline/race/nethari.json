@@ -1,44 +1,68 @@
 {
-  "classes": [
-    "confessor",
-    "templar",
-    "assassin"
-  ],
-  "description": "It is said that Arkon, Lord of the Sun, chose one particular tribe of humans to rule all the others and, as proof of this, ensorcelled the blood of his chosen people with the fiery breath stolen from Lyessa the other Dragon.",
-  "name": "Nethari",
-  "tags": [
-    "Human"
-  ],
-  "powers": [
-    "call-flames",
-    "nethari-bloodline",
-    "zealot-rush"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "race",
-  "stats": [{
-      "name": "Intellect",
-      "value": 30
-    },
-    {
-      "name": "Blacksmithing",
-      "value": 10
-    },
-    {
-      "name": "Blacksmithing Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Necromancy",
-      "value": 10
-    },
-    {
-      "name": "Necromancy Experimentation",
-      "value": 10
-    }
-  ],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "nethari",
+    "name": "Nethari",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_Nethari.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 200
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 250
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 300
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 250
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 250
+        },
+        {
+            "name": "Intellect",
+            "value": 30
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-hitpoints-regen-ooc",
+            "name": "Desert Winds",
+            "description": "Passive: Increase Out of Combat Health Regen"
+        },
+        {
+            "id": "racial-passive-craft-necromancy",
+            "name": "Subcuticular Suturing",
+            "description": "Passive: Increase Necromancy Crafting Statistics"
+        },
+        {
+            "id": "racial-passive-anti-critical-strike",
+            "name": "Sun-Kissed Skin",
+            "description": "Passive: Increase Anti-Critical Strike"
+        },
+        {
+            "id": "racial-passive-stealth-speed",
+            "name": "Walk Without Rhythm",
+            "description": "Passive: Increase Movement Speed while Stealthed"
+        },
+        {
+            "id": "nethari-call-flames",
+            "name": "Call Flames",
+            "description": "Fire Buff, Sets Nearby Enemies on Fire"
+        },
+        {
+            "id": "confessor-blink",
+            "name": "Zealot Rush",
+            "description": "Dash in a WASD direction"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "It is said that Arkon, Lord of the Sun, chose one particular tribe of humans to rule all the others and, as proof of this, ensorcelled the blood of his chosen people with fiery breath stolen from Lyessa the Mother Dragon."
 }

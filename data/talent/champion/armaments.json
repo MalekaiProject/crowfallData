@@ -1,0 +1,20 @@
+{
+    "id": "armaments",
+    "name": "Armaments",
+    "class": "champion",
+    "description": "Armaments improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "spinning-backfist",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "leap"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,35 @@
+{
+    "id": "poisoner-combo-1",
+    "name": "Poisoned Blade",
+    "description": "attacks for 98 - 133 + 116% Weapon Damage and cause the enemy to become Poisoned taking 8 - 9 + 1% Weapon Damage per tick for 20 seconds.",
+    "shortDescription": "Attack: Adds the poison debuff to an enemy.",
+    "icon": "Graphic_Disc_PoisonedBlade_A.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "14",
+        "cost_type": "Resource",
+        "duration": "20 seconds",
+        "min_damage_1": "98",
+        "max_damage_1": "133",
+        "weapon_damage_value": "116",
+        "min_damage_2": "8",
+        "max_damage_2": "9",
+        "weapon_damage_2_value": "1"
+    },
+    "nextChain": [
+        "poisoner-combo-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

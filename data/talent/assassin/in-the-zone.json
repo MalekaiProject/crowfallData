@@ -1,0 +1,22 @@
+{
+    "id": "in-the-zone",
+    "name": "In the Zone",
+    "class": "assassin",
+    "description": "This talent grants the In The Zone power.",
+    "icon": "Skill_Icon_024_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "assassin-in-zone"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "backstab",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-exploration-i"
+    ],
+    "locksSkill": []
+}

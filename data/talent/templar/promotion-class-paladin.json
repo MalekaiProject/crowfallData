@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-paladin",
+    "name": "Promotion Class - Paladin",
+    "class": "templar",
+    "description": "Role: Healing\\n\\nThis well-armored holy warrior excels at healing their allies.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Paladin promotion class and prevents access to the Vindicator and Fury promotion classes.",
+    "icon": "Skill_Icon_041_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "resurrection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "martyrdom"
+    ],
+    "locksSkill": [
+        "promotion-class-vindicator",
+        "promotion-class-fury"
+    ]
+}

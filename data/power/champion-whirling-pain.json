@@ -1,0 +1,30 @@
+{
+    "id": "champion-whirling-pain",
+    "name": "Whirling Pain",
+    "description": "sweeps around you repeatedly dealing 59 - 79 + 69% Weapon Damage per swing. \\n\\nYou may move while spinning.",
+    "icon": "Graphic_Chmp_WhirlingPain.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "11",
+        "cost_type": "Rage",
+        "min_damage_1": "59",
+        "max_damage_1": "79",
+        "weapon_damage_value": "69"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "champion-massive-cleave"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

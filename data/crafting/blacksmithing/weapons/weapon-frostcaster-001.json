@@ -1,0 +1,66 @@
+{
+    "name": "Frostcaster",
+    "id": "weapon-frostcaster-001",
+    "icon": "Frostcaster.png",
+    "description": "Creates a Frostcaster, usable by those who are proficient with Frostcasters.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "weapons",
+    "ingredients": [
+        {
+            "name": "Frostcasting Enclosure",
+            "id": "frostcasting-enclosure",
+            "icon": "FrostcastingEnclosure.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Casting Aperture",
+            "id": "casting-aperture",
+            "icon": "CastingAperture.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Meta-Magical Conducter",
+            "id": "meta-magical-conducter",
+            "icon": "MetaMagicalConducter.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Weapon Weights",
+            "id": "weapon-weights",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

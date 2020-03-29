@@ -1,0 +1,22 @@
+{
+    "id": "censure",
+    "name": "Censure",
+    "class": "templar",
+    "description": "This talent grants the Censure power.",
+    "icon": "Skill_Icon_045_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "templar-censure"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "reproach",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-exploration-i"
+    ],
+    "locksSkill": []
+}

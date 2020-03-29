@@ -1,0 +1,23 @@
+{
+    "id": "tracker-s-kit",
+    "name": "Tracker's Kit",
+    "class": "ranger",
+    "description": "This talent grants the Alertness and Forest Step powers.",
+    "icon": "Skill_Icon_040_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-alertness",
+        "ranger-forest-step"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "silencing-blades",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tree-sap-blood"
+    ],
+    "locksSkill": []
+}

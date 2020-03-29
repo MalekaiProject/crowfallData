@@ -1,0 +1,22 @@
+{
+    "id": "flash-of-light",
+    "name": "Flash of Light",
+    "class": "cleric",
+    "description": "This talent grants the Flash Of Light power.",
+    "icon": "Skill_Icon_017_033.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "cleric-flash-of-light"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "illuminate",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-exploration-i"
+    ],
+    "locksSkill": []
+}

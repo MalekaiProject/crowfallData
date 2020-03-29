@@ -1,36 +1,45 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "No other form of combatant is built to last as much as that of a Juggernaut which is due to extreme endurance and spite. Mercilessness, ruthlessness and resiliency are also defining characteristics that attribute to the robust nature of an unstoppable fighter whose impact will be felt repeatedly.",
-  "name": "Juggernaut",
-  "powers": [
-    "furious-retaliate",
-    "unstoppable",
-    "spite",
-    "toughness"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Retaliate Refund",
-    "value": 35
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "juggernaut",
+    "name": "Juggernaut",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Juggernaut.png",
+    "stats": [
+        {
+            "name": "Max Stamina",
+            "value": 5
+        },
+        {
+            "name": "Physical Resistance",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "juggernaut-furious-retaliate",
+            "name": "Furious Retaliate",
+            "description": "Retaliate with Increased Resolve"
+        },
+        {
+            "id": "juggernaut-unstoppable",
+            "name": "Unstoppable",
+            "description": "Gain Crowd Control Immunity"
+        },
+        {
+            "id": "juggernaut-toughness",
+            "name": "Toughness",
+            "description": "Group Increase Maximum Health"
+        },
+        {
+            "id": "juggernaut-spite",
+            "name": "Spite",
+            "description": "Passive: Regenerate when Stunned; Knocked Down"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Retaliate Refund (35)"
+    ],
+    "description": "No other form of combatant is built to last like a Juggernaut. Mercilessness, ruthlessness, and resiliency are also defining characteristics that attribute to the robust nature of an unstoppable fighter whose impact will be felt repeatedly.",
+    "lore": "Like a boulder rolling down a hill, a juggernaut is a large and unyielding force that cannot be stopped."
 }

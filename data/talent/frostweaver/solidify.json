@@ -1,0 +1,22 @@
+{
+    "id": "solidify",
+    "name": "Solidify",
+    "class": "frostweaver",
+    "description": "Solidify improves Armor by 60 per point spent and Personal Damage Modifier by 1% per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "free-weaving",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "permafrost",
+        "slush-fund",
+        "chill-out"
+    ],
+    "locksSkill": []
+}

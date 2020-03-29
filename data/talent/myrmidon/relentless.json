@@ -1,0 +1,22 @@
+{
+    "id": "relentless",
+    "name": "Relentless",
+    "class": "myrmidon",
+    "description": "Relentless improves Maximum Stamina by 3 per point spent and Power Efficiency by 5 per point spent.",
+    "icon": "Skill_Icon_034_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "colossus-smash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "vengeance",
+        "myrmidon-minor-iii",
+        "gall"
+    ],
+    "locksSkill": []
+}

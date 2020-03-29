@@ -1,0 +1,25 @@
+{
+    "id": "talent-knight-macemanship",
+    "name": "Macemanship",
+    "description": "increases the amount of energy restored from the Echoing Assualt talent by 5%.\\n\\nStunning or Knocking Down an enemy while also wielding a mace casts Skullcrusher on you.\\n\\nSkullcrusher increases your Damage Bonus by 15% and In Combat Movement Speed by 25% for 6 seconds.",
+    "icon": "Graphic_Kngt_Macemanship.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "6 seconds",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "15%",
+        "buff_type_2": "In Combat Movement Speed",
+        "buff_amount_2": "25%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

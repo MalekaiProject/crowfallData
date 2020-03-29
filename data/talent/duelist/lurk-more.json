@@ -1,0 +1,21 @@
+{
+    "id": "lurk-more",
+    "name": "Lurk More",
+    "class": "duelist",
+    "description": "Lurk More improves Stealth by 5 and Stealth Damage Bonus by 10% per point spent.",
+    "icon": "Skill_Icon_034_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-vanguard-scout",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tenacity",
+        "daring-escape"
+    ],
+    "locksSkill": []
+}

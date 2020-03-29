@@ -1,0 +1,19 @@
+{
+    "id": "racial-passive-toxin-dot-stripper",
+    "name": "Improbable Antidote",
+    "description": "has a chance to instantly remove all Toxin effects on you whenever a Toxin effect is applied to you.",
+    "shortDescription": "Passive: Chance to Remove All Toxin Effects From You when Any Toxin is Applied",
+    "icon": "Graphic_Disc_Racial_Fae.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

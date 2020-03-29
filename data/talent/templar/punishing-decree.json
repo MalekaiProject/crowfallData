@@ -1,0 +1,28 @@
+{
+    "id": "punishing-decree",
+    "name": "Punishing Decree",
+    "class": "templar",
+    "description": "Punishing Decree improves Movement Control Intensity and Hard Control Intensity by 7% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "inner-light",
+            "point": 1
+        },
+        {
+            "skill": "explosive-light",
+            "point": 1
+        },
+        {
+            "skill": "subjugate",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fury"
+    ],
+    "locksSkill": []
+}

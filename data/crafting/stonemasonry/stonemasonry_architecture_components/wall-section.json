@@ -1,0 +1,30 @@
+{
+    "name": "Wall Section",
+    "id": "wall-section",
+    "icon": "wall.png",
+    "description": "Creates a Wall Section used in Defensive placeables, the type of resources determines the type of Wall created.\\n\\nWooden Stakes yield a Wooden Wall Section,\\nStone Bricks yield a Stone Wall Section.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_architecture_components",
+    "ingredients": [
+        {
+            "name": "Bricks or Stakes",
+            "id": "bricks-or-stakes",
+            "icon": "focusOrbCore.png",
+            "quantity": 8,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Frame",
+            "id": "frame",
+            "icon": "architecturalFrame.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

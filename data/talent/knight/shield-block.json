@@ -1,0 +1,22 @@
+{
+    "id": "shield-block",
+    "name": "Shield Block",
+    "class": "knight",
+    "description": "This talent grants the Shield Block power.",
+    "icon": "Skill_Icon_015_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "knight-block"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "shield-bash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-exploration-i"
+    ],
+    "locksSkill": []
+}

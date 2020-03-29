@@ -1,0 +1,57 @@
+{
+    "name": "Sigil: Haste",
+    "id": "runecarving-runestone-sigil-010",
+    "icon": "sigil.png",
+    "description": "Crafting Component used in the assembly of a Runestone: Haste.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "runemaking",
+    "subCategory": "runemaking_components",
+    "ingredients": [
+        {
+            "name": "Parchment Paper",
+            "id": "parchment-paper",
+            "icon": "parchmentPaper.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Aurelium",
+            "id": "aurelium",
+            "icon": "ore.png",
+            "quantity": 5,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Blood",
+            "id": "animal-blood",
+            "icon": "blood.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ground Sulphur",
+            "id": "ground-sulphur",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 8,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

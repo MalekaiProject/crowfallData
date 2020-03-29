@@ -1,0 +1,20 @@
+{
+    "id": "electric-skin",
+    "name": "Electric Skin",
+    "class": "druid",
+    "description": "Electric Skin enhances Barrier effects to have 50% increased mitigation against Crushing, Electricity, and Piercing damage types.",
+    "icon": "Skill_Icon_017_005.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "plasma-spark",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fury-of-the-storm"
+    ],
+    "locksSkill": []
+}

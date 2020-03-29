@@ -1,0 +1,22 @@
+{
+    "id": "cleric-passive-crusader",
+    "name": "Crusader",
+    "description": "protects an ally who has lost more than 50% of their Health with a Barrier equal to 10% of their Maximum Health for 15 seconds when you heal them. \\n\\nThis cannot occur more than once every 15 seconds.",
+    "icon": "Graphic_Clrc_Crusader.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

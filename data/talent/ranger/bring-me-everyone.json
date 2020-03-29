@@ -1,0 +1,27 @@
+{
+    "id": "bring-me-everyone",
+    "name": "Bring Me Everyone!",
+    "class": "ranger",
+    "description": "This talent grants the Barrage and Dagger Spin powers.",
+    "icon": "Skill_Icon_009_020.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-barrage",
+        "ranger-dagger-spin-1"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-major-i",
+        "ranger-major-ii",
+        "promotion-class-archer",
+        "promotion-class-warden",
+        "promotion-class-brigand"
+    ],
+    "locksSkill": []
+}

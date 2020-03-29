@@ -1,0 +1,22 @@
+{
+    "id": "ambidexterity",
+    "name": "Ambidexterity",
+    "class": "ranger",
+    "description": "This talent grants the Off-Hand Weapon Slot and the Sweep power.",
+    "icon": "Skill_Icon_008_005.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-sweep"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "archer-s-stake",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-exploration-i"
+    ],
+    "locksSkill": []
+}

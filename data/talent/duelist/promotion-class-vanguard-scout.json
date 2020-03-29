@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-vanguard-scout",
+    "name": "Promotion Class - Vanguard Scout",
+    "class": "duelist",
+    "description": "Role: Melee Damage\\n\\nKnown for lurking in the shadows and leaving only to finish off a wounded target.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vanguard Scout  promotion class and prevents access to the Slayer and Dirge  promotion classes.",
+    "icon": "Skill_Icon_041_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "rapid-fire",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "lurk-more"
+    ],
+    "locksSkill": [
+        "promotion-class-slayer",
+        "promotion-class-dirge"
+    ]
+}

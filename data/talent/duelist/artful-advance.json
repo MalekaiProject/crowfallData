@@ -1,0 +1,28 @@
+{
+    "id": "artful-advance",
+    "name": "Artful Advance",
+    "class": "duelist",
+    "description": "Artful Advance improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cunning-jabs",
+            "point": 2
+        },
+        {
+            "skill": "duelist-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "impale",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-exploration-ii"
+    ],
+    "locksSkill": []
+}

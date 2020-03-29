@@ -1,0 +1,18 @@
+{
+    "id": "assassin-minor-i",
+    "name": "Minor Discipline Slot",
+    "class": "assassin",
+    "description": "Unlock a Minor Discipline slot.",
+    "icon": "Skill_Icon_011_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

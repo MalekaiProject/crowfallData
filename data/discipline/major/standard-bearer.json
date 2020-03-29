@@ -1,34 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "A Standard Bearer is a member of a combat group that is responsible for carrying a distinctive mark, often times a flag, as a rallying sign. The added motivation a standard can bring is substantial enough to excite and inspire even the most fatigued of allies while acting as a waypoint for those in their company.",
-  "name": "Standard Bearer",
-  "powers": [
-    "banner-of-storms",
-    "rallying-banner",
-    "bearers-insignia",
-    "sentinel"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Physical Armor Bonus",
-    "value": 3.75
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "standard-bearer",
+    "name": "Standard Bearer",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_StandardBearer.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": 500
+        },
+        {
+            "name": "Physical Resistance",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "standardbearer-electric-buff",
+            "name": "Banner Of Storms",
+            "description": "Group Electricity Damage Override; Electricity Resistance"
+        },
+        {
+            "id": "standardbearer-misc-buff",
+            "name": "Rallying Banner",
+            "description": "Group Attack Power; Rescue Healing; Slow Cleanse"
+        },
+        {
+            "id": "standardbearer-ooc-regen",
+            "name": "Bearers Insignia",
+            "description": "Passive: Increase Out of Combat Regeneration"
+        },
+        {
+            "id": "pistolmaster-careful-aim",
+            "name": "Sentinel",
+            "description": "Increase Critical Chance when Standing Still"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "A Standard Bearer is a member of a combat group that is responsible for carrying a distinctive mark, often times a flag, as a rallying sign. The added motivation a standard can bring is substantial enough to excite and inspire even the most fatigued of allies while acting as a waypoint for those in their company.",
+    "lore": "A bearer of a standard can rally even the most weary of squad members."
 }

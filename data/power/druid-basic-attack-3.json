@@ -1,0 +1,29 @@
+{
+    "id": "druid-basic-attack-3",
+    "name": "Lightning Crack",
+    "description": "unleashes an electrical blast, causing 218 - 326 + 272% Weapon Damage.",
+    "icon": "Graphic_Drud_ArcingLightning.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "30",
+        "cost": "30",
+        "cost_type": "Essence",
+        "min_damage_1": "218",
+        "max_damage_1": "326",
+        "weapon_damage_value": "272"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "druid-basic-attack-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

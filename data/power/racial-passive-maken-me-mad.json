@@ -1,0 +1,23 @@
+{
+    "id": "racial-passive-maken-me-mad",
+    "name": "Maken Me Mad!",
+    "description": "grants a stack of Maken Me Mad whenever you are damaged for less than 200 Health.\\n\\nIf five stacks are gained in 30 seconds, gain Giant Smash.\\n\\nGiant Smash increases your Damage Bonus and Healing Bonus statistics by 5% for 12 seconds, and also restores some of your class specific resource.",
+    "shortDescription": "Passive: Gain a Damage and Healing Bonus After Suffering Multiple Small Hits",
+    "icon": "Graphic_Disc_Racial_HalfGiant.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "12 seconds",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "5%",
+        "buff_type_2": "Healing Bonus"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

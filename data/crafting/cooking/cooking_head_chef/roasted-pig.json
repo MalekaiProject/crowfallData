@@ -1,0 +1,48 @@
+{
+    "name": "Roasted Pig",
+    "id": "roasted-pig",
+    "icon": "steamedHams.png",
+    "description": "Creates a roasted pig, a meal fit for a King! Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_head_chef",
+    "ingredients": [
+        {
+            "name": "Large Cooking Pot",
+            "id": "large-cooking-pot",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Boar Meat",
+            "id": "boar-meat",
+            "icon": "steamedHams.png",
+            "quantity": 15,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Apple",
+            "id": "apple",
+            "icon": "apple.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

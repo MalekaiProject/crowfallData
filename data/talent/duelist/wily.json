@@ -1,0 +1,28 @@
+{
+    "id": "wily",
+    "name": "Wily",
+    "class": "duelist",
+    "description": "Wily improves Control Defense by 7% per point spent.",
+    "icon": "Skill_Icon_043_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "guile",
+            "point": 2
+        },
+        {
+            "skill": "redirect-pain",
+            "point": 1
+        },
+        {
+            "skill": "sneaky",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-exploration-ii"
+    ],
+    "locksSkill": []
+}

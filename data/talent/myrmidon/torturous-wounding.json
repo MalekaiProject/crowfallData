@@ -1,0 +1,24 @@
+{
+    "id": "torturous-wounding",
+    "name": "Torturous Wounding",
+    "class": "myrmidon",
+    "description": "Torturous Wounding enhances Bleeding to also apply the Slow effect.",
+    "icon": "Skill_Icon_019_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "pitiless",
+            "point": 2
+        },
+        {
+            "skill": "dreadful-silencing",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "deplorable"
+    ],
+    "locksSkill": []
+}

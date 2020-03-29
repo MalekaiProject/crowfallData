@@ -1,40 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "There are no mistakes in woodworking until you run out of wood.",
-  "name": "Woodworker",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Woodworking"
-  ],
-  "stats": [{
-    "name": "Woodworking",
-    "value": 10
-  },
-  {
-    "name": "Woodworking Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Woodworking Experimentation Points",
-    "value": 2
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "woodworker",
+    "name": "Woodworker",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Woodworking.png",
+    "stats": [
+        {
+            "name": "Woodworking",
+            "value": 5
+        },
+        {
+            "name": "Woodworking Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Woodworking Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Woodworker"
+    ],
+    "description": "Recipes Granted:\\nAdvanced Wooden Weapons\\nAdvanced Wooden Weapon Components\\n\\nReduced Recipe Resource Costs:\\nComposite Wood Plank",
+    "lore": "There are no mistakes in woodworking until you run out of wood."
 }

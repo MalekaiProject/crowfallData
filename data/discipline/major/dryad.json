@@ -1,38 +1,47 @@
 {
-  "classes": [
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger"
-  ],
-  "description": "Arboreal energy exists in ways that can only be harnessed by the most insightful of nature enthusiasts.  Utilizing the power of trees assists with quick healing efforts that cannot be surpassed.  Dryads are quite in tune with nature and are quick to offer a helpful blast of leaves to the face.",
-  "name": "Dryad",
-  "powers": [
-    "form-life",
-    "form-life-ii",
-    "blast-of-leaves",
-    "take-root"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-      "name": "Healing Modifier",
-      "value": 6.25
-    },
-    {
-      "name": "Druid Orb Refund",
-      "value": 90
-    }
-  ],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "dryad",
+    "name": "Dryad",
+    "type": "major",
+    "trait": "",
+    "icon": "Major_Dryad.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "value": 3
+        },
+        {
+            "name": "Healing Bonus",
+            "value": 3
+        },
+        {
+            "name": "Druid Orb Refund",
+            "value": 90
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "mysticalmaster-aoe-root",
+            "name": "Grasping Roots",
+            "description": "Attack: Ground Target Area Root"
+        },
+        {
+            "id": "dryad-blast-of-leaves",
+            "name": "Blast Of Leaves",
+            "description": "Heal: Channelled Cone AoE"
+        },
+        {
+            "id": "dryad-healing-orb-1",
+            "name": "Form Life",
+            "description": "Heal: Place Healing Orbs"
+        },
+        {
+            "id": "dryad-take-root",
+            "name": "Take Root",
+            "description": "Passive: Standing Still Buffs Healing Bonus"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Arboreal energy exists in ways that can only be harnessed by the most insightful of nature enthusiasts. Utilizing the power of the trees assists with quick healing efforts that cannot be surpassed. Dryads are quite in tune with nature and are quick to offer a helpful blast of leaves to the face.",
+    "lore": "The spirit of Gaea can be heard if you listen closely to the whispers of the trees."
 }

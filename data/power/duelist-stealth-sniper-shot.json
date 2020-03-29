@@ -1,0 +1,25 @@
+{
+    "id": "duelist-stealth-sniper-shot",
+    "name": "Snipe",
+    "description": "explodes you from hiding with a surprise attack for 82 - 124 + 103% Weapon Damage and generating two Pips. \\n\\nIf Snipe hits an Exposed enemy, Snipe gains 100% Critical Strike, and you earn additional Pips.",
+    "icon": "Graphic_Duel_Snipe.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "15",
+        "min_damage_1": "82",
+        "max_damage_1": "124",
+        "weapon_damage_value": "103"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

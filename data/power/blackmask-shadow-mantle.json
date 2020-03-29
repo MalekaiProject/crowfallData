@@ -1,0 +1,29 @@
+{
+    "id": "blackmask-shadow-mantle",
+    "name": "Shadow Mantle",
+    "description": "surrounds your target causing 75 - 112 + 93% Weapon Damage and reducing their ability to heal by 25% for a duration scaling by Pips spent.\\n\\n1 Pip: 7 seconds \\n2 Pips: 10 seconds\\n3 Pips: 13 seconds \\n4 Pips: 16 seconds\\n5 Pips: 19 seconds",
+    "shortDescription": "Attack: Reduce Healing Received",
+    "icon": "Graphic_Disc_PoisonedBlade_B.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "1",
+        "cost": "1",
+        "cost_type": "Pips",
+        "buff_amount_1": "25%",
+        "min_damage_1": "75",
+        "max_damage_1": "112",
+        "weapon_damage_value": "93"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "stealth_users_melee"
+    ]
+}

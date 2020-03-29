@@ -1,0 +1,26 @@
+{
+    "id": "duelist-stealth-death-field",
+    "name": "Go For Broke",
+    "description": "leaps you from your Burrow with full commitment, unleashing a deadly hail of gunfire assaulting up to three targets in a cone multiple times for 39 - 58 + 48% Weapon Damage before returning to your Burrow again if you can avoid damage. \\n\\nStriking Exposed targets has a 100% Critical Strike modifier.",
+    "icon": "Graphic_Duel_CannonBarrage.png",
+    "stats": {
+        "cast_time": "Channeled",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "3",
+        "range": "15",
+        "min_damage_1": "39",
+        "max_damage_1": "58",
+        "weapon_damage_value": "48"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "on-target",
+    "name": "On Target",
+    "class": "ranger",
+    "description": "On Target improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "sure-aim",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "armor-piercing"
+    ],
+    "locksSkill": []
+}

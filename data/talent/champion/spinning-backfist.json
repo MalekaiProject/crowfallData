@@ -1,0 +1,18 @@
+{
+    "id": "spinning-backfist",
+    "name": "Spinning Backfist",
+    "class": "champion",
+    "description": "This talent grants the Spinning Backfist power.",
+    "icon": "Skill_Icon_017_033.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "champion-spinning-backfist"
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "guts",
+        "armaments"
+    ],
+    "locksSkill": []
+}

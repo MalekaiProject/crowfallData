@@ -1,0 +1,57 @@
+{
+    "name": "Satyr Artifact Reconstruction",
+    "id": "satyr-artifact-reconstruction",
+    "icon": "runebind.png",
+    "description": "Combines like-quality pieces of Satyr artifacts to produce an artifact of a higher quality and value.",
+    "outputQuantity": 1,
+    "xp": 0,
+    "category": "artifact",
+    "subCategory": "artifact_satyr",
+    "ingredients": [
+        {
+            "name": "Satyr Artifact",
+            "id": "satyr-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Satyr Artifact",
+            "id": "satyr-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Satyr Artifact",
+            "id": "satyr-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Satyr Artifact",
+            "id": "satyr-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Satyr Artifact",
+            "id": "satyr-artifact",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "champion-b-attack-2",
+    "name": "Crushing Overhead",
+    "description": "strikes in front of you for 124 - 167 + 145% Weapon Damage, generating 4 Rage if you hit.",
+    "icon": "Graphic_Chmp_Basic2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "restore": "4",
+        "restore_type": "Rage",
+        "min_damage_1": "124",
+        "max_damage_1": "167",
+        "weapon_damage_value": "145"
+    },
+    "nextChain": [
+        "champion-b-attack-3"
+    ],
+    "lastChain": [
+        "champion-b-attack-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

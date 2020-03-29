@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Making a statement doesn't always mean having to give up functionality, or those well worn leather boots.",
-  "name": "Matching Leather",
-  "powers": [
-    "matching-leather"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "matching-leather",
+    "name": "Matching Leather",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_MatchingLeather.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "matching-support-leather",
+            "name": "Matching Leather",
+            "description": "Passive: Gain Support Power with a Full Set of Leather Equipped"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Making a statement doesn't always mean having to give up on functionality, or those well-worn leather boots."
 }

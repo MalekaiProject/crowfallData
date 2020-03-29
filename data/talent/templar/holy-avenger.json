@@ -1,0 +1,28 @@
+{
+    "id": "holy-avenger",
+    "name": "Holy Avenger",
+    "class": "templar",
+    "description": "Holy Avenger improves Attack Power by 50 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "warrior-of-vengeance",
+            "point": 1
+        },
+        {
+            "skill": "blazing-light",
+            "point": 1
+        },
+        {
+            "skill": "executioner",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "vindicator"
+    ],
+    "locksSkill": []
+}

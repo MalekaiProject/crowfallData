@@ -1,0 +1,29 @@
+{
+    "id": "myrmidon-bloodied-swipe",
+    "name": "Bloody Swipe",
+    "description": "leaps you forward striking twice for 54 - 66 + 60% Weapon Damage.",
+    "icon": "Graphic_Myrm_BloodiedSwipe.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "22",
+        "cost_type": "Fury",
+        "min_damage_1": "54",
+        "max_damage_1": "66",
+        "weapon_damage_value": "60"
+    },
+    "nextChain": [
+        "myrmidon-bloodied-swipe-2a"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "blackout",
+    "name": "Blackout",
+    "class": "assassin",
+    "description": "Blackout enhances Backstab to Suppress a target from behind.",
+    "icon": "Skill_Icon_017_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "no-escape",
+            "point": 2
+        },
+        {
+            "skill": "double-down",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ruthlessness"
+    ],
+    "locksSkill": []
+}

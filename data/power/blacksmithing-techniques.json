@@ -1,22 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Blacksmithing Techniques",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "blacksmithing-techniques",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Blacksmithing"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Blacksmithing Cap by 20 and Blacksmithing Experimentation Cap by 20."
+    "name": "Metal Maneuvers",
+    "description": "increases your Blacksmithing Cap by 15 and Blacksmithing Experimentation Cap by 15.",
+    "shortDescription": "Passive: Increase Blacksmithing Assembly and Experimentation Caps",
+    "icon": "Graphic_Disc_BlacksmithingTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Blacksmithing Cap",
+        "buff_amount_1": "15",
+        "buff_type_2": "Blacksmithing Experimentation Cap",
+        "buff_amount_2": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

@@ -1,0 +1,22 @@
+{
+    "id": "potential-energy",
+    "name": "Potential Energy",
+    "class": "druid",
+    "description": "Potential Energy improves Attack Power by 30 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "mark-of-the-storm",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "shock-and-awe",
+        "druid-minor-ii",
+        "nature-s-grace"
+    ],
+    "locksSkill": []
+}

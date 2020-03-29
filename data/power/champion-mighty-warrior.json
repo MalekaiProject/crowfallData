@@ -1,0 +1,22 @@
+{
+    "id": "champion-mighty-warrior",
+    "name": "Mighty Warrior",
+    "description": "increases your size and Bonus Damage by up to 20%, restores Rage, applies a short barrier equal to 20% of your maximum Health and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.\\n\\nNote: This ability will replace the Blood Of The Giant Half-Giant Racial power.",
+    "icon": "Graphic_Chmp_MightyWarrior.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cost": "100",
+        "cost_type": "Hate"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

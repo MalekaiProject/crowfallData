@@ -1,0 +1,29 @@
+{
+    "id": "runecaster-shield",
+    "name": "Rune Shield",
+    "description": "protects you increasing Elemental Resistance by 20.",
+    "shortDescription": "Increase Elemental Resistances",
+    "icon": "Graphic_Disc_PowerRuneShield.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "12",
+        "cost_type": "Resource",
+        "buff_type_1": "Elemental Resistance",
+        "buff_amount_1": "20",
+        "min_damage_1": "85",
+        "max_damage_1": "115",
+        "weapon_damage_value": "100"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

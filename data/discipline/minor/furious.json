@@ -1,18 +1,18 @@
 {
-  "classes": [
-    "champion"
-  ],
-  "description": "Until you learn to master your rage, your rage will become your master.",
-  "name": "Furious",
-  "powers": [
-    "furious"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "furious",
+    "name": "Furious",
+    "type": "minor",
+    "trait": "Champion",
+    "icon": "Minor_Furious.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "furious-dmg-bonus-full-rage",
+            "name": "Furious",
+            "description": "Passive: Increase Damage Bonus if Rage hits max"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "\"Until you learn to master your rage, your rage will become your master.\"\\n-Champion Instructor"
 }

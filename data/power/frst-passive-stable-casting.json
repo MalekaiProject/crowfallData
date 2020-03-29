@@ -1,0 +1,18 @@
+{
+    "id": "frst-passive-stable-casting",
+    "name": "Stable Focus",
+    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Stable Ice near your target.\\n\\nStable Ice is harmless and visible only to you. It can be picked up and added automatically to your Ice Stores. If your Ice Stores are full, Stable Ice is consumed on contact to restore 50 Mana.",
+    "icon": "Graphic_FrostWeaver_StableFocus_01.png",
+    "stats": {
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

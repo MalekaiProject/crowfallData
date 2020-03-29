@@ -1,0 +1,21 @@
+{
+    "id": "go-for-the-knees",
+    "name": "Go for the Knees",
+    "class": "duelist",
+    "description": "Go for the Knees enhances Ambush and Snipe to always inflict Knockdown.",
+    "icon": "Skill_Icon_017_030.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "persistence",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "press-the-advantage",
+        "explosive-shot"
+    ],
+    "locksSkill": []
+}

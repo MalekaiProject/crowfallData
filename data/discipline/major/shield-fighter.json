@@ -1,30 +1,47 @@
 {
-  "classes": [
-    "cleric",
-    "druid",
-    "knight"
-  ],
-  "description": "Strength is not the only deciding factor in the heat of battle. Endurance, stamina, and tenacious spirit are necessary aspects of combat survival, and the addition of a shield can help increase the heartiness of the fighter. Shield Fighters are quick to utilize their armament by blocking blows, richocheting strikes, and the avoidance of massive damage. Fortitude, patience, and a defensive stance are what define a true Shield Fighter.",
-  "name": "Shield Fighter",
-  "powers": [
-    "brutal-slam",
-    "throw-illusion-shield",
-    "mighty-shield-slam",
-    "molon-labe"
-  ],
-  "slots_granted": [
-    "Shield"
-  ],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Armor Penetration: Crushing",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-    "Small Bucklers"
-  ],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "shield-fighter",
+    "name": "Shield Fighter",
+    "type": "major",
+    "trait": "Shield Familiarity",
+    "icon": "Major_ShieldFighter.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": -3
+        },
+        {
+            "name": "Physical Resistance",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "shieldfighter-brutal-slam",
+            "name": "Brutal Slam",
+            "description": "Attack: Reduce enemy Physical Mitigation"
+        },
+        {
+            "id": "shieldfighter-shield-throw",
+            "name": "Throw Illusion Shield",
+            "description": "Attack Multiple Enemies"
+        },
+        {
+            "id": "shieldfigher-mighty-shield-slam",
+            "name": "Mighty Shield Slam",
+            "description": "Charged Attack: Empty Stamina for Damage"
+        },
+        {
+            "id": "shieldfighter-molon-labe",
+            "name": "Molon Labe",
+            "description": "Passive: Blocks Reflect Elemental Damage"
+        }
+    ],
+    "grantsSlot": [
+        "Shield"
+    ],
+    "grantsEquip": [
+        "Buckler Proficiency"
+    ],
+    "description": "Strength is not the only deciding factor in the heat of battle. Endurance, stamina, and tenacious spirit are necessary aspects of combat survival, and the addition of a shield can help increase the heartiness of the fighter. Shield Fighters are quick to utilize their armament by blocking blows, ricocheting strikes, and the avoidance of massive damage. Fortitude, patience, and a defensive stance are what define a true Shield Fighter.",
+    "lore": "With each step you take, bear courage in mind and hold your shield firmly."
 }

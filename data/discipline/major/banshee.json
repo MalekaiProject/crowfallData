@@ -1,36 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "An ambassador of death, The Banshee is most known for a distinguished wail that can cause fear and sometimes paralysis in some. A haunting presence along with the ability to conjure a ghost army are all aspects that accompany an angel of death.",
-  "name": "Banshee",
-  "powers": [
-    "banshee-wail",
-    "haunt",
-    "ghost-army",
-    "angel-of-death"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Critical Hit Chance",
-    "value": 2.5
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "banshee",
+    "name": "Banshee",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Banshee.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Elemental",
+            "value": -3
+        },
+        {
+            "name": "Critical Strike",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "banshee-ghost-army",
+            "name": "Ghost Army",
+            "description": "Attack: Damage Multiple Enemies; Healing"
+        },
+        {
+            "id": "banshee-banshee-wail",
+            "name": "Banshee Wail",
+            "description": "Attack: Reduce Movement Speed"
+        },
+        {
+            "id": "banshee-haunt",
+            "name": "Haunt",
+            "description": "Attack: Reflect Enemy Damage; Healing"
+        },
+        {
+            "id": "banshee-angel-of-death",
+            "name": "Angel Of Death",
+            "description": "Passive: Increase Enemy Damage at Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "An ambassador of death, The Banshee is most known for a distinguished wail that can induce fear and paralysis. A haunting presence and the ability to conjure a ghostly army combine to make the Banshee a truy terrifying angel of death.",
+    "lore": "The keening cry of a Banshee cannot be ignored as it signals impending death."
 }

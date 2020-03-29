@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-elemental-mitigation",
+    "name": "Vanity",
+    "description": "increases your Elemental Resistance statistic by 500.",
+    "shortDescription": "Passive: Increase Elemental Resistance",
+    "icon": "Graphic_Disc_Racial_HighElf.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Elemental Resistance",
+        "buff_amount_1": "500"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

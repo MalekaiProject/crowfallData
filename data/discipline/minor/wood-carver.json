@@ -1,0 +1,21 @@
+{
+    "id": "wood-carver",
+    "name": "Wood Carver",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_Woodworking.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "woodworking-techniques",
+            "name": "Measure Twice Cut Once",
+            "description": "Passive: Increase Woodworking Assembly and Experimentation Caps"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Wood Carver"
+    ],
+    "description": "Reduced Recipe Resource Costs:\\nComposite Wood Plank",
+    "lore": "There is no secret to woodworking that you cannot master. Follow the grain and your work will flourish."
+}

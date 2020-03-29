@@ -1,0 +1,21 @@
+{
+    "id": "cruel-blades",
+    "name": "Cruel Blades",
+    "class": "assassin",
+    "description": "Cruel Blades improves Damage Bonus by 1% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "overachieve",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "deep-cuts",
+        "opportunist"
+    ],
+    "locksSkill": []
+}

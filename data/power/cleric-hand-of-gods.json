@@ -1,0 +1,29 @@
+{
+    "id": "cleric-hand-of-gods",
+    "name": "Hand Of The Gods",
+    "description": "unleashes a divine force holding enemies in place and inflicting 119 - 145 + 132% Weapon Damage.",
+    "icon": "Graphic_Cleric_HandOfTheGods.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "24",
+        "max_targets": "5",
+        "range": "20",
+        "cost": "80",
+        "cost_type": "Mana",
+        "duration": "5 seconds",
+        "min_damage_1": "119",
+        "max_damage_1": "145",
+        "weapon_damage_value": "132"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "builder",
+    "name": "Builder",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_Stonemasonry.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "stonemasonry-techniques",
+            "name": "Drawing and Drafting",
+            "description": "Passive: Increase Stonemasonry Assembly and Experimentation Caps"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Builder"
+    ],
+    "description": "Temporary Additive Slots:\\nGrants Chaos Ember additive slot for Diamond Cutting Blade.\\n\\nReduced Recipe Resource Costs:\\nDiamond Cutting Blade\\nGrinding Wheel\\nPolishing Paste",
+    "lore": "Just a pile of rocks? More like a pile of ideas!"
+}

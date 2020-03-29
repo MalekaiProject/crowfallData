@@ -1,0 +1,57 @@
+{
+    "name": "Mystical Staff",
+    "id": "mystical-staff",
+    "icon": "staff.png",
+    "description": "Creates a Mystical Staff, usable by those who are proficient with Mystical Staves.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "woodworking",
+    "subCategory": "woodworking_weapons",
+    "ingredients": [
+        {
+            "name": "Limbs: Staff",
+            "id": "limbs-staff",
+            "icon": "staffLimb.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Staff Head",
+            "id": "staff-head",
+            "icon": "staffHead.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Staff Heel",
+            "id": "staff-heel",
+            "icon": "staffHeel.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "cleric-retaliate",
+    "name": "Retaliate",
+    "description": "recovers you from Knockdown or Stun effects and returns you to your feet with a barrier preventing up to 500 damage for six seconds.",
+    "icon": "Graphic_Cleric_Retaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "120",
+        "max_damage_1": "147",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

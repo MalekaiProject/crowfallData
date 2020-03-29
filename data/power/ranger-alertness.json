@@ -1,0 +1,34 @@
+{
+    "id": "ranger-alertness",
+    "name": "Alertness",
+    "description": "increases your Perception by 25, Attack Power by 50, removing the Exposed state and detecting enemies in Stealth for group members and you.",
+    "shortDescription": "Group increase Perception; Remove Expose",
+    "icon": "Graphic_Disc_HeadsUp.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "68",
+        "max_targets": "5",
+        "range": "50",
+        "cost": "190",
+        "cost_type": "Energy",
+        "buff_type_1": "Perception",
+        "buff_amount_1": "25",
+        "buff_type_2": "Attack Power",
+        "buff_amount_2": "50",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

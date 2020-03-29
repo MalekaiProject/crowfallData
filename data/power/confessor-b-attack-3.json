@@ -1,0 +1,29 @@
+{
+    "id": "confessor-b-attack-3",
+    "name": "Righteous Conflagration",
+    "description": "shoots a fireball, causing 115 - 172 + 144%  Fire Weapon Damage and applying Sin to your target.",
+    "icon": "Graphic_Conf_Basic3.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "25",
+        "cost": "45",
+        "min_damage_1": "115",
+        "max_damage_1": "172",
+        "weapon_damage_value": "144",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "confessor-b-attack-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

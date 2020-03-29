@@ -1,0 +1,24 @@
+{
+    "id": "mark-of-the-storm",
+    "name": "Mark of the Storm",
+    "class": "druid",
+    "description": "This talent grants the Electrogenesis passive power.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        "scimitarmaster-stormcaller"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "potential-energy",
+        "yielding-roots",
+        "magic-dance"
+    ],
+    "locksSkill": []
+}

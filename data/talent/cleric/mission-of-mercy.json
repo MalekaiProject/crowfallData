@@ -1,0 +1,22 @@
+{
+    "id": "mission-of-mercy",
+    "name": "Mission of Mercy",
+    "class": "cleric",
+    "description": "Mission of Mercy improves Support Power by 15 per point spent.",
+    "icon": "Skill_Icon_017_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "shield-block",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "purity",
+        "divine-auras",
+        "righteous-defense"
+    ],
+    "locksSkill": []
+}

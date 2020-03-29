@@ -1,25 +1,18 @@
 {
-  "classes": [
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger"
-  ],
-  "description": "Quid pro quo.",
-  "name": "Blood Pact",
-  "powers": [
-      "blood-pact"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "blood-pact",
+    "name": "Blood Pact",
+    "type": "minor",
+    "trait": "Daywalker",
+    "icon": "Minor_BloodPact.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "blood-pact",
+            "name": "Blood Pact",
+            "description": "Change Power Cost to Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Quid pro quo."
 }

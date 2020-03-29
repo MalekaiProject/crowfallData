@@ -1,0 +1,27 @@
+{
+    "id": "survivalist-burst-strength",
+    "name": "Burst Of Strength",
+    "description": "deals 100% additional Harvest Base Damage to any resource node type. Lasts 6 seconds or 2 hits, whichever comes first.",
+    "shortDescription": "Increases Harvest Damage for 2 Hits",
+    "icon": "Graphic_Disc_BurstOfStrength.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "6",
+        "cost": "4",
+        "cost_type": "Harvest Pips",
+        "duration": "6 seconds",
+        "buff_type_1": "Harvest Base Damage",
+        "buff_amount_1": "100%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

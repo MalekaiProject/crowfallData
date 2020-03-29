@@ -1,0 +1,22 @@
+{
+    "id": "siegeengineer-siege-damage-buff",
+    "name": "Bolster Siege Engine",
+    "description": "empowers a targeted Siege Engine adding 100% Damage Bonus.",
+    "shortDescription": "Channel: Increase Target Siege Engine Damage",
+    "icon": "Mount_BolsterSiegeEngine.png",
+    "stats": {
+        "cast_time": "Channeled",
+        "target": "Reticle",
+        "max_targets": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

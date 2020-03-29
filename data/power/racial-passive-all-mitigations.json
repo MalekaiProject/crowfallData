@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-all-mitigations",
+    "name": "Thick Skin",
+    "description": "increases your Resist All statistic by 300.",
+    "shortDescription": "Passive: Increase Resist All",
+    "icon": "Graphic_Disc_Racial_Minotaur.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Resist All",
+        "buff_amount_1": "300"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

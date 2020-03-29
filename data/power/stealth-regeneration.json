@@ -1,0 +1,22 @@
+{
+    "id": "stealth-regeneration",
+    "name": "Shadow's Caress",
+    "description": "increases your Health Regeneration by 35 while in Stealth.",
+    "shortDescription": "Passive: Increase Health Regen in Stealth",
+    "icon": "Graphic_Disc_ShadowsCaress.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_amount_1": "35"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

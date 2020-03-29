@@ -1,0 +1,24 @@
+{
+    "id": "double-time",
+    "name": "Double Time",
+    "class": "knight",
+    "description": "Double Time reduces the cooldown of Pursuit by 50%.",
+    "icon": "Skill_Icon_036_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "mercy",
+            "point": 2
+        },
+        {
+            "skill": "fortified-shield-slam",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "combat-tactics"
+    ],
+    "locksSkill": []
+}

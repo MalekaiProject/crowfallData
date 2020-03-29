@@ -1,28 +1,14 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Fantastic secrets! Hidden knowledge! Limitless power of the universe! All stored on very fragile sheets of paper, scribed in arcane symbols, which can only be read by the light of the moon. The only thing saving them from ultimate destruction?! Why, the trust Leather Scroll Case at your side! Warning: Leather Scroll Case does not protect against hurricane, flood, hail, tsunami, wildfire, earthquake, sinkhole, volcanic eruption, tornado, acts of gods, spilled ale, or sand.",
-  "name": "Leather Scroll Case",
-  "powers": [],
-  "slots_granted": [
-    "Scroll Case"
-  ],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "leather-scroll-case",
+    "name": "Leather Scroll Case",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_LeatherScrollCase.png",
+    "stats": [],
+    "grantsPowers": [],
+    "grantsSlot": [
+        "Scroll Case"
+    ],
+    "grantsEquip": [],
+    "lore": "Fantastic secrets! Hidden knowledge! Limitless power of the universe! All stored on very fragile sheets of paper, scribed in arcane symbols, which can only be read by the light of the moon. The only thing saving them from ultimate destruction?! Why, the trusty Leather Scroll Case at your side!\\n\\nWarning: Leather Scroll Case does not protect against hurricane, flood, hail, tsunami, wildfire, earthquake, sinkhole, volcanic eruption, tornado, acts of gods, spilled ale, or sand."
 }

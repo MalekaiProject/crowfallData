@@ -1,0 +1,20 @@
+{
+    "id": "humble-duty",
+    "name": "Humble Duty",
+    "class": "templar",
+    "description": "Humble Duty improves Maximum Health by 250 per point spent.",
+    "icon": "Skill_Icon_017_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "righteous-stand",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "reproach"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "duelist-minor-ii",
+    "name": "Minor Discipline Slot",
+    "class": "duelist",
+    "description": "Unlock a Minor Discipline slot.",
+    "icon": "Skill_Icon_011_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "critical-insight",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "artful-advance"
+    ],
+    "locksSkill": []
+}

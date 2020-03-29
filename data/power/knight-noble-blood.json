@@ -1,0 +1,29 @@
+{
+    "id": "knight-noble-blood",
+    "name": "Noble Blood",
+    "description": "deals 60 - 81 + 70% Weapon Damage to enemies in a cone. You gain a Barrier lasting up to 15 seconds.",
+    "icon": "Graphic_Kngt_OfNobleBlood.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "23",
+        "max_targets": "3",
+        "range": "5",
+        "buff_type_1": "Absorption Barrier",
+        "min_damage_1": "60",
+        "max_damage_1": "81",
+        "weapon_damage_value": "70"
+    },
+    "nextChain": [
+        "knight-noble-blood-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

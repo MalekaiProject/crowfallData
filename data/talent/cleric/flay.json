@@ -1,0 +1,20 @@
+{
+    "id": "flay",
+    "name": "Flay",
+    "class": "cleric",
+    "description": "Flay improves Critical Strike by 1% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "prudence",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "flog"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-hitpoints-regen-ooc",
+    "name": "Desert Winds",
+    "description": "increases your Health Regen: Out of Combat statistic by 20.",
+    "shortDescription": "Passive: Increase Out of Combat Health Regen",
+    "icon": "Graphic_Disc_Racial_Nethari.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Health Regen: Out of Combat",
+        "buff_amount_1": "20"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

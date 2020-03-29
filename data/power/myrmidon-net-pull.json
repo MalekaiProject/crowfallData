@@ -1,0 +1,29 @@
+{
+    "id": "myrmidon-net-pull",
+    "name": "Net Pull",
+    "description": "pulls your target toward you inflicting 95 - 116 + 106% Weapon Damage.",
+    "icon": "Graphic_Myrm_NetPull.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "30",
+        "cost": "17",
+        "cost_type": "Fury",
+        "min_damage_1": "95",
+        "max_damage_1": "116",
+        "weapon_damage_value": "106"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "myrmidon-cast-net"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "tunnel",
+    "name": "Tunnel",
+    "class": "duelist",
+    "description": "This talent grants the Tunnel and Recon powers.",
+    "icon": "Skill_Icon_040_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-stealth-tunnel",
+        "duelist-stealth-recon"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "go-for-broke",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-exploration-i"
+    ],
+    "locksSkill": []
+}

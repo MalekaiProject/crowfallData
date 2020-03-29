@@ -1,0 +1,30 @@
+{
+    "name": "Vendor NPC",
+    "id": "vendor-npc",
+    "icon": "vendor.png",
+    "description": "Creates a placeable Human Vendor NPC.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_business",
+    "ingredients": [
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 75,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Vessel: Human",
+            "id": "vessel-human",
+            "icon": "vessel_human.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

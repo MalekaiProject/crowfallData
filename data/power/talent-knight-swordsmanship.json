@@ -1,0 +1,25 @@
+{
+    "id": "talent-knight-swordsmanship",
+    "name": "Swordsmanship",
+    "description": "has a chance to cast Mighty Surge on you when you perform any non-basic, non-shield melee attack while also wielding a sword.\\n\\nMighty Surge increases your Basic Attack Damage by 50% and Basic Attack Damage Cap by 20% for 10 seconds.",
+    "icon": "Graphic_Kngt_Swordsmanship.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "10 seconds",
+        "buff_type_1": "Basic Attack Damage",
+        "buff_amount_1": "50%",
+        "buff_type_2": "Basic Attack Damage Cap",
+        "buff_amount_2": "20%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

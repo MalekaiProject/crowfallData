@@ -1,0 +1,19 @@
+{
+    "id": "racial-jump-text-double-jump",
+    "name": "Double Jump",
+    "description": "allows you to jump again while near the apex of your first jump.",
+    "shortDescription": "Passive: Jump Again While Near the Apex of Your First Jump",
+    "icon": "Graphic_Disc_Racial_Fae.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

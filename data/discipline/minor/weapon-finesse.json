@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "It's a shame having to compensate for shoddily crafted weapons.",
-  "name": "Weapon Finesse",
-  "powers": [
-    "weapon-finesse"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "weapon-finesse",
+    "name": "Weapon Finesse",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_WeaponFinesse.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "weapon-finesse-2",
+            "name": "Weapon Finesse",
+            "description": "Passive: Greatly Reduces Power Resource Costs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "It's a shame having to compensate for shoddily-crafted weapons."
 }

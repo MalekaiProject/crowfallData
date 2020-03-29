@@ -1,0 +1,20 @@
+{
+    "id": "vanguard-scout",
+    "name": "Vanguard Scout",
+    "class": "duelist",
+    "description": "This talent grants the Vanguard Scout passive power.\\n\\nIncreases by 10%:\\nPiercing Damage Bonus\\nCrushing Damage Bonus\\nPiercing Damage Cap\\nCrushing Damage Cap\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery",
+    "icon": "Skill_Icon_041_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        "duelist-passive-vanguard-scout"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "shiny-coat",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

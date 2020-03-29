@@ -1,0 +1,27 @@
+{
+    "id": "poisoner-cleanse",
+    "name": "Mithridatism",
+    "description": "removes all Poison effects.",
+    "shortDescription": "Buff: Remove poison debuff from yourself.",
+    "icon": "Graphic_Disc_Mithridatism.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "9",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

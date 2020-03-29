@@ -1,0 +1,24 @@
+{
+    "id": "molehunter-revenge-vs-stealth",
+    "name": "Revenge",
+    "description": "increases your Critical Strike and Critical Damage by 10 for 30 seconds when damaged by a Stealth attack.",
+    "shortDescription": "Passive: Increase Critical % after Stealth Attacked",
+    "icon": "Graphic_Disc_Revenge.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "30 seconds",
+        "buff_type_1": "Critical Strike",
+        "buff_amount_1": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

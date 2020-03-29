@@ -1,0 +1,28 @@
+{
+    "id": "duelist-exploration-ii",
+    "name": "Exploration Discipline Slot",
+    "class": "duelist",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "artful-advance",
+            "point": 2
+        },
+        {
+            "skill": "wily",
+            "point": 2
+        },
+        {
+            "skill": "charming",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "rapid-fire"
+    ],
+    "locksSkill": []
+}

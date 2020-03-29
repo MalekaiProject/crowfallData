@@ -1,0 +1,22 @@
+{
+    "id": "blessed",
+    "name": "Blessed",
+    "class": "confessor",
+    "description": "Blessed improves Maximum Stamina by 3 per point spent and Attack Power by 30 per point spent.",
+    "icon": "Skill_Icon_034_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "righteousness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "restoration",
+        "arkon-s-fury",
+        "partial-indulgence"
+    ],
+    "locksSkill": []
+}

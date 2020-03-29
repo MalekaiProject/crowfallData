@@ -1,43 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Keep Forging Ahead!",
-  "name": "Blacksmith",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Blacksmithing"
-  ],
-  "stats": [{
-    "name": "Blacksmithing",
-    "value": 10
-  },
-  {
-    "name": "Blacksmithing Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Blacksmithing Experimentation Points",
-    "value": 2
-  }
-  ],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "blacksmith",
+    "name": "Blacksmith",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Blacksmithing.png",
+    "stats": [
+        {
+            "name": "Blacksmithing",
+            "value": 5
+        },
+        {
+            "name": "Blacksmithing Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Blacksmithing Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Blacksmith"
+    ],
+    "description": "Recipes Granted:\\nAdvanced Armor Componets\\nAdvanced Mail Armor\\nAdvanced Plate Armor\\nAdvanced Weapons\\nAdvanced Weapon Components\\n\\nReduced Recipe Resource Costs:\\nMetal Bar",
+    "lore": "Keep Forging Ahead!"
 }

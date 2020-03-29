@@ -1,0 +1,28 @@
+{
+    "id": "dryad-healing-orb-2",
+    "name": "Form Life II",
+    "description": "manifests an Orb at your targeted location that allies or you may use to heal 39 to 48 + 17.3% Support Power.",
+    "icon": "Graphic_Disc_FormLife_B.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "max_targets": "1",
+        "range": "35",
+        "min_damage_1": "39",
+        "max_damage_1": "48",
+        "weapon_damage_value": "17.3"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "dryad-healing-orb-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "druid_healing",
+        "anyone_but_druid"
+    ]
+}

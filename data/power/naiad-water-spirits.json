@@ -1,0 +1,35 @@
+{
+    "id": "naiad-water-spirits",
+    "name": "Water Spirits",
+    "description": "summons and launch a Water Spirit forward which heals allies within 5 of the Water Spirit. \\n\\nWater Spirits last 20 seconds or 30 heals. \\n\\nWater Spirits only heals each player a maximum of 5 times. \\n\\nEnemies hit by the water spirit suffer a 30% to Damage Bonus: Fire for 20 seconds.",
+    "shortDescription": "Attack: Heal Allies; Reduce Enemy Fire Damage",
+    "icon": "Graphic_Disc_WaterSpirits.png",
+    "stats": {
+        "cast_time": "Charged",
+        "target": "Area",
+        "cooldown": "25",
+        "max_targets": "3",
+        "cost": "46",
+        "cost_type": "Resource",
+        "velocity": "4 m/s",
+        "lifetime": "20",
+        "duration": "20 seconds",
+        "buff_amount_1": "30",
+        "buff_type_2": "Damage Bonus: Fire",
+        "buff_amount_2": "30%",
+        "max_damage_1": "25",
+        "weapon_damage_value": "31",
+        "weapon_damage_type": "11.2"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "anyone_but_druid",
+        "druid_healing"
+    ]
+}

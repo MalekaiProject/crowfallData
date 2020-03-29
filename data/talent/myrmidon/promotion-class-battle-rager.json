@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-battle-rager",
+    "name": "Promotion Class - Battle Rager",
+    "class": "myrmidon",
+    "description": "Role: Melee Defense\\n\\nTempering reckless abandon with caution, this fighter has the defenses to survive the worst battlefields.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Battle Rager promotion class and prevents access to the Titan and Conqueror promotion classes.",
+    "icon": "Skill_Icon_041_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "neck-slash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fearless-resilience"
+    ],
+    "locksSkill": [
+        "promotion-class-titan",
+        "promotion-class-conqueror"
+    ]
+}

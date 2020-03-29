@@ -1,0 +1,28 @@
+{
+    "id": "vengeful-vitality",
+    "name": "Vengeful Vitality",
+    "class": "myrmidon",
+    "description": "Vengeful Vitality improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent.",
+    "icon": "Skill_Icon_043_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "audacity",
+            "point": 2
+        },
+        {
+            "skill": "berserk",
+            "point": 1
+        },
+        {
+            "skill": "raging",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-exploration-ii"
+    ],
+    "locksSkill": []
+}

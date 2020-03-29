@@ -1,0 +1,19 @@
+{
+    "id": "execute-bonus-damage",
+    "name": "Executioner",
+    "description": "increases the damage of Execution abilities",
+    "shortDescription": "Passive: Increase Execute Power Damage",
+    "icon": "Graphic_Disc_Executioner.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

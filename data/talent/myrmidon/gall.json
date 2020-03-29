@@ -1,0 +1,20 @@
+{
+    "id": "gall",
+    "name": "Gall",
+    "class": "myrmidon",
+    "description": "Gall improves Maximum Fury by 5 per point spent and Basic Attack Damage by 2% per point spent.",
+    "icon": "Skill_Icon_017_016.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "relentless",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "arrogance"
+    ],
+    "locksSkill": []
+}

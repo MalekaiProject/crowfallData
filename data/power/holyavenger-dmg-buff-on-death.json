@@ -1,0 +1,21 @@
+{
+    "id": "holyavenger-dmg-buff-on-death",
+    "name": "You Shall Be Avenged",
+    "description": "increases your Attack Power when a group member dies.",
+    "shortDescription": "Passive: Increase Damage on Group death",
+    "icon": "Graphic_Disc_YouShallBeAvenged.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blunt_users"
+    ]
+}

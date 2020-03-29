@@ -1,0 +1,28 @@
+{
+    "id": "below-the-belt",
+    "name": "Below the Belt",
+    "class": "ranger",
+    "description": "Below the Belt increases Power Damage Bonus: Behind by 5% per point spent.",
+    "icon": "Skill_Icon_018_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "a-toll-is-a-toll",
+            "point": 1
+        },
+        {
+            "skill": "quick-arming",
+            "point": 1
+        },
+        {
+            "skill": "twin-surge",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "brigand"
+    ],
+    "locksSkill": []
+}

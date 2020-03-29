@@ -1,0 +1,21 @@
+{
+    "id": "repent",
+    "name": "Repent",
+    "class": "confessor",
+    "description": "Repent improves Hard Crowd Control by 6% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "atone",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "damnation",
+        "confirmed-absolution"
+    ],
+    "locksSkill": []
+}

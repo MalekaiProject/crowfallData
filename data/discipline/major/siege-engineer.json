@@ -1,33 +1,40 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "When you absolutely, positively, have to destroy every wall on the Keep; accept no substitutes.",
-  "name": "Siege Engineer",
-  "powers": [
-    "shield-siege-engine",
-    "bolster-siege-engine",
-    "repair-siege-engine"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Physical Armor Bonus",
-    "value": 3
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "siege-engineer",
+    "name": "Siege Engineer",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_SiegeEngineer.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": 500
+        },
+        {
+            "name": "Physical Resistance",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "siegeengineer-siege-shield",
+            "name": "Shield Siege Engine",
+            "description": "Channel: Shield Nearby Siege Engines From Damage"
+        },
+        {
+            "id": "siegeengineer-siege-damage-buff",
+            "name": "Bolster Siege Engine",
+            "description": "Channel: Increase Target Siege Engine Damage"
+        },
+        {
+            "id": "siegeengineer-siege-repair",
+            "name": "Repair Siege Engine",
+            "description": "Channel: Repair Target Siege Engine"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Siege Engineer"
+    ],
+    "description": "Recipes Granted:\\nBallista\\nCatapult\\nTrebuchet",
+    "lore": "When you absolutely, positively, have to destroy every wall on the Keep; accept no substitutes."
 }

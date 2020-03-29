@@ -1,0 +1,29 @@
+{
+    "id": "templar-basic-2",
+    "name": "Divine Overhead",
+    "description": "attacks for 94 - 141 + 117% Weapon Damage.",
+    "icon": "Graphic_Tmpr_BasicAttack2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "94",
+        "max_damage_1": "141",
+        "weapon_damage_value": "117"
+    },
+    "nextChain": [
+        "templar-basic-3"
+    ],
+    "lastChain": [
+        "templar-basic-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

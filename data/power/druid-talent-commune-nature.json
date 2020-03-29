@@ -1,0 +1,20 @@
+{
+    "id": "druid-talent-commune-nature",
+    "name": "Commune With Nature",
+    "description": "increases your Healing Bonus by 5%.\\n\\nWhenever you gain Essence while in the Life Tray, and your total Essence is greater than 500, you will Commune with Nature. Commune with Nature reduces your Essence by 500 and applies a resource restoration to all group members within 30m of you.\\n\\nTriggering this effect will cause Nature Languor, which will prevent you from triggering this effect for 45 seconds.",
+    "icon": "Graphic_Drud_CommuneWithNature.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_healing"
+    ]
+}

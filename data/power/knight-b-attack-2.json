@@ -1,0 +1,31 @@
+{
+    "id": "knight-b-attack-2",
+    "name": "Sharp Uppercut",
+    "description": "slashes in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attacks will activate Shield Bash.",
+    "icon": "Graphic_Kngt_Basic2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "buff_type_1": "Shield Bash",
+        "min_damage_1": "86",
+        "max_damage_1": "117",
+        "weapon_damage_value": "101"
+    },
+    "nextChain": [
+        "knight-b-attack-3"
+    ],
+    "lastChain": [
+        "knight-b-attack-1",
+        "knight-sprinting-basic"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "cleric-basic-attack-1",
+    "name": "Blessed Hammer",
+    "description": "hurls a spirit hammer at your reticle target for 54 - 66 + 60% Weapon Damage.",
+    "icon": "Graphic_Cleric_SpiritHammer.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "20",
+        "cost": "10",
+        "min_damage_1": "54",
+        "max_damage_1": "66",
+        "weapon_damage_value": "60"
+    },
+    "nextChain": [
+        "cleric-basic-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

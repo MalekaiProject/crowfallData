@@ -1,40 +1,28 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "An unchiseled stone is a stone full of possibilities.",
-  "name": "Stonemason",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [
-    "Crafting",
-    "Stonemasonry"
-  ],
-  "stats": [{
-    "name": "Stonemasonry",
-    "value": 10
-  },
-  {
-    "name": "Stonemasonry Experimentation",
-    "value": 10
-  },
-  {
-    "name": "Stonemasonry Experimentation Points",
-    "value": 2
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "stonemason",
+    "name": "Stonemason",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Stonemasonry.png",
+    "stats": [
+        {
+            "name": "Stonemasonry",
+            "value": 5
+        },
+        {
+            "name": "Stonemasonry Experimentation",
+            "value": 15
+        },
+        {
+            "name": "Stonemasonry Experimentation Points",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Stonemason"
+    ],
+    "description": "Recipes Granted:\\nArchitecture Components\\nGeomancy Components\\nStonemasonry Components\\nAttachables\\nBuildings\\nCrafting Stations\\nGeomancy\\nStone Walls and Defenses\\nVendors and Stalls\\nWooden Walls and Defenses\\n\\nReduced Recipe Resource Costs:\\nDiamond Cutting Blade\\nGrinding Wheel\\nPolishing Paste",
+    "lore": "An unchiseled stone is a stone full of possibilities."
 }

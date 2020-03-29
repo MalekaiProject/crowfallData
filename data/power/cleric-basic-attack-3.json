@@ -1,0 +1,28 @@
+{
+    "id": "cleric-basic-attack-3",
+    "name": "Divine Hammer",
+    "description": "hurls a spirit hammer at your reticle target for 141 - 173 + 157% Weapon Damage.",
+    "icon": "Graphic_Cleric_SpiritHammer.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "20",
+        "cost": "21",
+        "min_damage_1": "141",
+        "max_damage_1": "173",
+        "weapon_damage_value": "157"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "cleric-basic-attack-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

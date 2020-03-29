@@ -1,0 +1,20 @@
+{
+    "id": "fatal-lance",
+    "name": "Fatal Lance",
+    "class": "frostweaver",
+    "description": "Fatal Lance enhances your Crystal Lance and Piercing Lance to cause execution scale damage against enemies under 50% Hitpoints and to remove its cooldown.",
+    "icon": "Skill_Icon_045_011.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "icy-shock",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "piercing-cold"
+    ],
+    "locksSkill": []
+}

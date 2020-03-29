@@ -1,0 +1,27 @@
+{
+    "id": "guinecean-saltpeter-rounds",
+    "name": "Saltpeter Rounds",
+    "description": "empowers Pistol attacks to inflict Slow on your target and increases your Distance Bonus by 5 for 20 seconds.",
+    "shortDescription": "Pistol Shots Snare Targets, Increases Pistol Range, only for Duelist",
+    "icon": "Graphic_Disc_SaltpeterRounds.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "24",
+        "duration": "20 seconds",
+        "buff_type_1": "Distance Bonus",
+        "buff_amount_1": "5"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone",
+        "harvest",
+        "stealth"
+    ]
+}

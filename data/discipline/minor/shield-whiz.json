@@ -1,27 +1,27 @@
 {
-  "classes": [
-    "cleric",
-    "druid",
-    "knight"
-  ],
-  "description": "Throwing a shield is geometry in its most challenging form; a science of precise angles and forces, not to mention a goddamn massive arm.",
-  "name": "Shield Whiz",
-  "powers": [
-    "infinite-angles"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [{
-    "name": "Shield Throw Bonus Ricochets",
-    "value": 1
-  },
-  {
-    "name": "Shield Throw Falloff Bonus",
-    "value": 6.0
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "shield-whiz",
+    "name": "Shield Whiz",
+    "type": "minor",
+    "trait": "Shield Familiarity",
+    "icon": "Minor_ShieldWhiz.png",
+    "stats": [
+        {
+            "name": "Shield Throw Bonus Ricochets",
+            "value": 1
+        },
+        {
+            "name": "Shield Throw Falloff Bonus",
+            "value": 0.06
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "infinite-angles",
+            "name": "Infinite Angles",
+            "description": "Passive: Shield Throw Applies Snare"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Throwing a shield is geometry in its most challenging form; a science of precise angles and forces, not to mention a goddamn massive arm."
 }

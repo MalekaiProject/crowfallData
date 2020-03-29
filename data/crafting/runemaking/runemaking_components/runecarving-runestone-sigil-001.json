@@ -1,0 +1,39 @@
+{
+    "name": "Sigil: Pick",
+    "id": "runecarving-runestone-sigil-001",
+    "icon": "sigilPick.png",
+    "description": "Crafting Component used in the assembly of a Runestone Pick. The combination of Ores used determines the properties of the Pick.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "runemaking",
+    "subCategory": "runemaking_components",
+    "ingredients": [
+        {
+            "name": "Parchment Paper",
+            "id": "parchment-paper",
+            "icon": "parchmentPaper.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

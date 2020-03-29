@@ -1,0 +1,32 @@
+{
+    "id": "ranger-twin-surge",
+    "name": "Twin Surge",
+    "description": "slashes in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.",
+    "icon": "Graphic_Rngr_TwinSurge.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "5",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "95",
+        "cost_type": "Energy",
+        "restore": "150",
+        "restore_type": "Stamina",
+        "min_damage_1": "57",
+        "max_damage_1": "77",
+        "weapon_damage_value": "67"
+    },
+    "nextChain": [
+        "ranger-laceration"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

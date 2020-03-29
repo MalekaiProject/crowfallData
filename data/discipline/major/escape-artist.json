@@ -1,36 +1,45 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Escapology is an artform that is still shrouded in mystery. An escapologist will quickly learn the ability to break free from mobility limitations allowing avoidance of even the most obnoxious of crowd control methods. While it may seem easy to the escapist, onlookers and enemies will beg to know the secrets of escape, but a magician never reveals their methods.",
-  "name": "Escape Artist",
-  "powers": [
-    "free-action",
-    "critical-dodge",
-    "speedy-retaliate",
-    "escapology"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-      "name": "Retaliate Refund",
-      "value": 35
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "escape-artist",
+    "name": "Escape Artist",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_EscapeArtist.png",
+    "stats": [
+        {
+            "name": "Max Stamina",
+            "value": 5
+        },
+        {
+            "name": "Dodge Regen Rate",
+            "value": -1
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "escapeartist-speedy-retaliate",
+            "name": "Speedy Retaliate",
+            "description": "Retaliate with Movement Speed Bonus"
+        },
+        {
+            "id": "escapeartist-free-action",
+            "name": "Free Action",
+            "description": "Group Crowd Control Immunity; Cleanse"
+        },
+        {
+            "id": "pistolmaster-critical-dodge",
+            "name": "Critical Dodge",
+            "description": "Passive: Critical Strikes Restore Dodge"
+        },
+        {
+            "id": "escapeartist-escapology",
+            "name": "Escapology",
+            "description": "Passive: Gain Resolve Reducing Control Effects"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Retaliate Refund (35)"
+    ],
+    "description": "Escapology is an artform that is still shrouded in mystery. An escapologist will quickly learn the ability to break free from mobility limitations, allowing avoidance of even the most obnoxious of crowd control methods. While it may seem easy to the escapist, onlookers and enemies will beg to know the secrets of escape; but a magician never reveals their methods.",
+    "lore": "No form of prison, be it chains, shackles, or snares, can contain me."
 }

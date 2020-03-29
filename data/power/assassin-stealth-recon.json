@@ -1,0 +1,23 @@
+{
+    "id": "assassin-stealth-recon",
+    "name": "Recon",
+    "description": "applies the Exposed debuff to reveal weaknesses you may capitalize on.",
+    "icon": "Graphic_Assn_Recon.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "12",
+        "max_targets": "1",
+        "range": "30"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

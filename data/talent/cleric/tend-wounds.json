@@ -1,0 +1,22 @@
+{
+    "id": "tend-wounds",
+    "name": "Tend Wounds",
+    "class": "cleric",
+    "description": "This talent grants the Tend Wounds power.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "cleric-tend-wounds"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "illuminate",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-exploration-i"
+    ],
+    "locksSkill": []
+}

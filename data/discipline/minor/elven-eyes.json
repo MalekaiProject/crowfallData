@@ -1,29 +1,17 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Why do I feel like I'm being watched?",
-  "name": "Elven Eyes",
-  "powers": [],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": ["Far-sight"],
-  "stats": [{
-    "name": "Far-sight",
-    "value": 23
-  }],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "elven-eyes",
+    "name": "Elven Eyes",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_ElvenEyes.png",
+    "stats": [
+        {
+            "name": "Far-sight",
+            "value": 20
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "Why do I feel like I'm being watched?"
 }

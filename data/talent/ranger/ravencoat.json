@@ -1,0 +1,21 @@
+{
+    "id": "ravencoat",
+    "name": "Ravencoat",
+    "class": "ranger",
+    "description": "Ravencoat reduces the amount of Damage Taken by 2% per point spent.",
+    "icon": "Skill_Icon_031_004.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "gift-of-the-forest",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "treant-lore",
+        "triumphant-cry"
+    ],
+    "locksSkill": []
+}

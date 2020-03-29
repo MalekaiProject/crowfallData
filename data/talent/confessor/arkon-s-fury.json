@@ -1,0 +1,22 @@
+{
+    "id": "arkon-s-fury",
+    "name": "Arkon's Fury",
+    "class": "confessor",
+    "description": "This talent grants the Arkon's Fury power.",
+    "icon": "Skill_Icon_025_001.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "confessor-arkons-fury"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "blessed",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "divine-armor"
+    ],
+    "locksSkill": []
+}

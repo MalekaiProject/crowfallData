@@ -1,22 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Alchemy Techniques",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "alchemy-techniques",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Alchemy"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Alchemy Cap by 20 and Alchemy Experimentation Cap by 20."
+    "name": "Potion Swirling",
+    "description": "increases your Alchemy Cap by 15 and Alchemy Experimentation Cap by 15.",
+    "shortDescription": "Passive: Increase Alchemy Assembly and Experimentation Caps",
+    "icon": "Graphic_Disc_AlchemyTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Alchemy Cap",
+        "buff_amount_1": "15",
+        "buff_type_2": "Alchemy Experimentation Cap",
+        "buff_amount_2": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

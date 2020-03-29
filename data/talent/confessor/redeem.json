@@ -1,0 +1,28 @@
+{
+    "id": "redeem",
+    "name": "Redeem",
+    "class": "confessor",
+    "description": "Redeem improves Movement Crowd Control by 6% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "damnation",
+            "point": 1
+        },
+        {
+            "skill": "confirmed-absolution",
+            "point": 1
+        },
+        {
+            "skill": "hellfire-and-brimstone",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "inquisitor"
+    ],
+    "locksSkill": []
+}

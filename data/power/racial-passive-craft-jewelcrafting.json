@@ -1,0 +1,23 @@
+{
+    "id": "racial-passive-craft-jewelcrafting",
+    "name": "Gemcutter",
+    "description": "increases your Jewelcrafting and Jewelcrafting Experimentation statistics by 10.",
+    "shortDescription": "Passive: Increase Jewelcrafting Crafting Statistics",
+    "icon": "Graphic_Disc_JewelcraftingTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Jewelcrafting",
+        "buff_amount_1": "10",
+        "buff_type_2": "Jewelcrafting Experimentation",
+        "buff_amount_2": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "crisp-casting",
+    "name": "Crisp Casting",
+    "class": "frostweaver",
+    "description": "Crisp Casting improves Basic Attack Damage by 2% and Mana Regen In Combat by 3 per point spent.",
+    "icon": "Skill_Icon_033_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "permafrost",
+            "point": 2
+        },
+        {
+            "skill": "slush-fund",
+            "point": 1
+        },
+        {
+            "skill": "chill-out",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-exploration-ii"
+    ],
+    "locksSkill": []
+}

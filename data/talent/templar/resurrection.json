@@ -1,0 +1,26 @@
+{
+    "id": "resurrection",
+    "name": "Resurrection",
+    "class": "templar",
+    "description": "This talent grants the Resurrection power.",
+    "icon": "Skill_Icon_037_019.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "common-resurrection-single"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-major-i",
+        "templar-major-ii",
+        "promotion-class-vindicator",
+        "promotion-class-paladin",
+        "promotion-class-fury"
+    ],
+    "locksSkill": []
+}

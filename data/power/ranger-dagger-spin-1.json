@@ -1,0 +1,32 @@
+{
+    "id": "ranger-dagger-spin-1",
+    "name": "Dagger Spin",
+    "description": "spins you in place and deal 41 - 55 + 48% Weapon Damage around you.",
+    "icon": "Graphic_Rngr_DaggerSpin.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "cooldown": "5",
+        "max_targets": "5",
+        "range": "4",
+        "cost": "249",
+        "cost_type": "Energy",
+        "buff_type_1": "Lifesteal Bonus",
+        "buff_amount_1": "60%",
+        "min_damage_1": "41",
+        "max_damage_1": "55",
+        "weapon_damage_value": "48"
+    },
+    "nextChain": [
+        "ranger-dagger-spin-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

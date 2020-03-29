@@ -1,0 +1,28 @@
+{
+    "id": "assassin-basic-3",
+    "name": "Deadly Overhead",
+    "description": "jabs for 59 - 89 + 74% Weapon Damage.\\n\\nGenerates 1 Pip.",
+    "icon": "Graphic_Assn_Basic3.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "59",
+        "max_damage_1": "89",
+        "weapon_damage_value": "74"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "assassin-basic-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee",
+        "stealth"
+    ]
+}

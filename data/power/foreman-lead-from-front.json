@@ -1,0 +1,24 @@
+{
+    "id": "foreman-lead-from-front",
+    "name": "Lead From The Front",
+    "description": "blesses group members with Inspired whenever you successfully harvest adding 2% Weak Spot Chance, and 4% Weak Spot Amount for 20 seconds and stacking up to 5 times.\\n\\nDoes not affect the caster.",
+    "shortDescription": "Passive: Harvests Increase Group's Weak Spot Statistics",
+    "icon": "Graphic_Disc_LeadFromTheFront.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "duration": "20 seconds",
+        "buff_type_1": "Weak Spot Chance",
+        "buff_amount_1": "2%",
+        "buff_type_2": "Weak Spot Amount",
+        "buff_amount_2": "4%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,0 +1,39 @@
+{
+    "name": "One Handed Pistol",
+    "id": "one-handed-pistol",
+    "icon": "pistol.png",
+    "description": "Creates a Pistol, usable by those who are proficient with Off Hand Pistols.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "intermediate_weapons",
+    "ingredients": [
+        {
+            "name": "Metal Billet",
+            "id": "metal-billet",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Basic Pistol",
+            "id": "basic-pistol",
+            "icon": "pistol.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

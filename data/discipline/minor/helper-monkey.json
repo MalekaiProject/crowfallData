@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "PRAY...FOR...MOJO.",
-  "name": "Helper Monkey",
-  "powers": [
-    "helper-monkey"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": ["Crafting"],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "helper-monkey",
+    "name": "Helper Monkey",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_HelperMonkey.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "helper-monkey",
+            "name": "Helper Monkey",
+            "description": "Passive: Reduces Craft Assembly and Experiment Difficulty of Recipes"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "PRAY…FOR…MOJO."
 }

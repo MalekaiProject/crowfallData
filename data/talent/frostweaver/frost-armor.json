@@ -1,0 +1,22 @@
+{
+    "id": "frost-armor",
+    "name": "Frost Armor",
+    "class": "frostweaver",
+    "description": "This talent grants the Frost Armor power.",
+    "icon": "Skill_Icon_030_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "frst-ice-armor-single"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ice-weave",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-exploration-i"
+    ],
+    "locksSkill": []
+}

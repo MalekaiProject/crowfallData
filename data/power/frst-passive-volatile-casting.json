@@ -1,0 +1,21 @@
+{
+    "id": "frst-passive-volatile-casting",
+    "name": "Volatile Focus",
+    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Volatile Ice near your target.\\n\\nVolatile Ice quickly explodes damaging enemies within 5m for 219 - 328 + 273% Weapon Damage.",
+    "icon": "Graphic_FrostWeaver_VolatileFocus_01.png",
+    "stats": {
+        "weapon_damage_2_value": "273",
+        "max_damage_2": "328",
+        "min_damage_2": "219",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

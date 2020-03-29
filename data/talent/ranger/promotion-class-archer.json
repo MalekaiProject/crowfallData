@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-archer",
+    "name": "Promotion Class - Archer",
+    "class": "ranger",
+    "description": "Role: Ranged Damage\\n\\nA master of bows who can shoot whilst on the move and excels at bringing down enemies from afar.\\n\\nTraits Granted:\\nGaea's Inspiration\\nQuiver Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Archer promotion class and prevents access to the Warden and Brigand promotion classes.",
+    "icon": "Skill_Icon_001_027.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "bring-me-everyone",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "military-training"
+    ],
+    "locksSkill": [
+        "promotion-class-warden",
+        "promotion-class-brigand"
+    ]
+}

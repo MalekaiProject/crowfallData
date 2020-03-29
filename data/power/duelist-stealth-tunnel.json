@@ -1,0 +1,21 @@
+{
+    "id": "duelist-stealth-tunnel",
+    "name": "Tunnel",
+    "description": "excavates a path directly ahead of you, ignoring walls and objects in your path.",
+    "icon": "Graphic_Duel_Tunnel.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "range": "20"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "stealth"
+    ]
+}

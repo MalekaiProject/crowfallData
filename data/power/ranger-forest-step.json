@@ -1,0 +1,29 @@
+{
+    "id": "ranger-forest-step",
+    "name": "Forest Step",
+    "description": "blinks you through the forest shadows directly to your target and strike for 76 - 103 + 89% Weapon Damage.",
+    "icon": "Graphic_Rngr_ForestStep.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "24",
+        "range": "30",
+        "cost": "131",
+        "cost_type": "Energy",
+        "min_damage_1": "76",
+        "max_damage_1": "103",
+        "weapon_damage_value": "89"
+    },
+    "nextChain": [
+        "ranger-tendon-slice"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

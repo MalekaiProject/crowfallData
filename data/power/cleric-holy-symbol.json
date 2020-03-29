@@ -1,0 +1,29 @@
+{
+    "id": "cleric-holy-symbol",
+    "name": "Holy Symbol",
+    "description": "summons a celestial force at the targeted position chain healing the closest ally and up to two others for 29 - 35 + 12.8% Support Power every three seconds for 15 seconds or until it has healed 30 times.",
+    "icon": "Graphic_Cleric_HolySymbol.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "20",
+        "max_targets": "3",
+        "cost": "80",
+        "cost_type": "Mana",
+        "duration": "15",
+        "buff_amount_1": "30",
+        "min_damage_1": "29",
+        "max_damage_1": "35",
+        "weapon_damage_value": "12.8"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

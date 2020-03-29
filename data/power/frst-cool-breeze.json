@@ -1,0 +1,31 @@
+{
+    "id": "frst-cool-breeze",
+    "name": "Refreshing Breeze",
+    "description": "heals allies in a rectangle and yourself for 55 - 67 + 245% Support Power. Any of your Ice within the effect becomes Refreshing Ice.\\n\\nRefreshing Ice quickly bursts healing allies within 10m for 35 - 43 + 157% Support Power.",
+    "icon": "Graphic_FrostWeaver_RefreshingBreeze_01.png",
+    "stats": {
+        "weapon_damage_2_value": "157",
+        "max_damage_2": "43",
+        "min_damage_2": "35",
+        "weapon_damage_value": "245",
+        "max_damage_1": "67",
+        "min_damage_1": "55",
+        "cost_type": "Mana",
+        "cost": "110",
+        "range": "30",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Rectangle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

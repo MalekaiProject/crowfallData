@@ -1,0 +1,66 @@
+{
+    "name": "Longsword",
+    "id": "longsword",
+    "icon": "oneHandedSword.png",
+    "description": "Creates a One Handed Longsword, usable by those who are proficient with Longswords.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "weapons",
+    "ingredients": [
+        {
+            "name": "Weapon Hilt",
+            "id": "weapon-hilt",
+            "icon": "hilt.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Blade: Long",
+            "id": "weapon-blade-long",
+            "icon": "weaponBladeLong.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Blade Rivets",
+            "id": "blade-rivets",
+            "icon": "steelRivets.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Weapon Weights",
+            "id": "weapon-weights",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

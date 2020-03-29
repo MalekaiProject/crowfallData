@@ -1,0 +1,20 @@
+{
+    "id": "low-health-crit-buff",
+    "name": "Last Resort",
+    "description": "increases your Critical Strike by 25% when your Health drops below 25%.",
+    "shortDescription": "Passive: Gain Crit Chance on Low Health",
+    "icon": "Graphic_Disc_LastResort.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_amount_1": "50"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

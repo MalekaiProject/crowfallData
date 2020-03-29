@@ -1,0 +1,21 @@
+{
+    "name": "Pistol Trigger",
+    "id": "weapon-pistol-trigger-001",
+    "icon": "pistolTrigger.png",
+    "description": "Creates a Pistol Trigger that is used to create a Pistol.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "ranged_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "metal.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "focusmaster-nova",
+    "name": "Force Wave",
+    "description": "pushes enemies away from you inflicting 107 - 160 + 133% Weapon Damage and leaves their movement slowed.",
+    "shortDescription": "Attack: Push Enemies Away",
+    "icon": "Graphic_Disc_Nova.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "24",
+        "max_targets": "5",
+        "cost": "8",
+        "cost_type": "Resource",
+        "duration": "10 seconds",
+        "min_damage_1": "107",
+        "max_damage_1": "160",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

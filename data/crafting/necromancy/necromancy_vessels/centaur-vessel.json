@@ -1,0 +1,66 @@
+{
+    "name": "Centaur Vessel",
+    "id": "centaur-vessel",
+    "icon": "vessel_centaur.png",
+    "description": "Creates a Centaur Vessel.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "necromancy",
+    "subCategory": "necromancy_vessels",
+    "ingredients": [
+        {
+            "name": "Restored Human Head",
+            "id": "restored-human-head",
+            "icon": "necromancyHead.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Centaur Body",
+            "id": "restored-centaur-body",
+            "icon": "necromancyCentaurBody.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Human Torso",
+            "id": "restored-human-torso",
+            "icon": "necromancyTorso.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Human Arm",
+            "id": "restored-human-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Human Arm",
+            "id": "restored-human-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Stone",
+            "id": "philosopher-s-stone",
+            "icon": "philosophersStone.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

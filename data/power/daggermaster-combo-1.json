@@ -1,0 +1,31 @@
+{
+    "id": "daggermaster-combo-1",
+    "name": "Cripple",
+    "description": "attacks an enemy for 66 - 99 + 83% Weapon Damage.",
+    "shortDescription": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds.",
+    "icon": "Graphic_Disc_CripplingStab_A.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "5",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "10",
+        "cost_type": "Resource",
+        "min_damage_1": "66",
+        "max_damage_1": "99",
+        "weapon_damage_value": "83"
+    },
+    "nextChain": [
+        "daggermaster-combo-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

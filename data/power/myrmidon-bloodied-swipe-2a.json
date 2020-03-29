@@ -1,0 +1,32 @@
+{
+    "id": "myrmidon-bloodied-swipe-2a",
+    "name": "Gore",
+    "description": "strikes overhead with both axes before continuing the carnage with a second bloody slice, inflicting 118 - 144 + 131% Weapon Damage for each hit. If you connect, recover 5 Fury per second for 21 seconds.",
+    "icon": "Graphic_Myrm_Gore.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "44",
+        "cost_type": "Fury",
+        "duration": "20 seconds",
+        "buff_type_1": "Fury",
+        "buff_amount_1": "5",
+        "min_damage_1": "118",
+        "max_damage_1": "144",
+        "weapon_damage_value": "131"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "myrmidon-bloodied-swipe"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

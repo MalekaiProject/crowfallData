@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The inhabitants of the Dyling Lands have little time to worry about appearances, yet Guinecean's always seem poised to strut at a fashion show.",
-  "name": "Uniform Mail",
-  "powers": [
-    "uniform-mail"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "uniform-mail",
+    "name": "Uniform Mail",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_UniformMail.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "matching-offense-mail",
+            "name": "Uniform Mail",
+            "description": "Passive: Gain Attack Power with a Full Set of Mail Equipped"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "The inhabitants of the Dying Lands have little time to worry about appearances, yet Guineceans always seem poised to strut at a fashion show."
 }

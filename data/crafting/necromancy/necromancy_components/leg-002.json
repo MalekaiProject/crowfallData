@@ -1,0 +1,39 @@
+{
+    "name": "Restored Leg",
+    "id": "leg-002",
+    "icon": "necromancyLeg.png",
+    "description": "Restore a Desiccated Leg that is used to create a vessel.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "necromancy",
+    "subCategory": "necromancy_components",
+    "ingredients": [
+        {
+            "name": "Desiccated Leg",
+            "id": "desiccated-leg",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ambrosia Solution",
+            "id": "ambrosia-solution",
+            "icon": "ambrosia.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enhanced Femur",
+            "id": "enhanced-femur",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

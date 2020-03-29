@@ -1,0 +1,21 @@
+{
+    "id": "symbol-of-fury",
+    "name": "Symbol of Fury",
+    "class": "cleric",
+    "description": "Symbol of Fury enhances Holy Symbol to no longer cause healing and instead damage enemies within its radius.",
+    "icon": "Skill_Icon_018_010.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "malediction",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "divine-purpose",
+        "critical-illumination"
+    ],
+    "locksSkill": []
+}

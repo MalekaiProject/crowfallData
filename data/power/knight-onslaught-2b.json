@@ -1,0 +1,33 @@
+{
+    "id": "knight-onslaught-2b",
+    "name": "Twin Assault",
+    "description": "attacks in front of you twice for 15 - 20 + 17% Weapon Damage each strike.",
+    "icon": "Graphic_Kngt_TwinAssault.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "172",
+        "cost_type": "Energy",
+        "min_damage_1": "15",
+        "max_damage_1": "20",
+        "weapon_damage_value": "17"
+    },
+    "nextChain": [
+        "knight-onslaught-3a",
+        "knight-onslaught-3b"
+    ],
+    "lastChain": [
+        "knight-onslaught-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

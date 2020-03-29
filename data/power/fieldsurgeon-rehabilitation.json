@@ -1,0 +1,30 @@
+{
+    "id": "fieldsurgeon-rehabilitation",
+    "name": "Rehabilitation",
+    "description": "tends an ally's wounds healing 53 + 8.4% Support Power plus an additional 0.61 Health for every point of Stamina. \\n\\nRehabilitation heals two times over six seconds.",
+    "shortDescription": "Target Heal Ally Over Time Scaling with Stamina",
+    "icon": "Graphic_Disc_Rehabilitation.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "9",
+        "max_targets": "2",
+        "range": "30",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "53",
+        "max_damage_1": "1.4",
+        "weapon_damage_value": "8.4"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_healing"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Polish Gemstone",
+    "id": "gem-polish-001",
+    "icon": "gemPolish.png",
+    "description": "The third and final stage of crafting a gem involves the use of a Polishing Paste. This magnifies the gems inner beauty and readies it for setting in jewelry.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_grinding",
+    "ingredients": [
+        {
+            "name": "Ground Gem",
+            "id": "ground-gem",
+            "icon": "gem_baguette.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Polishing Paste",
+            "id": "polishing-paste",
+            "icon": "gemPolish.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

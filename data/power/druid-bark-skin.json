@@ -1,0 +1,28 @@
+{
+    "id": "druid-bark-skin",
+    "name": "Bark Skin",
+    "description": "toughens the hide of group members and you applying a Barrier for 15 seconds preventing 280 to 520 damage.",
+    "icon": "Graphic_Drud_BarkSkin.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Group",
+        "cooldown": "23",
+        "max_targets": "5",
+        "range": "50",
+        "cost": "35",
+        "cost_type": "Essence",
+        "min_damage_1": "280",
+        "max_damage_1": "520"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_healing",
+        "druid_nuking"
+    ]
+}

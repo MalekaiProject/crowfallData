@@ -1,0 +1,21 @@
+{
+    "id": "weaponsmith",
+    "name": "Weaponsmith",
+    "type": "minor",
+    "trait": "",
+    "icon": "Minor_Blacksmithing.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "blacksmithing-techniques",
+            "name": "Metal Maneuvers",
+            "description": "Passive: Increase Blacksmithing Assembly and Experimentation Caps"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [
+        "Weaponsmith"
+    ],
+    "description": "Temporary Additive Slots:\\nGrants Weapon Weights additive slots for Weapon recipes.\\n\\nReduced Recipe Resource Costs:\\nMetal Bar\\nMetal Section",
+    "lore": "\"Working the Forge is draining, and nothing is worse than ruining a blade, except maybe a Forgemaster yelling at you, 'DON'T LOSE YOUR TEMPER!' during the most crucial stage.\"\\n-High Forge Apprentice"
+}

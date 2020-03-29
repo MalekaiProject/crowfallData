@@ -1,0 +1,21 @@
+{
+    "name": "Grind Resource",
+    "id": "grind-resource",
+    "icon": "mortarAndPestle.png",
+    "description": "Grind Stone, Mineral, and Bone resources into a ground or powdered form making them more useful for Alchemy recipes.",
+    "outputQuantity": 1,
+    "xp": 4,
+    "category": "alchemy",
+    "subCategory": "alchemy_components",
+    "ingredients": [
+        {
+            "name": "Stone or Mineral",
+            "id": "stone-or-mineral",
+            "icon": "stone.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

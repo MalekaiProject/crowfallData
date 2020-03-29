@@ -1,0 +1,48 @@
+{
+    "name": "Fief Parcel",
+    "id": "fief-parcel",
+    "icon": "parcel1.png",
+    "description": "Creates a Rank 1 Fief Parcel.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_geomancy",
+    "ingredients": [
+        {
+            "name": "Town Parcel",
+            "id": "town-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Shire Parcel",
+            "id": "shire-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soil",
+            "id": "soil",
+            "icon": "stone.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Gold Tax",
+            "id": "gold-tax",
+            "icon": "cookies.png",
+            "quantity": 45000,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

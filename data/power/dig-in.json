@@ -1,19 +1,20 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Dig In",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "dig-in",
-    "data_type": "discipline"
-  }],
-  "tags": [],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Becomes immune to Critical Hits when dropping below 25% Health."
+    "name": "Dig In",
+    "description": "buffs Anti-Critical Strike by 25% for 15 seconds when you are hit while under 25% Health.",
+    "shortDescription": "Passive: Crit Defense on Low Health",
+    "icon": "Graphic_Disc_DigIn.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_amount_1": "25%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

@@ -1,0 +1,23 @@
+{
+    "id": "quick-draw",
+    "name": "Quick Draw",
+    "class": "duelist",
+    "description": "Quick Draw enhances Skillful Stab and Clean Shot to have a chance to reset the cooldown on Flintlock Shot. In addition Flintlock Shot can now be instantly Flash-Cast.",
+    "icon": "Skill_Icon_042_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "duelist-flintlock-shot-quick-draw"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "dead-eye",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "dynamite",
+        "triple-aught-shot"
+    ],
+    "locksSkill": []
+}

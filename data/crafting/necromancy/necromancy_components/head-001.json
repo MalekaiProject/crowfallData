@@ -1,0 +1,48 @@
+{
+    "name": "Restored Head",
+    "id": "head-001",
+    "icon": "necromancyHead.png",
+    "description": "Restore a Desiccated Head that is used to create a vessel.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "necromancy",
+    "subCategory": "necromancy_components",
+    "ingredients": [
+        {
+            "name": "Desiccated Head",
+            "id": "desiccated-head",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ambrosia Solution",
+            "id": "ambrosia-solution",
+            "icon": "ambrosia.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Enhanced Eye",
+            "id": "enhanced-eye",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Enhanced Eye",
+            "id": "enhanced-eye",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

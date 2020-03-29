@@ -1,0 +1,28 @@
+{
+    "id": "lines-of-force",
+    "name": "Lines of Force",
+    "class": "druid",
+    "description": "Lines of Force improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "shock-and-awe",
+            "point": 2
+        },
+        {
+            "skill": "druid-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "nature-s-grace",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-exploration-ii"
+    ],
+    "locksSkill": []
+}

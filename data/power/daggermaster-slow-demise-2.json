@@ -1,0 +1,31 @@
+{
+    "id": "daggermaster-slow-demise-2",
+    "name": "Slow Demise",
+    "description": "torments an enemy reducing their Healing Bonus and inflicting 209 - 313 + 261% Weapon Damage.",
+    "icon": "Graphic_Disc_SlowDemise_B.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "45",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "27",
+        "cost_type": "Resource",
+        "buff_type_1": "Healing Bonus",
+        "min_damage_1": "209",
+        "max_damage_1": "313",
+        "weapon_damage_value": "261"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "daggermaster-slow-demise-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

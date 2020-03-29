@@ -1,0 +1,38 @@
+{
+    "id": "duelist-impale",
+    "name": "Impale",
+    "description": "stabs to the vitals inflicting instant damage and causing your target to bleed for 50 - 50 + 50% Weapon Damage until the target is either fully healed or they drop below a certain health threshold. Effects scale with Pips spent. \\n\\n1 Pip: 55 - 82 and Bleed until under 90% Health. \\n2 Pips: 110 - 164 and Bleed until under 80% Health.\\n3 Pips: 165 - 246 and Bleed until under 70% Health.\\n4 Pips: 220 - 328 and Bleed until under 60% Health.\\n5 Pips: 275 - 410 and Bleed until under 50% Health.",
+    "icon": "Graphic_Duel_Impale.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "1",
+        "cost_type": "Pips",
+        "min_damage_1": "55",
+        "max_damage_1": "82",
+        "weapon_damage_value": "68",
+        "min_damage_2": "110",
+        "max_damage_2": "164",
+        "min_damage_3": "165",
+        "max_damage_3": "246",
+        "min_damage_4": "220",
+        "max_damage_4": "328",
+        "min_damage_5": "275",
+        "max_damage_5": "410",
+        "min_damage_6": "50",
+        "max_damage_6": "50",
+        "weapon_damage_6_value": "50"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

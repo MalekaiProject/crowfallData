@@ -1,0 +1,21 @@
+{
+    "id": "unstoppable",
+    "name": "Unstoppable",
+    "class": "knight",
+    "description": "Unstoppable improves Control Defense by 10% per point spent.",
+    "icon": "Skill_Icon_045_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-secutor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "liberality",
+        "mighty-shield"
+    ],
+    "locksSkill": []
+}

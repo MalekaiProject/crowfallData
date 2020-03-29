@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-fanatic",
+    "name": "Promotion Class - Fanatic",
+    "class": "confessor",
+    "description": "Role: Ranged Damage\\n\\nKnown for wild gestures and speaking in tongues, this devotee of fire only desires to set the unworthy ablaze before the strain of casting spells causes them to burn out.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fanatic promotion class and prevents access to the Sanctifier and Inquisitor promotion classes.",
+    "icon": "Skill_Icon_044_021.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "hellfire",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "lawful"
+    ],
+    "locksSkill": [
+        "promotion-class-sanctifier",
+        "promotion-class-inquisitor"
+    ]
+}

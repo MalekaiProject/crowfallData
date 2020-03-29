@@ -1,0 +1,31 @@
+{
+    "id": "ranger-sweep",
+    "name": "Sweep",
+    "description": "slashes in front of you for 113 - 153 + 133% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds a 10% Damage Bonus to their next attack.",
+    "icon": "Graphic_Rngr_Sweep.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "23",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "190",
+        "cost_type": "Energy",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133"
+    },
+    "nextChain": [
+        "ranger-jab",
+        "ranger-disengage"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "reproach",
+    "name": "Reproach",
+    "class": "templar",
+    "description": "This talent grants the Reproach power.",
+    "icon": "Skill_Icon_017_030.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "templar-reproach-1"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "chastisement",
+            "point": 1
+        },
+        {
+            "skill": "humble-duty",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "censure",
+        "judgment"
+    ],
+    "locksSkill": []
+}

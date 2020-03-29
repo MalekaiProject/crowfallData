@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-food-consumption",
+    "name": "Epicurean",
+    "description": "increases your Consumption statistic by 15%.",
+    "shortDescription": "Passive: Gain Bonus Food Pool When You Eat",
+    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Consumption",
+        "buff_amount_1": "15%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

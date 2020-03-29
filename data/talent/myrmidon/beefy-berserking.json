@@ -1,0 +1,20 @@
+{
+    "id": "beefy-berserking",
+    "name": "Beefy Berserking",
+    "class": "myrmidon",
+    "description": "Beefy Berserking enhances Berserk when activated to increase your Maximum Health by 250 for each enemy within 20m.",
+    "icon": "Skill_Icon_017_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "satisfying-slaughter",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "unbreakable-contender"
+    ],
+    "locksSkill": []
+}

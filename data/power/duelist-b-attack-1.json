@@ -1,0 +1,27 @@
+{
+    "id": "duelist-b-attack-1",
+    "name": "Skillful Stab",
+    "description": "attacks for 56 - 84 + 70% Weapon Damage.",
+    "icon": "Graphic_Duel_Basic1.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "min_damage_1": "56",
+        "max_damage_1": "84",
+        "weapon_damage_value": "70"
+    },
+    "nextChain": [
+        "duelist-b-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

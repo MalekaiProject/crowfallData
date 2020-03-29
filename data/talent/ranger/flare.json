@@ -1,0 +1,22 @@
+{
+    "id": "flare",
+    "name": "Flare",
+    "class": "ranger",
+    "description": "This talent grants the Flare Arrow power.",
+    "icon": "Skill_Icon_042_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "ranger-flare-arrow"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "sure-aim",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "armor-piercing"
+    ],
+    "locksSkill": []
+}

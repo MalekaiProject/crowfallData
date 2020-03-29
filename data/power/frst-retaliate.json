@@ -1,0 +1,25 @@
+{
+    "id": "frst-retaliate",
+    "name": "Retaliate",
+    "description": "returns you to your feet, dealing 107 - 160 + 133% Weapon Damage to nearby enemies and increases your Ice Stores by one. If your Ice Stores are full, Stable Ice is created nearby.\\n\\nStable Ice is harmless and visible only to you. It can be picked up and added automatically to your Ice Stores. If your Ice Stores are full, Stable Ice is consumed on contact to restore 50 Mana.",
+    "icon": "Graphic_FrostWeaver_Retaliate_01.png",
+    "stats": {
+        "weapon_damage_value": "133",
+        "max_damage_1": "160",
+        "min_damage_1": "107",
+        "range": "5",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

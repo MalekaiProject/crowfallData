@@ -1,51 +1,75 @@
 {
-  "classes": [
-    "knight",
-    "champion",
-    "cleric"
-  ],
-  "description": "Valkyn took the best of talents - language, wit, elegance, strength, agility - and he vested them in a single creature. He called this noble creature the Centaur and placed it above the lesser beasts, to use or rule as he might see fit.",
-  "name": "Centaur",
-  "powers": [
-    "centaur-bloodline",
-    "dash",
-    "wild-charge",
-    "strength-of-the-legion",
-    "hippocratic-oath",
-    "rear-kick"
-  ],
-  "slots_granted": ["Horseshoes Slot"],
-  "slots_removed": [],
-  "tags": [],
-  "type": "race",
-  "stats": [{
-      "name": "Constitution",
-      "value": 30
-    },
-    {
-      "name": "Blacksmithing",
-      "value": 10
-    },
-    {
-      "name": "Blacksmithing Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Woodworking",
-      "value": 10
-    },
-    {
-      "name": "Woodworking Experimentation",
-      "value": 5
-    },
-    {
-      "name": "Food Regen Rate",
-      "value": -60
-    }
-  ],
-  "armor_proficiency": [
-    "Horseshoes Slot"
-  ],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "centaur",
+    "name": "Centaur",
+    "type": "racial",
+    "trait": "",
+    "icon": "Racial_Centaur.png",
+    "stats": [
+        {
+            "name": "Strength Cap",
+            "value": 300
+        },
+        {
+            "name": "Dexterity Cap",
+            "value": 200
+        },
+        {
+            "name": "Intellect Cap",
+            "value": 200
+        },
+        {
+            "name": "Spirit Cap",
+            "value": 200
+        },
+        {
+            "name": "Constitution Cap",
+            "value": 350
+        },
+        {
+            "name": "Constitution",
+            "value": 30
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "racial-passive-hungry-horse",
+            "name": "Hungry as a Horse",
+            "description": "Passive: Large Body Size Causes Faster Food Pool Decay"
+        },
+        {
+            "id": "racial-passive-centaur-aura",
+            "name": "Legion's Strength",
+            "description": "Passive: Increase Groups Attack Power and Support Power"
+        },
+        {
+            "id": "racial-passive-no-dismount",
+            "name": "Sure Footed",
+            "description": "Passive: Prevents the Player from Being Dismounted via Damage"
+        },
+        {
+            "id": "racial-passive-trailmaster",
+            "name": "Trailmaster",
+            "description": "Passive: Greatly Increase Movement Speed while Out of Combat"
+        },
+        {
+            "id": "centaur-charge",
+            "name": "Wild Charge",
+            "description": "Attack: Charge Forward Breaking Armor"
+        },
+        {
+            "id": "legionnaire-rear-react",
+            "name": "Rear Kick",
+            "description": "Attack: Knockdown Enemies Behind You"
+        },
+        {
+            "id": "legionnaire-dodge",
+            "name": "Dash",
+            "description": "Dash in a WASD direction"
+        }
+    ],
+    "grantsSlot": [
+        "Horseshoes"
+    ],
+    "grantsEquip": [],
+    "lore": "Valkyn took the best of talents – language, wit, elegance, strength, agility – and he vested them in a single creature. He called this noble creature the Centaur and placed it above the lesser beasts, to use or rule as he might see fit."
 }

@@ -1,0 +1,24 @@
+{
+    "id": "stop",
+    "name": "Stop!",
+    "class": "knight",
+    "description": "Stop! enhances Pursuit to Stun the nearest enemy.",
+    "icon": "Skill_Icon_045_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "heartless",
+            "point": 2
+        },
+        {
+            "skill": "ringing-shield",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "pinning"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ranger-rapid-shot",
+    "name": "Rapid Fire",
+    "description": "shoots up to eight arrows dealing 49 - 66 + 57% Weapon Damage per arrow while you hold down the power key.",
+    "icon": "Graphic_Rngr_RapidShot.png",
+    "stats": {
+        "weapon_damage_value": "57",
+        "max_damage_1": "66",
+        "min_damage_1": "49",
+        "buff_amount_1": "10",
+        "buff_type_1": "Critical Strike",
+        "duration": "3 seconds",
+        "cost_type": "Arrows",
+        "cost": "0",
+        "range": "15",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Reticle",
+        "cast_time": "Hold Channeled"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

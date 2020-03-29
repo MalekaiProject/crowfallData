@@ -1,21 +1,21 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Weapon Finesse",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "weapon-finesse",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Power Efficiency"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Power Efficiency by 20%, which reduces the resource cost of using powers."
+    "name": "Mental Fortitude",
+    "description": "increases your Power Efficiency statistic by 10%, which reduces the resource cost of using powers.",
+    "shortDescription": "Passive: Reduces Power Resource Costs",
+    "icon": "Graphic_Disc_MentalFortitude.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Power Efficiency",
+        "buff_amount_1": "10%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

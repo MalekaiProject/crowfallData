@@ -1,28 +1,18 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "For generations the Fae have purged males of their species in the service of the greater good. Mothers cling to this belief as they administer The Farewell Kiss, and yet there are those who don't believe. Some other reason compells them.",
-  "name": "Burning Hatred",
-  "powers": [
-    "burning-hatred"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "minor",
-  "tags": [],
-  "stats": [],
-  "armor_proficiency": [],
-  "weapon_proficiency": [],
-  "trays": []
+    "id": "burning-hatred",
+    "name": "Burning Hatred",
+    "type": "minor",
+    "trait": "Eternal Crow",
+    "icon": "Minor_BurningHatred.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "health-orbs-on-damage",
+            "name": "Burning Hatred",
+            "description": "Passive: Spawn Health Orbs on Damage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "lore": "For generations the Fae have purged males of their species in the service of the greater good. Mothers cling to this belief as they administer The Farewell Kiss, and yet there are those who don't believe. Some other reason compels them."
 }

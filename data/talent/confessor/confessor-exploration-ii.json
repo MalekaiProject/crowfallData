@@ -1,0 +1,28 @@
+{
+    "id": "confessor-exploration-ii",
+    "name": "Exploration Discipline Slot",
+    "class": "confessor",
+    "description": "Unlock a Exploration Discipline slot.",
+    "icon": "Skill_Icon_036_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "revelation",
+            "point": 2
+        },
+        {
+            "skill": "divine-armor",
+            "point": 2
+        },
+        {
+            "skill": "persecution",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "hellfire"
+    ],
+    "locksSkill": []
+}

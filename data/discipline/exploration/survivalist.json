@@ -1,31 +1,29 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "The art of survival often has more to do with resourcefulness and strength rather than luck. Perserverance, motivation, and drive are key factors in surviving the Dying Worlds.",
-  "name": "Survivalist",
-  "powers": [
-    "burst-of-strength",
-    "bounty-of-the-land"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "survivalist",
+    "name": "Survivalist",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Survivalist.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "survivalist-burst-strength",
+            "name": "Burst Of Strength",
+            "description": "Increases Harvest Damage for 2 Hits"
+        },
+        {
+            "id": "survivalist-bounty",
+            "name": "Bounty Of The Land",
+            "description": "Passive: Increase Chance to Harvest Foraged Food Ingredients"
+        },
+        {
+            "id": "activate-harvest-pips",
+            "name": "Harvesting Power",
+            "description": "Passive: Gain Harvest Power Pips while Harvesting"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "The art of survival often has more to do with resourcefulness and strength rather than luck. Perseverance, motivation, and drive are key factors in surviving in the Dying Worlds.",
+    "lore": "Extinction is the rule while survival is the absolute exception."
 }

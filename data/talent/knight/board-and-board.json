@@ -1,0 +1,20 @@
+{
+    "id": "board-and-board",
+    "name": "Board and Board",
+    "class": "knight",
+    "description": "Board and Board enhances Shield Slam to instantly enable the Shield Bash power when hitting a target while more than 2/3rds charged.",
+    "icon": "Skill_Icon_001_028.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "liberality",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "armory"
+    ],
+    "locksSkill": []
+}

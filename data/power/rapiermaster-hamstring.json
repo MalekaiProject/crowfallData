@@ -1,0 +1,25 @@
+{
+    "id": "rapiermaster-hamstring",
+    "name": "Hot Foot",
+    "description": "causes your third basic attack to beguile an enemy with an illusion of fire surrounding their feet and slow them. (Not compatible with Druid basic attacks)",
+    "shortDescription": "Passive: Slow on last Basic",
+    "icon": "Graphic_Disc_Hamstring.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Movement Debuff",
+        "min_damage_1": "105",
+        "max_damage_1": "142",
+        "weapon_damage_value": "123"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid"
+    ]
+}

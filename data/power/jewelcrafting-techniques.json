@@ -1,22 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Jewelcrafting Techniques",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "jewelcrafting-techniques",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Jewelcrafting"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Jewelcrafting Cap by 20 and Jewelcrafting Experimentation Cap by 20."
+    "name": "Cold Dopping",
+    "description": "increases your Jewelcrafting Cap by 15 and Jewelcrafting Experimentation Cap by 15.",
+    "shortDescription": "Passive: Increase Jewelcrafting Assembly and Experimentation Caps",
+    "icon": "Graphic_Disc_JewelcraftingTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Jewelcrafting Cap",
+        "buff_amount_1": "15",
+        "buff_type_2": "Jewelcrafting Experimentation Cap",
+        "buff_amount_2": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

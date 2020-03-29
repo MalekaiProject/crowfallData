@@ -1,0 +1,31 @@
+{
+    "id": "druid-basic-attack-2",
+    "name": "Shock Bolt",
+    "description": "discharges an electrical bolt, causing 135 - 203 + 169% Weapon Damage.",
+    "icon": "Graphic_Drud_ArcingLightning.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "30",
+        "cost": "22",
+        "cost_type": "Essence",
+        "min_damage_1": "135",
+        "max_damage_1": "203",
+        "weapon_damage_value": "169"
+    },
+    "nextChain": [
+        "druid-basic-attack-3"
+    ],
+    "lastChain": [
+        "druid-basic-attack-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

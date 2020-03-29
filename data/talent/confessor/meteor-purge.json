@@ -1,0 +1,22 @@
+{
+    "id": "meteor-purge",
+    "name": "Meteor Purge",
+    "class": "confessor",
+    "description": "This talent grants the Meteor Purge power.",
+    "icon": "Skill_Icon_013_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "confessor-meteor-purge"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "fervor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-exploration-i"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,30 @@
+{
+    "id": "confessor-hellfire-3a",
+    "name": "Hellfire Blast",
+    "description": "blasts those in front of you, dealing 82 - 123 + 102% Weapon Damage and leaving them Knocked Down.",
+    "icon": "Graphic_Conf_HellfireBlast.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Rectangle",
+        "cooldown": "23",
+        "max_targets": "5",
+        "range": "30",
+        "cost": "80",
+        "cost_type": "Mana",
+        "min_damage_1": "82",
+        "max_damage_1": "123",
+        "weapon_damage_value": "102"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "confessor-hellfire-2a"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

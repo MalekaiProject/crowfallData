@@ -1,0 +1,22 @@
+{
+    "id": "pulverize",
+    "name": "Pulverize",
+    "class": "myrmidon",
+    "description": "This talent grants the Pulverize power.",
+    "icon": "Skill_Icon_041_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "myrmidon-pulverize"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cast-net",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-exploration-i"
+    ],
+    "locksSkill": []
+}

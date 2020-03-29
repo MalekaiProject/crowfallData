@@ -1,0 +1,20 @@
+{
+    "id": "hardiness",
+    "name": "Hardiness",
+    "class": "knight",
+    "description": "Hardiness improves In and Out of Combat Health Regeneration by 5 per point spent.",
+    "icon": "Skill_Icon_043_018.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "endurance",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "bulwark"
+    ],
+    "locksSkill": []
+}

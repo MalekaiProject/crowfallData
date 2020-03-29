@@ -1,0 +1,31 @@
+{
+    "id": "templar-judgement-1-talent",
+    "name": "Judgement",
+    "description": "strikes mercilessly, inflicting 89 - 133 + 111% Weapon Damage. Enemies under 35% health are hit for 133 - 200 + 167% Weapon Damage, and this attack gains a 100% Critical Strike modifier.",
+    "icon": "Graphic_Tmpr_Judgement.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "cost_type": "Righteousness",
+        "min_damage_1": "89",
+        "max_damage_1": "133",
+        "weapon_damage_value": "111",
+        "min_damage_2": "133",
+        "max_damage_2": "200",
+        "weapon_damage_2_value": "167"
+    },
+    "nextChain": [
+        "templar-judgement-2",
+        "templar-subjugate"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

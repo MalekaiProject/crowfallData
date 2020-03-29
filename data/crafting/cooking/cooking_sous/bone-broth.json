@@ -1,0 +1,84 @@
+{
+    "name": "Bone Broth",
+    "id": "bone-broth",
+    "icon": "ambrosia.png",
+    "description": "Creates some broth you can eat or for use in various Cooking recipes. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_sous",
+    "ingredients": [
+        {
+            "name": "Large Cooking Pot",
+            "id": "large-cooking-pot",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Bone",
+            "id": "animal-bone",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Blood",
+            "id": "animal-blood",
+            "icon": "blood.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Bone",
+            "id": "animal-bone",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Blood",
+            "id": "animal-blood",
+            "icon": "blood.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "potion.png",
+            "quantity": 5,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Animal Meat",
+            "id": "animal-meat",
+            "icon": "meat.png",
+            "quantity": 4,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Herb or Seasoning",
+            "id": "herb-or-seasoning",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 7,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

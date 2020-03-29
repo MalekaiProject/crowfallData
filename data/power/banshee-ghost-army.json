@@ -1,0 +1,32 @@
+{
+    "id": "banshee-ghost-army",
+    "name": "Ghost Army",
+    "description": "calls forth a Ghost Army in front of you dealing 60 - 81 + 70% Weapon Damage and healing you for 12.5% of the Damage dealt after 15 seconds.",
+    "shortDescription": "Attack: Damage Multiple Enemies; Healing",
+    "icon": "Graphic_Disc_GhostArmy.png",
+    "stats": {
+        "cast_time": "Hold Channeled",
+        "target": "Rectangle",
+        "cooldown": "23",
+        "max_targets": "5",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "10 seconds",
+        "buff_amount_1": "50%",
+        "min_damage_1": "60",
+        "max_damage_1": "81",
+        "weapon_damage_value": "70",
+        "weapon_damage_type": "Nature"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

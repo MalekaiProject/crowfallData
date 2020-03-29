@@ -1,22 +1,23 @@
 {
-  "cast_type": "passive",
-  "cooldown": 0,
-  "cost": {},
-  "duration": 0,
-  "max_targets": 1,
-  "name": "Leatherworking Techniques",
-  "next_chain": [],
-  "previous_chain": [],
-  "range": 0,
-  "sources": [{
     "id": "leatherworking-techniques",
-    "data_type": "discipline"
-  }],
-  "tags": [
-    "Crafting",
-    "Leatherworking"
-  ],
-  "targeting": "self",
-  "type": "passive",
-  "description": "Increases your Leatherworking Cap by 20 and Leatherworking Experimentation Cap by 20."
+    "name": "Cuirboulli Competence",
+    "description": "increases your Leatherworking Cap by 15 and Leatherworking Experimentation Cap by 15.",
+    "shortDescription": "Passive: Increase Leatherworking Assembly and Experimentation Caps",
+    "icon": "Graphic_Disc_LeatherworkingTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Leatherworking Cap",
+        "buff_amount_1": "15",
+        "buff_type_2": "Leatherworking Experimentation Cap",
+        "buff_amount_2": "15"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
 }

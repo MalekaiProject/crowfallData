@@ -1,0 +1,57 @@
+{
+    "name": "Book",
+    "id": "weapon-book-001",
+    "icon": "book.png",
+    "description": "Creates a Book of Arkon, usable by those who are proficient with Books.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "woodworking",
+    "subCategory": "woodworking_weapons",
+    "ingredients": [
+        {
+            "name": "Book Casing",
+            "id": "book-casing",
+            "icon": "bookBinding.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Bound Chapters",
+            "id": "bound-chapters",
+            "icon": "bookChapters.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Book Clasp",
+            "id": "book-clasp",
+            "icon": "bookClasp.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

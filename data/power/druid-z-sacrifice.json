@@ -1,0 +1,25 @@
+{
+    "id": "druid-z-sacrifice",
+    "name": "Ritual Sacrifice",
+    "description": "instantly sacrifices 8% of your maximum Health to restore 20% of your maximum Essence.\\n\\n(Restores up to 79% of your maximum Essence once you unlock the Life tray)",
+    "icon": "Graphic_Drud_Sacrifice.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "5",
+        "cost_type": "Health",
+        "min_damage_1": "192",
+        "max_damage_1": "288",
+        "weapon_damage_value": "240"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

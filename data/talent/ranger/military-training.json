@@ -1,0 +1,21 @@
+{
+    "id": "military-training",
+    "name": "Military Training",
+    "class": "ranger",
+    "description": "Military Training improves Ranged Power Damage Bonus by 3% per point spent.",
+    "icon": "Skill_Icon_018_009.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-archer",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "exceptional-weaponry",
+        "withering-barrage"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "activate-harvest-pips",
+    "name": "Harvesting Power",
+    "description": "you will now gain .5 Harvesting Power Pips whenever you sucessfully damage a Harvesting Node.",
+    "shortDescription": "Passive: Gain Harvest Power Pips while Harvesting",
+    "icon": "Graphic_Disc_PeripheralVision.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

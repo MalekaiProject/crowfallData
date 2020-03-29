@@ -1,0 +1,28 @@
+{
+    "id": "druid-z-shroud-darkness",
+    "name": "Shroud Of Darkness",
+    "description": "protects you with darkness giving enemies who strike you a chance to be Stunned.",
+    "icon": "Graphic_Drud_ShroudOfDarkness.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "45",
+        "cost": "31",
+        "cost_type": "Essence",
+        "min_damage_1": "96",
+        "max_damage_1": "143",
+        "weapon_damage_value": "119"
+    },
+    "nextChain": [
+        "druid-z-wicked-winds"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

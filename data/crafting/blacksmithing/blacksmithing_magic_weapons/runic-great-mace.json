@@ -1,0 +1,57 @@
+{
+    "name": "Runic Great Mace",
+    "id": "runic-great-mace",
+    "icon": "twoHandedMace.png",
+    "description": "Creates a Two Handed Runic Great Mace, usable by those who have a mastery of Great Maces.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "blacksmithing_magic_weapons",
+    "ingredients": [
+        {
+            "name": "Weapon Hilt: Jeweled Great",
+            "id": "weapon-hilt-jeweled-great",
+            "icon": "greatHilt.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runed Weapon Head: Great Mace",
+            "id": "runed-weapon-head-great-mace",
+            "icon": "weaponHeadGreatMace.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Shaft: Medium",
+            "id": "weapon-shaft-medium",
+            "icon": "weaponShaftMedium.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 20,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

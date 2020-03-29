@@ -1,0 +1,48 @@
+{
+    "name": "Town Parcel",
+    "id": "town-parcel",
+    "icon": "parcel1.png",
+    "description": "Creates a Rank 1 Town Parcel.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_geomancy",
+    "ingredients": [
+        {
+            "name": "Village Parcel",
+            "id": "village-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hamlet Parcel",
+            "id": "hamlet-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soil",
+            "id": "soil",
+            "icon": "stone.png",
+            "quantity": 3,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Gold Tax",
+            "id": "gold-tax",
+            "icon": "cookies.png",
+            "quantity": 40000,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

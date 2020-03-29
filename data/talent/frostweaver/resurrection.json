@@ -1,0 +1,26 @@
+{
+    "id": "resurrection",
+    "name": "Resurrection",
+    "class": "frostweaver",
+    "description": "This talent grants the Resurrection power.",
+    "icon": "Skill_Icon_037_019.png",
+    "pointRequirement": 24,
+    "levelRequirement": 0,
+    "grants": [
+        "common-resurrection-single"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-exploration-ii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-major-i",
+        "frostweaver-major-ii",
+        "promotion-class-archmage",
+        "promotion-class-frostguard",
+        "promotion-class-icecaller"
+    ],
+    "locksSkill": []
+}

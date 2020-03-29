@@ -1,0 +1,21 @@
+{
+    "id": "plaguelord-support-debuff-basic",
+    "name": "Touch Of Rot",
+    "description": "applies a Support Power debuff with your third Basic attack.",
+    "shortDescription": "Passive: Reduce Support Power on last Basic",
+    "icon": "Graphic_Disc_TouchOfRot.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

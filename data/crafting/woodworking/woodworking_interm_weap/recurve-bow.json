@@ -1,0 +1,39 @@
+{
+    "name": "Recurve Bow",
+    "id": "recurve-bow",
+    "icon": "bow.png",
+    "description": "Creates a Two Handed Composite Recurve Bow, usable by those who are proficient with Basic Bows.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "woodworking",
+    "subCategory": "woodworking_interm_weap",
+    "ingredients": [
+        {
+            "name": "Wooden Board",
+            "id": "wooden-board",
+            "icon": "plank.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Basic Recurve Bow",
+            "id": "basic-recurve-bow",
+            "icon": "bow.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

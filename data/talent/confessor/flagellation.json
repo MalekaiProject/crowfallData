@@ -1,0 +1,20 @@
+{
+    "id": "flagellation",
+    "name": "Flagellation",
+    "class": "confessor",
+    "description": "Flagellation improves Armor Penetration: Elemental by 3% per point spent.",
+    "icon": "Skill_Icon_017_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "erudite",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "revelation"
+    ],
+    "locksSkill": []
+}

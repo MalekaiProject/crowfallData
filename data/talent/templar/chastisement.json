@@ -1,0 +1,20 @@
+{
+    "id": "chastisement",
+    "name": "Chastisement",
+    "class": "templar",
+    "description": "Chastisement improves Attack Power by 55 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "righteous-stand",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "reproach"
+    ],
+    "locksSkill": []
+}

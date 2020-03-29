@@ -1,0 +1,29 @@
+{
+    "id": "champion-throw-hurlbat",
+    "name": "Throw Hurlbat",
+    "description": "launches a projectile forward slowing and dealing 125 - 169 + 147% Weapon Damage as Piercing Damage.",
+    "icon": "Graphic_Chmp_ThrowHurlbat.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "cooldown": "5",
+        "max_targets": "1",
+        "range": "40",
+        "cost": "14",
+        "cost_type": "Rage",
+        "min_damage_1": "125",
+        "max_damage_1": "169",
+        "weapon_damage_value": "147",
+        "weapon_damage_type": "Piercing"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

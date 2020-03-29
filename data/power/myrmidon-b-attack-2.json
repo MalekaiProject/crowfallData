@@ -1,0 +1,31 @@
+{
+    "id": "myrmidon-b-attack-2",
+    "name": "Savage Swings",
+    "description": "attacks with your left weapon for 83 - 101 + 92% Weapon Damage.",
+    "icon": "Graphic_Myrm_Basic2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "22",
+        "cost_type": "Fury",
+        "min_damage_1": "83",
+        "max_damage_1": "101",
+        "weapon_damage_value": "92"
+    },
+    "nextChain": [
+        "myrmidon-b-attack-3"
+    ],
+    "lastChain": [
+        "myrmidon-b-attack-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "righteous-indignation",
+    "name": "Righteous Indignation",
+    "class": "templar",
+    "description": "Righteous Indignation improves Critical Damage by 5% per point spent.",
+    "icon": "Skill_Icon_023_006.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "fiery-perdition",
+            "point": 2
+        },
+        {
+            "skill": "templar-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "divine-light",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-exploration-ii"
+    ],
+    "locksSkill": []
+}

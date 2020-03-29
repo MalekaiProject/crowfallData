@@ -1,0 +1,32 @@
+{
+    "id": "adjudicator-adjudicate-1",
+    "name": "Adjudicate",
+    "description": "smashes an enemy for 113 - 153 + 133% Weapon Damage.",
+    "shortDescription": "Attack: Inflict Holy damage",
+    "icon": "Graphic_Disc_Adjudicate_A.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "16",
+        "cost_type": "Resource",
+        "min_damage_1": "113",
+        "max_damage_1": "153",
+        "weapon_damage_value": "133",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [
+        "adjudicator-adjudicate-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blunt_users"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "champion-brutal-warrior",
+    "name": "Brutal Warrior",
+    "description": "increases your size inflicting Knockdown and damaging nearby enemies for 89 - 121 + 105% Weapon Damage while briefly applying a short barrier equal to 20% of your maximum Health and preventing Control Effects.\\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.",
+    "icon": "Graphic_Chmp_BrutalWarrior.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "100",
+        "cost_type": "Hate",
+        "min_damage_1": "89",
+        "max_damage_1": "121",
+        "weapon_damage_value": "105"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Hamlet Parcel",
+    "id": "stonemasonry-parcel-107",
+    "icon": "parcel1.png",
+    "description": "Creates a Rank 1 Backer Reward Hamlet Parcel.",
+    "outputQuantity": 1,
+    "xp": 0,
+    "category": "backer_rewards",
+    "subCategory": "backer_rewards_geomancy",
+    "ingredients": [
+        {
+            "name": "Backer Estate Parcel",
+            "id": "backer-estate-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Backer Woodland Hills Parcel",
+            "id": "backer-woodland-hills-parcel",
+            "icon": "parcel1.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

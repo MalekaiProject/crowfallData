@@ -1,0 +1,32 @@
+{
+    "id": "pixie-wee-one",
+    "name": "Wee One",
+    "description": "shrinks the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds. \\n\\nThis debuff stacks up to 3 times.",
+    "shortDescription": "Attack: Ground Target Area Reduce Enemy Damage",
+    "icon": "Graphic_Disc_WeeOne.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "45",
+        "max_targets": "5",
+        "range": "5",
+        "cost": "14",
+        "cost_type": "Resource",
+        "duration": "25 seconds",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "20%",
+        "min_damage_1": "54",
+        "max_damage_1": "72",
+        "weapon_damage_value": "63"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

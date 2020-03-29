@@ -1,0 +1,20 @@
+{
+    "id": "whirling-disaster",
+    "name": "Whirling Disaster",
+    "class": "champion",
+    "description": "Whirling Disaster enhances Whirling Pain to first Slow and then Suppress enemies.",
+    "icon": "Skill_Icon_017_019.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "brutal-followup",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "revenge"
+    ],
+    "locksSkill": []
+}

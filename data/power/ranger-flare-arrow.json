@@ -1,0 +1,31 @@
+{
+    "id": "ranger-flare-arrow",
+    "name": "Flare Arrow",
+    "description": "shoots a flare arrow lighting the targeted area and revealing any Stealth users entering that area. Stealth users revealed in this way are Exposed, take 177 - 239 + 208% Fire Weapon Damage and begin Burning.",
+    "shortDescription": "Ground Target Stealth Users Revealed; Punished",
+    "icon": "Graphic_Disc_Flare.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "9",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "1",
+        "cost_type": "Arrow",
+        "duration": "30 seconds",
+        "min_damage_1": "177",
+        "max_damage_1": "239",
+        "weapon_damage_value": "208",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

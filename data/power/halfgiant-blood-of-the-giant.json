@@ -1,0 +1,26 @@
+{
+    "id": "halfgiant-blood-of-the-giant",
+    "name": "Blood Of The Giant",
+    "description": "embraces your Giant heritage increasing size, Damage Bonus and Healing Bonus by 5%. \\n\\nThis effect can stack twice.",
+    "shortDescription": "Harness Hatred, Increasing Damage and Size",
+    "icon": "Graphic_Disc_BloodOfTheGiant.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cost": "100",
+        "cost_type": "Hate",
+        "buff_type_1": "Damage Bonus",
+        "buff_amount_1": "5%",
+        "buff_type_2": "Healing Bonus"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

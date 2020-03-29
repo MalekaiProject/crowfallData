@@ -1,0 +1,29 @@
+{
+    "id": "confessor-hellfire-1",
+    "name": "Hellfire Shield",
+    "description": "surrounds you in a Hellfire Shield for 15 seconds. Anyone who hits you is damaged for 23 - 28 damage.",
+    "icon": "Graphic_Conf_HellfireShield.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "9",
+        "cost": "55",
+        "cost_type": "Mana",
+        "duration": "15",
+        "min_damage_1": "23",
+        "max_damage_1": "28"
+    },
+    "nextChain": [
+        "confessor-hellfire-2a",
+        "confessor-hellfire-2b"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

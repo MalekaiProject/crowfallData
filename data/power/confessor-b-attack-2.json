@@ -1,0 +1,31 @@
+{
+    "id": "confessor-b-attack-2",
+    "name": "Cleansing Flame",
+    "description": "shoots a fireball, causing 69 - 104 + 86%  Fire Weapon Damage and applying Sin to your target.",
+    "icon": "Graphic_Conf_Basic2.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Reticle",
+        "max_targets": "1",
+        "range": "25",
+        "cost": "30",
+        "min_damage_1": "69",
+        "max_damage_1": "104",
+        "weapon_damage_value": "86",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [
+        "confessor-b-attack-3"
+    ],
+    "lastChain": [
+        "confessor-b-attack-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

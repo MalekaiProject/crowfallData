@@ -1,30 +1,29 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Razor-focus and a quickness to react at the first sign of change can be the turning point for a harvester. Reaction to even the slightest change in weakness can lead to greater wealth and riches while harvesting, giving a clear edge to those with a keen eye.",
-  "name": "Lookout",
-  "powers": [
-    "keen-eye"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "exploration",
-  "tags": ["Gathering"],
-  "stats": [],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "lookout",
+    "name": "Lookout",
+    "type": "exploration",
+    "trait": "Eternal Crow",
+    "icon": "Exploration_Lookout.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Chance: All",
+            "value": 10
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "lookout-keen-eye",
+            "name": "Keen Eye",
+            "description": "Increase Harvest Weak Spot Chance"
+        },
+        {
+            "id": "activate-harvest-pips",
+            "name": "Harvesting Power",
+            "description": "Passive: Gain Harvest Power Pips while Harvesting"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Razor-focus and a quickness to react at the first sign of change can be the turning point for a harvester. Reaction to even the slightest change in weakness can lead to greater wealth and riches while harvesting, giving a clear edge to those with a keen eye.",
+    "lore": "Enhanced vision!"
 }

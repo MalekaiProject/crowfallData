@@ -1,0 +1,66 @@
+{
+    "name": "Upgrade Minor Discipline",
+    "id": "crafting-upgrade-discipline-minor-001",
+    "icon": "runestoneMinorDisciplines.png",
+    "description": "Combine identical Minor Disciplines of the same quality to create a higher quality version of the same Minor Discipline.\\n\\nDisciplines must be Uncommon quality or higher.",
+    "outputQuantity": 1,
+    "xp": 0,
+    "category": "disciplines",
+    "subCategory": "disciplines_combine",
+    "ingredients": [
+        {
+            "name": "Minor Discipline",
+            "id": "minor-discipline",
+            "icon": "runestoneMinorDisciplines.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Minor Discipline",
+            "id": "minor-discipline",
+            "icon": "runestoneMinorDisciplines.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Minor Discipline",
+            "id": "minor-discipline",
+            "icon": "runestoneMinorDisciplines.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Soul Essence",
+            "id": "soul-essence",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "racial-passive-craft-blacksmithing",
+    "name": "High Forge Apprentice",
+    "description": "increases your Blacksmithing and Blacksmithing Experimentation statistics by 10.",
+    "shortDescription": "Passive: Increase Blacksmithing Crafting Statistics",
+    "icon": "Graphic_Disc_BlacksmithingTechniques.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Blacksmithing",
+        "buff_amount_1": "10",
+        "buff_type_2": "Blacksmithing Experimentation",
+        "buff_amount_2": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -1,0 +1,30 @@
+{
+    "id": "duelist-retaliate",
+    "name": "Retaliate",
+    "description": "returns you to your feet, damaging all nearby enemies for 105 - 158 + 132% Weapon Damage. \\n\\nRetaliating an Exposed enemy generates an additional Pip and resets Retaliate's cooldown.",
+    "icon": "Graphic_Duel_Retaliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "3",
+        "range": "5",
+        "cost": "65",
+        "cost_type": "Stamina",
+        "min_damage_1": "105",
+        "max_damage_1": "158",
+        "weapon_damage_value": "132"
+    },
+    "nextChain": [],
+    "lastChain": [
+        ""
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone",
+        "harvest"
+    ]
+}

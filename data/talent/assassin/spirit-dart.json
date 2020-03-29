@@ -1,0 +1,22 @@
+{
+    "id": "spirit-dart",
+    "name": "Spirit Dart",
+    "class": "assassin",
+    "description": "This talent grants the Spirit Dart power.",
+    "icon": "Skill_Icon_011_015.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "assassin-stealth-spirit-dart"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "payback",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "alligator-blood"
+    ],
+    "locksSkill": []
+}

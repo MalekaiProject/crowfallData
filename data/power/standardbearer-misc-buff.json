@@ -1,0 +1,31 @@
+{
+    "id": "standardbearer-misc-buff",
+    "name": "Rallying Banner",
+    "description": "fortifies nearby group members with a banner increasing Attack Power by 100, healing those under 35% Health for 38 - 46 + 16.8% Support Power per second and removing Slow effects.",
+    "shortDescription": "Group Attack Power; Rescue Healing; Slow Cleanse",
+    "icon": "Graphic_Disc_RallyingBanner.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Area",
+        "cooldown": "90",
+        "max_targets": "5",
+        "range": "15",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "30 seconds",
+        "min_damage_1": "38",
+        "max_damage_1": "46",
+        "weapon_damage_value": "16.8"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "anyone_but_druid",
+        "druid_healing"
+    ]
+}

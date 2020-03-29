@@ -1,0 +1,29 @@
+{
+    "id": "ranger-barrage",
+    "name": "Barrage",
+    "description": "shoots 12 volleys of arrows at a ground location dealing 30 - 40 + 35% Weapon Damage per volley hitting up to 5 targets within 8m.\\n\\nThis power's Maximum Range cannot be modified.",
+    "icon": "Graphic_Rngr_Barrage.png",
+    "stats": {
+        "cast_time": "Ground Aimed",
+        "target": "Area",
+        "cooldown": "9",
+        "max_targets": "5",
+        "range": "35",
+        "cost": "6",
+        "cost_type": "Arrows",
+        "area_size": "8m",
+        "min_damage_1": "30",
+        "max_damage_1": "40",
+        "weapon_damage_value": "35"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

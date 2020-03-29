@@ -1,0 +1,66 @@
+{
+    "name": "Great Mace",
+    "id": "weapon-mace-020",
+    "icon": "twoHandedMace.png",
+    "description": "Creates a Two Handed Great Mace, usable by those who are proficient with Great Maces.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "weapons",
+    "ingredients": [
+        {
+            "name": "Weapon Hilt: Great",
+            "id": "weapon-hilt-great",
+            "icon": "greatHilt.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Head: Great Mace",
+            "id": "weapon-head-great-mace",
+            "icon": "weaponHeadGreatMace.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Shaft: Medium",
+            "id": "weapon-shaft-medium",
+            "icon": "weaponShaftMedium.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 20,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Weapon Weights",
+            "id": "weapon-weights",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

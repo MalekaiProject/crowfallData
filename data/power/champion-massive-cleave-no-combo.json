@@ -1,0 +1,31 @@
+{
+    "id": "champion-massive-cleave-no-combo",
+    "name": "Massive Cleave",
+    "description": "strikes in front of you for 142 - 192 + 167% Weapon Damage or 213 - 288 + 250% Weapon Damage when activated with Dominance.",
+    "icon": "Graphic_Chmp_MassiveCleave.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "9",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "15",
+        "cost_type": "Rage",
+        "min_damage_1": "142",
+        "max_damage_1": "192",
+        "weapon_damage_value": "167",
+        "min_damage_2": "213",
+        "max_damage_2": "288",
+        "weapon_damage_2_value": "250"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

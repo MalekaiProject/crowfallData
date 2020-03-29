@@ -1,0 +1,48 @@
+{
+    "name": "Ring Setting",
+    "id": "ring-setting-001",
+    "icon": "ringSetting.png",
+    "description": "Creates a Ring Setting, the type of Ore determines the attributes of the setting.\\n\\nCopper yields STR, Iron yields CON, Tin yields INT,\\nSilver yields DEX, and Gold yields SPR.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "jewelcrafting",
+    "subCategory": "jewelcrafting_components",
+    "ingredients": [
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "ore.png",
+            "quantity": 10,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Aurelium",
+            "id": "aurelium",
+            "icon": "ore.png",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 5,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Jeweler's Bur",
+            "id": "jeweler-s-bur",
+            "icon": "additive.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

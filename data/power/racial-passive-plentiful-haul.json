@@ -1,0 +1,21 @@
+{
+    "id": "racial-passive-plentiful-haul",
+    "name": "Caravan Master",
+    "description": "increases your Plentiful Haul statistic by 1.",
+    "shortDescription": "Passive: Increased Chance For More and Higher Quality Materials From Caravans",
+    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_type_1": "Plentiful Haul",
+        "buff_amount_1": "1"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

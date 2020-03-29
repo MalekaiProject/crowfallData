@@ -1,0 +1,28 @@
+{
+    "id": "templar-brilliance",
+    "name": "Brilliance",
+    "description": "blinds nearby enemies and damages them for 107 - 160 + 133% Fire Weapon Damage. \\n\\nYour maximum Health increases for 20 seconds.\\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "icon": "Graphic_Tmpr_Brilliance.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Sphere",
+        "max_targets": "5",
+        "range": "5",
+        "cost_type": "Soul Power",
+        "duration": "20 seconds",
+        "min_damage_1": "107",
+        "max_damage_1": "160",
+        "weapon_damage_value": "133",
+        "weapon_damage_type": "Fire"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

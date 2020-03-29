@@ -1,32 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "knight",
-    "myrmidon",
-    "ranger"
-  ],
-  "description": "An Adjudicator is often synonymous with a mediator or judge and most associated with the Church of Arkon. The importance of banishing sin with fire the truest form of retribution against the guilty and can only be performed by the most devote of disciples.",
-  "name": "Adjudicator",
-  "powers": [
-    "adjudicate",
-    "adjudicate-ii",
-    "prosecute",
-    "demolish-armor",
-    "reverberating-blow"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Damage Bonus: Crushing",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "adjudicator",
+    "name": "Adjudicator",
+    "type": "major",
+    "trait": "Blunt Weapon Training",
+    "icon": "Major_Adjudicator.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": -3
+        },
+        {
+            "name": "Crushing Damage Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "adjudicator-adjudicate-1",
+            "name": "Adjudicate",
+            "description": "Attack: Inflict Holy damage"
+        },
+        {
+            "id": "adjudicator-prosecute",
+            "name": "Prosecute",
+            "description": "Attack: Damage scales with Sin"
+        },
+        {
+            "id": "axemaster-armorbreak-1",
+            "name": "Demolish Armor",
+            "description": "Attack: Inflict stacking Armor Break"
+        },
+        {
+            "id": "macemaster-stun-reverberating-blow",
+            "name": "Reverberating Blow",
+            "description": "Attack: Target enemy pulses damaging aura"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "An Adjudicator is often synonymous with a mediator or judge and most associated with the Church of Arkon. The importance of banishing sin with fire is the truest form of retribution against the guilty and can only be performed by the most devote of disciples.",
+    "lore": "I am a servant to the light who will cast those who wallow in sin out of the darkness. I am judge, jury, and executioner."
 }

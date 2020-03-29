@@ -1,0 +1,20 @@
+{
+    "id": "bonus-thorns",
+    "name": "Prickly Skin",
+    "description": "increases your Bonus Thorns 10.",
+    "shortDescription": "Passive: Increase Bonus Thorns",
+    "icon": "Graphic_Disc_PricklySkin.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self",
+        "buff_amount_1": "10"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

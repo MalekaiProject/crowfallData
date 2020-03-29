@@ -1,0 +1,20 @@
+{
+    "id": "magnificent-purpose",
+    "name": "Magnificent Purpose",
+    "class": "templar",
+    "description": "Magnificent Purpose improves Critical Healing Chance by 2% per point spent.",
+    "icon": "Skill_Icon_017_012.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "divine-favor",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "shining-armor"
+    ],
+    "locksSkill": []
+}

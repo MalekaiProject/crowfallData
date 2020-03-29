@@ -1,0 +1,23 @@
+{
+    "id": "promotion-class-sanctifier",
+    "name": "Promotion Class - Sanctifier",
+    "class": "confessor",
+    "description": "Role: Melee Defense\\n\\nTheir only desire is to witness the despair in nonbelievers’ eyes, so this follower of Arkon has cast aside the benefits of range to become incredibly defensive.\\n\\nIncreases by 25%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Sanctifier promotion class and prevents access to the Inquisitor and Fanatic promotion classes.",
+    "icon": "Skill_Icon_041_015.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "hellfire",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "melt-shackles"
+    ],
+    "locksSkill": [
+        "promotion-class-fanatic",
+        "promotion-class-inquisitor"
+    ]
+}

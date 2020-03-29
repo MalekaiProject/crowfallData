@@ -1,0 +1,21 @@
+{
+    "id": "lawful",
+    "name": "Lawful",
+    "class": "confessor",
+    "description": "Lawful improves Critical Strike by 2% per point spent.",
+    "icon": "Skill_Icon_023_007.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-fanatic",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "tools-of-justice",
+        "zeal"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "double-down",
+    "name": "Double Down",
+    "class": "assassin",
+    "description": "Double Down enhances Kidney Shot to apply a Severe Bleed when Stunning an enemy.",
+    "icon": "Skill_Icon_018_017.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "toxicology",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "cheap-shot",
+        "blackout"
+    ],
+    "locksSkill": []
+}

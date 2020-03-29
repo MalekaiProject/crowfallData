@@ -1,0 +1,25 @@
+{
+    "id": "minotaur-bloodthirst",
+    "name": "Bloodthirst",
+    "description": "continually recovers 50% of all lost Health for 8 seconds. \\n\\nWhen the effect ends you suffer Bloodthirst Crash and take 50% of lost health over the next 8 seconds. \\n\\n(Note: The Berserk power will replace Bloodthirst)",
+    "shortDescription": "Instantly Heals Damage, Damage Taken Becomes DoT",
+    "icon": "Graphic_Disc_BloodThirst.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "30",
+        "cost": "25",
+        "cost_type": "Resource",
+        "duration": "8 seconds"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

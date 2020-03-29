@@ -1,0 +1,28 @@
+{
+    "id": "sanctified",
+    "name": "Sanctified",
+    "class": "confessor",
+    "description": "Sanctified improves Attack Power by 75 per point spent.",
+    "icon": "Skill_Icon_002_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "perfect-storm",
+            "point": 1
+        },
+        {
+            "skill": "flames-of-arkon",
+            "point": 1
+        },
+        {
+            "skill": "frenzied-righteousness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "fanatic"
+    ],
+    "locksSkill": []
+}

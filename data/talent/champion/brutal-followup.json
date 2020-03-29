@@ -1,0 +1,21 @@
+{
+    "id": "brutal-followup",
+    "name": "Brutal Followup",
+    "class": "champion",
+    "description": "Brutal Follow-up enhances Brutal Warrior to also reset the cooldowns of Spinning Backfist and [NOPOWER] powers.",
+    "icon": "Skill_Icon_042_014.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "malice",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "whirling-disaster",
+        "effortless-neckbreaker"
+    ],
+    "locksSkill": []
+}

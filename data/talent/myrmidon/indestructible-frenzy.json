@@ -1,0 +1,20 @@
+{
+    "id": "indestructible-frenzy",
+    "name": "Indestructible Frenzy",
+    "class": "myrmidon",
+    "description": "Indestructible Frenzy enhances Frenzy to prevent you from dropping below one Health while it is active.",
+    "icon": "Skill_Icon_041_020.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "here-i-go-killing-again",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "inhuman-strength"
+    ],
+    "locksSkill": []
+}

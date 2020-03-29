@@ -1,0 +1,33 @@
+{
+    "id": "daggermaster-combo-2",
+    "name": "Cripple",
+    "description": "attacks an enemy with a quick strike reducing their Melee Power Damage by -20% for 15 seconds and causing 117 - 176 + 147% Weapon Damage.",
+    "icon": "Graphic_Disc_CripplingStab_B.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "cooldown": "23",
+        "max_targets": "1",
+        "range": "4",
+        "cost": "16",
+        "cost_type": "Resource",
+        "duration": "15",
+        "buff_type_1": "Melee Power Damage",
+        "buff_amount_1": "-20%",
+        "min_damage_1": "117",
+        "max_damage_1": "176",
+        "weapon_damage_value": "147"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "daggermaster-combo-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "knifegrinder-cauterize",
+    "name": "Cauterize",
+    "description": "removes Bleeding effects.",
+    "shortDescription": "Buff: Removes the bleeding debuff from yourself.",
+    "icon": "Graphic_Disc_Cauterize.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Self",
+        "cooldown": "9",
+        "cost": "10",
+        "cost_type": "Resource",
+        "min_damage_1": "68",
+        "max_damage_1": "92",
+        "weapon_damage_value": "80"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "blade_users"
+    ]
+}

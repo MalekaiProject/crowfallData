@@ -1,0 +1,21 @@
+{
+    "id": "gift-of-nature",
+    "name": "Gift of Nature",
+    "class": "druid",
+    "description": "Increases Support Power by 175 per point spent.",
+    "icon": "Skill_Icon_017_013.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "promotion-class-earthkeeper",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "blood-of-gaea",
+        "partial-redirection"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Guinecean Vessel",
+    "id": "vessel-011",
+    "icon": "vessel_guinecean.png",
+    "description": "Creates a Guinecean Vessel.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "necromancy",
+    "subCategory": "necromancy_vessels",
+    "ingredients": [
+        {
+            "name": "Restored Guinecean Head",
+            "id": "restored-guinecean-head",
+            "icon": "necromancyHead.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Guinecean Leg",
+            "id": "restored-guinecean-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Guinecean Leg",
+            "id": "restored-guinecean-leg",
+            "icon": "necromancyLeg.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Guinecean Torso",
+            "id": "restored-guinecean-torso",
+            "icon": "necromancyTorso.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Guinecean Arm",
+            "id": "restored-guinecean-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Guinecean Arm",
+            "id": "restored-guinecean-arm",
+            "icon": "necromancyArm.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Stone",
+            "id": "philosopher-s-stone",
+            "icon": "philosophersStone.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "leap-to-safety",
+    "name": "Leap to Safety",
+    "class": "champion",
+    "description": "Leap to Safety enhances Leap powers to trigger Health recovery over time when you land at least 30m away from the nearest enemy and are below 50% Health. This can only occur once every 90 seconds.",
+    "icon": "Skill_Icon_037_003.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ferocious",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "almighty-hugeness"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Empty Flask",
+    "id": "empty-flask",
+    "icon": "emptyFlask.png",
+    "description": "Creates an Empty Flask for Potion Crafting. Produces 3.",
+    "outputQuantity": 3,
+    "xp": 4,
+    "category": "alchemy",
+    "subCategory": "alchemy_components",
+    "ingredients": [
+        {
+            "name": "Powdered Stone",
+            "id": "powdered-stone",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Powdered Stone",
+            "id": "powdered-stone",
+            "icon": "powderedAnimalBone.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

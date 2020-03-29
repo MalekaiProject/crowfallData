@@ -1,0 +1,27 @@
+{
+    "id": "ranger-mb-attack-3",
+    "name": "Vile Slash",
+    "description": "slashes in front of you twice for 69 - 93 + 81% Weapon Damage and gain the Spot Weakness buff increasing your Physical Armor Penetration by 5%.",
+    "icon": "Graphic_Rngr_BasicMelee3.png",
+    "stats": {
+        "weapon_damage_value": "81",
+        "max_damage_1": "93",
+        "min_damage_1": "69",
+        "range": "4",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "ranger-mb-attack-2"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

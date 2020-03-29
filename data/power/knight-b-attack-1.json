@@ -1,0 +1,28 @@
+{
+    "id": "knight-b-attack-1",
+    "name": "Merciless Swipe",
+    "description": "slashes in front of you for 60 - 82 + 71% Weapon Damage. Scoring three or more consecutive basic attacks will activate Shield Bash.",
+    "icon": "Graphic_Kngt_Basic1.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Cone",
+        "max_targets": "1",
+        "range": "4",
+        "buff_type_1": "Shield Bash",
+        "min_damage_1": "60",
+        "max_damage_1": "82",
+        "weapon_damage_value": "71"
+    },
+    "nextChain": [
+        "knight-b-attack-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "racial-passive-dodge-restore",
+    "name": "Acrobatics",
+    "description": "has a chance to instantly restore 1 Dodge Power when performing a right-click Dive Roll.",
+    "shortDescription": "Passive: Chance for Extra Dodge Power when Dodging",
+    "icon": "Graphic_Disc_Racial_HighElf.png",
+    "stats": {
+        "cast_time": "Passive",
+        "target": "Self"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

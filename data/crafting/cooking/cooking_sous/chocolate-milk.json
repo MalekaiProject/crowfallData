@@ -1,0 +1,48 @@
+{
+    "name": "Chocolate Milk",
+    "id": "chocolate-milk",
+    "icon": "cooking.png",
+    "description": "Creates some chocolate milk. Produces 10.",
+    "outputQuantity": 10,
+    "xp": 1.5,
+    "category": "cooking",
+    "subCategory": "cooking_sous",
+    "ingredients": [
+        {
+            "name": "Chocolate Bar",
+            "id": "chocolate-bar",
+            "icon": "",
+            "quantity": 5,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Pasteurized Milk",
+            "id": "pasteurized-milk",
+            "icon": "",
+            "quantity": 5,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hot Peppers",
+            "id": "hot-peppers",
+            "icon": "",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Sugarcane",
+            "id": "sugarcane",
+            "icon": "",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "throw-hurlbat",
+    "name": "Throw Hurlbat",
+    "class": "champion",
+    "description": "This talent grants the Throw Hurlbat power.",
+    "icon": "Skill_Icon_019_002.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        "champion-throw-hurlbat"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "leap",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-exploration-i"
+    ],
+    "locksSkill": []
+}

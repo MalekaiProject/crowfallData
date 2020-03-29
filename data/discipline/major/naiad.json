@@ -1,36 +1,43 @@
 {
-  "classes": [
-    "assassin",
-    "champion",
-    "cleric",
-    "confessor",
-    "druid",
-    "duelist",
-    "frostweaver",
-    "knight",
-    "myrmidon",
-    "ranger",
-    "templar"
-  ],
-  "description": "Naiads, or Water Spirits, are in tune with the ebb and flow of fresh waters and the possibility of its power. They often take comfort in the flowing of water and view it as a source of life. Water Spirits help alleviate pain and harm while also extinguishing even the most volatile of infernos, after all Water Beats Fire!",
-  "name": "Naiad",
-  "powers": [
-    "fountain-of-life",
-    "water-spirits",
-    "supreme-element",
-    "grasping-roots"
-  ],
-  "slots_granted": [],
-  "slots_removed": [],
-  "type": "major",
-  "tags": [],
-  "stats": [{
-    "name": "Healing Modifier",
-    "value": 6.25
-  }],
-  "armor_proficiency": [
-  ],
-  "weapon_proficiency": [
-  ],
-  "trays": []
+    "id": "naiad",
+    "name": "Naiad",
+    "type": "major",
+    "trait": "Eternal Crow",
+    "icon": "Major_Naiad.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "value": 3
+        },
+        {
+            "name": "Healing Bonus",
+            "value": 3
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "mysticalmaster-aoe-root",
+            "name": "Grasping Roots",
+            "description": "Attack: Ground Target Area Root"
+        },
+        {
+            "id": "naiad-fountain",
+            "name": "Fountain Of Life",
+            "description": "Ground Target Area: Healing"
+        },
+        {
+            "id": "naiad-water-spirits",
+            "name": "Water Spirits",
+            "description": "Attack: Heal Allies; Reduce Enemy Fire Damage"
+        },
+        {
+            "id": "naiad-supreme-element",
+            "name": "Supreme Element",
+            "description": "Passive: Elemental Damage Grants Buffs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsEquip": [],
+    "description": "Naiads, or Water Spirits, are in tune with the ebb and flow of fresh water and the possibility of its power. They often take comfort in the flowing of water and view it as a source of life. Water Spirits help alleviate pain and harm while also extinguishing even the most volatile of infernos. After all, water beats fire!",
+    "lore": "Naiads, guardians of fresh, flowing waters, are a true gift of nature."
 }

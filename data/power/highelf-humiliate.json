@@ -1,0 +1,27 @@
+{
+    "id": "highelf-humiliate",
+    "name": "Humiliate",
+    "description": "mocks an enemy increasing their Power Cost Multiplier by 15% for 30 seconds.",
+    "shortDescription": "Increases Power Cost Multiplier",
+    "icon": "Graphic_Disc_Humiliate.png",
+    "stats": {
+        "cast_time": "Instant",
+        "target": "Ray",
+        "cooldown": "45",
+        "max_targets": "1",
+        "range": "30",
+        "duration": "30 seconds",
+        "buff_type_1": "Power Cost Multiplier",
+        "buff_amount_1": "15%"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

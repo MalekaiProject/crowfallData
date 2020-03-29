@@ -1,0 +1,21 @@
+{
+    "name": "Basic Poison Toxin",
+    "id": "basic-poison-toxin",
+    "icon": "potion.png",
+    "description": "Creates a toxic substance used to poison your weapon, causing your attacks to have a chance to afflict targets with Poison.",
+    "outputQuantity": 1,
+    "xp": 7.5,
+    "category": "basic_crafting",
+    "subCategory": "basic_crafting_alchemy",
+    "ingredients": [
+        {
+            "name": "Mushrooms",
+            "id": "mushrooms",
+            "icon": "",
+            "quantity": 4,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

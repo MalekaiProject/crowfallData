@@ -1,0 +1,30 @@
+{
+    "name": "Refine Gem Cluster",
+    "id": "refine-gem-cluster",
+    "icon": "gem_oval.png",
+    "description": "Refine Gem Cluster into Gems.",
+    "outputQuantity": 4,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Gem Cluster",
+            "id": "gem-cluster",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "etherealDust.png",
+            "quantity": 10,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

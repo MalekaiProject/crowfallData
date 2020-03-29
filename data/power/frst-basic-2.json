@@ -1,0 +1,31 @@
+{
+    "id": "frst-basic-2",
+    "name": "Backhand Cast",
+    "description": "casts ice at an enemy for 78 - 117 + 97% Weapon Damage.",
+    "icon": "Graphic_FrostWeaver_BsckCast_01.png",
+    "stats": {
+        "weapon_damage_value": "97",
+        "max_damage_1": "117",
+        "min_damage_1": "78",
+        "cost_type": "Mana",
+        "cost": "13",
+        "range": "30",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "frst-basic-3"
+    ],
+    "lastChain": [
+        "frst-basic-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "frostweaver_ranged"
+    ]
+}

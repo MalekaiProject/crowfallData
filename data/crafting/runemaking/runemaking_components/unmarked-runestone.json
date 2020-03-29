@@ -1,0 +1,39 @@
+{
+    "name": "Unmarked Runestone",
+    "id": "unmarked-runestone",
+    "icon": "runestoneBlank.png",
+    "description": "Creates Unmarked Runestones, the outcome varies by resource.\\n\\n3 Knotwood yields a Wooden Runestone,\\n3 Non-Basic Wood yields a Sturdy Wooden Runestone,\\n3 Cobblestone yields a Stone Runestone,\\n3 Non-Basic Stone yields a Sturdy Stone Runestone.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "runemaking",
+    "subCategory": "runemaking_components",
+    "ingredients": [
+        {
+            "name": "Wood or Stone",
+            "id": "wood-or-stone",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Wood or Stone",
+            "id": "wood-or-stone",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Wood or Stone",
+            "id": "wood-or-stone",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}
