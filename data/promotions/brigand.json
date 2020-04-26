@@ -30,8 +30,7 @@
   "trays": [
     "Melee",
     "Ranged",
-    "Stealth",
-    "Survival"
+    "Stealth"
   ],
   "type": "promotion",
   "stats": [],
