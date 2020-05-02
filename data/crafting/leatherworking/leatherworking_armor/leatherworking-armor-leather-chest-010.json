@@ -1,7 +1,7 @@
 {
     "name": "Leather Tunic",
     "id": "leatherworking-armor-leather-chest-010",
-    "icon": "leatherworking_armor_leather_chest_010.png",
+    "icon": "leatherworking-armor-leather-chest-010.png",
     "description": "Creates Advanced Armor Leather Tunic, usable by those who are proficient with Leather Armor.",
     "outputQuantity": 1,
     "xp": 45,

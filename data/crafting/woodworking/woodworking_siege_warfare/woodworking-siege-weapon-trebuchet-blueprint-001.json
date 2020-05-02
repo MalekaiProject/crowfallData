@@ -1,7 +1,7 @@
 {
     "name": "Trebuchet Blueprint",
     "id": "woodworking-siege-weapon-trebuchet-blueprint-001",
-    "icon": "woodworking_siege_weapon_trebuchet_blueprint_001.png",
+    "icon": "woodworking-siege-weapon-trebuchet-blueprint-001.png",
     "description": "Creates a blueprint for a Trebuchet MK I. Adding additional additive components at a Siege Workshop allows for creation of the more powerful MK II - MK IV.",
     "outputQuantity": 1,
     "xp": 45,

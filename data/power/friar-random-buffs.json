@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Periodically gain random buff",
     "icon": "friar-random-buffs.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

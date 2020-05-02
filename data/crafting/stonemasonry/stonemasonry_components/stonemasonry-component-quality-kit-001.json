@@ -1,7 +1,7 @@
 {
     "name": "Quality Assurance Control Kit",
     "id": "stonemasonry-component-quality-kit-001",
-    "icon": "stonemasonry_component_quality_kit_001.png",
+    "icon": "stonemasonry-component-quality-kit-001.png",
     "description": "Creates a Quality Assurance Control Kit used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

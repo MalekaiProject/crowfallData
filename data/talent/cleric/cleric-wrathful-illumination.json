@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Wrathful Illumination enhances Illuminate causing your next Blessed Hammer attack within 5 seconds to stun an enemy.",
     "icon": "wrathful-illumination.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

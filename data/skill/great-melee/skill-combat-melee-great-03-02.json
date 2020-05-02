@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-03-02",
     "name": "Great Mace: Hard Control Intensity",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Hard Control Intensity while using a Great Mace.",

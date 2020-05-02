@@ -1,7 +1,7 @@
 {
     "name": "Merlon",
     "id": "stonemasonry-attachable-006",
-    "icon": "stonemasonry_attachable_006.png",
+    "icon": "stonemasonry-attachable-006.png",
     "description": "Creates a Stone Attachable Merlon Deed.",
     "outputQuantity": 1,
     "xp": 30,

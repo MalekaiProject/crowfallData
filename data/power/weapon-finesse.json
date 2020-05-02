@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Reduces Power Resource Costs",
     "icon": "weapon-finesse.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "10%",
         "buff_type_1": "Power Efficiency",
-        "buff_amount_1": "10%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

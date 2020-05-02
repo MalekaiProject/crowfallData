@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Double Time reduces the cooldown of Pursuit by 50%.",
     "icon": "double-time.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

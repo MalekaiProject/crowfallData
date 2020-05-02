@@ -1,7 +1,7 @@
 {
     "name": "Short Sword",
     "id": "blacksmithing-weapon-short-sword-003",
-    "icon": "blacksmithing_weapon_short_sword_003.png",
+    "icon": "blacksmithing-weapon-short-sword-003.png",
     "description": "Creates a One Handed Short Sword, usable by those who are proficient with Short Swords.",
     "outputQuantity": 1,
     "xp": 15,

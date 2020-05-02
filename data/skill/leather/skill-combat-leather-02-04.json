@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-02-04",
     "name": "Piercing Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Piercing Resistance while using Leather chest armor.",

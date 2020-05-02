@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Haste",
     "id": "runecarving-runestone-sigil-010",
-    "icon": "runecarving_runestone_sigil_010.png",
+    "icon": "runecarving-runestone-sigil-010.png",
     "description": "Crafting Component used in the assembly of a Runestone: Haste.",
     "outputQuantity": 1,
     "xp": 15,

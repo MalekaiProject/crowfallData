@@ -1,7 +1,7 @@
 {
     "name": "Hamlet Parcel",
     "id": "stonemasonry-parcel-007",
-    "icon": "stonemasonry_parcel_007.png",
+    "icon": "stonemasonry-parcel-007.png",
     "description": "Creates a Rank 1 Hamlet Parcel.",
     "outputQuantity": 1,
     "xp": 30,

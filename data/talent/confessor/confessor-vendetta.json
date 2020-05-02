@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Vendetta improves Critical Strike by 1% per point spent.",
     "icon": "vendetta.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

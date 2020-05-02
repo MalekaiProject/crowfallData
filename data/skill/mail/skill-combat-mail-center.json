@@ -2,6 +2,7 @@
     "id": "skill-combat-mail-center",
     "name": "Anti-Critical Strike",
     "tree": "Mail",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20160,
     "description": "Increases Anti-Critical Strike while using Mail chest armor.",

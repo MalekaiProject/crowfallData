@@ -1,7 +1,7 @@
 {
     "name": "Leather Square",
     "id": "leatherworking-leather-square-010",
-    "icon": "leatherworking_leather_square_010.png",
+    "icon": "leatherworking-leather-square-010.png",
     "description": "Creates a Leather Square that is used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

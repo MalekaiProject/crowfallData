@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Partial Redirection enhances Coalesce Life Orbs to also heal you for 75% of the healing done when an ally is healed by an orb.",
     "icon": "partial-redirection.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

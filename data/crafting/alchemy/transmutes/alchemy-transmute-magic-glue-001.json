@@ -1,7 +1,7 @@
 {
     "name": "Adhesive Fixation",
     "id": "alchemy-transmute-magic-glue-001",
-    "icon": "alchemy_transmute_magic_glue_001.png",
+    "icon": "alchemy-transmute-magic-glue-001.png",
     "description": "A process by which a substance is transformed into a form that is not affected by the elements. The type of mineral determines the Adhesive created.\\n\\nDolomite yields Adhesive: Electric,\\nHalite yields Adhesive: Ice,\\nSulphur yields Adhesive: Fire",
     "outputQuantity": 1,
     "xp": 4,

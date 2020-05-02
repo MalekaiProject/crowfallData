@@ -1,7 +1,7 @@
 {
     "name": "Weapon Crossguard",
     "id": "blacksmithing-weapon-crossguard-001",
-    "icon": "blacksmithing_weapon_crossguard_001.png",
+    "icon": "blacksmithing-weapon-crossguard-001.png",
     "description": "Creates a Weapon Crossguard that is used to create a Weapon Hilt.",
     "outputQuantity": 1,
     "xp": 15,

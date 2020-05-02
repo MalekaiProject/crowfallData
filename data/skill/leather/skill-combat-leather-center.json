@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-center",
     "name": "Anti-Critical Strike",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 19800,
     "description": "Increases Anti-Critical Strike while using Leather chest armor.",

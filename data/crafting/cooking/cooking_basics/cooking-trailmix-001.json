@@ -1,7 +1,7 @@
 {
     "name": "Trail Mix",
     "id": "cooking-trailmix-001",
-    "icon": "cooking_trailmix_001.png",
+    "icon": "cooking-trailmix-001.png",
     "description": "Creates some Trail Mix,a fun and portable snack! Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

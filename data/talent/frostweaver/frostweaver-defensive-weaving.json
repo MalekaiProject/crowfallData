@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Defensive Weaving improves Personal Damage Modifier 1.5% per point spent.\\n\\nTraits Granted:\\nFrigid Focus Gem.",
     "icon": "defensive-weaving.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

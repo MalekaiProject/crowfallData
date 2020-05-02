@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-02-02",
     "name": "Hard Control Intensity",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Hard Control Intensity while using a Melee Weapon in your main hand.",

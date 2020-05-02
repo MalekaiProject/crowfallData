@@ -5,19 +5,19 @@
     "shortDescription": "",
     "icon": "champion-massive-cleave.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "15",
-        "cost_type": "Rage",
-        "min_damage_1": "142",
-        "max_damage_1": "192",
-        "weapon_damage_value": "167",
-        "min_damage_2": "213",
+        "weapon_damage_2_value": "250",
         "max_damage_2": "288",
-        "weapon_damage_2_value": "250"
+        "min_damage_2": "213",
+        "weapon_damage_value": "167",
+        "max_damage_1": "192",
+        "min_damage_1": "142",
+        "cost_type": "Rage",
+        "cost": "15",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "champion-whirling-pain"

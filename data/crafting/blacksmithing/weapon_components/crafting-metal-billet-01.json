@@ -1,7 +1,7 @@
 {
     "name": "Metal Billet",
     "id": "crafting-metal-billet-01",
-    "icon": "crafting_metal_billet_01.png",
+    "icon": "crafting-metal-billet-01.png",
     "description": "Creates a Metal Billet that is used in various Blacksmithing recipes.",
     "outputQuantity": 1,
     "xp": 7.5,

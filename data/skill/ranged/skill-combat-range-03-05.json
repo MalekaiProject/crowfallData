@@ -2,6 +2,7 @@
     "id": "skill-combat-range-03-05",
     "name": "Critical Damage",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Critical Damage while using a Ranged Weapon in your main hand.",

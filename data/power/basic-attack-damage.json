@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Increase Basic Attack Damage",
     "icon": "basic-attack-damage.png",
     "stats": {
-        "cast_time": "Passive",
+        "buff_amount_1": "10",
         "target": "Self",
-        "buff_amount_1": "10"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

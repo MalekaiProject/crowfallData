@@ -1,7 +1,7 @@
 {
     "name": "Meat Burgundy",
     "id": "cooking-meat-burgundy-001",
-    "icon": "cooking_meat_burgundy_001.png",
+    "icon": "cooking-meat-burgundy-001.png",
     "description": "Creates some Meat Burgundy. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

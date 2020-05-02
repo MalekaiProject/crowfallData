@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Iced Over improves Maximum Health by 350 per point spent.",
     "icon": "iced-over.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

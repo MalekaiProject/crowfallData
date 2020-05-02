@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Electrogenesis passive power.",
     "icon": "mark-of-the-storm.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

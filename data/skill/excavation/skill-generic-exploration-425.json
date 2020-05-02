@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-425",
     "name": "Hunger Shard Chance: Additives",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 50,
     "pipAmount": 10080,
     "description": "Increases chance to harvest Hunger Shard Weapon Additives when excavating Hunger Crystals.",

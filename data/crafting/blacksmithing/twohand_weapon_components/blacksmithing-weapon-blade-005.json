@@ -1,7 +1,7 @@
 {
     "name": "Weapon Blade: Great",
     "id": "blacksmithing-weapon-blade-005",
-    "icon": "blacksmithing_weapon_blade_005.png",
+    "icon": "blacksmithing-weapon-blade-005.png",
     "description": "Creates a Great Weapon Blade, the type of Weapon Blade Mold used determines the Blade.",
     "outputQuantity": 1,
     "xp": 30,

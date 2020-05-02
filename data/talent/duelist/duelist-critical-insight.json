@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Critical Insight improves Critical Strike by 1% per point spent.",
     "icon": "critical-insight.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,7 +1,7 @@
 {
     "name": "Runic Short Sword",
     "id": "blacksmithing-weapon-short-sword-005",
-    "icon": "blacksmithing_weapon_short_sword_005.png",
+    "icon": "blacksmithing-weapon-short-sword-005.png",
     "description": "Creates a One Handed Runic Short Sword, usable by those who have a mastery of Short Swords.",
     "outputQuantity": 1,
     "xp": 45,

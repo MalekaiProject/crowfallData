@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "champion-passive-2.png",
     "stats": {
-        "cast_time": "Passive",
+        "duration": "4 seconds",
         "target": "Self",
-        "duration": "4 seconds"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

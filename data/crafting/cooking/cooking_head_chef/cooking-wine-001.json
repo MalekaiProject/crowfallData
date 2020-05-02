@@ -1,7 +1,7 @@
 {
     "name": "Red Wine",
     "id": "cooking-wine-001",
-    "icon": "cooking_wine_001.png",
+    "icon": "cooking-wine-001.png",
     "description": "Creates a robust Red Wine for drinking or for use in various Cooking recipes. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

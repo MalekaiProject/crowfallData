@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "This talent grants the Condemnation power.",
     "icon": "condemnation.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

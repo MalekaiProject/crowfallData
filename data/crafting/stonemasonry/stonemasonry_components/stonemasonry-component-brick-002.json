@@ -1,7 +1,7 @@
 {
     "name": "Bricks",
     "id": "stonemasonry-component-brick-002",
-    "icon": "stonemasonry_component_brick_002.png",
+    "icon": "stonemasonry-component-brick-002.png",
     "description": "Creates a Stack of Bricks used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Woodworking Assembly and Experimentation Caps",
     "icon": "woodworking-techniques.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Woodworking Cap",
-        "buff_amount_1": "15",
+        "buff_amount_2": "15",
         "buff_type_2": "Woodworking Experimentation Cap",
-        "buff_amount_2": "15"
+        "buff_amount_1": "15",
+        "buff_type_1": "Woodworking Cap",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -5,10 +5,10 @@
     "shortDescription": "",
     "icon": "common-resurrection-single.png",
     "stats": {
-        "cast_time": "15 Seconds",
-        "target": "Area",
+        "max_targets": "1",
         "cooldown": "600",
-        "max_targets": "1"
+        "target": "Area",
+        "cast_time": "15 Seconds"
     },
     "nextChain": [],
     "lastChain": [],

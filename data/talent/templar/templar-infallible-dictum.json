@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Infallible Dictum improves Critical Strike by 1% per point spent.",
     "icon": "infallible-dictum.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

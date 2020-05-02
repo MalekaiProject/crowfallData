@@ -1,7 +1,7 @@
 {
     "name": "Parchment Paper",
     "id": "woodworking-parchment-blank-001",
-    "icon": "woodworking_parchment_blank_001.png",
+    "icon": "woodworking-parchment-blank-001.png",
     "description": "Creates some Parchment Paper that is used in Sigil assembly. Produces 5.",
     "outputQuantity": 5,
     "xp": 0.75,

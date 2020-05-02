@@ -1,7 +1,7 @@
 {
     "name": "Octagon Tower",
     "id": "stonemasonry-wall-defense-007",
-    "icon": "stonemasonry_wall_defense_007.png",
+    "icon": "stonemasonry-wall-defense-007.png",
     "description": "Creates a Stone Octagon Tower Deed.",
     "outputQuantity": 1,
     "xp": 45,

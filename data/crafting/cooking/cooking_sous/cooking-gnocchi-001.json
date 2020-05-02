@@ -1,7 +1,7 @@
 {
     "name": "Gnocchi",
     "id": "cooking-gnocchi-001",
-    "icon": "cooking_gnocchi_001.png",
+    "icon": "cooking-gnocchi-001.png",
     "description": "Makes some potato dumplings for use in various Cooking recipes. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

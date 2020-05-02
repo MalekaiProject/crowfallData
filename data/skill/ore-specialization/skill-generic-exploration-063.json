@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-063",
     "name": "Plentiful Resources: Copper Ore",
     "tree": "Ore Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Copper.",

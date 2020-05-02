@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "druid-z-wicked-winds.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "24",
-        "max_targets": "5",
-        "cost": "79",
-        "cost_type": "Essence",
-        "min_damage_1": "193",
-        "max_damage_1": "290",
+        "weapon_damage_type": "Nature",
         "weapon_damage_value": "242",
-        "weapon_damage_type": "Nature"
+        "max_damage_1": "290",
+        "min_damage_1": "193",
+        "cost_type": "Essence",
+        "cost": "79",
+        "max_targets": "5",
+        "cooldown": "24",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

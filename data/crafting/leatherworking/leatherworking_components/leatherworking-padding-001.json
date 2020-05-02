@@ -1,7 +1,7 @@
 {
     "name": "Leather Padding",
     "id": "leatherworking-padding-001",
-    "icon": "leatherworking_padding_001.png",
+    "icon": "leatherworking-padding-001.png",
     "description": "Creates Leather Padding that is used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

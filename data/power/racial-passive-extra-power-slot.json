@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Increase the Number of Slots on Power Tray",
     "icon": "racial-passive-extra-power-slot.png",
     "stats": {
-        "cast_time": "Passive",
+        "buff_amount_1": "1",
         "target": "Self",
-        "buff_amount_1": "1"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -1,7 +1,7 @@
 {
     "name": "Discipline: Major",
     "id": "runecarving-discipline-002",
-    "icon": "runecarving_discipline_002.png",
+    "icon": "runecarving-discipline-002.png",
     "description": "Creates a Major Discipline. The type of Soul used will determine the type of Discipline created.",
     "outputQuantity": 1,
     "xp": 45,

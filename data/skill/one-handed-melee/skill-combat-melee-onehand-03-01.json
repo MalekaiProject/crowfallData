@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-03-01",
     "name": "Axe: Armor Penetration: Physical",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Armor Penetration: Physical while using an Axe in your main hand.",

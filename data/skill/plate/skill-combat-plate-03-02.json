@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-03-02",
     "name": "Slashing Resistance",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Slashing Resistance while using Plate chest armor.",

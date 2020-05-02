@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: Runemaking",
     "id": "crafting-station-rune-001",
-    "icon": "crafting_station_rune_001.png",
+    "icon": "crafting-station-rune-001.png",
     "description": "Creates a deed for a Runemaking crafting station.",
     "outputQuantity": 1,
     "xp": 15,

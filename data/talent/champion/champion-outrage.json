@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Outrage improves Rage Regen In Combat by 0.5 per point spent and Rage Loss Out of Combat by 0.025 per point spent",
     "icon": "outrage.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

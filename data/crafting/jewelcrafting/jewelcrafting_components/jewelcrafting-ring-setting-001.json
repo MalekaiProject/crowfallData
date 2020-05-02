@@ -1,7 +1,7 @@
 {
     "name": "Ring Setting",
     "id": "jewelcrafting-ring-setting-001",
-    "icon": "jewelcrafting_ring_setting_001.png",
+    "icon": "jewelcrafting-ring-setting-001.png",
     "description": "Creates a Ring Setting, the type of Ore determines the attributes of the setting.\\n\\nCopper yields STR, Iron yields CON, Tin yields INT,\\nSilver yields DEX, and Gold yields SPR.",
     "outputQuantity": 1,
     "xp": 7.5,
@@ -37,7 +37,7 @@
         },
         {
             "name": "Jeweler's Bur",
-            "id": "jeweler-s-bur",
+            "id": "jewelers-bur",
             "icon": "Jeweler's Bur.png",
             "quantity": 1,
             "slotIndex": 3,

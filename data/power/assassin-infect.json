@@ -10,7 +10,7 @@
         "min_damage_1": "112",
         "cost_type": "Pips",
         "cost": "1",
-        "range": "4",
+        "range": "6",
         "max_targets": "1",
         "cooldown": "1",
         "target": "Reticle",

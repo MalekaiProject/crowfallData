@@ -1,7 +1,7 @@
 {
     "name": "Mountain Citadel Parcel",
     "id": "stonemasonry-parcel-014",
-    "icon": "stonemasonry_parcel_014.png",
+    "icon": "stonemasonry-parcel-014.png",
     "description": "Creates a Rank 1 Mountain Citadel Parcel.",
     "outputQuantity": 1,
     "xp": 30,

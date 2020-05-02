@@ -1,7 +1,7 @@
 {
     "name": "Roasting Stick",
     "id": "woodworking-roast-stick-001",
-    "icon": "woodworking_roast_stick_001.png",
+    "icon": "woodworking-roast-stick-001.png",
     "description": "Creates some Roasting Sticks, a fancy stick that you use to cook things over a campfire. Produce 10.",
     "outputQuantity": 10,
     "xp": 0.38,

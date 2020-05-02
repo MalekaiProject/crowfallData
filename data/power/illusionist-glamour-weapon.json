@@ -5,11 +5,11 @@
     "shortDescription": "Increase Attack Power",
     "icon": "illusionist-glamour-weapon.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "68",
+        "cost_type": "Resource",
         "cost": "16",
-        "cost_type": "Resource"
+        "cooldown": "68",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

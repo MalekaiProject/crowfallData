@@ -1,7 +1,7 @@
 {
     "name": "Farmland Parcel",
     "id": "stonemasonry-parcel-002",
-    "icon": "stonemasonry_parcel_002.png",
+    "icon": "stonemasonry-parcel-002.png",
     "description": "Creates a Rank 1 Farmland Parcel.",
     "outputQuantity": 1,
     "xp": 30,

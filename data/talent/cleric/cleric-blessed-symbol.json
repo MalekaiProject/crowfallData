@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Blessed Symbol enhances Holy Symbol to increase Critical Healing Chance and Critical Healing Amount by 20% for allies and yourself who remain within its radius.",
     "icon": "blessed-symbol.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

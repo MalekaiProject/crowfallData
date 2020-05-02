@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Axe",
     "id": "runecarving-runestone-sigil-003",
-    "icon": "runecarving_runestone_sigil_003.png",
+    "icon": "runecarving-runestone-sigil-003.png",
     "description": "Crafting Component used in the assembly of a Runestone Axe. The combination of Ores used determines the properties of the Axe.",
     "outputQuantity": 1,
     "xp": 15,

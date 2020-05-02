@@ -1,7 +1,7 @@
 {
     "name": "Arrow Shaft Bundle",
     "id": "woodworking-arrow-shaft-001",
-    "icon": "woodworking_arrow_shaft_001.png",
+    "icon": "woodworking-arrow-shaft-001.png",
     "description": "Creates an Arrow Shaft Bundle that is used in various Woodworking recipes.",
     "outputQuantity": 1,
     "xp": 3.75,

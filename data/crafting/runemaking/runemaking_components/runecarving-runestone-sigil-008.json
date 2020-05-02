@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Esoteric",
     "id": "runecarving-runestone-sigil-008",
-    "icon": "runecarving_runestone_sigil_008.png",
+    "icon": "runecarving-runestone-sigil-008.png",
     "description": "Crafting Component used in the assembly of a Runed Blade.",
     "outputQuantity": 1,
     "xp": 15,

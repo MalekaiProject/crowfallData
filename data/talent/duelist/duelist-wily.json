@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Wily improves Control Defense by 7% per point spent.",
     "icon": "wily.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

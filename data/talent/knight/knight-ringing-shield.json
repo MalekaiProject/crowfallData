@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Ringing Shield enhances Shield Slam to also Suppress the target when it is more than 2/3rds charged.",
     "icon": "ringing-shield.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

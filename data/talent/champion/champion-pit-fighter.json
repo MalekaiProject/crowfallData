@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "This talent grants the Pit Fighter passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGreat Axe Mastery\\nGreat Mace Mastery",
     "icon": "pit-fighter.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

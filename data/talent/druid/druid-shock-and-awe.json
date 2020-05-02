@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Shock and Awe improves Critical Strike by 3% per point spent.",
     "icon": "shock-and-awe.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

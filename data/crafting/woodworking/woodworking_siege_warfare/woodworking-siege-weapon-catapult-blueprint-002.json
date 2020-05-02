@@ -1,7 +1,7 @@
 {
     "name": "Catapult Blueprint",
     "id": "woodworking-siege-weapon-catapult-blueprint-002",
-    "icon": "woodworking_siege_weapon_catapult_blueprint_002.png",
+    "icon": "woodworking-siege-weapon-catapult-blueprint-002.png",
     "description": "Creates a blueprint for a Catapult MK I. Adding additional additive components at a Siege Workshop allows for creation of the more powerful MK II - MK IV.",
     "outputQuantity": 1,
     "xp": 45,

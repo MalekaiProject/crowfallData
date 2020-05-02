@@ -1,7 +1,7 @@
 {
     "name": "Grind Gemstone",
     "id": "jewelcrafting-gem-grind-001",
-    "icon": "jewelcrafting_gem_grind_001.png",
+    "icon": "jewelcrafting-gem-grind-001.png",
     "description": "The second stage of crafting a gem involves the use of a Grinding Stone. This adds facets to a cut gem.",
     "outputQuantity": 1,
     "xp": 30,

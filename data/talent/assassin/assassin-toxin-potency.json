@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Toxin Potency improves Toxin Proc Chance by 3% per point spent.",
     "icon": "toxin-potency.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

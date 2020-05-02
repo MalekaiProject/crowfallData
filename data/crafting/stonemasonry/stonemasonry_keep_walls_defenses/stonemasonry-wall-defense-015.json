@@ -1,7 +1,7 @@
 {
     "name": "Wall 3x1",
     "id": "stonemasonry-wall-defense-015",
-    "icon": "stonemasonry_wall_defense_015.png",
+    "icon": "stonemasonry-wall-defense-015.png",
     "description": "Creates a Stone Wall 3x1 Deed.",
     "outputQuantity": 1,
     "xp": 45,

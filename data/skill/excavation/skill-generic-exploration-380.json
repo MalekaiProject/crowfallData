@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-380",
     "name": "Harvest Technique: Grave Goods",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Grants the ability to harvest Grave Goods from Graves.",

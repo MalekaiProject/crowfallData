@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Gain Resource on Enemy Hit",
     "icon": "resource-on-enemy-hit.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

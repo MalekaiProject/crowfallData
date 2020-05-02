@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Role: Ranged Damage\\n\\nA master of pistols who enhances their powers when dealing critical strikes.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Slayer promotion class and prevents access to the Vanguard Scout  and Dirge  promotion classes.",
     "icon": "promotion-class-slayer.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "duelist-dead-eye"
     ],
     "locksSkill": [
-        "promotion-class-vanguard-scout",
-        "promotion-class-dirge"
+        "duelist-promotion-class-vanguard-scout",
+        "duelist-promotion-class-dirge"
     ]
 }

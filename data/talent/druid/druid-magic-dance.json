@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Magic Dance improves Personal Healing Modifier by 1% per point spent.",
     "icon": "magic-dance.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,7 +1,7 @@
 {
     "name": "Staff Heel",
     "id": "blacksmithing-weapon-staff-heel-001",
-    "icon": "blacksmithing_weapon_staff_heel_001.png",
+    "icon": "blacksmithing-weapon-staff-heel-001.png",
     "description": "Creates a Staff Heel that is used to create a Mystical Staff.",
     "outputQuantity": 1,
     "xp": 30,

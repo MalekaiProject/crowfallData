@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-03-03",
     "name": "Support Power",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 11520,
     "description": "Increases Support Power while using a Main Hand Weapon.",

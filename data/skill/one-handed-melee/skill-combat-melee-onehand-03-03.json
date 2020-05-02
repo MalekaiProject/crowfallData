@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-03-03",
     "name": "Axe: Power Efficiency",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Power Efficiency while using an Axe in your main hand.",

@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Empowered Circle of Life enhances Circle Of Life so allies are revived with 40% maximum Health.",
     "icon": "empowered-circle-of-life.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

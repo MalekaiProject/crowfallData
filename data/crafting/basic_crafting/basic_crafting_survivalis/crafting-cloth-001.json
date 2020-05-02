@@ -1,7 +1,7 @@
 {
     "name": "Blended Cloth",
     "id": "crafting-cloth-001",
-    "icon": "crafting_cloth_001.png",
+    "icon": "crafting-cloth-001.png",
     "description": "Creates Blended Cloth that is used to create Bandages",
     "outputQuantity": 2,
     "xp": 1.88,

@@ -1,7 +1,7 @@
 {
     "name": "Floor Tiles",
     "id": "stonemasonry-component-floor-tile-002",
-    "icon": "stonemasonry_component_floor_tile_002.png",
+    "icon": "stonemasonry-component-floor-tile-002.png",
     "description": "Creates a Bundle of Floor Tiles used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

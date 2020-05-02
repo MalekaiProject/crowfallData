@@ -1,7 +1,7 @@
 {
     "name": "Bow Sight",
     "id": "blacksmithing-weapon-bow-sight-001",
-    "icon": "blacksmithing_weapon_bow_sight_001.png",
+    "icon": "blacksmithing-weapon-bow-sight-001.png",
     "description": "Creates a Bow Sight that is used to create a Bow.",
     "outputQuantity": 1,
     "xp": 15,

@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Reduces Experiment Additional Risk",
     "icon": "risk-management.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "5",
         "buff_type_1": "Additional Risk Difficulty Reduction",
-        "buff_amount_1": "5"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

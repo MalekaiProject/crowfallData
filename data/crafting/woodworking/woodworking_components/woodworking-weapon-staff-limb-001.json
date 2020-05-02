@@ -1,7 +1,7 @@
 {
     "name": "Limbs: Staff",
     "id": "woodworking-weapon-staff-limb-001",
-    "icon": "woodworking_weapon_staff_limb_001.png",
+    "icon": "woodworking-weapon-staff-limb-001.png",
     "description": "Creates a Limbs: Staff that is used to create a Mystical Staff.",
     "outputQuantity": 1,
     "xp": 30,

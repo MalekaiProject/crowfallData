@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Fiery Perdition improves Damage Bonus: Fire by 3% per point spent.",
     "icon": "fiery-perdition.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

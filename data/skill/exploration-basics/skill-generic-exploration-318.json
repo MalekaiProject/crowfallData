@@ -2,14 +2,15 @@
     "id": "skill-generic-exploration-318",
     "name": "Movement Proficiency",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases your Movement Speed when Mounted.\\n\\nTraits Granted:\\nSwift Saddles",
+    "pipAmount": 6120,
+    "description": "Reduces the Cast Time of all Mounts.\\n\\nTraits Granted:\\nSwift Saddles",
     "icon": "skill-generic-exploration-318.png",
     "stats": [
         {
-            "name": "Movement Speed: Mounted",
-            "amount": "0.6%"
+            "name": "Mount Cast Time",
+            "amount": "0.1(s)"
         }
     ],
     "grants": [
@@ -17,9 +18,15 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-432",
+            "skill": "skill-generic-exploration-428",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-314",
+        "skill-generic-exploration-433",
+        "skill-generic-exploration-315",
+        "skill-generic-exploration-429",
+        "skill-generic-exploration-432"
+    ]
 }

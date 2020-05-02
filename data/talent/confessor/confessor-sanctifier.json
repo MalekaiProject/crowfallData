@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "This talent grants the Spitting Distance passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nFire Damage Bonus Cap\\n\\nTraits Granted:\\nBook Mastery",
     "icon": "sanctifier.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

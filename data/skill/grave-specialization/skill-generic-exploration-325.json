@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-325",
     "name": "Beneficial Harvest Lifetime: Grave",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the Duration of a Beneficial Harvest Effect applied when digging Graves. Beneficial Harvests can only happen when the node is destroyed.",

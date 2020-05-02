@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Blazing Judgment improves Damage Bonus: Fire by 3% per point spent.",
     "icon": "blazing-judgement.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

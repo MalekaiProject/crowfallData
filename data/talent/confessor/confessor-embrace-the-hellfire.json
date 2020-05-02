@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Embrace the Hellfire enhances Hellfire Aura to increase the damage it deals by 50%. Also, Fire Tornadoes no longer consume your Hellfire Aura.",
     "icon": "embrace-the-hellfire.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

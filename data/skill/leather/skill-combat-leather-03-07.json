@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-03-07",
     "name": "Decay Rate: Leather",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Decay Rate: Leather while using Leather chest armor.",

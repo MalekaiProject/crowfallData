@@ -1,7 +1,7 @@
 {
     "name": "One Handed Pistol",
     "id": "blacksmithing-weapon-pistol-003",
-    "icon": "blacksmithing_weapon_pistol_003.png",
+    "icon": "blacksmithing-weapon-pistol-003.png",
     "description": "Creates a Pistol, usable by those who are proficient with Off Hand Pistols.",
     "outputQuantity": 1,
     "xp": 15,

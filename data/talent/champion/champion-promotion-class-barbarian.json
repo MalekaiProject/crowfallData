@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Role: Melee Control\\n\\nControlling enemies will cause this brute to become even more powerful.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Barbarian promotion class and prevents access to the Pit Fighter and Alpha Warrior  promotion classes.",
     "icon": "promotion-class-barbarian.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "champion-malice"
     ],
     "locksSkill": [
-        "promotion-class-alpha-warrior",
-        "promotion-class-pit-fighter"
+        "champion-promotion-class-alpha-warrior",
+        "champion-promotion-class-pit-fighter"
     ]
 }

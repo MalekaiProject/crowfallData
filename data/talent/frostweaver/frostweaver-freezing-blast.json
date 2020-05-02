@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Freezing Blast power.",
     "icon": "freezing-blast.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

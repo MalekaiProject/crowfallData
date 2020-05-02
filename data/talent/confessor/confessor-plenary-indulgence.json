@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Plenary Indulgence reduces the cooldown of Fervor by 35%.",
     "icon": "plenary-indulgence.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

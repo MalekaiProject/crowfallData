@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-04-03",
     "name": "Fencing: Attack Power",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Attack Power while using a Rapier in your main hand.",

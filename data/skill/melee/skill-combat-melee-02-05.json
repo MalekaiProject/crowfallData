@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-02-05",
     "name": "Decay Rate: Weapon",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Decreases Decay Rate: Weapon Rate while using a Melee Weapon in your main hand.",

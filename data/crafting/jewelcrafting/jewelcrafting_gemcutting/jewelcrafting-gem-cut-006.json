@@ -1,7 +1,7 @@
 {
     "name": "Cut Gemstone: Baguette",
     "id": "jewelcrafting-gem-cut-006",
-    "icon": "jewelcrafting_gem_cut_006.png",
+    "icon": "jewelcrafting-gem-cut-006.png",
     "description": "The first stage of crafting a gemstone out of a rough stone involves the use of a Diamond Cutting Blade. This is used to trim and shape the stone into a primitive shape.",
     "outputQuantity": 1,
     "xp": 15,

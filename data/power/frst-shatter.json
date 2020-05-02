@@ -1,13 +1,13 @@
 {
     "id": "frst-shatter",
     "name": "Shatter Storm",
-    "description": "unleashes a wintry fury under the ground targeted area repeatedly inflicting 56 - 84 + 70% Weapon Damage to enemies. Any Ice within or forming during the effect is converted to Volatile Ice.\\n\\nVolatile Ice quickly explodes damaging enemies within 5m for 219 - 328 + 273% Weapon Damage.",
+    "description": "unleashes a wintry fury under the ground targeted area repeatedly inflicting 56 - 84 + 70% Weapon Damage to enemies. Any Ice within or forming during the effect is converted to Volatile Ice.\\n\\nVolatile Ice quickly explodes damaging enemies within 5m for 197 - 296 + 247% Weapon Damage.",
     "shortDescription": "",
     "icon": "frst-shatter.png",
     "stats": {
-        "weapon_damage_2_value": "273",
-        "max_damage_2": "328",
-        "min_damage_2": "219",
+        "weapon_damage_2_value": "247",
+        "max_damage_2": "296",
+        "min_damage_2": "197",
         "weapon_damage_value": "70",
         "max_damage_1": "84",
         "min_damage_1": "56",

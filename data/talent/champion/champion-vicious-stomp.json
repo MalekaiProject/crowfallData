@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "This talent grants the Vicious Stomp power.",
     "icon": "vicious-stomp.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

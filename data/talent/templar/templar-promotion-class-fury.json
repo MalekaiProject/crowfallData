@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Role: Melee Control\\n\\nHeavily armored and control focused, do not get near this defender of the fire.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fury promotion class and prevents access to the Paladin and Vindicator promotion classes.",
     "icon": "promotion-class-fury.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -22,7 +23,7 @@
         "templar-scourge"
     ],
     "locksSkill": [
-        "promotion-class-vindicator",
-        "promotion-class-paladin"
+        "templar-promotion-class-vindicator",
+        "templar-promotion-class-paladin"
     ]
 }

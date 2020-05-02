@@ -1,7 +1,7 @@
 {
     "name": "Buttress and Fin",
     "id": "stonemasonry-attachable-001",
-    "icon": "stonemasonry_attachable_001.png",
+    "icon": "stonemasonry-attachable-001.png",
     "description": "Creates a Stone Attachable Buttress and Fin Deed.",
     "outputQuantity": 1,
     "xp": 30,

@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Flow of Nature improves all Coalesce Life Orbs by 25%.",
     "icon": "flow-of-nature.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

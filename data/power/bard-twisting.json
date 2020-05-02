@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Twisting Songs Increases Song Potency",
     "icon": "bard-twisting.png",
     "stats": {
-        "cast_time": "Passive",
+        "duration": "6 seconds",
         "target": "Self",
-        "duration": "6 seconds"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

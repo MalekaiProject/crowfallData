@@ -1,7 +1,7 @@
 {
     "name": "Basic Harvesting Axe",
     "id": "runecarving-runestone-tool-002",
-    "icon": "runecarving_runestone_tool_002.png",
+    "icon": "runecarving-runestone-tool-002.png",
     "description": "Creates a Basic Runestone Axe, which is used to Log Wood from Trees. Using wood types other than Knotwood in all required slots will create a Sturdier version of the tool.",
     "outputQuantity": 1,
     "xp": 7.5,

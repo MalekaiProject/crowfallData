@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-center",
     "name": "Great Melee Training",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "Increases Attack Power while using a Melee Great Weapon.",

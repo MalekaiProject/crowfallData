@@ -1,7 +1,7 @@
 {
     "name": "Pesto Gnocchi",
     "id": "cooking-pesto-gnocchi-001",
-    "icon": "cooking_pesto_gnocchi_001.png",
+    "icon": "cooking-pesto-gnocchi-001.png",
     "description": "Creates a hefty portion of pesto gnocchi. Produces 10",
     "outputQuantity": 10,
     "xp": 1.5,

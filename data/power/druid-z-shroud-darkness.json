@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "druid-z-shroud-darkness.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "31",
-        "cost_type": "Essence",
-        "min_damage_1": "96",
+        "weapon_damage_value": "119",
         "max_damage_1": "143",
-        "weapon_damage_value": "119"
+        "min_damage_1": "96",
+        "cost_type": "Essence",
+        "cost": "31",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "druid-z-wicked-winds"

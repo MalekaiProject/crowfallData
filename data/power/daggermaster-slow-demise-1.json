@@ -1,20 +1,20 @@
 {
     "id": "daggermaster-slow-demise-1",
     "name": "Slow Demise",
-    "description": "hits an enemy for 103 - 155 + 129% Weapon Damage.",
+    "description": "hits an enemy for 75 - 112 + 93% Weapon Damage.",
     "shortDescription": "Attack: Reduces the amount an enemy can be healed and inflicts a large amount of damage.",
     "icon": "daggermaster-slow-demise-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "15",
+        "weapon_damage_value": "93",
+        "max_damage_1": "112",
+        "min_damage_1": "75",
         "cost_type": "Resource",
-        "min_damage_1": "103",
-        "max_damage_1": "155",
-        "weapon_damage_value": "129"
+        "cost": "11",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "daggermaster-slow-demise-2"

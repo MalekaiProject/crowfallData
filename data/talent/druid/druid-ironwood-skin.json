@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Ironwood Skin improves Physical Resistance by 100 per point spent.",
     "icon": "ironwood-skin.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

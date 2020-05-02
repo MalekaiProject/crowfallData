@@ -5,8 +5,8 @@
     "shortDescription": "Channel: Shield Nearby Siege Engines From Damage",
     "icon": "siegeengineer-siege-shield.png",
     "stats": {
-        "cast_time": "Instant",
-        "max_targets": "3"
+        "max_targets": "3",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

@@ -1,0 +1,26 @@
+{
+    "id": "myrmidon-raging-bull",
+    "name": "Raging Bull",
+    "description": "flings enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies. \\n\\nYou gain a damage preventing barrier, become immune to control effects and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "shortDescription": "",
+    "icon": "myrmidon-raging-bull.png",
+    "stats": {
+        "weapon_damage_value": "44",
+        "max_damage_1": "48",
+        "min_damage_1": "39",
+        "range": "5",
+        "max_targets": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

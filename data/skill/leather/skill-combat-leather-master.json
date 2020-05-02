@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-master",
     "name": "Leather Mastery",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 28080,
     "description": "Increases Health, decreases Sprint Cost, and decreases Decay Rate: Armor while using Leather chest armor.",

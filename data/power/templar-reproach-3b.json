@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "templar-reproach-3b.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "5",
-        "range": "5",
-        "min_damage_1": "117",
+        "weapon_damage_value": "146",
         "max_damage_1": "176",
-        "weapon_damage_value": "146"
+        "min_damage_1": "117",
+        "range": "5",
+        "max_targets": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

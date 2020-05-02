@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-095",
     "name": "Woodworking Assembly Cap",
     "tree": "Woodworking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the maximum potential value of Woodworking Assembly.",

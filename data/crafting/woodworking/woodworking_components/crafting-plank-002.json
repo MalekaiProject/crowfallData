@@ -1,7 +1,7 @@
 {
     "name": "Wooden Board",
     "id": "crafting-plank-002",
-    "icon": "crafting_plank_002.png",
+    "icon": "crafting-plank-002.png",
     "description": "Creates a Wooden Board that is used in various Woodworking recipes.",
     "outputQuantity": 1,
     "xp": 7.5,

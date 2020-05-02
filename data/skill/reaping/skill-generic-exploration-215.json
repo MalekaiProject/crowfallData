@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-215",
     "name": "Exceptional Knives",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Increases the Damage that Runestone Knives can deal when skinning.",

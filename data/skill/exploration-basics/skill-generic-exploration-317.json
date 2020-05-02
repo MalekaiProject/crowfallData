@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-317",
     "name": "Gathering Proficiency",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 6120,
     "description": "Grants chance for a Beneficial Harvest effect when Destroying any Resource Node.",
     "icon": "skill-generic-exploration-317.png",
     "stats": [
@@ -15,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-365",
+            "skill": "skill-generic-exploration-426",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-310",
+        "skill-generic-exploration-311",
+        "skill-generic-exploration-312",
+        "skill-generic-exploration-398",
+        "skill-generic-exploration-365"
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Artisan Cheese",
     "id": "cooking-cheese-001",
-    "icon": "cooking_cheese_001.png",
+    "icon": "cooking-cheese-001.png",
     "description": "Creates a wheel of tasty cheese encased in wax. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

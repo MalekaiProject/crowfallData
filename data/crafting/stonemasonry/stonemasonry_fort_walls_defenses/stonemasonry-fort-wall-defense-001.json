@@ -1,7 +1,7 @@
 {
     "name": "Archer's Tower",
     "id": "stonemasonry-fort-wall-defense-001",
-    "icon": "stonemasonry_fort_wall_defense_001.png",
+    "icon": "stonemasonry-fort-wall-defense-001.png",
     "description": "Creates a Wood Archer's Tower Deed.",
     "outputQuantity": 1,
     "xp": 45,

@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-017",
     "name": "Leatherworking Basics",
     "tree": "Crafting Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Unlocks the Leatherworking skill tree.",

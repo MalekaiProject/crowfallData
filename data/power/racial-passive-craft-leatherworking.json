@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Leatherworking Crafting Statistics",
     "icon": "racial-passive-craft-leatherworking.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Leatherworking",
-        "buff_amount_1": "10",
+        "buff_amount_2": "10",
         "buff_type_2": "Leatherworking Experimentation",
-        "buff_amount_2": "10"
+        "buff_amount_1": "10",
+        "buff_type_1": "Leatherworking",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

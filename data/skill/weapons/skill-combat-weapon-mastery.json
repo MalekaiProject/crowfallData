@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-mastery",
     "name": "Weapons Mastery",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 19440,
     "description": "Increases Health, Attack Power, and Support Power while using a Main Hand Weapon.",

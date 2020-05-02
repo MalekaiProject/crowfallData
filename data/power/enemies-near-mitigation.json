@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Gain Mitigation when Enemies Near",
     "icon": "enemies-near-mitigation.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "7%",
         "buff_type_1": "Resist All",
-        "buff_amount_1": "7%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

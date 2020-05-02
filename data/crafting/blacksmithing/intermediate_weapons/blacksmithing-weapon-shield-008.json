@@ -1,7 +1,7 @@
 {
     "name": "Shield: Medium Shield",
     "id": "blacksmithing-weapon-shield-008",
-    "icon": "blacksmithing_weapon_shield_008.png",
+    "icon": "blacksmithing-weapon-shield-008.png",
     "description": "Creates a Medium Shield, usable by those who are proficient with Medium Shields.",
     "outputQuantity": 1,
     "xp": 15,

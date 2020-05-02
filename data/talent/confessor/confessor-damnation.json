@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Damnation enhances Condemnation to apply a Slow effect.",
     "icon": "damnation.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

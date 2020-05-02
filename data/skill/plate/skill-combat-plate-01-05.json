@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-01-05",
     "name": "Resist All",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Resist All while using Plate chest armor.",

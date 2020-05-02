@@ -1,7 +1,7 @@
 {
     "name": "Square Tower",
     "id": "stonemasonry-wall-defense-008",
-    "icon": "stonemasonry_wall_defense_008.png",
+    "icon": "stonemasonry-wall-defense-008.png",
     "description": "Creates a Stone Square Tower Deed.",
     "outputQuantity": 1,
     "xp": 45,

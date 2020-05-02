@@ -5,20 +5,20 @@
     "shortDescription": "Group increase Perception; Remove Expose",
     "icon": "ranger-alertness.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Group",
-        "cooldown": "68",
-        "max_targets": "5",
-        "range": "50",
-        "cost": "190",
-        "cost_type": "Energy",
-        "buff_type_1": "Perception",
-        "buff_amount_1": "25",
-        "buff_type_2": "Attack Power",
-        "buff_amount_2": "50",
-        "min_damage_1": "113",
+        "weapon_damage_value": "133",
         "max_damage_1": "153",
-        "weapon_damage_value": "133"
+        "min_damage_1": "113",
+        "buff_amount_2": "50",
+        "buff_type_2": "Attack Power",
+        "buff_amount_1": "25",
+        "buff_type_1": "Perception",
+        "cost_type": "Energy",
+        "cost": "190",
+        "range": "50",
+        "max_targets": "5",
+        "cooldown": "68",
+        "target": "Group",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],
@@ -29,6 +29,6 @@
     "isBuff": true,
     "tags": [
         "anyone",
-        "harvest"
+        "anyone"
     ]
 }

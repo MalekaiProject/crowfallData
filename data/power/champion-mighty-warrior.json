@@ -5,10 +5,10 @@
     "shortDescription": "",
     "icon": "champion-mighty-warrior.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
+        "cost_type": "Hate",
         "cost": "100",
-        "cost_type": "Hate"
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

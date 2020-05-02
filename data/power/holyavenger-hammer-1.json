@@ -5,17 +5,17 @@
     "shortDescription": "Attack: Stun an enemy",
     "icon": "holyavenger-hammer-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "5",
-        "cost": "11",
-        "cost_type": "Resource",
-        "min_damage_1": "91",
-        "max_damage_1": "124",
+        "weapon_damage_type": "Holy",
         "weapon_damage_value": "108",
-        "weapon_damage_type": "Holy"
+        "max_damage_1": "124",
+        "min_damage_1": "91",
+        "cost_type": "Resource",
+        "cost": "11",
+        "range": "5",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "holyavenger-hammer-2"

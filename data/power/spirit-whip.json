@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Basic Attacks Hit Multiple Enemies",
     "icon": "spirit-whip.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_2": "25%",
         "buff_amount_1": "50%",
-        "buff_amount_2": "25%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

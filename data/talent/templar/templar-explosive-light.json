@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Explosive Light enhances Divine Light to also inflict a Knockdown when deployed and to Daze enemies within the field.",
     "icon": "explosive-light.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

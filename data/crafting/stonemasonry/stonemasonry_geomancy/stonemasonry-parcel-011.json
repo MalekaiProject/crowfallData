@@ -1,7 +1,7 @@
 {
     "name": "Fief Parcel",
     "id": "stonemasonry-parcel-011",
-    "icon": "stonemasonry_parcel_011.png",
+    "icon": "stonemasonry-parcel-011.png",
     "description": "Creates a Rank 1 Fief Parcel.",
     "outputQuantity": 1,
     "xp": 30,

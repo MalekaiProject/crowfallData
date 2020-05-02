@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "assassin-engage.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "23",
-        "max_targets": "1",
-        "range": "15",
-        "min_damage_1": "71",
+        "weapon_damage_value": "89",
         "max_damage_1": "107",
-        "weapon_damage_value": "89"
+        "min_damage_1": "71",
+        "range": "15",
+        "max_targets": "1",
+        "cooldown": "23",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

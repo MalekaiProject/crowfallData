@@ -5,15 +5,13 @@
     "shortDescription": "",
     "icon": "duelist-pistol-combo-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Ray",
-        "max_targets": "1",
-        "range": "15",
-        "cost": "11",
-        "cost_type": "Resource",
-        "min_damage_1": "45",
+        "weapon_damage_value": "57",
         "max_damage_1": "68",
-        "weapon_damage_value": "57"
+        "min_damage_1": "45",
+        "range": "16",
+        "max_targets": "1",
+        "target": "Ray",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "duelist-pistol-combo-3"

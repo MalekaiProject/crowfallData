@@ -5,11 +5,11 @@
     "shortDescription": "Passive: Increase Critical Damage Amount after losing Stealth",
     "icon": "blackmask-shadows-linger.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "6 seconds",
+        "buff_amount_1": "25%",
         "buff_type_1": "Critical Damage",
-        "buff_amount_1": "25%"
+        "duration": "6 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

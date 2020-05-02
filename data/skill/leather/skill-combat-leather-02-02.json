@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-02-02",
     "name": "Fire Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Fire Resistance while using Leather chest armor.",

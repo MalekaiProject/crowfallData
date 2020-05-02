@@ -5,14 +5,14 @@
     "shortDescription": "Reduce Damage, Poison Immunity, Reduce Health Gain",
     "icon": "stone-skin.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "16",
-        "cost_type": "Resource",
-        "duration": "6 seconds",
+        "buff_amount_1": "50%",
         "buff_type_1": "Damage Reduction",
-        "buff_amount_1": "50%"
+        "duration": "6 seconds",
+        "cost_type": "Resource",
+        "cost": "16",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

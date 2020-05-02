@@ -1,7 +1,7 @@
 {
     "name": "Basic Harvesting Pick",
     "id": "runecarving-runestone-tool-004",
-    "icon": "runecarving_runestone_tool_004.png",
+    "icon": "runecarving-runestone-tool-004.png",
     "description": "Creates a Basic Runestone Pick, which is used to Mine Ore from Ore. Using wood types other than Knotwood in all required slots will create a Sturdier version of the tool.",
     "outputQuantity": 1,
     "xp": 7.5,

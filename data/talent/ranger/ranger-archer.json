@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Trick Shots passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nPiercing Damage Bonus\\nSlashing Damage Bonus\\nCrushing Damage Bonus Cap\\nPiercing Damage Bonus Cap\\nSlashing Damage Bonus Cap\\n\\nIncreases by 10m:\\nRanged Distance Bonus\\n\\nTraits Granted:\\nRecurve Bow Mastery\\n\\nDiscipline traits upgraded:\\nHigh Tension Compound Bow Mastery\\nSpellbound Longbow Mastery",
     "icon": "archer.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

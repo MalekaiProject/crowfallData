@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "adjudicator-adjudicate-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "16",
-        "cost_type": "Resource",
-        "min_damage_1": "136",
-        "max_damage_1": "184",
+        "weapon_damage_type": "Fire",
         "weapon_damage_value": "160",
-        "weapon_damage_type": "Fire"
+        "max_damage_1": "184",
+        "min_damage_1": "136",
+        "cost_type": "Resource",
+        "cost": "16",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

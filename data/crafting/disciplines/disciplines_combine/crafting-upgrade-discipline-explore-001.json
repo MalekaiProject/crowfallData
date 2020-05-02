@@ -1,7 +1,7 @@
 {
     "name": "Upgrade Exploration Discipline",
     "id": "crafting-upgrade-discipline-explore-001",
-    "icon": "crafting_upgrade_discipline_explore_001.png",
+    "icon": "crafting-upgrade-discipline-explore-001.png",
     "description": "Combine identical Exploration Disciplines of the same quality to create a higher quality version of the same Exploration Discipline.\\n\\nDisciplines must be Uncommon quality or higher.",
     "outputQuantity": 1,
     "xp": 0,

@@ -5,12 +5,12 @@
     "shortDescription": "Blink in a WASD direction",
     "icon": "druid-dissipate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "15",
-        "range": "20",
+        "buff_amount_1": "18m",
         "buff_type_1": "Blink",
-        "buff_amount_1": "18m"
+        "range": "20",
+        "cooldown": "15",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

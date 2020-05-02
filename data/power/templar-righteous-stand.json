@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "templar-righteous-stand.png",
     "stats": {
-        "cast_time": "Hold Channeled",
-        "target": "Self",
-        "cost": "1",
-        "cost_type": "Righteousness",
-        "min_damage_1": "211",
+        "weapon_damage_value": "264",
         "max_damage_1": "317",
-        "weapon_damage_value": "264"
+        "min_damage_1": "211",
+        "cost_type": "Righteousness",
+        "cost": "1",
+        "target": "Self",
+        "cast_time": "Hold Channeled"
     },
     "nextChain": [],
     "lastChain": [],

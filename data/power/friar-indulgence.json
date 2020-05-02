@@ -5,15 +5,15 @@
     "shortDescription": "Gain Sin immunity",
     "icon": "friar-indulgence.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "12",
-        "cost_type": "Resource",
-        "duration": "30 seconds",
-        "min_damage_1": "85",
+        "weapon_damage_value": "100",
         "max_damage_1": "115",
-        "weapon_damage_value": "100"
+        "min_damage_1": "85",
+        "duration": "30 seconds",
+        "cost_type": "Resource",
+        "cost": "12",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

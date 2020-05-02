@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-01-06",
     "name": "Great Sword: Hard Control Defense",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Hard Control Defense while using a Great Sword.",

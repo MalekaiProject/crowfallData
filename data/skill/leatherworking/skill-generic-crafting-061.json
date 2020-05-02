@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-061",
     "name": "Leatherworking Novice",
     "tree": "Leatherworking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the chance of Assembly Success when assembling Leatherworking items.",

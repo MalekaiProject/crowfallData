@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Double Shots! enhances all Charged Bow Powers such that whenever you hit an enemy with a Charged Bow Power you will gain the Double Shots! effect, which will cause Charged Bow Powers to deal 25% more damage for the next 6 seconds.",
     "icon": "double-shots.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

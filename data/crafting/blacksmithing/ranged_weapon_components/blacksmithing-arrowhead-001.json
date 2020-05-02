@@ -1,7 +1,7 @@
 {
     "name": "Arrowhead Bundle",
     "id": "blacksmithing-arrowhead-001",
-    "icon": "blacksmithing_arrowhead_001.png",
+    "icon": "blacksmithing-arrowhead-001.png",
     "description": "Creates Arrowhead Bundles, the type of ore determines Damage Type.\\n\\nTin yields Slashing,\\nCopper yields Crushing,\\nIron yields Piercing,\\nGold yields Fire,\\nSilver yields Ice.",
     "outputQuantity": 1,
     "xp": 15,

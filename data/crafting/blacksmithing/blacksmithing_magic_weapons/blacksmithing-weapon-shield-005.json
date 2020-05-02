@@ -1,7 +1,7 @@
 {
     "name": "Runic Shield",
     "id": "blacksmithing-weapon-shield-005",
-    "icon": "blacksmithing_weapon_shield_005.png",
+    "icon": "blacksmithing-weapon-shield-005.png",
     "description": "Creates a Runic Shield, the type of Runed Shield Base used determines the type of Shield created.\\n\\nSmall Base yields a Buckler,\\nMedium Base yields a Medium Shield,\\nLarge Base yields a Tower Shield.",
     "outputQuantity": 1,
     "xp": 45,

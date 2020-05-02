@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Frontal Stun Immunity",
     "icon": "racial-passive-frontal-stun-immunity.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

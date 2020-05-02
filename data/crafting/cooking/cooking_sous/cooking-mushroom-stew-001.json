@@ -1,7 +1,7 @@
 {
     "name": "Mushroom Stew",
     "id": "cooking-mushroom-stew-001",
-    "icon": "cooking_mushroom_stew_001.png",
+    "icon": "cooking-mushroom-stew-001.png",
     "description": "Creates a tasty Mushroom Stew. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

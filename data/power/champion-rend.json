@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "champion-rend.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "24",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "18",
-        "cost_type": "Rage",
-        "min_damage_1": "187",
+        "weapon_damage_value": "220",
         "max_damage_1": "253",
-        "weapon_damage_value": "220"
+        "min_damage_1": "187",
+        "cost_type": "Rage",
+        "cost": "18",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "24",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

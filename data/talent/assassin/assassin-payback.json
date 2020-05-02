@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Payback enhances Kidney Shot to apply a Barrier when Stunning an enemy.",
     "icon": "payback.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

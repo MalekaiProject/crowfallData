@@ -5,16 +5,16 @@
     "shortDescription": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds.",
     "icon": "daggermaster-combo-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "5",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "10",
-        "cost_type": "Resource",
-        "min_damage_1": "66",
+        "weapon_damage_value": "83",
         "max_damage_1": "99",
-        "weapon_damage_value": "83"
+        "min_damage_1": "66",
+        "cost_type": "Resource",
+        "cost": "10",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "daggermaster-combo-2"

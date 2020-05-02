@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-228",
     "name": "Harvest Critical: Spruce",
     "tree": "Wood Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases your chance for a Critical Harvest when logging Spruce.",

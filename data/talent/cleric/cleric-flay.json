@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Flay improves Critical Strike by 1% per point spent.",
     "icon": "flay.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

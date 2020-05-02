@@ -1,7 +1,7 @@
 {
     "name": "Mail Boots",
     "id": "blacksmithing-armor-mail-boots-010",
-    "icon": "blacksmithing_armor_mail_boots_010.png",
+    "icon": "blacksmithing-armor-mail-boots-010.png",
     "description": "Creates Advanced Armor Mail Boots, usable by those who are\\nproficient with Mail Armor.",
     "outputQuantity": 1,
     "xp": 45,

@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Stonemasonry Assembly and Experimentation Caps",
     "icon": "stonemasonry-techniques.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Stonemasonry Cap",
-        "buff_amount_1": "15",
+        "buff_amount_2": "15",
         "buff_type_2": "Stonemasonry Experimentation Cap",
-        "buff_amount_2": "15"
+        "buff_amount_1": "15",
+        "buff_type_1": "Stonemasonry Cap",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

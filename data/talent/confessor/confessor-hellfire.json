@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "This talent grants the Hellfire Shield power.",
     "icon": "hellfire.png",
+    "maxPoints": 1,
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [

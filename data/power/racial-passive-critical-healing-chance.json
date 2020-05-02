@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Critical Healing Chance",
     "icon": "racial-passive-critical-healing-chance.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "3%",
         "buff_type_1": "Critical Healing Chance",
-        "buff_amount_1": "3%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

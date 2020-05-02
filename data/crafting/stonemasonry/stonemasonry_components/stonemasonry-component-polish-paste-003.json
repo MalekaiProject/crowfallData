@@ -1,7 +1,7 @@
 {
     "name": "Polishing Paste",
     "id": "stonemasonry-component-polish-paste-003",
-    "icon": "stonemasonry_component_polish_paste_003.png",
+    "icon": "stonemasonry-component-polish-paste-003.png",
     "description": "Creates a Polishing Paste used to polish gems.",
     "outputQuantity": 1,
     "xp": 3.75,

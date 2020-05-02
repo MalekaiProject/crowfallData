@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Tunnel and Recon powers.",
     "icon": "tunnel.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

@@ -1,7 +1,7 @@
 {
     "name": "Wall Panel: Solid",
     "id": "stonemasonry-wall-defense-011",
-    "icon": "stonemasonry_wall_defense_011.png",
+    "icon": "stonemasonry-wall-defense-011.png",
     "description": "Creates a Stone Wall Panel: Solid Deed.",
     "outputQuantity": 1,
     "xp": 45,

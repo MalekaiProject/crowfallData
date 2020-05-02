@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-01-04",
     "name": "Great Sword: Slashing Damage Bonus",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Slashing Damage Bonus while using a Great Sword.",

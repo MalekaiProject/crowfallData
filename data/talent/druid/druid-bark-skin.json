@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Bark Skin power.",
     "icon": "bark-skin.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

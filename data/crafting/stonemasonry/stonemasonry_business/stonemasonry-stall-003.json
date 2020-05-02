@@ -1,7 +1,7 @@
 {
     "name": "Melee Themed Stall",
     "id": "stonemasonry-stall-003",
-    "icon": "stonemasonry_stall_003.png",
+    "icon": "stonemasonry-stall-003.png",
     "description": "Creates a Melee Weapon Themed Vendor Stall you can place in your EK which you will place your vendor in to sell your wares.",
     "outputQuantity": 1,
     "xp": 30,

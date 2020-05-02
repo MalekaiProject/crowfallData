@@ -1,18 +1,18 @@
 {
     "id": "illusionary-armor",
     "name": "Illusionary Armor",
-    "description": "conjures an illusion effective enough to reduce incoming damage by 7% for 15.",
+    "description": "conjures an illusion effective enough to reduce incoming damage by 7% for 15 seconds.",
     "shortDescription": "Reduce Health Loss",
     "icon": "illusionary-armor.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "23",
-        "cost": "16",
-        "cost_type": "Resource",
-        "duration": "15",
+        "buff_amount_1": "7%",
         "buff_type_1": "Personal Damage Modifier",
-        "buff_amount_1": "7%"
+        "duration": "15 seconds",
+        "cost_type": "Resource",
+        "cost": "16",
+        "cooldown": "23",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

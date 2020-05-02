@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Flick of the Blade improves Critical Strike by 1% per point spent.",
     "icon": "flick-of-the-blade.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

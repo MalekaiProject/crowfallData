@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Echoing Assault enhances Stun and Knock Down to recover 15% Energy when applied.",
     "icon": "echoing-assault.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

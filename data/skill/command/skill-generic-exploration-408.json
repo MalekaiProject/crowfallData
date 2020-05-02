@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-408",
     "name": "Harvesting Leadership",
     "tree": "Command",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "The passive power Way of the Leader, gains up to 2.5% additional chance for bonus Ethereal Dust when harvesting all Resource types that normally produce dust as long as you are the group leader.",

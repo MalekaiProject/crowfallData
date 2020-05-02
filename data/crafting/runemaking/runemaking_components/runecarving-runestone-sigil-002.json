@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Hammer",
     "id": "runecarving-runestone-sigil-002",
-    "icon": "runecarving_runestone_sigil_002.png",
+    "icon": "runecarving-runestone-sigil-002.png",
     "description": "Crafting Component used in the assembly of a Runestone Hammer. The combination of Ores used determines the properties of the Hammer.",
     "outputQuantity": 1,
     "xp": 15,

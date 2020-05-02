@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-01-04",
     "name": "Ice Resistance",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Ice Resistance while wearing armor.",

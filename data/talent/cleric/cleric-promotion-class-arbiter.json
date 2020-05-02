@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Role: Ranged Control\\n\\nSacrificing damage and healing potential, this maven of battle excels at controlling enemies.\\n\\nIncreases by 15%:\\nFinal Mitigation Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Arbiter promotion class and prevents access to the Crusader and Radical promotion classes.",
     "icon": "promotion-class-arbiter.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -22,7 +23,7 @@
         "cleric-interdiction"
     ],
     "locksSkill": [
-        "promotion-class-radical",
-        "promotion-class-crusader"
+        "cleric-promotion-class-radical",
+        "cleric-promotion-class-crusader"
     ]
 }

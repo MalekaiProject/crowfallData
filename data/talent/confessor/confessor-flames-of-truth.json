@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "This talent grants the Flames Of Truth power.",
     "icon": "flames-of-truth.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

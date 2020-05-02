@@ -2,24 +2,23 @@
     "id": "skill-generic-exploration-305",
     "name": "Harvest Blood",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
+    "pipAmount": 6120,
     "description": "Grants ability to harvest Blood when skinning an Animal.",
     "icon": "skill-generic-exploration-305.png",
     "stats": [
         {
             "name": "Harvest Chance: Blood",
-            "amount": "0.4%"
+            "amount": "1%"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-307",
+            "skill": "skill-generic-exploration-316",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-308"
-    ]
+    "unlocksSkill": []
 }

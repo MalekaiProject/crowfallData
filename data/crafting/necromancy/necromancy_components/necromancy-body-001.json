@@ -1,7 +1,7 @@
 {
     "name": "Restored Centaur Body",
     "id": "necromancy-body-001",
-    "icon": "necromancy_body_001.png",
+    "icon": "necromancy-body-001.png",
     "description": "Restore a Desiccated Centaur Body that is used to create a vessel.",
     "outputQuantity": 1,
     "xp": 30,

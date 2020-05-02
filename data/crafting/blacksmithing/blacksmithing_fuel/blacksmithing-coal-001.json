@@ -1,7 +1,7 @@
 {
     "name": "Coal",
     "id": "blacksmithing-coal-001",
-    "icon": "blacksmithing_coal_001.png",
+    "icon": "blacksmithing-coal-001.png",
     "description": "Creates Coal that is used in various Blacksmithing recipes. Produces 5.",
     "outputQuantity": 5,
     "xp": 0.75,

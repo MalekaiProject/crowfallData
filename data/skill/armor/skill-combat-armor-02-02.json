@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-02-02",
     "name": "Poison Resistance",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Poison Resistance while wearing armor.",

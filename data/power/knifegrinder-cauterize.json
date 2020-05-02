@@ -5,14 +5,14 @@
     "shortDescription": "Buff: Removes the bleeding debuff from yourself.",
     "icon": "knifegrinder-cauterize.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "9",
-        "cost": "10",
-        "cost_type": "Resource",
-        "min_damage_1": "68",
+        "weapon_damage_value": "80",
         "max_damage_1": "92",
-        "weapon_damage_value": "80"
+        "min_damage_1": "68",
+        "cost_type": "Resource",
+        "cost": "10",
+        "cooldown": "9",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

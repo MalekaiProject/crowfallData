@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "duelist-stealth-tunnel.png",
     "stats": {
-        "cast_time": "Instant",
+        "range": "20",
         "target": "Self",
-        "range": "20"
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

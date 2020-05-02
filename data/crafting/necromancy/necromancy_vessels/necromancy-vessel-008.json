@@ -1,7 +1,7 @@
 {
     "name": "High-Elf Vessel",
     "id": "necromancy-vessel-008",
-    "icon": "necromancy_vessel_008.png",
+    "icon": "necromancy-vessel-008.png",
     "description": "Creates a High-Elf Vessel.",
     "outputQuantity": 1,
     "xp": 45,
@@ -64,7 +64,7 @@
         },
         {
             "name": "Philosopher's Stone",
-            "id": "philosopher-s-stone",
+            "id": "philosophers-stone",
             "icon": "Philosopher's Stone.png",
             "quantity": 1,
             "slotIndex": 6,

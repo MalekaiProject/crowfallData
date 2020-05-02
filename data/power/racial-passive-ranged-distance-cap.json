@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Ranged Distance Bonus Cap",
     "icon": "racial-passive-ranged-distance-cap.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "5",
         "buff_type_1": "Ranged Distance Bonus Cap",
-        "buff_amount_1": "5"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

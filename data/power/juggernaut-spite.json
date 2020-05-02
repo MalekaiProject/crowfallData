@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Regenerate when Stunned; Knocked Down",
     "icon": "juggernaut-spite.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "5%",
         "duration": "5 seconds",
-        "buff_amount_1": "5%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

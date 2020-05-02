@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "druid-natures-avatar.png",
     "stats": {
-        "cast_time": "Hold Channeled",
-        "target": "Reticle",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "50",
-        "cost": "35",
+        "cost_type_time": "cost_type_time_per_second",
         "cost_type": "Essence",
-        "cost_type_time": "cost_type_time_per_second"
+        "cost": "35",
+        "range": "50",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Reticle",
+        "cast_time": "Hold Channeled"
     },
     "nextChain": [],
     "lastChain": [],

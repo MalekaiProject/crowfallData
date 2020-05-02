@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Dominant Leap enhances Leap powers to add a point of Dominance.",
     "icon": "dominant-leap.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

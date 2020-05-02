@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Role: Melee Defense\\n\\nThis well rounded pugilist excels at both dealing and mitigating damage.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Pit Fighter promotion class and prevents access to the Alpha Warrior  and Barbarian promotion classes.",
     "icon": "promotion-class-pit-fighter.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -22,7 +23,7 @@
         "champion-obstinance"
     ],
     "locksSkill": [
-        "promotion-class-alpha-warrior",
-        "promotion-class-barbarian"
+        "champion-promotion-class-alpha-warrior",
+        "champion-promotion-class-barbarian"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Coffee",
     "id": "cooking-coffee-001",
-    "icon": "cooking_coffee_001.png",
+    "icon": "cooking-coffee-001.png",
     "description": "Creates some warm coffee! Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

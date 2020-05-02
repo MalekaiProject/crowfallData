@@ -1,7 +1,7 @@
 {
     "name": "Woodland Grove Parcel",
     "id": "stonemasonry-parcel-103",
-    "icon": "stonemasonry_parcel_103.png",
+    "icon": "stonemasonry-parcel-103.png",
     "description": "Creates a Rank 1 Backer Reward Woodland Grove Parcel.",
     "outputQuantity": 1,
     "xp": 0,

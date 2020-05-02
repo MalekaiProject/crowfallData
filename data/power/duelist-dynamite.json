@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "duelist-dynamite.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cost": "500",
-        "cost_type": "Soul Power",
-        "min_damage_1": "320",
+        "weapon_damage_value": "400",
         "max_damage_1": "480",
-        "weapon_damage_value": "400"
+        "min_damage_1": "320",
+        "cost_type": "Soul Power",
+        "cost": "500",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

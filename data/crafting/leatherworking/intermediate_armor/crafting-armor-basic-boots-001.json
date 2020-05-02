@@ -1,7 +1,7 @@
 {
     "name": "Intermediate Boots",
     "id": "crafting-armor-basic-boots-001",
-    "icon": "crafting_armor_basic_boots_001.png",
+    "icon": "crafting-armor-basic-boots-001.png",
     "description": "Creates a Intermediate Armor Cloth Footpads, usable by all.",
     "outputQuantity": 1,
     "xp": 7.5,

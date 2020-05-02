@@ -2,6 +2,7 @@
     "id": "skill-combat-mail-03-04",
     "name": "Nature Resistance",
     "tree": "Mail",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Nature Resistance while using Mail chest armor.",

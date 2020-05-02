@@ -1,7 +1,7 @@
 {
     "name": "Capital Parcel",
     "id": "stonemasonry-parcel-013",
-    "icon": "stonemasonry_parcel_013.png",
+    "icon": "stonemasonry-parcel-013.png",
     "description": "Creates a Rank 1 Capital Parcel.",
     "outputQuantity": 1,
     "xp": 30,

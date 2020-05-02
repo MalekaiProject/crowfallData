@@ -1,7 +1,7 @@
 {
     "name": "Quiver",
     "id": "woodworking-magic-quiver-001",
-    "icon": "woodworking_magic_quiver_001.png",
+    "icon": "woodworking-magic-quiver-001.png",
     "description": "Creates a Quiver that supplies the user with unlimited Ammo but decays over time like other weapons. Usable by those who are proficient with Quivers.",
     "outputQuantity": 1,
     "xp": 45,

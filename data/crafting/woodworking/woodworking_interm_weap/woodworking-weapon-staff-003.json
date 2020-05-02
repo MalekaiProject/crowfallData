@@ -1,7 +1,7 @@
 {
     "name": "Two Hand Staff",
     "id": "woodworking-weapon-staff-003",
-    "icon": "woodworking_weapon_staff_003.png",
+    "icon": "woodworking-weapon-staff-003.png",
     "description": "Creates a Mystical Staff, usable by those who are proficient with Mystical Staves.",
     "outputQuantity": 1,
     "xp": 15,

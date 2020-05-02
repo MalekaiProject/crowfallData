@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Role: Ranged Damage\\n\\nKnown for wild gestures and speaking in tongues, this devotee of fire only desires to set the unworthy ablaze before the strain of casting spells causes them to burn out.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fanatic promotion class and prevents access to the Sanctifier and Inquisitor promotion classes.",
     "icon": "promotion-class-fanatic.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "confessor-lawful"
     ],
     "locksSkill": [
-        "promotion-class-sanctifier",
-        "promotion-class-inquisitor"
+        "confessor-promotion-class-sanctifier",
+        "confessor-promotion-class-inquisitor"
     ]
 }

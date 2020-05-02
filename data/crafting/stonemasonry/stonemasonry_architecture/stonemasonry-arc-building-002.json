@@ -1,7 +1,7 @@
 {
     "name": "Villa",
     "id": "stonemasonry-arc-building-002",
-    "icon": "stonemasonry_arc_building_002.png",
+    "icon": "stonemasonry-arc-building-002.png",
     "description": "Creates a Villa Deed.",
     "outputQuantity": 1,
     "xp": 45,

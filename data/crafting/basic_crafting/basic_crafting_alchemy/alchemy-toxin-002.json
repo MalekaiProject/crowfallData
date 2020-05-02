@@ -1,7 +1,7 @@
 {
     "name": "Basic Poison Toxin",
     "id": "alchemy-toxin-002",
-    "icon": "alchemy_toxin_002.png",
+    "icon": "alchemy-toxin-002.png",
     "description": "Creates a toxic substance used to poison your weapon, causing your attacks to have a chance to afflict targets with Poison.",
     "outputQuantity": 1,
     "xp": 7.5,

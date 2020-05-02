@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "myrmidon-retaliate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "max_targets": "3",
-        "range": "5",
-        "cost": "65",
-        "cost_type": "Stamina",
-        "min_damage_1": "39",
+        "weapon_damage_value": "44",
         "max_damage_1": "48",
-        "weapon_damage_value": "44"
+        "min_damage_1": "39",
+        "cost_type": "Stamina",
+        "cost": "65",
+        "range": "6",
+        "max_targets": "3",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [
@@ -25,7 +25,6 @@
     "isHeal": false,
     "isBuff": false,
     "tags": [
-        "anyone",
-        "harvest"
+        "anyone"
     ]
 }

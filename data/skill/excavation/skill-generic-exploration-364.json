@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-364",
     "name": "Exceptional Harvest Technique: Grave Goods",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the Chance to obtain Grave Goods from Graves.",

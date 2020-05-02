@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "duelist-inconceivable.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cost": "1",
-        "cost_type": "Pips",
-        "duration": "6 - 36 seconds",
-        "min_damage_1": "60",
+        "weapon_damage_value": "75",
         "max_damage_1": "90",
-        "weapon_damage_value": "75"
+        "min_damage_1": "60",
+        "duration": "6 - 36 seconds",
+        "cost_type": "Pips",
+        "cost": "1",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

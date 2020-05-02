@@ -1,7 +1,7 @@
 {
     "name": "Potion of Harvest: Gems and Minerals",
     "id": "alchemy-potion-harvesting-015",
-    "icon": "alchemy_potion_harvesting_015.png",
+    "icon": "alchemy-potion-harvesting-015.png",
     "description": "Creates a Potion of Harvest: Gems and Minerals, this can be used to increase Gem and Mineral Harvest chance on Mother Lodes for 30 minutes.",
     "outputQuantity": 1,
     "xp": 15,

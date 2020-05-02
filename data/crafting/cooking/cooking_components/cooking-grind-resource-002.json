@@ -1,7 +1,7 @@
 {
     "name": "Grind Food Items: Bulk",
     "id": "cooking-grind-resource-002",
-    "icon": "cooking_grind_resource_002.png",
+    "icon": "cooking-grind-resource-002.png",
     "description": "Crush or Grind potatoes and herbs for cooking recipes. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

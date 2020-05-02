@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: Woodworking",
     "id": "crafting-station-wood-001",
-    "icon": "crafting_station_wood_001.png",
+    "icon": "crafting-station-wood-001.png",
     "description": "Creates a deed for a Woodworking crafting station.",
     "outputQuantity": 1,
     "xp": 15,

@@ -2,6 +2,7 @@
     "id": "skill-combat-basic-01-04",
     "name": "Critical Healing Chance",
     "tree": "Combat Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6840,
     "description": "Increases Critical Healing Chance.",

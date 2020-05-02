@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Out of Combat Movement",
     "icon": "arcanearcher-ooc-movement.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Out of Combat Movement Speed",
-        "buff_amount_1": "15%",
+        "buff_amount_2": "25%",
         "buff_type_2": "Out of Combat Movement Speed",
-        "buff_amount_2": "25%"
+        "buff_amount_1": "15%",
+        "buff_type_1": "Out of Combat Movement Speed",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

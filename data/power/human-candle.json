@@ -5,11 +5,11 @@
     "shortDescription": "Increase Damage, Increase Resource Cost",
     "icon": "human-candle.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
+        "cost_type": "Resource",
         "cost": "25",
-        "cost_type": "Resource"
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

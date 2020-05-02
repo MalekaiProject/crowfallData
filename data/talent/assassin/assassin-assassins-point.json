@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Assassin's Point reduces the cooldown of Kidney Shot and Backstab by 30%.",
     "icon": "assassins-point.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Heart of Flame improves Maximum Health by 150 per point spent.",
     "icon": "heart-of-flame.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

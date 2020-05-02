@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-04-03",
     "name": "Frostcaster: Support Power",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Support Power while using a Frostcaster in your main hand.",

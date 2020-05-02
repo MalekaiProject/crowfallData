@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-02-05",
     "name": "Movement Control Defense",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Movement Control Defense while using Leather chest armor.",

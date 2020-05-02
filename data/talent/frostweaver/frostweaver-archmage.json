@@ -2,14 +2,19 @@
     "id": "frostweaver-archmage",
     "name": "Archmage",
     "class": "frostweaver",
-    "description": "This talent grants the Archmage passive power.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 7:\\nRanged Distance Bonus Cap\\n\\nIncreases by 10%:\\nIce Damage Bonus\\nIce Damage Cap",
+    "description": "This talent grants the Archmage passive power.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 7:\\nRanged Distance Bonus Cap\\n\\nIncreases by 10%:\\nIce Damage Bonus\\nIce Damage Cap\\n\\nTraits Granted:\\nFrostcaster Mastery",
     "icon": "archmage.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [
         {
             "id": "archmage",
             "name": "Archmage"
+        },
+        {
+            "id": "trait-frostcaster-mastery",
+            "name": "Frostcaster Mastery"
         }
     ],
     "unlockedFromSkill": [

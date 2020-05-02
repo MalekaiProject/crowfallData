@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Big Hands Of The Gods replaces Hand Of The Gods and doubles its aimed deploy radius.",
     "icon": "big-hands.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

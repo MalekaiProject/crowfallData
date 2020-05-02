@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "duelist-stealth-ambush.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "min_damage_1": "117",
+        "weapon_damage_value": "147",
         "max_damage_1": "176",
-        "weapon_damage_value": "147"
+        "min_damage_1": "117",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

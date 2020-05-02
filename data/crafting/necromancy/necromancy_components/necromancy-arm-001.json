@@ -1,7 +1,7 @@
 {
     "name": "Restored Arm",
     "id": "necromancy-arm-001",
-    "icon": "necromancy_arm_001.png",
+    "icon": "necromancy-arm-001.png",
     "description": "Restore a Desiccated Arm that is used to create a vessel.",
     "outputQuantity": 1,
     "xp": 30,

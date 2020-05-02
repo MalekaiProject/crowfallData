@@ -1,7 +1,7 @@
 {
     "name": "Caldera Parcel",
     "id": "stonemasonry-parcel-115",
-    "icon": "stonemasonry_parcel_115.png",
+    "icon": "stonemasonry-parcel-115.png",
     "description": "Creates a Rank 1Backer Reward  Caldera Parcel.",
     "outputQuantity": 1,
     "xp": 0,

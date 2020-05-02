@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-03-05",
     "name": "Sprint Efficiency",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Decreases Sprint Efficiency while using Plate chest armor.",

@@ -2,6 +2,7 @@
     "id": "skill-combat-range-02-04",
     "name": "Armor Penetration: Physical",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Armor Penetration: Physical while using a Ranged Weapon in your main hand.",

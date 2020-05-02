@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Stealth power tray and the Ambush power.\\n\\nWood-Elves purchasing this talent will lose the Camouflage racial power.\\n\\nTraits Granted:\\nStealther\\n\\nTraits Removed:\\nDaywalker\\nGaea's Inspiration",
     "icon": "robbery.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

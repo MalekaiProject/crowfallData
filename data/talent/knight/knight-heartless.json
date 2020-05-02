@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Heartless improves Hard Crowd Control by 6% per point spent.",
     "icon": "heartless.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

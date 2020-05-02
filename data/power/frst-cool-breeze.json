@@ -12,7 +12,7 @@
         "max_damage_1": "67",
         "min_damage_1": "55",
         "cost_type": "Mana",
-        "cost": "110",
+        "cost": "135",
         "range": "30",
         "max_targets": "1",
         "cooldown": "9",

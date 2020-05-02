@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Blur reduces the amount of Damage Taken by 2% per point spent.",
     "icon": "blur.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

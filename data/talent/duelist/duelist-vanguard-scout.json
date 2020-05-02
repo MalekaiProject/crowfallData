@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Vanguard Scout passive power.\\n\\nIncreases by 10%:\\nPiercing Damage Bonus\\nCrushing Damage Bonus\\nPiercing Damage Cap\\nCrushing Damage Cap\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery",
     "icon": "vanguard-scout.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

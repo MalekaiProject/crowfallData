@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Righteousness grants an 8% Damage Bonus for 8 seconds.",
     "icon": "frenzied-righteousness.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

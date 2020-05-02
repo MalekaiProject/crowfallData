@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Tactical Mastery improves Power Efficiency by 8% per point spent.",
     "icon": "tactical-mastery.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

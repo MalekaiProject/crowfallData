@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-356",
     "name": "Exceptional Shovels",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the Damage that Runestone Shovels can deal when digging.",

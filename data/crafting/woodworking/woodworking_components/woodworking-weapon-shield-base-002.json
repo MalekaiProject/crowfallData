@@ -1,7 +1,7 @@
 {
     "name": "Shield Base: Medium",
     "id": "woodworking-weapon-shield-base-002",
-    "icon": "woodworking_weapon_shield_base_002.png",
+    "icon": "woodworking-weapon-shield-base-002.png",
     "description": "Creates a Shield Base: Medium that is used to create a Medium Shield.",
     "outputQuantity": 1,
     "xp": 15,

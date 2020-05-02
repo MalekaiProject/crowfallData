@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Healing Rain power.",
     "icon": "healing-rain.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

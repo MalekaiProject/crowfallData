@@ -1,7 +1,7 @@
 {
     "name": "Great Weapon Crossguard",
     "id": "blacksmithing-weapon-crossguard-002",
-    "icon": "blacksmithing_weapon_crossguard_002.png",
+    "icon": "blacksmithing-weapon-crossguard-002.png",
     "description": "Creates a Great Weapon Crossguard that is used to create a Great Weapon Hilt.",
     "outputQuantity": 1,
     "xp": 15,

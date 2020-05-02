@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "confessor-talent-feel-burn.png",
     "stats": {
-        "cast_time": "Passive",
+        "duration": "10 seconds",
         "target": "Self",
-        "duration": "10 seconds"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

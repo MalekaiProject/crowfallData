@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "confessor-hellfire-2b.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "cooldown": "15",
-        "max_targets": "5",
-        "cost": "80",
-        "cost_type": "Mana",
-        "duration": "10 seconds",
+        "max_damage_1": "28",
         "min_damage_1": "23",
-        "max_damage_1": "28"
+        "duration": "10 seconds",
+        "cost_type": "Mana",
+        "cost": "80",
+        "max_targets": "5",
+        "cooldown": "15",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "",

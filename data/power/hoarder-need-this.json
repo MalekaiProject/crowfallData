@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Weak Points Grant Stamina",
     "icon": "hoarder-need-this.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "16",
         "buff_type_1": "Stamina",
-        "buff_amount_1": "16"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

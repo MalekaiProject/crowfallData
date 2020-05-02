@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Potential Energy improves Attack Power by 30 per point spent.",
     "icon": "potential-energy.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

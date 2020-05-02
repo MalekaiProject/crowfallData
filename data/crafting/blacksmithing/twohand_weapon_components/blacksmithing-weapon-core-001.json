@@ -1,7 +1,7 @@
 {
     "name": "Blade Rivets: Great",
     "id": "blacksmithing-weapon-core-001",
-    "icon": "blacksmithing_weapon_core_001.png",
+    "icon": "blacksmithing-weapon-core-001.png",
     "description": "Creates a set of Blade Rivets used to create a Great Bladed Weapon.",
     "outputQuantity": 1,
     "xp": 15,

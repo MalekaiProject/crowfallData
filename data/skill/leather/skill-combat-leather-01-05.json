@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-01-05",
     "name": "Attack Control Defense",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Attack Control Defense while using Leather chest armor.",

@@ -5,15 +5,15 @@
     "shortDescription": "Reduced Armor on Mother Load Resource Nodes",
     "icon": "foreman-take-it-down.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "6",
-        "cost": "2",
-        "cost_type": "Harvest Pips",
-        "duration": "8 seconds",
-        "buff_type_1": "Ore Mitigation",
+        "buff_type_2": "Stone Mitigation",
         "buff_amount_1": "45%",
-        "buff_type_2": "Stone Mitigation"
+        "buff_type_1": "Ore Mitigation",
+        "duration": "8 seconds",
+        "cost_type": "Harvest Pips",
+        "cost": "2",
+        "cooldown": "6",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

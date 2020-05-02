@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Unlock a Major Discipline slot.",
     "icon": "cleric-major-ii.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 20,
     "grants": [],

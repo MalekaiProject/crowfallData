@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-01-03",
     "name": "Armor Penetration: Physical",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 11520,
     "description": "Increases Armor Penetration: Physical while using a Main Hand Weapon.",

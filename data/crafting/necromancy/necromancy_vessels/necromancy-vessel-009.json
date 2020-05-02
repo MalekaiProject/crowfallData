@@ -1,7 +1,7 @@
 {
     "name": "Stoneborn Vessel",
     "id": "necromancy-vessel-009",
-    "icon": "necromancy_vessel_009.png",
+    "icon": "necromancy-vessel-009.png",
     "description": "Creates a Stoneborn Vessel.",
     "outputQuantity": 1,
     "xp": 45,
@@ -64,7 +64,7 @@
         },
         {
             "name": "Philosopher's Stone",
-            "id": "philosopher-s-stone",
+            "id": "philosophers-stone",
             "icon": "Philosopher's Stone.png",
             "quantity": 1,
             "slotIndex": 6,

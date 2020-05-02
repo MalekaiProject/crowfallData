@@ -1,7 +1,7 @@
 {
     "name": "Cake",
     "id": "cooking-cake-001",
-    "icon": "cooking_cake_001.png",
+    "icon": "cooking-cake-001.png",
     "description": "Creates some delicious Cake. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

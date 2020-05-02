@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Slow Growth passive power.\\n\\n\\nWARNING: Purchasing this talent prevents you from purchasing the Quick Burn talent.",
     "icon": "slow-growth.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -20,6 +21,6 @@
     ],
     "unlocksSkill": [],
     "locksSkill": [
-        "quick-burn"
+        "druid-quick-burn"
     ]
 }

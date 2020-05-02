@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-01-02",
     "name": "Electricity Resistance",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Electricity Resistance while wearing armor.",

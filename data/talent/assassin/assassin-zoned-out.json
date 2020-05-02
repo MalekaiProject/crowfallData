@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Zoned Out increases the duration of In The Zone by 3 seconds per PIP spent.",
     "icon": "zoned-out.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

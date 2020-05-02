@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Anti-Critical Strike",
     "icon": "racial-passive-anti-critical-strike.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "3%",
         "buff_type_1": "Anti-Critical Strike",
-        "buff_amount_1": "3%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

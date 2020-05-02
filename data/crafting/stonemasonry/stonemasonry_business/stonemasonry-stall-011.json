@@ -1,7 +1,7 @@
 {
     "name": "Necromancy Themed Stall",
     "id": "stonemasonry-stall-011",
-    "icon": "stonemasonry_stall_011.png",
+    "icon": "stonemasonry-stall-011.png",
     "description": "Creates a Necromancy Themed Vendor Stall you can place in your EK which you will place your vendor in to sell your wares.",
     "outputQuantity": 1,
     "xp": 30,

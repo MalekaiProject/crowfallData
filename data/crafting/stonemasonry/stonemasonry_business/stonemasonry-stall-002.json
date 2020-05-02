@@ -1,7 +1,7 @@
 {
     "name": "General Vendor Stall",
     "id": "stonemasonry-stall-002",
-    "icon": "stonemasonry_stall_002.png",
+    "icon": "stonemasonry-stall-002.png",
     "description": "Creates a Basic Vendor Stall with a base you can place in your EK which you will place your vendor in to sell your wares.",
     "outputQuantity": 1,
     "xp": 30,

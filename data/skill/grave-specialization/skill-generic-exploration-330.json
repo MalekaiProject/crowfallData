@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-330",
     "name": "Guinecean Grave Basics",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases your chance for a Critical Harvest when digging a Guinecean Grave. Critical harvests produce Necromancy Additives.",

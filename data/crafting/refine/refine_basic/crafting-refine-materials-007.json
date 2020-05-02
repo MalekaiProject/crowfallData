@@ -1,9 +1,9 @@
 {
     "name": "Refine Pelt",
     "id": "crafting-refine-materials-007",
-    "icon": "crafting_refine_materials_007.png",
+    "icon": "crafting-refine-materials-007.png",
     "description": "Refine Pelts into Hide.",
-    "outputQuantity": 200,
+    "outputQuantity": 50,
     "xp": 0,
     "category": "refine",
     "subCategory": "refine_basic",

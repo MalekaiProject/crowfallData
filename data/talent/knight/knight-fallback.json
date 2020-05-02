@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Fallback enhances Pursuit to apply a Barrier to the player when it ends.",
     "icon": "fallback.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

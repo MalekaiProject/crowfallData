@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-02-04",
     "name": "Pistol: Critical Strike",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Critical Strike while using a Pistol in your main hand.",

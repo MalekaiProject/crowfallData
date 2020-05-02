@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-04-03",
     "name": "Decay Rate: Plate",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Decay Rate: Plate while using Plate chest armor.",

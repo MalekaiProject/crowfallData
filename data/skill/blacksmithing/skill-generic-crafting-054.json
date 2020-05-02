@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-054",
     "name": "Blacksmithing Mastery",
     "tree": "Blacksmithing",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 40320,
     "description": "Increases the chance of Experimentation Success, the maximum potential value of Blacksmithing Assembly, Blacksmithing Experimentation, and Experimentation Points available  while crafting Blacksmithing items. Also enhances the power of Buffs that Blacksmithing Stations grant when they have a Thrall inhabiting them.",

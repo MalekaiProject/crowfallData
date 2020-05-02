@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Fanatical enhances Holy Warrior to reduce its cooldown by 24 seconds and improves Zealotry gains by 50%. Holy Warrior will also heal your most injured group member in addition to yourself while scaling with Support Power.",
     "icon": "fanatical.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Dream Away improves Critical Healing Amount by 2% per point spent.",
     "icon": "dream-away.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

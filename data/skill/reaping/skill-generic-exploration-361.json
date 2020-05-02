@@ -2,9 +2,10 @@
     "id": "skill-generic-exploration-361",
     "name": "Reaping Basics",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
-    "description": "Increases chance to harvest Ethereal Dust while harvesting Wood or Plants. Also increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning or logging.",
+    "description": "Increases chance to harvest Ethereal Dust when logging Wood. Also increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning or logging.",
     "icon": "skill-generic-exploration-361.png",
     "stats": [
         {

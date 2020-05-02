@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Hammer Time reduces Blessed Hammer cost by 3 Mana per point spent.",
     "icon": "hammer-time.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

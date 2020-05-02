@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-083",
     "name": "Leatherworking Mastery",
     "tree": "Leatherworking",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 40320,
     "description": "Increases the chance of Experimentation Success, the maximum potential value of Leatherworking Assembly, Leatherworking Experimentation, and Experimentation Points available  while crafting Leatherworking items. Also enhances the power of Buffs that Leatherworking Stations grant when they have a Thrall inhabiting them.",

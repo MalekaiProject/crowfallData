@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Adds the poison debuff to an enemy on every third Basic attack.",
     "icon": "poisoner-poison-basic.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

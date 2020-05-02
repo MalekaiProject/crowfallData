@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Targets Debuff Anti-Critical Strike",
     "icon": "mortal-sin.png",
     "stats": {
-        "cast_time": "Passive",
+        "buff_amount_1": "2%",
         "target": "Self",
-        "buff_amount_1": "2%"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

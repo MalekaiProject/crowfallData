@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Shroud Of Darkness power.",
     "icon": "shroud-of-darkness.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

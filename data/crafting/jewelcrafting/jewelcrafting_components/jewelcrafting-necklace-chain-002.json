@@ -1,7 +1,7 @@
 {
     "name": "Necklace Chain",
     "id": "jewelcrafting-necklace-chain-002",
-    "icon": "jewelcrafting_necklace_chain_002.png",
+    "icon": "jewelcrafting-necklace-chain-002.png",
     "description": "Creates a Necklace Chain that is used to create a Necklace.",
     "outputQuantity": 1,
     "xp": 7.5,

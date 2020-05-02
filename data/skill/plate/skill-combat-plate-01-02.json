@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-01-02",
     "name": "Fire Resistance",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Fire Resistance while using Plate chest armor.",

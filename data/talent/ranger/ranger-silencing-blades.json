@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Silencing Blades enhances Dagger Spin to embed Silencing Blades on each target hit. Anytime a target reaches 3 Silencing Blades, that target becomes suppressed.",
     "icon": "silencing-blades.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

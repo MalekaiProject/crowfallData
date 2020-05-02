@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Archers Stake power.",
     "icon": "archers-stake.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

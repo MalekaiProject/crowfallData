@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-210",
     "name": "Stonemasonry Assembly Cap",
     "tree": "Stonemasonry",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the maximum potential value of Stonemasonry Assembly.",

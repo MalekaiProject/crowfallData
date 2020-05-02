@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Divine Intervention improves Critical Healing Chance by 2% per point spent.",
     "icon": "divine-intervention.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,7 +1,7 @@
 {
     "name": "Frame",
     "id": "stonemasonry-arc-component-004",
-    "icon": "stonemasonry_arc_component_004.png",
+    "icon": "stonemasonry-arc-component-004.png",
     "description": "Creates a Frame used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

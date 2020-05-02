@@ -1,7 +1,7 @@
 {
     "name": "Half-Giant Vessel",
     "id": "necromancy-vessel-006",
-    "icon": "necromancy_vessel_006.png",
+    "icon": "necromancy-vessel-006.png",
     "description": "Creates a Half-Giant Vessel.",
     "outputQuantity": 1,
     "xp": 45,
@@ -64,7 +64,7 @@
         },
         {
             "name": "Philosopher's Stone",
-            "id": "philosopher-s-stone",
+            "id": "philosophers-stone",
             "icon": "Philosopher's Stone.png",
             "quantity": 1,
             "slotIndex": 6,

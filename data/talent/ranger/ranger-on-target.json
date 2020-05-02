@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "On Target improves Critical Damage by 5% per point spent.",
     "icon": "on-target.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

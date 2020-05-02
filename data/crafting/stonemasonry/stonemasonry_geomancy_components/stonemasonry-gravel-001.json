@@ -1,7 +1,7 @@
 {
     "name": "Gravel",
     "id": "stonemasonry-gravel-001",
-    "icon": "stonemasonry_gravel_001.png",
+    "icon": "stonemasonry-gravel-001.png",
     "description": "Creates Gravel used for crafting Parcels. Non-Basic Stone is either Marble, Slate, Travertine, Granite, or Limestone.",
     "outputQuantity": 1,
     "xp": 3.75,

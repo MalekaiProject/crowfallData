@@ -1,7 +1,7 @@
 {
     "name": "Rune Themed Stall",
     "id": "stonemasonry-stall-009",
-    "icon": "stonemasonry_stall_009.png",
+    "icon": "stonemasonry-stall-009.png",
     "description": "Creates a Rune Themed Vendor Stall you can place in your EK which you will place your vendor in to sell your wares.",
     "outputQuantity": 1,
     "xp": 30,

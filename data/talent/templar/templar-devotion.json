@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "This talent grants the Devotion power.",
     "icon": "devotion.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

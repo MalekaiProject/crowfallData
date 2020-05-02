@@ -1,0 +1,26 @@
+{
+    "id": "duelist-vanish",
+    "name": "Vanish",
+    "description": "lets you dive into your Burrow becoming immune to damage and control effects for a short time and leaving an explosive decoy in your place that explodes for 213 - 320 + 267% Weapon Damage.\\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "shortDescription": "",
+    "icon": "duelist-vanish.png",
+    "stats": {
+        "weapon_damage_value": "267",
+        "max_damage_1": "320",
+        "min_damage_1": "213",
+        "cost_type": "Soul Power",
+        "cost": "1000",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "duelist"
+    ]
+}

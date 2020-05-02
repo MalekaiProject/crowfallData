@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Freeze Recruit Freeze! enhances Noble Blood to also Root enemies.",
     "icon": "freeze-recruit-freeze.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

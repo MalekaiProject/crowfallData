@@ -1,7 +1,7 @@
 {
     "name": "Centaur Vessel",
     "id": "necromancy-vessel-010",
-    "icon": "necromancy_vessel_010.png",
+    "icon": "necromancy-vessel-010.png",
     "description": "Creates a Centaur Vessel.",
     "outputQuantity": 1,
     "xp": 45,
@@ -55,7 +55,7 @@
         },
         {
             "name": "Philosopher's Stone",
-            "id": "philosopher-s-stone",
+            "id": "philosophers-stone",
             "icon": "Philosopher's Stone.png",
             "quantity": 1,
             "slotIndex": 6,

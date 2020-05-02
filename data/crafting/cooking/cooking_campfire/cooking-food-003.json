@@ -1,7 +1,7 @@
 {
     "name": "Roasted Produce",
     "id": "cooking-food-003",
-    "icon": "cooking_food_003.png",
+    "icon": "cooking-food-003.png",
     "description": "Creates Roasted Produce. Roast apples, carrots, potatoes, mushrooms, onions, and peppers for a zesty and quick snack! Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: General",
     "id": "crafting-station-basic-001",
-    "icon": "crafting_station_basic_001.png",
+    "icon": "crafting-station-basic-001.png",
     "description": "Creates a deed for an Intermediate crafting station. - Used to create intermediate weapons and their components.",
     "outputQuantity": 1,
     "xp": 7.5,

@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Deplorable improves Hard Control Intensity by 7% per point spent.",
     "icon": "deplorable.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

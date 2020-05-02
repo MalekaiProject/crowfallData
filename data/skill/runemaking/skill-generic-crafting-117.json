@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-117",
     "name": "Runemaking Assembly",
     "tree": "Runemaking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the chance of Assembly Success when assembling Runemaking items.",

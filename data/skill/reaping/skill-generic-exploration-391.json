@@ -2,9 +2,10 @@
     "id": "skill-generic-exploration-391",
     "name": "Heartwood Harvesting: Wood",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
-    "description": "Grants the ability to harvest Heartwood from Trees.",
+    "description": "Increases the Chance to obtain Heartwood from Trees.",
     "icon": "skill-generic-exploration-391.png",
     "stats": [
         {

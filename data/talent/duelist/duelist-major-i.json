@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Unlock a Major Discipline slot.",
     "icon": "duelist-major-i.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

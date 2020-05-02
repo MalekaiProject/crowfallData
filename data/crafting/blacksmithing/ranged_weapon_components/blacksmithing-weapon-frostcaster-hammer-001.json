@@ -1,7 +1,7 @@
 {
     "name": "Mana Impeller",
     "id": "blacksmithing-weapon-frostcaster-hammer-001",
-    "icon": "blacksmithing_weapon_frostcaster_hammer_001.png",
+    "icon": "blacksmithing-weapon-frostcaster-hammer-001.png",
     "description": "Creates a Mana Impeller that is used to create a Frostcaster",
     "outputQuantity": 1,
     "xp": 15,

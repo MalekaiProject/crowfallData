@@ -1,7 +1,7 @@
 {
     "name": "Ring Band",
     "id": "jewelcrafting-ring-band-001",
-    "icon": "jewelcrafting_ring_band_001.png",
+    "icon": "jewelcrafting-ring-band-001.png",
     "description": "Creates a Ring Band that is used to create a Ring.",
     "outputQuantity": 1,
     "xp": 7.5,

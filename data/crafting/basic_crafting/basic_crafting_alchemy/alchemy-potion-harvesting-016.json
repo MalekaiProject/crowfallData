@@ -1,7 +1,7 @@
 {
     "name": "Basic Potion of Harvest: Dust",
     "id": "alchemy-potion-harvesting-016",
-    "icon": "alchemy_potion_harvesting_016.png",
+    "icon": "alchemy-potion-harvesting-016.png",
     "description": "Creates a Basic Potion of Harvest: Dust, this can be used to increase bonus Ethereal Dust when harvesting Basic Resources for 10 minutes.",
     "outputQuantity": 1,
     "xp": 8,

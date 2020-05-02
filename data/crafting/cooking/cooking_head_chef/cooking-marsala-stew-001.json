@@ -1,7 +1,7 @@
 {
     "name": "Marsala Stew",
     "id": "cooking-marsala-stew-001",
-    "icon": "cooking_marsala_stew_001.png",
+    "icon": "cooking-marsala-stew-001.png",
     "description": "Creates some Marsala Stew. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

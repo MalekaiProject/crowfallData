@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Here I Go Killing Again enhances Frenzy to also enable Neck Slash when hitting with Gore, Colossus Smash, Net Pull and Cross Gashes.",
     "icon": "here-i-go-killing-again.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

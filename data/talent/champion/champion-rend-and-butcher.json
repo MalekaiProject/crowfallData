@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Rend and Butcher enhances Rend to reduce an enemy's Anti-Critical Strike by 7%.",
     "icon": "rend-and-butcher.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

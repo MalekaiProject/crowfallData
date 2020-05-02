@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Atone improves Attack Crowd Control by 6% per point spent.",
     "icon": "atone.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

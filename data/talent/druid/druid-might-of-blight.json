@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Might of Blight enhances Blight to cause Orbs in your field to deal 25% more damage when they explode.",
     "icon": "might-of-blight.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

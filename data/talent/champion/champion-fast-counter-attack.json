@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Fast Counter-Attack enhances Retaliate abilities to also recover 35 Stamina over 7 seconds.",
     "icon": "fast-counter-attack.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

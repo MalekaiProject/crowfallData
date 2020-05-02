@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-02-01",
     "name": "Damage Bonus",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Damage Bonus while using Leather chest armor.",

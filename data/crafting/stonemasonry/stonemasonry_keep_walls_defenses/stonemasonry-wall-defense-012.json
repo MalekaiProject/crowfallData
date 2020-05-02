@@ -1,7 +1,7 @@
 {
     "name": "Wall Panel: Window",
     "id": "stonemasonry-wall-defense-012",
-    "icon": "stonemasonry_wall_defense_012.png",
+    "icon": "stonemasonry-wall-defense-012.png",
     "description": "Creates a Stone Wall Panel: Window Deed.",
     "outputQuantity": 1,
     "xp": 45,

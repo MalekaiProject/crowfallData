@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Blocks Reflect Elemental Damage",
     "icon": "shieldfighter-molon-labe.png",
     "stats": {
-        "cast_time": "Passive",
+        "weapon_damage_value": "100",
         "target": "Self",
-        "weapon_damage_value": "100"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

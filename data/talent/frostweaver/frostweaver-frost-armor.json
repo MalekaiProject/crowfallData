@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Frost Armor power.",
     "icon": "frost-armor.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

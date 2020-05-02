@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "champion-brutal-warrior.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "max_targets": "5",
-        "range": "5",
-        "cost": "100",
-        "cost_type": "Hate",
-        "min_damage_1": "89",
+        "weapon_damage_value": "105",
         "max_damage_1": "121",
-        "weapon_damage_value": "105"
+        "min_damage_1": "89",
+        "cost_type": "Hate",
+        "cost": "100",
+        "range": "5",
+        "max_targets": "5",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

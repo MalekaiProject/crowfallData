@@ -1,7 +1,7 @@
 {
     "name": "Shield Base: Large",
     "id": "woodworking-weapon-shield-base-003",
-    "icon": "woodworking_weapon_shield_base_003.png",
+    "icon": "woodworking-weapon-shield-base-003.png",
     "description": "Creates a Shield Base: Large that is used to create a Tower Shield.",
     "outputQuantity": 1,
     "xp": 15,

@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "ranger-tendon-slice.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "24",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "131",
-        "cost_type": "Energy",
-        "min_damage_1": "162",
+        "weapon_damage_value": "190",
         "max_damage_1": "219",
-        "weapon_damage_value": "190"
+        "min_damage_1": "162",
+        "cost_type": "Energy",
+        "cost": "131",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "24",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

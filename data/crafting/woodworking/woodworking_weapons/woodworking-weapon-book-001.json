@@ -1,7 +1,7 @@
 {
     "name": "Book",
     "id": "woodworking-weapon-book-001",
-    "icon": "woodworking_weapon_book_001.png",
+    "icon": "woodworking-weapon-book-001.png",
     "description": "Creates a Book of Arkon, usable by those who are proficient with Books.",
     "outputQuantity": 1,
     "xp": 45,

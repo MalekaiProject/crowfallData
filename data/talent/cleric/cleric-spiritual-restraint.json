@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Spiritual Restraint improves Movement Control Intensity by 5% and Support Power by 100 per point spent.",
     "icon": "spiritual-restraint.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

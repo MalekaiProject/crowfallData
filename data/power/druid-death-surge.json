@@ -1,0 +1,28 @@
+{
+    "id": "druid-death-surge",
+    "name": "Death Surge",
+    "description": "pulls nearby enemies towards you, and repeatedly inflicts 40 - 60 + 50% Weapon Damage as Nature Damage.\\n\\nRestores 25% to 35% of your maximum Health, and gain the Power of Death when the power ends. Power of Death grants a 10% Damage Bonus for 30 seconds.\\n\\nYou gain a damage preventing barrier and your Expose and Dizzy statuses are removed while casting this power. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "shortDescription": "",
+    "icon": "druid-death-surge.png",
+    "stats": {
+        "min_damage_2": "1500",
+        "weapon_damage_value": "50",
+        "max_damage_1": "60",
+        "min_damage_1": "40",
+        "buff_amount_1": "5%",
+        "range": "8",
+        "cooldown": "5",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "druid_nuking"
+    ]
+}

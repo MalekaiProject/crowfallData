@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Knockdown Reduction; Increase Damage and Healing after being Knocked Down",
     "icon": "racial-passive-anti-knockdown.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "12 seconds",
-        "buff_type_1": "Damage Bonus",
+        "buff_type_2": "Healing Bonus",
         "buff_amount_1": "5%",
-        "buff_type_2": "Healing Bonus"
+        "buff_type_1": "Damage Bonus",
+        "duration": "12 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

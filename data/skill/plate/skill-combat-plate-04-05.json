@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-04-05",
     "name": "Sprint Movement Modifier",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Decreases Sprint Movement Modifier while using Plate chest armor.",

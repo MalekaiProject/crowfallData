@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Adds Quarrying specific Buffs to all Energetic Harvesting Buffs",
     "icon": "quarryman-empowered-quarrying.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

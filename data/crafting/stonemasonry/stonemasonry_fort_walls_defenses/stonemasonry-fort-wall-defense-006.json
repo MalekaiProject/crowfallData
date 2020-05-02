@@ -1,7 +1,7 @@
 {
     "name": "Wall 1x1",
     "id": "stonemasonry-fort-wall-defense-006",
-    "icon": "stonemasonry_fort_wall_defense_006.png",
+    "icon": "stonemasonry-fort-wall-defense-006.png",
     "description": "Creates a Wood Wall 1x1 Deed.",
     "outputQuantity": 1,
     "xp": 45,

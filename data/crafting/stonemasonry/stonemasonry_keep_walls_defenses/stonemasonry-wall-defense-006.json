@@ -1,7 +1,7 @@
 {
     "name": "Gatehouse",
     "id": "stonemasonry-wall-defense-006",
-    "icon": "stonemasonry_wall_defense_006.png",
+    "icon": "stonemasonry-wall-defense-006.png",
     "description": "Creates a Stone Gatehouse.",
     "outputQuantity": 1,
     "xp": 45,

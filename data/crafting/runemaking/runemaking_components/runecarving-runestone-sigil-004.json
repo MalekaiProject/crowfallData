@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Knife",
     "id": "runecarving-runestone-sigil-004",
-    "icon": "runecarving_runestone_sigil_004.png",
+    "icon": "runecarving-runestone-sigil-004.png",
     "description": "Crafting Component used in the assembly of a Runestone Knife. The combination of Ores used determines the properties of the Knife.",
     "outputQuantity": 1,
     "xp": 15,

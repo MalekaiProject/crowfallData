@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Combat Tactics improves Critical Strike by 2% per point spent.",
     "icon": "combat-tactics.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

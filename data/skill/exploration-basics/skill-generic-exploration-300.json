@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-300",
     "name": "Exploration Basics",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 2160,
+    "pipAmount": 3600,
     "description": "Increases chance to harvest Apples when logging Trees.",
     "icon": "skill-generic-exploration-300.png",
     "stats": [

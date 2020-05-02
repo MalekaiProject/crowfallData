@@ -1,7 +1,7 @@
 {
     "name": "Bon Tippers",
     "id": "cooking-bon-tippers-001",
-    "icon": "cooking_bon_tippers_001.png",
+    "icon": "cooking-bon-tippers-001.png",
     "description": "Creates a special batch of Bon Tippers. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

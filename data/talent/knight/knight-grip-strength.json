@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Grip Strength improves Power Efficiency and Power Efficiency Cap by 5% per point spent.",
     "icon": "grip-strength.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

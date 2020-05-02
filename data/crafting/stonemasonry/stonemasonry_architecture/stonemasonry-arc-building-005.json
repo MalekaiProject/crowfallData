@@ -1,7 +1,7 @@
 {
     "name": "Throne Lodge",
     "id": "stonemasonry-arc-building-005",
-    "icon": "stonemasonry_arc_building_005.png",
+    "icon": "stonemasonry-arc-building-005.png",
     "description": "Creates a Throne Lodge Deed.",
     "outputQuantity": 1,
     "xp": 45,

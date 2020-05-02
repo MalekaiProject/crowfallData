@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Percent each Experimentation Point is worth.",
     "icon": "attention-to-detail.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "1",
         "buff_type_1": "Additional Risk Points Value",
-        "buff_amount_1": "1"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

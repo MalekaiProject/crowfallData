@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Blood of Gaea improves Critical Healing Chance by 2% per point spent.",
     "icon": "blood-of-gaea.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

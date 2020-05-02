@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-162",
     "name": "Jewelcrafting Assembly",
     "tree": "Jewelcrafting",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increase the chance of Assembly Success when assembling Jewelcrafting items.",

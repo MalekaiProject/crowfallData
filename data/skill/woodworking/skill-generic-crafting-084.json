@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-084",
     "name": "Woodworking Novice",
     "tree": "Woodworking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the chance of Assembly Success when assembling Woodworking items.",

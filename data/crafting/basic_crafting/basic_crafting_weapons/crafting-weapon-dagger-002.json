@@ -1,7 +1,7 @@
 {
     "name": "Basic Dagger",
     "id": "crafting-weapon-dagger-002",
-    "icon": "crafting_weapon_dagger_002.png",
+    "icon": "crafting-weapon-dagger-002.png",
     "description": "Creates a Basic Dagger, usable by those who are proficient with Daggers.",
     "outputQuantity": 1,
     "xp": 7.5,

@@ -1,7 +1,7 @@
 {
     "name": "Stitched Leather",
     "id": "leatherworking-stitched-leather-001",
-    "icon": "leatherworking_stitched_leather_001.png",
+    "icon": "leatherworking-stitched-leather-001.png",
     "description": "Creates Stitched Leather that is used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

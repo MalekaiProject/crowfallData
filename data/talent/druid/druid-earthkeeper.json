@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants Soothing Winds and the Commune With Nature passive power.\\n\\nIncreases by 5%:\\nHealing Bonus\\nHealing Bonus Cap\\n\\nTraits Granted:\\nMystical Staff Mastery",
     "icon": "earthkeeper.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

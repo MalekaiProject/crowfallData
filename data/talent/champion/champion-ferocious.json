@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Ferocious improves Attack Power by 50 per point spent.",
     "icon": "ferocious.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

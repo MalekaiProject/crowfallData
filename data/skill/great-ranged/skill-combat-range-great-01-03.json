@@ -2,6 +2,7 @@
     "id": "skill-combat-range-great-01-03",
     "name": "Book: Attack Control Defense",
     "tree": "Great Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Attack Control Defense while using a Book.",

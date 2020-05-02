@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "champion-spinning-backfist.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "14",
-        "cost_type": "Rage",
-        "min_damage_1": "125",
-        "max_damage_1": "169",
+        "weapon_damage_type": "Crushing",
         "weapon_damage_value": "147",
-        "weapon_damage_type": "Crushing"
+        "max_damage_1": "169",
+        "min_damage_1": "125",
+        "cost_type": "Rage",
+        "cost": "14",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "champion-kicksand"

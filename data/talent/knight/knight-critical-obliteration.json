@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Critical Obliteration enhances Obliterate to cause Bleed effects to have a 100% Critical Strike.",
     "icon": "critical-obliteration.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

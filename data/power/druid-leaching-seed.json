@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "druid-leaching-seed.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Ray",
-        "cooldown": "45",
-        "max_targets": "1",
-        "range": "8",
+        "cost_type": "Essence",
         "cost": "35",
-        "cost_type": "Essence"
+        "range": "8",
+        "max_targets": "1",
+        "cooldown": "45",
+        "target": "Ray",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

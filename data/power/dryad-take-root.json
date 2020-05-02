@@ -5,13 +5,13 @@
     "shortDescription": "Passive: Standing Still Buffs Healing Bonus",
     "icon": "dryad-take-root.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "2 seconds",
-        "buff_type_1": "Healing Bonus",
-        "buff_amount_1": "5%",
+        "buff_amount_2": "5%",
         "buff_type_2": "Final Physical Mitigation",
-        "buff_amount_2": "5%"
+        "buff_amount_1": "5%",
+        "buff_type_1": "Healing Bonus",
+        "duration": "2 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

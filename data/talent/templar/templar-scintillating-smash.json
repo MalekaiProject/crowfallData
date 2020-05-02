@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Scintillating Smash enhances Righteous Smash to Slow enemies.",
     "icon": "scintillating-smash.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

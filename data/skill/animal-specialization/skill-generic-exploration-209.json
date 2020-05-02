@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-209",
     "name": "Plethora of Meat: Omnivores",
     "tree": "Animal Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the chance for bonus Animal Meat when skinning Omnivore Animals.",

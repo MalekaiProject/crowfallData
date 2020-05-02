@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Indictment enhances Censure to award one Pip when you hit an enemy.",
     "icon": "indictment.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

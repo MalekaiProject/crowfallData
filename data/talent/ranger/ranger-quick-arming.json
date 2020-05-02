@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Quick Arming enhances all Trap powers to reduce their cooldown by 50%.",
     "icon": "quick-arming.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

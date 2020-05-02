@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-384",
     "name": "Exceptional Plethora of Dust: Graves",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the chance for bonus Ethereal Dust when digging Graves.",

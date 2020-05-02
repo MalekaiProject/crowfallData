@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "This talent grants the Barbarian passive power.\\n\\nIncreases by 10%:\\nSlashing Damage Bonus\\nCrushing Damage Bonus\\nSlashing Damage Cap\\nCrushing Damage Cap\\n\\nTraits Granted:\\nGreat Axe Mastery\\nGreat Mace Mastery",
     "icon": "barbarian.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

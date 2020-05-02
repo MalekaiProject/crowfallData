@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-149",
     "name": "Necromancy Experimentation Points",
     "tree": "Necromancy",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the amount of Experimentation Points available when experimenting on Necromancy items.",

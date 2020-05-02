@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "In the Zone increases your Armor Penetration: Piercing by 10% while active.",
     "icon": "deep-cuts.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

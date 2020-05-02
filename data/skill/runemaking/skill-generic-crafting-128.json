@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-128",
     "name": "Research Mastery",
     "tree": "Runemaking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "Increases the chance of Assembly Success and Experimentation Success while crafting Runemaking items.",

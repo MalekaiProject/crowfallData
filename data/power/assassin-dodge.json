@@ -5,10 +5,10 @@
     "shortDescription": "Dash in a WASD direction",
     "icon": "assassin-dodge.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
+        "range": "13",
         "cooldown": "15",
-        "range": "13"
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

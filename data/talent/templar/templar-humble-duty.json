@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Humble Duty improves Maximum Health by 250 per point spent.",
     "icon": "humble-duty.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

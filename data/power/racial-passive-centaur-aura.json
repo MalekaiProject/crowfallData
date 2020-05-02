@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Groups Attack Power and Support Power",
     "icon": "racial-passive-centaur-aura.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Attack Power",
-        "buff_amount_1": "75",
+        "buff_amount_2": "75",
         "buff_type_2": "Support Power",
-        "buff_amount_2": "75"
+        "buff_amount_1": "75",
+        "buff_type_1": "Attack Power",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

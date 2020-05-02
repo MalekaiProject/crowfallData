@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-056",
     "name": "Excavation Basics",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Increases chance to harvest Ethereal Dust while harvesting Ore, Stone or Hunger Crystals. Also increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when excavating Ore, Stone or Graves.",

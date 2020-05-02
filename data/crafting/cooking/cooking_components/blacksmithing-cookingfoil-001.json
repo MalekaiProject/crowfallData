@@ -1,7 +1,7 @@
 {
     "name": "Cooking Foil",
     "id": "blacksmithing-cookingfoil-001",
-    "icon": "blacksmithing_cookingfoil_001.png",
+    "icon": "blacksmithing-cookingfoil-001.png",
     "description": "Creates Cooking Foil that is used in various Cooking recipes.\\nProduces 10.",
     "outputQuantity": 10,
     "xp": 0.38,

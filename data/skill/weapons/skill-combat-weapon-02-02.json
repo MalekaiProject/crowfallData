@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-02-02",
     "name": "Armor Penetration: Organic",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 16200,
     "description": "Increases Armor Penetration: Organic while using a Main Hand Weapon.",

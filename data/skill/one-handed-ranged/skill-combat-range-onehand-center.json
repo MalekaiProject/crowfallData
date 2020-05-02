@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-center",
     "name": "One-Handed Range Training",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "Increases Attack Power while using a One-Handed Range Weapon in your main hand.",

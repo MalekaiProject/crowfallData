@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-01-03",
     "name": "Dagger: Movement Control Intensity",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Movement Control Intensity while using a Dagger or Short Sword in your main hand.",

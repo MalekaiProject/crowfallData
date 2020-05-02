@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-04-04",
     "name": "Frostcaster: Armor Penetration: Elemental",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Armor Penetration: Elemental while using a Frostcaster in your main hand.",

@@ -1,7 +1,7 @@
 {
     "name": "Cottage",
     "id": "stonemasonry-arc-building-001",
-    "icon": "stonemasonry_arc_building_001.png",
+    "icon": "stonemasonry-arc-building-001.png",
     "description": "Creates a Small Cottage Deed.",
     "outputQuantity": 1,
     "xp": 45,

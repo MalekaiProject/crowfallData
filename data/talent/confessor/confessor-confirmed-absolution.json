@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Confirmed Absolution enhances Absolution to no longer consume Sin and always apply a Slow.",
     "icon": "confirmed-absolution.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

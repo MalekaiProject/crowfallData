@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Partial Indulgence increases the amount of Mana gained from the Fervor power by 50%.",
     "icon": "partial-indulgence.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

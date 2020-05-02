@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: Alchemy",
     "id": "crafting-station-alchemy-001",
-    "icon": "crafting_station_alchemy_001.png",
+    "icon": "crafting-station-alchemy-001.png",
     "description": "Creates a deed for an Alchemy crafting station.",
     "outputQuantity": 1,
     "xp": 7.5,

@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "duelist-flintlock-shot-quick-draw.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "15",
-        "min_damage_1": "107",
+        "weapon_damage_value": "134",
         "max_damage_1": "160",
-        "weapon_damage_value": "134"
+        "min_damage_1": "107",
+        "range": "15",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

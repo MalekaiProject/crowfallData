@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "This talent grants the Righteous Stand power.",
     "icon": "righteous-stand.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

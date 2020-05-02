@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-02-04",
     "name": "Attack Control Intensity",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Attack Control Intensity while using a Melee Weapon in your main hand.",

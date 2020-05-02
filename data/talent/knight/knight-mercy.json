@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Mercy improves Damage Bonus by 1% per point spent.",
     "icon": "mercy.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Powerhouse improves Armor Penetration: Physical by 1% per point spent.",
     "icon": "powerhouse.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

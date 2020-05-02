@@ -2,6 +2,7 @@
     "id": "skill-combat-range-03-02",
     "name": "Attack Control Intensity",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Attack Control Intensity while using a Ranged Weapon in your main hand.",

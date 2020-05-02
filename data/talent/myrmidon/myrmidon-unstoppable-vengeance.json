@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Unstoppable Vengeance enhances Vengeance to provide immunity and escape from Control Effects.",
     "icon": "unstoppable-vengeance.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

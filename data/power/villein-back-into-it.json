@@ -5,12 +5,12 @@
     "shortDescription": "Use Health to Gain Harvest Pips",
     "icon": "villein-back-into-it.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "12",
-        "cost": "1000",
+        "duration": "8 seconds",
         "cost_type": "Health",
-        "duration": "8 seconds"
+        "cost": "1000",
+        "cooldown": "12",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

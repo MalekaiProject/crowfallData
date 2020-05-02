@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Crit Defense on Low Health",
     "icon": "dig-in.png",
     "stats": {
-        "cast_time": "Passive",
+        "buff_amount_1": "25%",
         "target": "Self",
-        "buff_amount_1": "25%"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

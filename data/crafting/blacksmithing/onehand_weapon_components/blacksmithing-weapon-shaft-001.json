@@ -1,7 +1,7 @@
 {
     "name": "Weapon Shaft: Short",
     "id": "blacksmithing-weapon-shaft-001",
-    "icon": "blacksmithing_weapon_shaft_001.png",
+    "icon": "blacksmithing-weapon-shaft-001.png",
     "description": "Creates a Short Weapon Shaft that is used to create Axes, Hammer and Maces.",
     "outputQuantity": 1,
     "xp": 15,

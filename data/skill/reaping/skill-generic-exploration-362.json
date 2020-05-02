@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-362",
     "name": "Reaping Basics Mastery",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 15120,
     "description": "Increases the Duration and Power of any Beneficial Harvest effect. Also increases the size of Bonus Harvesting Inventories when you have an Inventory Bag of that type equipped.",

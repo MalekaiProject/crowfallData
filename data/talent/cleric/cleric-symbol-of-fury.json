@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Symbol of Fury enhances Holy Symbol to no longer cause healing and instead damage enemies within its radius.",
     "icon": "symbol-of-fury.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

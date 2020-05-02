@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-213",
     "name": "Stonemasonry Techniques Mastery",
     "tree": "Stonemasonry",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "Increases the chance of Assembly Success and the amount of Experimentation Points when assembling Stonemasonry items.",

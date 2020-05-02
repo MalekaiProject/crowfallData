@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-01-02",
     "name": "Great Sword: Critical Damage",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Critical Damage while using a Great Sword.",

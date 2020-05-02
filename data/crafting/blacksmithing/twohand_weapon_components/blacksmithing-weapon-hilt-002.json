@@ -1,7 +1,7 @@
 {
     "name": "Weapon Hilt: Great",
     "id": "blacksmithing-weapon-hilt-002",
-    "icon": "blacksmithing_weapon_hilt_002.png",
+    "icon": "blacksmithing-weapon-hilt-002.png",
     "description": "Creates a Great Weapon Hilt that is used to create Advanced Weapons.",
     "outputQuantity": 1,
     "xp": 30,

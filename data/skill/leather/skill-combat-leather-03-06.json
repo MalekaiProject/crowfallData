@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-03-06",
     "name": "Nature Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Nature Resistance while using Leather chest armor.",

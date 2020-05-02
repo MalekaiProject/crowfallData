@@ -1,7 +1,7 @@
 {
     "name": "Basic Great Axe",
     "id": "crafting-weapon-two-hand-axe-001",
-    "icon": "crafting_weapon_two_hand_axe_001.png",
+    "icon": "crafting-weapon-two-hand-axe-001.png",
     "description": "Creates a Basic Great Axe, usable by those who are proficient with Great Axes.",
     "outputQuantity": 1,
     "xp": 7.5,

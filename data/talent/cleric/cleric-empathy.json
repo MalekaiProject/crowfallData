@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Empathy improves Critical Healing Chance by 1% per point spent.",
     "icon": "empathy.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

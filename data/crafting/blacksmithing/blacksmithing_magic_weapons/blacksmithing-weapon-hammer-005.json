@@ -1,7 +1,7 @@
 {
     "name": "Runic Mystical Throwing Hammer",
     "id": "blacksmithing-weapon-hammer-005",
-    "icon": "blacksmithing_weapon_hammer_005.png",
+    "icon": "blacksmithing-weapon-hammer-005.png",
     "description": "Creates a Mystical Throwing Hammer, usable by those who have a mastery of Hammers.",
     "outputQuantity": 1,
     "xp": 45,

@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-04-02",
     "name": "Disease Resistance",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Disease Resistance while using Plate chest armor.",

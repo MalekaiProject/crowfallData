@@ -5,11 +5,11 @@
     "shortDescription": "Passive: Increase Logging and Quarrying",
     "icon": "racial-passive-harvest-quarrying.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Logging",
+        "buff_type_2": "Quarrying",
         "buff_amount_1": "10",
-        "buff_type_2": "Quarrying"
+        "buff_type_1": "Logging",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

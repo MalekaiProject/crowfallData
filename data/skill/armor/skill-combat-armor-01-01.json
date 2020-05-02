@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-01-01",
     "name": "Decay Rate: Armor",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Decay Rate: Armor while wearing armor.",

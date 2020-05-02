@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-03-02",
     "name": "Critical Healing Chance",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 16200,
     "description": "Increases Critical Healing Chance while using a Main Hand Weapon.",

@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Role: Ranged Damage\\n\\nEschewing the balance of nature for pure destruction, the caller of storms has one purpose...\\n\\nGrants the powers:\\nResurrection\\nKinetic Boost\\n\\nThe Call Storm power will now also apply a Severe Electrocution DoT to enemies.\\n\\nTraits Granted:\\nBuckler Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Stormcaller promotion class and prevents access to the Archdruid and Earthkeeper promotion classes.",
     "icon": "promotion-class-stormcaller.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -30,7 +31,7 @@
         "druid-weather-sense"
     ],
     "locksSkill": [
-        "promotion-class-archdruid",
-        "promotion-class-earthkeeper"
+        "druid-promotion-class-archdruid",
+        "druid-promotion-class-earthkeeper"
     ]
 }

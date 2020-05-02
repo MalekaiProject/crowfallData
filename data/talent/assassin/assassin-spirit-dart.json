@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "This talent grants the Spirit Dart power.",
     "icon": "spirit-dart.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

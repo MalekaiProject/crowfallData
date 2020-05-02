@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Death",
     "id": "runecarving-runestone-sigil-006",
-    "icon": "runecarving_runestone_sigil_006.png",
+    "icon": "runecarving-runestone-sigil-006.png",
     "description": "Crafting Component used in the assembly of a Runestone: Death.",
     "outputQuantity": 1,
     "xp": 15,

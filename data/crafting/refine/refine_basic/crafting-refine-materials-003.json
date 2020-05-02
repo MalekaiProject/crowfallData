@@ -1,9 +1,9 @@
 {
     "name": "Refine Boulder",
     "id": "crafting-refine-materials-003",
-    "icon": "crafting_refine_materials_003.png",
+    "icon": "crafting-refine-materials-003.png",
     "description": "Refine Boulders into Stone.",
-    "outputQuantity": 200,
+    "outputQuantity": 50,
     "xp": 0,
     "category": "refine",
     "subCategory": "refine_basic",

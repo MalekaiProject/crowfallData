@@ -2,6 +2,7 @@
     "id": "skill-combat-basic-mastery",
     "name": "Basic Combat Mastery",
     "tree": "Combat Basics",
+    "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 10800,
     "description": "Increases Health, Stamina, and Resist All.\\n\\nTraits Granted:\\nMark of Faith",

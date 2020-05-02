@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-212",
     "name": "Thrall Presence",
     "tree": "Stonemasonry",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Enhances the power of Buffs that Stonemasonry Stations grant when they have a Thrall inhabiting them.",

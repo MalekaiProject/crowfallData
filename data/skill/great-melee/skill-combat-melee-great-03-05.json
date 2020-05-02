@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-03-05",
     "name": "Great Mace: Power Efficiency",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Power Efficiency while using a Great Mace.",

@@ -5,15 +5,15 @@
     "shortDescription": "Attack Multiple Enemies",
     "icon": "shieldfighter-shield-throw.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "range": "15",
-        "cost": "16",
-        "cost_type": "Resource",
-        "min_damage_1": "85",
+        "weapon_damage_value": "100",
         "max_damage_1": "115",
-        "weapon_damage_value": "100"
+        "min_damage_1": "85",
+        "cost_type": "Resource",
+        "cost": "16",
+        "range": "15",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

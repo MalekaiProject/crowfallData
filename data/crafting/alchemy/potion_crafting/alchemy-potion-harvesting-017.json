@@ -1,7 +1,7 @@
 {
     "name": "Potion of Sapho",
     "id": "alchemy-potion-harvesting-017",
-    "icon": "alchemy_potion_harvesting_017.png",
+    "icon": "alchemy-potion-harvesting-017.png",
     "description": "Creates a Potion of Sapho, this can be used to increase All Crafting Experimentation Point Caps by 4 for 5 minutes.",
     "outputQuantity": 1,
     "xp": 15,

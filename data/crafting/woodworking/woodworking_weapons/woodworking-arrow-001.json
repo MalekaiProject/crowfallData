@@ -1,7 +1,7 @@
 {
     "name": "Advanced Arrows",
     "id": "woodworking-arrow-001",
-    "icon": "woodworking_arrow_001.png",
+    "icon": "woodworking-arrow-001.png",
     "description": "Creates some Piercing Arrows.Produces 500.",
     "outputQuantity": 500,
     "xp": 0.01,

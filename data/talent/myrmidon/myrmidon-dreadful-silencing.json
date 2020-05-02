@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Dreadful Silencing enhances Neck Slash to also inflict Suppression.",
     "icon": "dreadful-silencing.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-033",
     "name": "Blacksmithing Craftsmanship",
     "tree": "Blacksmithing",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the chance of Experimentation Success and the amount of Experimentation Points while experimenting on Blacksmithing items.",

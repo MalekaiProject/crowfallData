@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "duelist-stealth-cheap-shots.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Ray",
-        "max_targets": "1",
-        "range": "15",
-        "min_damage_1": "65",
+        "weapon_damage_value": "81",
         "max_damage_1": "97",
-        "weapon_damage_value": "81"
+        "min_damage_1": "65",
+        "range": "16",
+        "max_targets": "1",
+        "target": "Ray",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

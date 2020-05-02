@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Fury of the Storm increases your Damage Bonus by 1% per point spent.",
     "icon": "fury-of-the-storm.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

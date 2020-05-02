@@ -5,8 +5,48 @@
     "requiredBy": [],
     "grantedBy": [
         {
-            "id": "skill-generic-exploration-303",
-            "name": "Movement"
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "confessor",
+            "name": "Confessor"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "druid",
+            "name": "Druid"
+        },
+        {
+            "id": "frostweaver",
+            "name": "Frostweaver"
+        },
+        {
+            "id": "duelist",
+            "name": "Duelist"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
         }
     ]
 }

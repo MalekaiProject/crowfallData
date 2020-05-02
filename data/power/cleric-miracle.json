@@ -1,0 +1,30 @@
+{
+    "id": "cleric-miracle",
+    "name": "Miracle",
+    "description": "heals group members and you instantly for 225 - 275 + 100% Support Power, increasing their Critical Strike by 5% for 15 seconds and restoring some of your own Mana. \\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "shortDescription": "",
+    "icon": "cleric-miracle.png",
+    "stats": {
+        "weapon_damage_value": "100",
+        "max_damage_1": "275",
+        "min_damage_1": "225",
+        "buff_amount_1": "15",
+        "buff_type_1": "Critical Strike",
+        "cost_type": "Soul Power",
+        "cost": "1000",
+        "range": "50",
+        "max_targets": "5",
+        "target": "Group",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric"
+    ]
+}

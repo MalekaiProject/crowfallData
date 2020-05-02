@@ -1,7 +1,7 @@
 {
     "name": "Runic Pistol",
     "id": "blacksmithing-weapon-pistol-005",
-    "icon": "blacksmithing_weapon_pistol_005.png",
+    "icon": "blacksmithing-weapon-pistol-005.png",
     "description": "Creates a Pistol, usable by those who have a mastery of Off Hand Pistols.",
     "outputQuantity": 1,
     "xp": 45,

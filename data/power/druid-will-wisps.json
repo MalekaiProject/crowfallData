@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "druid-will-wisps.png",
     "stats": {
-        "cast_time": "Charged",
-        "target": "Area",
-        "cooldown": "25",
-        "max_targets": "5",
-        "cost": "63",
-        "cost_type": "Essence",
-        "min_damage_1": "108",
+        "weapon_damage_value": "48",
         "max_damage_1": "132",
-        "weapon_damage_value": "48"
+        "min_damage_1": "108",
+        "cost_type": "Essence",
+        "cost": "63",
+        "max_targets": "5",
+        "cooldown": "25",
+        "target": "Area",
+        "cast_time": "Charged"
     },
     "nextChain": [],
     "lastChain": [],

@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-01-06",
     "name": "Ice Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Ice Resistance while using Leather chest armor.",

@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-166",
     "name": "Carrying Capacity: Stone",
     "tree": "Stone Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the Bonus Inventory size of equipped Quarryman's Bags.",

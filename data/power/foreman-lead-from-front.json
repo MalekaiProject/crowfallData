@@ -5,13 +5,13 @@
     "shortDescription": "Passive: Harvests Increase Group's Weak Spot Statistics",
     "icon": "foreman-lead-from-front.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "20 seconds",
-        "buff_type_1": "Weak Spot Chance",
-        "buff_amount_1": "2%",
+        "buff_amount_2": "4%",
         "buff_type_2": "Weak Spot Amount",
-        "buff_amount_2": "4%"
+        "buff_amount_1": "2%",
+        "buff_type_1": "Weak Spot Chance",
+        "duration": "20 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

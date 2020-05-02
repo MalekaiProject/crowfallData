@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-04-04",
     "name": "Nature Resistance",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Nature Resistance while using Plate chest armor.",

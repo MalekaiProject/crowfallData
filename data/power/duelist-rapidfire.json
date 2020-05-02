@@ -5,15 +5,15 @@
     "shortDescription": "Attack: Pistol Shot Resets Cooldown; Expose Punish",
     "icon": "duelist-rapidfire.png",
     "stats": {
-        "cast_time": "Channeled",
-        "target": "Ray",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "15",
-        "cost_type": "Pips",
-        "min_damage_1": "19",
+        "weapon_damage_value": "24",
         "max_damage_1": "28",
-        "weapon_damage_value": "24"
+        "min_damage_1": "19",
+        "cost_type": "Pips",
+        "range": "16",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Ray",
+        "cast_time": "Channeled"
     },
     "nextChain": [],
     "lastChain": [],

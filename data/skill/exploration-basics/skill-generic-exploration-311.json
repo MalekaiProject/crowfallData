@@ -1,25 +1,30 @@
 {
     "id": "skill-generic-exploration-311",
-    "name": "Plentiful Resources: Cobblestone",
+    "name": "Quarrying Basics",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
-    "description": "Increases chance to harvest Cobblestone when quarrying Cobblestone.",
+    "pipAmount": 6120,
+    "description": "Increases chance to harvest Cobblestone when quarrying Cobblestone.\\n\\nIncreases the Chance to obtain Minerals from Mother Lodes of Stone.\\n\\nTraits Granted:\\nSpirit Hammer Proficiency",
     "icon": "skill-generic-exploration-311.png",
     "stats": [
         {
             "name": "Plentiful Resources Stone: Cobble",
             "amount": "0.2"
+        },
+        {
+            "name": "Mineral Harvest Chance: All",
+            "amount": "0.6%"
         }
     ],
-    "grants": [],
+    "grants": [
+        "equip_harvest_tool_hammer_spirit"
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-310",
+            "skill": "skill-generic-exploration-317",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-312"
-    ]
+    "unlocksSkill": []
 }

@@ -1,7 +1,8 @@
 {
     "id": "skill-generic-exploration-058",
-    "name": "Quarrying Basics",
+    "name": "Quarrying",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Increases the Damage that Runestone Hammers can deal when mining.",

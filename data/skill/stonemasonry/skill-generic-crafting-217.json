@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-217",
     "name": "Stonemasonry Experimentation Points",
     "tree": "Stonemasonry",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the amount of Experimentation Points available when experimenting on Stonemasonry items.",

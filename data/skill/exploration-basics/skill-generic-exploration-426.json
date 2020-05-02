@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-426",
     "name": "Plentiful Resources: Hunger Shards",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 6120,
     "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when excavating Hunger Crystals.",
     "icon": "skill-generic-exploration-426.png",
     "stats": [
@@ -15,11 +16,11 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-312",
+            "skill": "skill-generic-exploration-302",
             "point": 4
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-309"
+        "skill-generic-exploration-317"
     ]
 }

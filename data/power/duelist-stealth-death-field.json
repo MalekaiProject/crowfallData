@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "duelist-stealth-death-field.png",
     "stats": {
-        "cast_time": "Channeled",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "3",
-        "range": "15",
-        "min_damage_1": "39",
+        "weapon_damage_value": "48",
         "max_damage_1": "58",
-        "weapon_damage_value": "48"
+        "min_damage_1": "39",
+        "range": "15",
+        "max_targets": "3",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Channeled"
     },
     "nextChain": [],
     "lastChain": [],

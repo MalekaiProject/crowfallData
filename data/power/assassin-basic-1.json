@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "assassin-basic-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "max_targets": "1",
-        "range": "4",
-        "min_damage_1": "44",
+        "weapon_damage_value": "55",
         "max_damage_1": "66",
-        "weapon_damage_value": "55"
+        "min_damage_1": "44",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "assassin-basic-2"

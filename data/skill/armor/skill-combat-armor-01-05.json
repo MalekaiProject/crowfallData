@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-01-05",
     "name": "Fire Resistance",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Fire Resistance while wearing armor.",

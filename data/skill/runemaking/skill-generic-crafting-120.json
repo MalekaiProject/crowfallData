@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-120",
     "name": "Thrall Presence",
     "tree": "Runemaking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Enhances the power of Buffs that Runemaking Stations grant when they have a Thrall inhabiting them.",

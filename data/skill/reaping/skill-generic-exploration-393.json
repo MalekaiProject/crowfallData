@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-393",
     "name": "Beneficial Harvest Chance: Wood",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases chance of a Beneficial Harvest when logging any type of Tree. Beneficial Harvests can only happen when the node is destroyed.",

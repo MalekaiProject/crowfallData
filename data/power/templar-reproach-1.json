@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "templar-reproach-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "5",
-        "range": "5",
-        "cost": "1",
-        "cost_type": "Righteousness",
-        "min_damage_1": "54",
+        "weapon_damage_value": "67",
         "max_damage_1": "81",
-        "weapon_damage_value": "67"
+        "min_damage_1": "54",
+        "cost_type": "Righteousness",
+        "cost": "1",
+        "range": "5",
+        "max_targets": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "templar-reproach-2"

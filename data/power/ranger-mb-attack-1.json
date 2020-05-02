@@ -8,7 +8,7 @@
         "weapon_damage_value": "45",
         "max_damage_1": "52",
         "min_damage_1": "38",
-        "range": "4",
+        "range": "6",
         "max_targets": "1",
         "target": "Cone",
         "cast_time": "Instant"

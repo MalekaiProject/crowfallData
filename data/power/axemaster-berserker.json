@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Attacks randomly add Barrier; Attack Power",
     "icon": "axemaster-berserker.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

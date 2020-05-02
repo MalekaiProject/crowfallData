@@ -1,7 +1,7 @@
 {
     "name": "Wall Panel: Fence",
     "id": "stonemasonry-wall-defense-010",
-    "icon": "stonemasonry_wall_defense_010.png",
+    "icon": "stonemasonry-wall-defense-010.png",
     "description": "Creates a Stone Wall Panel: Fence Deed.",
     "outputQuantity": 1,
     "xp": 45,

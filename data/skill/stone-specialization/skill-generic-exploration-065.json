@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-065",
     "name": "Harvest Critical Amount: Granite",
     "tree": "Stone Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the potential Maximum Amount of Granite when you score a Critical Harvest while mining Granite.",

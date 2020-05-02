@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Slow on last Basic",
     "icon": "rapiermaster-hamstring.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Movement Debuff",
-        "min_damage_1": "105",
+        "weapon_damage_value": "123",
         "max_damage_1": "142",
-        "weapon_damage_value": "123"
+        "min_damage_1": "105",
+        "buff_type_1": "Movement Debuff",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

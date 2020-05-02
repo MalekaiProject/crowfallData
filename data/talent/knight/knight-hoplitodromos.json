@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "This talent grants the Pursuit power and the Resolve passive power.",
     "icon": "hoplitodromos.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

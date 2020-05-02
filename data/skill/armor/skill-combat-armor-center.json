@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-center",
     "name": "Armor Principles",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Health while wearing armor.",

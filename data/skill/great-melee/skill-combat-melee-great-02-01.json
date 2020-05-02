@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-02-01",
     "name": "Great Axe: Cooldown Reduction: Short",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Decreases Cooldown Reduction: Short while using a Great Axe.",

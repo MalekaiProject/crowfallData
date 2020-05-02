@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "This talent grants the Vindicator passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nSlashing Damage Bonus\\n\\nIncreases by 30%:\\nFire Damage Cap\\nSlashing Damage Cap\\n\\nTraits Granted:\\nGreat Sword Mastery",
     "icon": "vindicator.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

@@ -2,26 +2,29 @@
     "id": "skill-generic-exploration-316",
     "name": "Survival Proficiency",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases chance to harvest Blood and Bone when skinning an Animal.\\n\\nRecipes Granted:\\nSurvivalist Small Campfire",
+    "pipAmount": 6120,
+    "description": "Increases your Food Regen Rate, slowing how fast your Food Pool is consumed.\\n\\nRecipes Granted:\\nSurvivalist Small Campfire",
     "icon": "skill-generic-exploration-316.png",
     "stats": [
         {
-            "name": "Harvest Chance: Blood",
-            "amount": "0.3%"
-        },
-        {
-            "name": "Harvest Chance: Bone",
-            "amount": "0.3%"
+            "name": "Food Regen Rate",
+            "amount": "1(s)"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-431",
+            "skill": "skill-generic-exploration-304",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-306",
+        "skill-generic-exploration-307",
+        "skill-generic-exploration-430",
+        "skill-generic-exploration-305",
+        "skill-generic-exploration-308"
+    ]
 }

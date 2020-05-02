@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Frost Armory power.",
     "icon": "frost-armory-ii.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

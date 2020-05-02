@@ -1,7 +1,7 @@
 {
     "name": "Runic Longsword",
     "id": "blacksmithing-weapon-sword-005",
-    "icon": "blacksmithing_weapon_sword_005.png",
+    "icon": "blacksmithing-weapon-sword-005.png",
     "description": "Creates a Runic One Handed Longsword, usable by those who have a mastery of Longswords.",
     "outputQuantity": 1,
     "xp": 45,

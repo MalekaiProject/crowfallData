@@ -1,7 +1,7 @@
 {
     "name": "Architectural Wall",
     "id": "stonemasonry-arc-component-002",
-    "icon": "stonemasonry_arc_component_002.png",
+    "icon": "stonemasonry-arc-component-002.png",
     "description": "Creates a Architectural Wall used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

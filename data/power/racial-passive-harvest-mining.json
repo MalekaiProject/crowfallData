@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Mining",
     "icon": "racial-passive-harvest-mining.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "15",
         "buff_type_1": "Mining",
-        "buff_amount_1": "15"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

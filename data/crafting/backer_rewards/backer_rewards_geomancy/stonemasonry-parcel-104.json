@@ -1,7 +1,7 @@
 {
     "name": "Woodland Hills Parcel",
     "id": "stonemasonry-parcel-104",
-    "icon": "stonemasonry_parcel_104.png",
+    "icon": "stonemasonry-parcel-104.png",
     "description": "Creates a Rank 1 Backer Reward Woodland Hills Parcel.",
     "outputQuantity": 1,
     "xp": 0,

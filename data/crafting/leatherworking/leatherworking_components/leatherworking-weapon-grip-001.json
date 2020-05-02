@@ -1,7 +1,7 @@
 {
     "name": "Weapon Grip",
     "id": "leatherworking-weapon-grip-001",
-    "icon": "leatherworking_weapon_grip_001.png",
+    "icon": "leatherworking-weapon-grip-001.png",
     "description": "Creates a Weapon Grip that is used to create a Weapon Hilt.",
     "outputQuantity": 1,
     "xp": 15,

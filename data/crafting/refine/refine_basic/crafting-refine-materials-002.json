@@ -1,9 +1,9 @@
 {
     "name": "Refine Timber",
     "id": "crafting-refine-materials-002",
-    "icon": "crafting_refine_materials_002.png",
+    "icon": "crafting-refine-materials-002.png",
     "description": "Refine Timber into Wood.",
-    "outputQuantity": 200,
+    "outputQuantity": 50,
     "xp": 0,
     "category": "refine",
     "subCategory": "refine_basic",

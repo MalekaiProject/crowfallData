@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "This talent grants the In The Zone power.",
     "icon": "in-the-zone.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

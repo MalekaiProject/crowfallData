@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "This talent grants the Righteousness passive power.",
     "icon": "righteousness.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-02-05",
     "name": "Attack Control Defense",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Attack Control Defense while wearing armor.",

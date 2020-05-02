@@ -5,13 +5,13 @@
     "shortDescription": "Passive: Basic Attacks Buff Crit Stats",
     "icon": "careless-whisper.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "7 seconds",
-        "buff_type_1": "Critical Strike",
-        "buff_amount_1": "10%",
+        "buff_amount_2": "10%",
         "buff_type_2": "Critical Damage",
-        "buff_amount_2": "10%"
+        "buff_amount_1": "10%",
+        "buff_type_1": "Critical Strike",
+        "duration": "7 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

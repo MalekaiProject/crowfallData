@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Recover Resource Based on Healing",
     "icon": "fieldsurgeon-noble-purpose.png",
     "stats": {
-        "cast_time": "Passive",
+        "min_damage_1": "10000",
         "target": "Self",
-        "min_damage_1": "10000"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

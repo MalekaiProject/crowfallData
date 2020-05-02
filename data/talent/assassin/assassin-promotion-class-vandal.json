@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Role: Melee Control\\n\\nA master of shadows who believes the key to winning is controlling targets so they never have a chance.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vandal promotion class and prevents access to the Blackguard and Cutthroat promotion classes.",
     "icon": "promotion-class-vandal.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "assassin-toxicology"
     ],
     "locksSkill": [
-        "promotion-class-cutthroat",
-        "promotion-class-blackguard"
+        "assassin-promotion-class-cutthroat",
+        "assassin-promotion-class-blackguard"
     ]
 }

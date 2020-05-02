@@ -1,7 +1,7 @@
 {
     "name": "Crafting Deck",
     "id": "stonemasonry-attachable-002",
-    "icon": "stonemasonry_attachable_002.png",
+    "icon": "stonemasonry-attachable-002.png",
     "description": "Creates a Stone Attachable Crafting Deck.",
     "outputQuantity": 1,
     "xp": 45,

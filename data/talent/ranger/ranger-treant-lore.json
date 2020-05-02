@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Treant Lore enhances Archers Stake to become Treant Wood Stake, which removes its deploy time and reduces all Damage Taken by 15%.",
     "icon": "treant-lore.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

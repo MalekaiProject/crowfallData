@@ -1,7 +1,7 @@
 {
     "name": "Mace",
     "id": "blacksmithing-weapon-mace-001",
-    "icon": "blacksmithing_weapon_mace_001.png",
+    "icon": "blacksmithing-weapon-mace-001.png",
     "description": "Creates a One Handed Mace, usable by those who are proficient with Maces.",
     "outputQuantity": 1,
     "xp": 45,

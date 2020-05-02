@@ -2,6 +2,7 @@
     "id": "skill-combat-basic-01-07",
     "name": "Movement Control Defense",
     "tree": "Combat Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6840,
     "description": "Increases Movement Control Defense.",

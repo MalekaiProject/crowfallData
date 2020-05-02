@@ -1,7 +1,7 @@
 {
     "name": "Mystical Staff",
     "id": "woodworking-weapon-staff-001",
-    "icon": "woodworking_weapon_staff_001.png",
+    "icon": "woodworking-weapon-staff-001.png",
     "description": "Creates a Mystical Staff, usable by those who are proficient with Mystical Staves.",
     "outputQuantity": 1,
     "xp": 45,

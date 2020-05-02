@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent replaces the Sacrifice power with the Ritual Sacrifice power.",
     "icon": "ritual-sacrifice.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

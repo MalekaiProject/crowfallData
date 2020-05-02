@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Tree Sap Blood improves Bleed Resistance by 1000 per point spent.",
     "icon": "tree-sap-blood.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

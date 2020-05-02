@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "druid-retaliate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "max_targets": "3",
-        "range": "5",
-        "cost": "65",
-        "cost_type": "Stamina",
-        "min_damage_1": "88",
+        "weapon_damage_value": "110",
         "max_damage_1": "132",
-        "weapon_damage_value": "110"
+        "min_damage_1": "88",
+        "cost_type": "Stamina",
+        "cost": "65",
+        "range": "5",
+        "max_targets": "3",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

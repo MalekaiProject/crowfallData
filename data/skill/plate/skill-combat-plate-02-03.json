@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-02-03",
     "name": "Attack Control Defense",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Attack Control Defense while using Plate chest armor.",

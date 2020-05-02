@@ -5,14 +5,14 @@
     "shortDescription": "Increase Harvest Weak Spot Chance",
     "icon": "lookout-keen-eye.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "6",
-        "cost": "2",
-        "cost_type": "Harvest Pips",
-        "duration": "8 seconds",
+        "buff_amount_1": "10%",
         "buff_type_1": "Harvest Weak Spot Chance",
-        "buff_amount_1": "10%"
+        "duration": "8 seconds",
+        "cost_type": "Harvest Pips",
+        "cost": "2",
+        "cooldown": "6",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

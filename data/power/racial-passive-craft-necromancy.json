@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Necromancy Crafting Statistics",
     "icon": "racial-passive-craft-necromancy.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Necromancy",
-        "buff_amount_1": "10",
+        "buff_amount_2": "10",
         "buff_type_2": "Necromancy Experimentation",
-        "buff_amount_2": "10"
+        "buff_amount_1": "10",
+        "buff_type_1": "Necromancy",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

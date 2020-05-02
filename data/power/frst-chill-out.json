@@ -1,7 +1,7 @@
 {
     "id": "frst-chill-out",
     "name": "Chill Out",
-    "description": "refreshes group members and you restoring a small amount of their native Resource instantly. Any of your ice within a 5m radius is converted to Cool Ice.\\n\\nCool Ice benefits allies within 10m over time restoring their native resource. This effect stacks.",
+    "description": "refreshes group members and you restoring a small amount of their native Resource instantly. Any of your ice within a 5m radius is converted to Cool Ice.\\n\\nCool Ice benefits allies within 10m over time restoring their native resource. This effect stacks.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
     "shortDescription": "",
     "icon": "frst-chill-out.png",
     "stats": {

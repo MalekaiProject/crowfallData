@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-093",
     "name": "Excavation Basics Mastery",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 15120,
     "description": "Increases the Chance to obtain Gems, Minerals, Grave Goods, and Hunger Shard Additiveswhen Excavating the appropriate node type.",

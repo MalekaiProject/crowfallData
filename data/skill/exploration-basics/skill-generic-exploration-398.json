@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-398",
     "name": "Harvest Beeswax",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 6120,
     "description": "Increases chance to harvest Beeswax when logging Trees.",
     "icon": "skill-generic-exploration-398.png",
     "stats": [
@@ -15,7 +16,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-312",
+            "skill": "skill-generic-exploration-317",
             "point": 4
         }
     ],

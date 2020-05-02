@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Run and Gun enhances Rapid Fire to increase your Movement Speed In Combat by 25% while you channel.",
     "icon": "run-and-gun.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

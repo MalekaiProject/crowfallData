@@ -1,7 +1,7 @@
 {
     "name": "Village Parcel",
     "id": "stonemasonry-parcel-109",
-    "icon": "stonemasonry_parcel_109.png",
+    "icon": "stonemasonry-parcel-109.png",
     "description": "Creates a Rank 1 Backer Reward Village Parcel.",
     "outputQuantity": 1,
     "xp": 0,

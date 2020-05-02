@@ -1,7 +1,7 @@
 {
     "name": "Wall Panel: Door",
     "id": "stonemasonry-wall-defense-009",
-    "icon": "stonemasonry_wall_defense_009.png",
+    "icon": "stonemasonry-wall-defense-009.png",
     "description": "Creates a Stone Wall Panel: Door Deed.",
     "outputQuantity": 1,
     "xp": 45,

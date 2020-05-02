@@ -1,7 +1,7 @@
 {
     "name": "Restored Head",
     "id": "necromancy-head-002",
-    "icon": "necromancy_head_002.png",
+    "icon": "necromancy-head-002.png",
     "description": "Restore a Desiccated Head that is used to create a vessel.",
     "outputQuantity": 1,
     "xp": 30,

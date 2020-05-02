@@ -5,12 +5,12 @@
     "shortDescription": "",
     "icon": "cleric-vengeful-aura.png",
     "stats": {
-        "cast_time": "Toggle",
-        "target": "Group",
-        "max_targets": "5",
-        "range": "50",
+        "cost_type": "Mana",
         "cost": "175",
-        "cost_type": "Mana"
+        "range": "50",
+        "max_targets": "5",
+        "target": "Group",
+        "cast_time": "Toggle"
     },
     "nextChain": [],
     "lastChain": [],
@@ -21,6 +21,6 @@
     "isBuff": false,
     "tags": [
         "cleric",
-        "harvest"
+        "anyone"
     ]
 }

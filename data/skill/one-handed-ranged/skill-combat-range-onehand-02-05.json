@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-02-05",
     "name": "Pistol: Hard Control Defense",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Hard Control Defense while using a Pistol in your main hand.",

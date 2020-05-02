@@ -5,13 +5,13 @@
     "shortDescription": "Swap Health into Stamina",
     "icon": "hoarder-usurious-bargain.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "1000",
-        "cost_type": "Health",
+        "buff_amount_1": "50",
         "buff_type_1": "Stamina",
-        "buff_amount_1": "50"
+        "cost_type": "Health",
+        "cost": "1000",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

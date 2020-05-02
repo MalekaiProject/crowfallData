@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Refreshing Ice quickly bursts and heals allies within 10m for 35 - 43 + 157% Support Power./n/nRefreshing Ice can be created directly with Refreshing Ice Weave and Ice Weave. You may convert Ice you've already created into Refreshing Ice using Refreshing Breeze and it can be created randomly with Refreshing Focus.",
     "icon": "info-refreshing-ice.png",
+    "maxPoints": 0,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

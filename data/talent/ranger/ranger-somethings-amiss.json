@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Something's Amiss improves Perception by 15 per point spent and Attack Power by 50 per point spent.",
     "icon": "somethings-amiss.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

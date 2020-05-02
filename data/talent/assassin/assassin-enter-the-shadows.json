@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "This talent grants the Stealth power tray and Recon power.",
     "icon": "enter-the-shadows.png",
+    "maxPoints": 1,
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [

@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Aero Spin passive power.\\n\\nIncreases by 10%:\\nPiercing Damage Bonus\\nSlashing Damage Bonus\\nPiercing Damage Bonus Cap\\nSlashing Damage Bonus Cap\\n\\nTraits Granted:\\nRecurve Bow Mastery\\nShort Sword Mastery",
     "icon": "warden.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

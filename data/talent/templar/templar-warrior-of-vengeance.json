@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Warrior of Vengeance enhances Holy Warrior to increase Damage Bonus: Slashing by 30% but remove its Maximum Health increasing properties.",
     "icon": "warrior-of-vengeance.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

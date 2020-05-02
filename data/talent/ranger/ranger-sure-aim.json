@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Sure Aim improves Critical Strike by 1% per point spent.",
     "icon": "sure-aim.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

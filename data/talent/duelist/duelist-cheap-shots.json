@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Cheap Shots power.",
     "icon": "cheap-shots.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

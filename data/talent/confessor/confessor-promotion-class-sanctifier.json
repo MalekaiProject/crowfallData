@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Role: Melee Defense\\n\\nTheir only desire is to witness the despair in nonbelievers’ eyes, so this follower of Arkon has cast aside the benefits of range to become incredibly defensive.\\n\\nIncreases by 25%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Sanctifier promotion class and prevents access to the Inquisitor and Fanatic promotion classes.",
     "icon": "promotion-class-sanctifier.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -26,7 +27,7 @@
         "confessor-melt-shackles"
     ],
     "locksSkill": [
-        "promotion-class-fanatic",
-        "promotion-class-inquisitor"
+        "confessor-promotion-class-fanatic",
+        "confessor-promotion-class-inquisitor"
     ]
 }

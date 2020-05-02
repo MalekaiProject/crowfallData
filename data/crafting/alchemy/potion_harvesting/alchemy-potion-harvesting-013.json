@@ -1,7 +1,7 @@
 {
     "name": "Potion of Plenty: Quarrying",
     "id": "alchemy-potion-harvesting-013",
-    "icon": "alchemy_potion_harvesting_013.png",
+    "icon": "alchemy-potion-harvesting-013.png",
     "description": "Creates a Potion of Plentiful Harvest: Quarrying, this can be used to increase plentiful harvests for Quarrying for 30 minutes.",
     "outputQuantity": 1,
     "xp": 15,

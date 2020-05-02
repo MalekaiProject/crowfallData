@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "champion-disarming-shout.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "30",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "14",
-        "cost_type": "Rage",
-        "min_damage_1": "154",
+        "weapon_damage_value": "181",
         "max_damage_1": "208",
-        "weapon_damage_value": "181"
+        "min_damage_1": "154",
+        "cost_type": "Rage",
+        "cost": "14",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "30",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

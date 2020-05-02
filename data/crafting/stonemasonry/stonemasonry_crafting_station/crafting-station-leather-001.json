@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: Leatherworking",
     "id": "crafting-station-leather-001",
-    "icon": "crafting_station_leather_001.png",
+    "icon": "crafting-station-leather-001.png",
     "description": "Creates a deed for a Leatherworking crafting station.",
     "outputQuantity": 1,
     "xp": 15,

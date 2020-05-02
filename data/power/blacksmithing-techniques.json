@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Blacksmithing Assembly and Experimentation Caps",
     "icon": "blacksmithing-techniques.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Blacksmithing Cap",
-        "buff_amount_1": "15",
+        "buff_amount_2": "15",
         "buff_type_2": "Blacksmithing Experimentation Cap",
-        "buff_amount_2": "15"
+        "buff_amount_1": "15",
+        "buff_type_1": "Blacksmithing Cap",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

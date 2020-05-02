@@ -5,12 +5,12 @@
     "shortDescription": "Toggle: Invisible while motionless; Non-Stealth Users Only",
     "icon": "illusionist-invisibility.png",
     "stats": {
-        "cast_time": "Toggle",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "0.5",
+        "cost_type_time": "cost_type_time_per_second",
         "cost_type": "Stamina",
-        "cost_type_time": "cost_type_time_per_second"
+        "cost": "0.5",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Toggle"
     },
     "nextChain": [],
     "lastChain": [],

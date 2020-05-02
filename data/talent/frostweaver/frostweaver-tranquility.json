@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Tranquility improves Healing Modifier by 1% per point spent.\\n\\nTraits Granted:\\nCool Focus Gem",
     "icon": "tranquility.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

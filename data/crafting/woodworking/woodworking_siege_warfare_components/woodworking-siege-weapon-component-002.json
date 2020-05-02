@@ -1,7 +1,7 @@
 {
     "name": "Firing Techniques Scroll",
     "id": "woodworking-siege-weapon-component-002",
-    "icon": "woodworking_siege_weapon_component_002.png",
+    "icon": "woodworking-siege-weapon-component-002.png",
     "description": "Creates a Firing Techniques Scroll that are used to create the MK IV Siege Weapons.",
     "outputQuantity": 1,
     "xp": 15,

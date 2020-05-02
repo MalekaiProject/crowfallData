@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-02-06",
     "name": "Electricity Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Electricity Resistance while using Leather chest armor.",

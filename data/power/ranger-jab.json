@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "ranger-jab.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "190",
-        "cost_type": "Energy",
-        "min_damage_1": "136",
+        "weapon_damage_value": "160",
         "max_damage_1": "184",
-        "weapon_damage_value": "160"
+        "min_damage_1": "136",
+        "cost_type": "Energy",
+        "cost": "190",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Electric Skin enhances Barrier effects to have 50% increased mitigation against Crushing, Electricity, and Piercing damage types.",
     "icon": "electric-skin.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

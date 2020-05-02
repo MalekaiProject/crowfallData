@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Suppression Shot power.",
     "icon": "suppression-shot.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

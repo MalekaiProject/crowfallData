@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Flintlock Shot power.",
     "icon": "flintlock-shot.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

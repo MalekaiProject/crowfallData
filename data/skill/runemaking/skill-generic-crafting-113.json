@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-113",
     "name": "Total Crafting Rerolls",
     "tree": "Runemaking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Decreases the cost of a Total Reroll after experimenting on an item.",

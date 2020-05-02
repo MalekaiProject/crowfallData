@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Tempus Medico improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent.",
     "icon": "tempus-medico.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

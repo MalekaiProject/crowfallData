@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Woodworking Crafting Statistics",
     "icon": "racial-passive-craft-woodworking.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Woodworking",
-        "buff_amount_1": "10",
+        "buff_amount_2": "10",
         "buff_type_2": "Woodworking Experimentation",
-        "buff_amount_2": "10"
+        "buff_amount_1": "10",
+        "buff_type_1": "Woodworking",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

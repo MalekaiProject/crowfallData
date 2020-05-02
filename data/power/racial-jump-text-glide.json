@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Extend your Wings to Greatly Reduce Falling Speed",
     "icon": "racial-jump-text-glide.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

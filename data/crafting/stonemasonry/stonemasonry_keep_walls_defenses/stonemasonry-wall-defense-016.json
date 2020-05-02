@@ -1,7 +1,7 @@
 {
     "name": "Wedge Wall 3x1",
     "id": "stonemasonry-wall-defense-016",
-    "icon": "stonemasonry_wall_defense_016.png",
+    "icon": "stonemasonry-wall-defense-016.png",
     "description": "Creates a Stone Wedge Wall 3x1 Deed.",
     "outputQuantity": 1,
     "xp": 45,

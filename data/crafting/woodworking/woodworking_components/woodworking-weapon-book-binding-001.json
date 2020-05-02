@@ -1,7 +1,7 @@
 {
     "name": "Book Casing",
     "id": "woodworking-weapon-book-binding-001",
-    "icon": "woodworking_weapon_book_binding_001.png",
+    "icon": "woodworking-weapon-book-binding-001.png",
     "description": "Creates a Book Casing that is used to create a Book.",
     "outputQuantity": 1,
     "xp": 30,

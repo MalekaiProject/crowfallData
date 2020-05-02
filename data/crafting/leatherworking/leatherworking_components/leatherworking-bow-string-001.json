@@ -1,7 +1,7 @@
 {
     "name": "Bow String",
     "id": "leatherworking-bow-string-001",
-    "icon": "leatherworking_bow_string_001.png",
+    "icon": "leatherworking-bow-string-001.png",
     "description": "Creates a Bow String that is used to create a Bow.",
     "outputQuantity": 1,
     "xp": 15,

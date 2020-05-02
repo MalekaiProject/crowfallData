@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Cloaked in Shadow increases your Stealth by 35.",
     "icon": "cloaked-in-shadow.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

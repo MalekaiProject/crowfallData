@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Heart of the Wild improves Maximum Health by 500 per point spent.",
     "icon": "heart-of-the-wild.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

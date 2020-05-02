@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Damage Bonus versus High Health",
     "icon": "high-health-damage-bonus.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "30%",
         "buff_type_1": "Damage Bonus",
-        "buff_amount_1": "30%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

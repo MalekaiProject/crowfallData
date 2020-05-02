@@ -1,7 +1,7 @@
 {
     "name": "Foundation Segment",
     "id": "stonemasonry-arc-component-003",
-    "icon": "stonemasonry_arc_component_003.png",
+    "icon": "stonemasonry-arc-component-003.png",
     "description": "Creates a Foundation Segment used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

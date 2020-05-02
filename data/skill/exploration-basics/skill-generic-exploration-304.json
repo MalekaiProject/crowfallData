@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-304",
     "name": "Foraging",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
+    "pipAmount": 6120,
     "description": "Grants ability to harvest Foraged Food Ingredients when logging Trees.",
     "icon": "skill-generic-exploration-304.png",
     "stats": [
@@ -20,6 +21,6 @@
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-306"
+        "skill-generic-exploration-316"
     ]
 }

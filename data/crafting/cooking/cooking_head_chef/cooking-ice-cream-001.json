@@ -1,7 +1,7 @@
 {
     "name": "Ice Cream",
     "id": "cooking-ice-cream-001",
-    "icon": "cooking_ice_cream_001.png",
+    "icon": "cooking-ice-cream-001.png",
     "description": "Creates some Ice Cream. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

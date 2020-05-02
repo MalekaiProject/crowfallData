@@ -1,7 +1,7 @@
 {
     "name": "Human Vessel",
     "id": "necromancy-vessel-001",
-    "icon": "necromancy_vessel_001.png",
+    "icon": "necromancy-vessel-001.png",
     "description": "Creates a Human Vessel.",
     "outputQuantity": 1,
     "xp": 45,
@@ -64,7 +64,7 @@
         },
         {
             "name": "Philosopher's Stone",
-            "id": "philosopher-s-stone",
+            "id": "philosophers-stone",
             "icon": "Philosopher's Stone.png",
             "quantity": 1,
             "slotIndex": 6,

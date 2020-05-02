@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Unlock a Minor Discipline Slot",
     "icon": "racial-passive-extra-minor-discipline.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

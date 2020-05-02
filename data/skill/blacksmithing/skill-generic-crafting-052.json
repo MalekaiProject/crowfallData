@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-052",
     "name": "Partial Crafting Rerolls",
     "tree": "Blacksmithing",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Decreases the cost of a Partial Reroll after experimenting on an item.",

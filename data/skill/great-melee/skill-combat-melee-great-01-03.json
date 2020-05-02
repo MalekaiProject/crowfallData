@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-01-03",
     "name": "Great Sword: Critical Strike",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Critical Strike while using a Great Sword.",

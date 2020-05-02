@@ -1,7 +1,7 @@
 {
     "name": "Potato Flour",
     "id": "cooking-potato-flour-001",
-    "icon": "cooking_potato_flour_001.png",
+    "icon": "cooking-potato-flour-001.png",
     "description": "Creates potato flour for use in various Cooking recipes. Produces 10.\\n\\nThe required reagent \"Pulverized Potatoes\" can be made using the \"Grind Resource\" or \"Grind Food\" recipes.",
     "outputQuantity": 10,
     "xp": 1.5,

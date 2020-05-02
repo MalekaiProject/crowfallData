@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Enemy Damage at Low Health",
     "icon": "banshee-angel-of-death.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Damage",
-        "buff_amount_1": "20%",
+        "buff_amount_2": "30%",
         "buff_type_2": "Health",
-        "buff_amount_2": "30%"
+        "buff_amount_1": "20%",
+        "buff_type_1": "Damage",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

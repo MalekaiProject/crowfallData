@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Unlock a Exploration Discipline slot.",
     "icon": "druid-exploration-i.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: Jewelcrafting",
     "id": "crafting-station-jewel-001",
-    "icon": "crafting_station_jewel_001.png",
+    "icon": "crafting-station-jewel-001.png",
     "description": "Creates a deed for a Jewelcrafting station.",
     "outputQuantity": 1,
     "xp": 15,

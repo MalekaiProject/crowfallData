@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Board and Board enhances Shield Slam to instantly enable the Shield Bash power when hitting a target while more than 2/3rds charged.",
     "icon": "board-and-board.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Celestial Authority improves Hard Control Intensity by 5% per point spent.",
     "icon": "celestial-authority.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

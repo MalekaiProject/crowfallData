@@ -1,7 +1,7 @@
 {
     "name": "Book Chapter",
     "id": "runecarving-weapon-book-chapter-001",
-    "icon": "runecarving_weapon_book_chapter_001.png",
+    "icon": "runecarving-weapon-book-chapter-001.png",
     "description": "Creates Book Chapters, the type of stone determines the Chapter created.\\n\\nGranite yields Chapter: Fervor,\\nLimestone yields Chapter: Indulgence,\\nTravertine yields Chapter: Redemption,\\nSlate yields Chapter: Absolution,\\nMarble yields Chapter: Sin.",
     "outputQuantity": 1,
     "xp": 15,

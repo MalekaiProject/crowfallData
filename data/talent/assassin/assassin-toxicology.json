@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Toxicology enhances the damage of Poison Toxin, Disease Toxin, and Nature Toxin by 10% per point spent.",
     "icon": "toxicology.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

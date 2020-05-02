@@ -2,9 +2,10 @@
     "id": "skill-generic-exploration-319",
     "name": "Exploration Mastery",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 95,
-    "pipAmount": 20160,
-    "description": "Increases chance to harvest Apples when logging Trees, and Campfires now restore more Hitpoints while Resting.\\n\\nPower Granted:\\nEnergetic Harvesting",
+    "pipAmount": 10800,
+    "description": "Increases chance to harvest Apples when logging Trees.\\n\\nCampfires now restore more Hitpoints while Resting.\\n\\nReduces the Cast Time of all Mounts\\n\\nPower Granted:\\nEnergetic Harvesting",
     "icon": "skill-generic-exploration-319.png",
     "stats": [
         {
@@ -14,6 +15,10 @@
         {
             "name": "Campfire Healing Bonus",
             "amount": "0"
+        },
+        {
+            "name": "Mount Cast Time",
+            "amount": "0.1(s)"
         }
     ],
     "grants": [

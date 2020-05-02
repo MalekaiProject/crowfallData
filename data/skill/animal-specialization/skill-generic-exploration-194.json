@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-194",
     "name": "Harvest Tool Decay: Runestone Knives",
     "tree": "Animal Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Reduces the amount of Decay a Runestone Knife suffers when skinning.",

@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-02-04",
     "name": "Mace: Attack Control Defense",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Attack Control Defense while using a Mace in your main hand.",

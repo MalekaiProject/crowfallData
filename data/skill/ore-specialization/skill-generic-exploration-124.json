@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-124",
     "name": "Carrying Capacity: Ore",
     "tree": "Ore Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the Bonus Inventory size of equipped Miner's Bags.",

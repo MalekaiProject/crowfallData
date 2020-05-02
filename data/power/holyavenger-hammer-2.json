@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "holyavenger-hammer-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "30",
-        "max_targets": "1",
-        "range": "5",
-        "cost": "12",
-        "cost_type": "Resource",
-        "min_damage_1": "106",
-        "max_damage_1": "143",
+        "weapon_damage_type": "Holy",
         "weapon_damage_value": "124",
-        "weapon_damage_type": "Holy"
+        "max_damage_1": "143",
+        "min_damage_1": "106",
+        "cost_type": "Resource",
+        "cost": "12",
+        "range": "5",
+        "max_targets": "1",
+        "cooldown": "30",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

@@ -1,7 +1,7 @@
 {
     "name": "Stonemasonry Themed Stall",
     "id": "stonemasonry-stall-012",
-    "icon": "stonemasonry_stall_012.png",
+    "icon": "stonemasonry-stall-012.png",
     "description": "Creates a Stonemasonry Themed Vendor Stall you can place in your EK which you will place your vendor in to sell your wares.",
     "outputQuantity": 1,
     "xp": 30,

@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "This talent grants the Circle Of Life power.",
     "icon": "circle-of-life.png",
+    "maxPoints": 1,
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [

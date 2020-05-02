@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "This talent grants the Battle Rager passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nAxe Mastery\\nMace Mastery",
     "icon": "battle-rager.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

@@ -1,7 +1,7 @@
 {
     "name": "Restored Torso",
     "id": "necromancy-torso-002",
-    "icon": "necromancy_torso_002.png",
+    "icon": "necromancy-torso-002.png",
     "description": "Restore a Desiccated Torso that is used to create a vessel.",
     "outputQuantity": 1,
     "xp": 30,

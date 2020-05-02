@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "templar-basic-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "4",
-        "min_damage_1": "94",
+        "weapon_damage_value": "117",
         "max_damage_1": "141",
-        "weapon_damage_value": "117"
+        "min_damage_1": "94",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "templar-basic-3"

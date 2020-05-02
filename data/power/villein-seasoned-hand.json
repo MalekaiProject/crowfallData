@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Greatly Decreases Harvesting Tool Decay",
     "icon": "villein-seasoned-hand.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "50%",
         "buff_type_1": "Decay Rate: All Tools",
-        "buff_amount_1": "50%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

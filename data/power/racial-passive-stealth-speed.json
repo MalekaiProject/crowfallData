@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Movement Speed while Stealthed",
     "icon": "racial-passive-stealth-speed.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "20%",
         "buff_type_1": "Movement Speed: Stealth",
-        "buff_amount_1": "20%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

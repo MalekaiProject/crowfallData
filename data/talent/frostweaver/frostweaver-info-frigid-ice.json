@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Frigid Ice harms enemies within 5m over time Dazing them and inflicting 57 - 87 + 70% Weapon Damage. Enemies destroy it on contact taking 201 - 301 + 251% Weapon Damage, becoming Rooted and suffering Ice Buildup. Tripping Frigid Ice again while afflicted with Ice Buildup inflicts Knockdown./n/nFrigid Ice can be created directly with Frigid Ice Weave and Ice Weave. You may convert Ice you've already created into Frigid Ice using Freezing Blast and it can be created randomly with Frigid Focus.",
     "icon": "info-frigid-ice.png",
+    "maxPoints": 0,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

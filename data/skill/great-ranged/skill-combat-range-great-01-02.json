@@ -2,6 +2,7 @@
     "id": "skill-combat-range-great-01-02",
     "name": "Book: Critical Strike",
     "tree": "Great Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Critical Strike while using a Book.",

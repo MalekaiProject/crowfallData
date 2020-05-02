@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "templar-retaliate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "3",
-        "range": "5",
-        "cost": "65",
-        "cost_type": "Stamina",
-        "min_damage_1": "53",
+        "weapon_damage_value": "67",
         "max_damage_1": "80",
-        "weapon_damage_value": "67"
+        "min_damage_1": "53",
+        "cost_type": "Stamina",
+        "cost": "65",
+        "range": "5",
+        "max_targets": "3",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [
@@ -26,6 +26,6 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest"
+        "anyone"
     ]
 }

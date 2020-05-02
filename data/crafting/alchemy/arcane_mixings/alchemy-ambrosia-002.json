@@ -1,7 +1,7 @@
 {
     "name": "Ambrosia",
     "id": "alchemy-ambrosia-002",
-    "icon": "alchemy_ambrosia_002.png",
+    "icon": "alchemy-ambrosia-002.png",
     "description": "Often thought to be food of the Gods, this nectar is used in the restoration process of Desiccated vessel parts. Produces 5.",
     "outputQuantity": 5,
     "xp": 15,

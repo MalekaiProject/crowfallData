@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-01-04",
     "name": "Dagger: Attack Power",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Attack Power while using a Dagger or Short Sword in your main hand.",

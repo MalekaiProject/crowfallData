@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Out of Combat Regeneration",
     "icon": "standardbearer-ooc-regen.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "10",
         "buff_type_1": "Out of Combat Health Regen",
-        "buff_amount_1": "10"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

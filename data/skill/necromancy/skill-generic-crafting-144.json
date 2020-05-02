@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-144",
     "name": "Necromancy Techniques Mastery",
     "tree": "Necromancy",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "Increases the chance of Assembly Success and the amount of Experimentation Points when assembling Necromancy items.",

@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-03-04",
     "name": "Disease Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Disease Resistance while using Leather chest armor.",

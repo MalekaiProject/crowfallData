@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Opportunist enhances Backstab to deal 10% more damage when used from behind an enemy.",
     "icon": "opportunist.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

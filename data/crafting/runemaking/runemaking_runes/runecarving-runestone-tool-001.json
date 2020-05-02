@@ -1,7 +1,7 @@
 {
     "name": "Advanced Harvesting Tools",
     "id": "runecarving-runestone-tool-001",
-    "icon": "runecarving_runestone_tool_001.png",
+    "icon": "runecarving-runestone-tool-001.png",
     "description": "Advanced Runestone Harvesting Tools, the type of Sigil used will determine the type of Tool created.",
     "outputQuantity": 1,
     "xp": 15,

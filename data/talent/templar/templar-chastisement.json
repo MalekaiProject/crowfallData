@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Chastisement improves Attack Power by 55 per point spent.",
     "icon": "chastisement.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

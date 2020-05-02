@@ -1,7 +1,7 @@
 {
     "name": "Basic Axe",
     "id": "crafting-weapon-one-hand-axe-001",
-    "icon": "crafting_weapon_one_hand_axe_001.png",
+    "icon": "crafting-weapon-one-hand-axe-001.png",
     "description": "Creates a Basic Axe, usable by those who are proficient with Axes.",
     "outputQuantity": 1,
     "xp": 7.5,

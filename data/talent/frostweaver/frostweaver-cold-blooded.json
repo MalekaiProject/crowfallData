@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Cold Blooded enhances Frigid Ice doubling its damage tick rate.",
     "icon": "cold-blooded.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

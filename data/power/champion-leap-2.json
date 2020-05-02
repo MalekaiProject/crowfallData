@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "champion-leap-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "max_targets": "5",
-        "restore": "10.5",
-        "restore_type": "Rage",
-        "min_damage_1": "95",
-        "max_damage_1": "129",
+        "weapon_damage_type": "Crushing",
         "weapon_damage_value": "112",
-        "weapon_damage_type": "Crushing"
+        "max_damage_1": "129",
+        "min_damage_1": "95",
+        "restore_type": "Rage",
+        "restore": "10.5",
+        "max_targets": "5",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

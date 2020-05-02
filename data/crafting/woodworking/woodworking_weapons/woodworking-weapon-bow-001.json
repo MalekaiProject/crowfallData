@@ -1,7 +1,7 @@
 {
     "name": "Bow: Composite Recurve",
     "id": "woodworking-weapon-bow-001",
-    "icon": "woodworking_weapon_bow_001.png",
+    "icon": "woodworking-weapon-bow-001.png",
     "description": "Creates a Two Handed Composite Recurve Bow, usable by those who are proficient with Recurve Bows.",
     "outputQuantity": 1,
     "xp": 45,

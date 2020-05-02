@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Break the Law reduces Long Power Cooldowns by 10% per point spent.",
     "icon": "break-the-law.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

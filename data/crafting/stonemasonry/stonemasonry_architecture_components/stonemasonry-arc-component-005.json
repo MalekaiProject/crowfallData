@@ -1,7 +1,7 @@
 {
     "name": "Roof Segment",
     "id": "stonemasonry-arc-component-005",
-    "icon": "stonemasonry_arc_component_005.png",
+    "icon": "stonemasonry-arc-component-005.png",
     "description": "Creates a Roof Segment used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

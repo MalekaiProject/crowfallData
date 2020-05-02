@@ -1,7 +1,7 @@
 {
     "name": "Carbon",
     "id": "blacksmithing-carbon-001",
-    "icon": "blacksmithing_carbon_001.png",
+    "icon": "blacksmithing-carbon-001.png",
     "description": "Creates Carbon that is used to create Treated Steel. Produces 5.",
     "outputQuantity": 5,
     "xp": 0.75,

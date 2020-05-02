@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Gain Bonus Food Pool When You Eat",
     "icon": "racial-passive-food-consumption.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "15%",
         "buff_type_1": "Consumption",
-        "buff_amount_1": "15%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

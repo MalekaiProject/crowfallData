@@ -5,16 +5,17 @@
     "shortDescription": "",
     "icon": "templar-judgement-1-talent.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "cost_type": "Righteousness",
-        "min_damage_1": "89",
-        "max_damage_1": "133",
-        "weapon_damage_value": "111",
-        "min_damage_2": "133",
+        "weapon_damage_2_value": "167",
         "max_damage_2": "200",
-        "weapon_damage_2_value": "167"
+        "min_damage_2": "133",
+        "weapon_damage_value": "111",
+        "max_damage_1": "133",
+        "min_damage_1": "89",
+        "cost_type": "Righteousness",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "templar-judgement-2",

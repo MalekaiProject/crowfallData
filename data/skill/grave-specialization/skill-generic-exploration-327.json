@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-327",
     "name": "Grave Specialization",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Reduces the amount of Decay that Runestone Shovels suffer when digging. Also Beneficial Harvests from digging can now apply temporary Buff Effects to you.",

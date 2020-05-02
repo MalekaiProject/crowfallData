@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Capacitor passive power.\\n\\nIncreases by 10%:\\nElectricity Damage Bonus\\nElectricity Damage Bonus Cap\\n\\nTraits Granted:\\nSickle Mastery\\nBuckler Mastery",
     "icon": "stormcaller.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

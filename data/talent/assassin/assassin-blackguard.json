@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "This talent grants the Poison Paradise passive power.\\n\\nIncreases by 10%:\\nSlashing Damage Bonus\\nSlashing Damage Bonus Cap\\n\\nTraits Granted:\\nAxe Mastery\\nDagger Mastery\\nMace Mastery",
     "icon": "blackguard.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

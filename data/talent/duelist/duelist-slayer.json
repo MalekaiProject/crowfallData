@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Slayer passive power.\\n\\nIncreases by 10%:\\nPiercing Damage Bonus\\nPiercing Damage Cap\\n\\nIncreases by 15%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery",
     "icon": "slayer.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

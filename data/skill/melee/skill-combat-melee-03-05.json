@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-03-05",
     "name": "Cooldown Reduction: Short",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Decreases Cooldown Reduction: Short while using a Melee Weapon in your main hand.",

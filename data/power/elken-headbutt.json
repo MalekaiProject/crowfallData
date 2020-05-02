@@ -5,14 +5,14 @@
     "shortDescription": "Charge Forward, Targets Suffer Knockdown",
     "icon": "elken-headbutt.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Rectangle",
-        "cooldown": "30",
-        "max_targets": "3",
-        "range": "7",
-        "min_damage_1": "82",
+        "weapon_damage_value": "91",
         "max_damage_1": "100",
-        "weapon_damage_value": "91"
+        "min_damage_1": "82",
+        "range": "7",
+        "max_targets": "3",
+        "cooldown": "30",
+        "target": "Rectangle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

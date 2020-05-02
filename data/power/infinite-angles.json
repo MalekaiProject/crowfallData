@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Shield Throw Applies Snare",
     "icon": "infinite-angles.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

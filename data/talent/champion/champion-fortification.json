@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Fortification improves Resist All by 100 per point spent.",
     "icon": "fortification.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

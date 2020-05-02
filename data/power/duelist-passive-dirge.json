@@ -5,10 +5,10 @@
     "shortDescription": "",
     "icon": "duelist-passive-dirge.png",
     "stats": {
-        "cast_time": "Passive",
-        "min_damage_1": "79",
+        "weapon_damage_value": "99",
         "max_damage_1": "119",
-        "weapon_damage_value": "99"
+        "min_damage_1": "79",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

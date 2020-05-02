@@ -1,7 +1,7 @@
 {
     "name": "Pasteurized Milk",
     "id": "cooking-warm-milk-001",
-    "icon": "cooking_warm_milk_001.png",
+    "icon": "cooking-warm-milk-001.png",
     "description": "Create some Pasteurize Milk. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

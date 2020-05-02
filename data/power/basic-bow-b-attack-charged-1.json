@@ -1,0 +1,27 @@
+{
+    "id": "basic-bow-b-attack-charged-1",
+    "name": "Basic Shot",
+    "description": "shoots an arrow towards your reticle dealing 227 - 307 + 267% Weapon Damage.",
+    "shortDescription": "",
+    "icon": "basic-bow-b-attack-charged-1.png",
+    "stats": {
+        "weapon_damage_value": "267",
+        "max_damage_1": "307",
+        "min_damage_1": "227",
+        "cost_type": "Arrow",
+        "range": "15",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Charged"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "ranged_bow"
+    ]
+}

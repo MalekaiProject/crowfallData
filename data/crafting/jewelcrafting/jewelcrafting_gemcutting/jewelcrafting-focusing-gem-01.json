@@ -1,7 +1,7 @@
 {
     "name": "Cut Gemstone: Focusing",
     "id": "jewelcrafting-focusing-gem-01",
-    "icon": "jewelcrafting_focusing_gem_01.png",
+    "icon": "jewelcrafting-focusing-gem-01.png",
     "description": "Creates a Focusing Gem, usable by those who are proficient with Focusing Gems. The type of gem used determines the Focus Gem type created.\\n\\nTopaz yields Frigid,\\nSapphire yields Cool,\\nEmerald yields Refreshing,\\nRuby yields Volatile,\\nDiamond yields Stable.",
     "outputQuantity": 1,
     "xp": 15,

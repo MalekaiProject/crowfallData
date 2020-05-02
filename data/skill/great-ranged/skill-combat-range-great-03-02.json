@@ -2,6 +2,7 @@
     "id": "skill-combat-range-great-03-02",
     "name": "Mystical Staff: Hard Control Defense",
     "tree": "Great Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Hard Control Defense while using a Mystical Staff.",

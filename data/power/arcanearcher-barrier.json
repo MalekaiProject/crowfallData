@@ -5,15 +5,15 @@
     "shortDescription": "Gain a Barrier, and Elemental Barrier Resistance",
     "icon": "arcanearcher-barrier.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "16",
-        "cost_type": "Resource",
-        "min_damage_1": "60",
-        "max_damage_1": "81",
+        "weapon_damage_type": "Elemental",
         "weapon_damage_value": "70",
-        "weapon_damage_type": "Elemental"
+        "max_damage_1": "81",
+        "min_damage_1": "60",
+        "cost_type": "Resource",
+        "cost": "16",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

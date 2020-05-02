@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-189",
     "name": "Harvest Critical: Herbivores",
     "tree": "Animal Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases your chance for a Critical Harvest when skinning Herbivore Animals.",

@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "confessor-b-attack-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "max_targets": "1",
-        "range": "25",
-        "cost": "30",
-        "min_damage_1": "69",
-        "max_damage_1": "104",
+        "weapon_damage_type": "Fire",
         "weapon_damage_value": "86",
-        "weapon_damage_type": "Fire"
+        "max_damage_1": "104",
+        "min_damage_1": "69",
+        "cost": "30",
+        "range": "25",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "confessor-b-attack-3"

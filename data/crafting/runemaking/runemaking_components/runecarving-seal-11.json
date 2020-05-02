@@ -1,7 +1,7 @@
 {
     "name": "Specialty Seal",
     "id": "runecarving-seal-11",
-    "icon": "runecarving_seal_11.png",
+    "icon": "runecarving-seal-11.png",
     "description": "Creates a Specialty Seal used to add harvesting or crafting statistics to armor.",
     "outputQuantity": 1,
     "xp": 15,

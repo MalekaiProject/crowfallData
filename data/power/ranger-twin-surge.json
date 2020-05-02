@@ -5,18 +5,18 @@
     "shortDescription": "",
     "icon": "ranger-twin-surge.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "5",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "95",
-        "cost_type": "Energy",
-        "restore": "150",
-        "restore_type": "Stamina",
-        "min_damage_1": "57",
+        "weapon_damage_value": "67",
         "max_damage_1": "77",
-        "weapon_damage_value": "67"
+        "min_damage_1": "57",
+        "restore_type": "Stamina",
+        "restore": "150",
+        "cost_type": "Energy",
+        "cost": "95",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "ranger-laceration"

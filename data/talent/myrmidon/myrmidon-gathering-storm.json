@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Gathering Storm enhances Whirlwind to stack the Gathering Storm buff up to 20 times with each hit adding +1 Fury Regen in Combat and base Whirlwind Damage.",
     "icon": "gathering-storm.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

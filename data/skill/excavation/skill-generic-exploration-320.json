@@ -2,9 +2,10 @@
     "id": "skill-generic-exploration-320",
     "name": "Digging Basics",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
-    "description": "Increases the Damage that Runestone Shovels can deal when digging.\\n\\nUnlocks Slot:\\nShovel Slot\\n\\nTraits Granted:\\nShovel Proficiency",
+    "description": "Increases the Damage that Runestone Shovels can deal when digging.\\n\\nUnlocks Slot:\\nShovel Slot\\n\\nTraits Granted:\\nSpirit Shovel Proficiency",
     "icon": "skill-generic-exploration-320.png",
     "stats": [
         {
@@ -13,7 +14,7 @@
         }
     ],
     "grants": [
-        "equip_tool_shovel",
+        "equip_harvest_tool_shovel_spirit",
         "slot_grant_gravedigging_tool"
     ],
     "unlockedFromSkill": [

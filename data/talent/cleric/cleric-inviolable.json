@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Inviolable improves Control Defense by 5% per point spent.",
     "icon": "inviolable.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

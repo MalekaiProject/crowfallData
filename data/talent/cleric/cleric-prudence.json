@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Prudence improves Maximum Mana by 30 per point spent and Basic Attack Damage by 1.5% per point spent.",
     "icon": "prudence.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

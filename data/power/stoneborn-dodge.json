@@ -5,11 +5,11 @@
     "shortDescription": "Barrel Roll in a WASD direction",
     "icon": "stoneborn-dodge.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "range": "10",
+        "cost_type": "Dodge",
         "cost": "1",
-        "cost_type": "Dodge"
+        "range": "10",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

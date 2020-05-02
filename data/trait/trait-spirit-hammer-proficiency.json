@@ -1,0 +1,12 @@
+{
+    "id": "trait-spirit-hammer-proficiency",
+    "name": "Spirit Hammer Proficiency",
+    "description": "Spirit Hammer",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-311",
+            "name": "Quarrying Basics"
+        }
+    ]
+}

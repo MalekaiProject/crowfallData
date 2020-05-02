@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Gain Damage when Enemies Near",
     "icon": "enemies-near-damage.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "10%",
         "buff_type_1": "Damage Bonus",
-        "buff_amount_1": "10%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Cross Slash power.",
     "icon": "cross-slash.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

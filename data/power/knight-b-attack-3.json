@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "knight-b-attack-3.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "4",
-        "buff_type_1": "Shield Bash",
-        "min_damage_1": "88",
+        "weapon_damage_value": "103",
         "max_damage_1": "119",
-        "weapon_damage_value": "103"
+        "min_damage_1": "88",
+        "buff_type_1": "Shield Bash",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

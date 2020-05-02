@@ -1,7 +1,7 @@
 {
     "name": "Chocolate Milk",
     "id": "cooking-chocolate-milk-001",
-    "icon": "cooking_chocolate_milk_001.png",
+    "icon": "cooking-chocolate-milk-001.png",
     "description": "Creates some chocolate milk. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

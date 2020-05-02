@@ -1,7 +1,7 @@
 {
     "name": "Basic Runebind",
     "id": "crafting-runebind-001",
-    "icon": "crafting_runebind_001.png",
+    "icon": "crafting-runebind-001.png",
     "description": "Creates an Invocation to the Gods.",
     "outputQuantity": 1,
     "xp": 0,

@@ -1,7 +1,7 @@
 {
     "name": "Grilled Cheese Sandwich",
     "id": "cooking-cheese-sandwich-001",
-    "icon": "cooking_cheese_sandwich_001.png",
+    "icon": "cooking-cheese-sandwich-001.png",
     "description": "Just slap some cheese onto your bread and toast it for a portable and tasty snack! Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

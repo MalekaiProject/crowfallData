@@ -1,7 +1,7 @@
 {
     "name": "Leather Cap",
     "id": "leatherworking-armor-leather-helmet-010",
-    "icon": "leatherworking_armor_leather_helmet_010.png",
+    "icon": "leatherworking-armor-leather-helmet-010.png",
     "description": "Creates Advanced Armor Leather Cap, usable by those who are proficient with Leather Armor.",
     "outputQuantity": 1,
     "xp": 45,

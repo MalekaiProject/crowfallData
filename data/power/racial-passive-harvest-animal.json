@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Skinning",
     "icon": "racial-passive-harvest-animal.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "15",
         "buff_type_1": "Skinning",
-        "buff_amount_1": "15"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

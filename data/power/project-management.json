@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Reduce cost of Low Stat Re-Rolls",
     "icon": "project-management.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "25%",
         "buff_type_1": "Partial Re-roll Cost Modifier",
-        "buff_amount_1": "25%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

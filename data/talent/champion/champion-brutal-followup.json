@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Brutal Follow-up enhances Brutal Warrior to also reset the cooldowns of Spinning Backfist and Kick Sand powers.",
     "icon": "brutal-followup.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

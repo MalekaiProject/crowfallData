@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "ranger-dagger-spin-4.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "max_targets": "5",
-        "range": "4",
-        "cost": "0",
-        "cost_type": "Energy",
-        "buff_type_1": "Lifesteal Bonus",
-        "buff_amount_1": "60%",
-        "min_damage_1": "57",
+        "weapon_damage_value": "67",
         "max_damage_1": "77",
-        "weapon_damage_value": "67"
+        "min_damage_1": "57",
+        "buff_amount_1": "60%",
+        "buff_type_1": "Lifesteal Bonus",
+        "cost_type": "Energy",
+        "cost": "0",
+        "range": "6",
+        "max_targets": "5",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

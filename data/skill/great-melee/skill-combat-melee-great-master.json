@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-master",
     "name": "Great Melee Mastery",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 30,
     "pipAmount": 45360,
     "description": "Increases Armor Penetration: All, Health and Power Efficiency while using a Melee Great Weapon.",

@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-03-01",
     "name": "Armor Penetration: Elemental",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
     "description": "Increases Armor Penetration: Elemental while using a Main Hand Weapon.",

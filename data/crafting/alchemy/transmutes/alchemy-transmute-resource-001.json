@@ -1,7 +1,7 @@
 {
     "name": "Transmute Chaos",
     "id": "alchemy-transmute-resource-001",
-    "icon": "alchemy_transmute_resource_001.png",
+    "icon": "alchemy-transmute-resource-001.png",
     "description": "Transmutes a Chaos Ember into its more common form, Ethereal Dust. Produces 75.",
     "outputQuantity": 75,
     "xp": 15,

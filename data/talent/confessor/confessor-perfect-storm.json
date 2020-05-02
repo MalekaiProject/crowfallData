@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Fire Tornadoes can now damage targets up to 4 times.",
     "icon": "perfect-storm.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

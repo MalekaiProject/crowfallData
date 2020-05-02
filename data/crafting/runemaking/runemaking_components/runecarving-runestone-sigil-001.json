@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Pick",
     "id": "runecarving-runestone-sigil-001",
-    "icon": "runecarving_runestone_sigil_001.png",
+    "icon": "runecarving-runestone-sigil-001.png",
     "description": "Crafting Component used in the assembly of a Runestone Pick. The combination of Ores used determines the properties of the Pick.",
     "outputQuantity": 1,
     "xp": 15,

@@ -1,7 +1,7 @@
 {
     "name": "Mail Coif",
     "id": "blacksmithing-armor-mail-helmet-010",
-    "icon": "blacksmithing_armor_mail_helmet_010.png",
+    "icon": "blacksmithing-armor-mail-helmet-010.png",
     "description": "Creates Advanced Armor Mail Coif, usable by those who are\\nproficient with Mail Armor.",
     "outputQuantity": 1,
     "xp": 45,

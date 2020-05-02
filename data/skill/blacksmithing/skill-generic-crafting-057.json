@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-057",
     "name": "Salvage Competency",
     "tree": "Blacksmithing",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "Increases the Yield from Salvage. Allows Salvage on higher tier items. Currently TBD.",

@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Large Body Size Causes Faster Food Pool Decay",
     "icon": "racial-passive-hungry-horse.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "20",
         "buff_type_1": "Food Regen Rate",
-        "buff_amount_1": "20"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

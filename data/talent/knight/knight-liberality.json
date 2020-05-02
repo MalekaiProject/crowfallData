@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Liberality improves Maximum Health by 500 per point spent.",
     "icon": "liberality.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

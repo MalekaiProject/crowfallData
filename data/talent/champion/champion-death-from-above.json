@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Death from Above enhances Leap powers to also inflict Knockdown on enemies.",
     "icon": "death-from-above.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-02-03",
     "name": "Resist All",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Resist All while using Leather chest armor.",

@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Jewelcrafting Assembly and Experimentation Caps",
     "icon": "jewelcrafting-techniques.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Jewelcrafting Cap",
-        "buff_amount_1": "15",
+        "buff_amount_2": "15",
         "buff_type_2": "Jewelcrafting Experimentation Cap",
-        "buff_amount_2": "15"
+        "buff_amount_1": "15",
+        "buff_type_1": "Jewelcrafting Cap",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

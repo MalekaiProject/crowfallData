@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Prevents the Player from Being Dismounted via Damage",
     "icon": "racial-passive-no-dismount.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

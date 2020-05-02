@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-03-01",
     "name": "Anti-Critical Strike",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Anti-Critical Strike while wearing armor.",

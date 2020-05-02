@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Agile Footwork improves Anti-Critical Strike by 5% per point spent.",
     "icon": "agile-footwork.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

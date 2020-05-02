@@ -1,7 +1,7 @@
 {
     "name": "Intermediate Cap",
     "id": "crafting-armor-basic-helmet-001",
-    "icon": "crafting_armor_basic_helmet_001.png",
+    "icon": "crafting-armor-basic-helmet-001.png",
     "description": "Creates a Intermediate Armor Cloth Cap, usable by all.",
     "outputQuantity": 1,
     "xp": 7.5,

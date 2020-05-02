@@ -1,7 +1,7 @@
 {
     "name": "Frostcasting Enclosure",
     "id": "blacksmithing-weapon-frostcaster-body-001",
-    "icon": "blacksmithing_weapon_frostcaster_body_001.png",
+    "icon": "blacksmithing-weapon-frostcaster-body-001.png",
     "description": "Creates a Frostcasting Enclosure that is used to create a Frostcaster",
     "outputQuantity": 1,
     "xp": 30,

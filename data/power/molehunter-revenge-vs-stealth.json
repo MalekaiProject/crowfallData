@@ -5,11 +5,11 @@
     "shortDescription": "Passive: Increase Critical % after Stealth Attacked",
     "icon": "molehunter-revenge-vs-stealth.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "30 seconds",
+        "buff_amount_1": "10",
         "buff_type_1": "Critical Strike",
-        "buff_amount_1": "10"
+        "duration": "30 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

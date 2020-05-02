@@ -1,7 +1,7 @@
 {
     "name": "Pistol Body",
     "id": "blacksmithing-weapon-pistol-body-001",
-    "icon": "blacksmithing_weapon_pistol_body_001.png",
+    "icon": "blacksmithing-weapon-pistol-body-001.png",
     "description": "Creates a Pistol Body that is used to create a Pistol.",
     "outputQuantity": 1,
     "xp": 30,

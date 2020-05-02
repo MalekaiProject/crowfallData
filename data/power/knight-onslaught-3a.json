@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "knight-onslaught-3a.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "30",
-        "max_targets": "3",
-        "range": "7",
-        "cost": "281",
-        "cost_type": "Energy",
-        "min_damage_1": "171",
-        "max_damage_1": "232",
+        "weapon_damage_type": "Crushing",
         "weapon_damage_value": "202",
-        "weapon_damage_type": "Crushing"
+        "max_damage_1": "232",
+        "min_damage_1": "171",
+        "cost_type": "Energy",
+        "cost": "281",
+        "range": "7",
+        "max_targets": "3",
+        "cooldown": "30",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

@@ -1,7 +1,7 @@
 {
     "name": "Metal Buckles",
     "id": "blacksmithing-armor-buckles-001",
-    "icon": "blacksmithing_armor_buckles_001.png",
+    "icon": "blacksmithing-armor-buckles-001.png",
     "description": "Creates a Metal Buckle that is used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-433",
     "name": "Stealth Movement Speed",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 6120,
     "description": "Increases your Movement Speed when Stealthed.",
     "icon": "skill-generic-exploration-433.png",
     "stats": [
@@ -15,7 +16,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-314",
+            "skill": "skill-generic-exploration-318",
             "point": 4
         }
     ],

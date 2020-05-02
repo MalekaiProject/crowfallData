@@ -5,12 +5,12 @@
     "shortDescription": "",
     "icon": "mysticalmaster-quick-burn.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Essence",
-        "buff_amount_1": "50%",
+        "buff_amount_2": "5%",
         "buff_type_2": "Healing Bonus",
-        "buff_amount_2": "5%"
+        "buff_amount_1": "50%",
+        "buff_type_1": "Essence",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

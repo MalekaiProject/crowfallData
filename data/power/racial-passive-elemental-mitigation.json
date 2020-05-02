@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Elemental Resistance",
     "icon": "racial-passive-elemental-mitigation.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "500",
         "buff_type_1": "Elemental Resistance",
-        "buff_amount_1": "500"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

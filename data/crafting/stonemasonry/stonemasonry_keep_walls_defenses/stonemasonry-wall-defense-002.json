@@ -1,7 +1,7 @@
 {
     "name": "Battlement Panel: Wood",
     "id": "stonemasonry-wall-defense-002",
-    "icon": "stonemasonry_wall_defense_002.png",
+    "icon": "stonemasonry-wall-defense-002.png",
     "description": "Creates a Stone Attachable Battlement Panel: Wood 1x1.",
     "outputQuantity": 1,
     "xp": 30,

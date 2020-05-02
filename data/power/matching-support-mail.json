@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Gain Support Power with a Full Set of Mail Equipped",
     "icon": "matching-support-mail.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "100",
         "buff_type_1": "Support Power",
-        "buff_amount_1": "100"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

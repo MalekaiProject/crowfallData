@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Impale power.",
     "icon": "impale.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Executioner enhances Execute to remove its Pip cost.",
     "icon": "executioner.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

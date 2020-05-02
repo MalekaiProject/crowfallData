@@ -1,7 +1,7 @@
 {
     "name": "Horseshoes",
     "id": "blacksmithing-horseshoes-001",
-    "icon": "blacksmithing_horseshoes_001.png",
+    "icon": "blacksmithing-horseshoes-001.png",
     "description": "Creates a set of Horseshoes, usable by  Centaurs.",
     "outputQuantity": 1,
     "xp": 30,

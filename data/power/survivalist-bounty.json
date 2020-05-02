@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Chance to Harvest Foraged Food Ingredients",
     "icon": "survivalist-bounty.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_2": "3%",
         "buff_amount_1": "5%",
-        "buff_amount_2": "3%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

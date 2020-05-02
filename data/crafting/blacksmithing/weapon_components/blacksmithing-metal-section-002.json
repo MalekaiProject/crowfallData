@@ -1,7 +1,7 @@
 {
     "name": "Metal Section",
     "id": "blacksmithing-metal-section-002",
-    "icon": "blacksmithing_metal_section_002.png",
+    "icon": "blacksmithing-metal-section-002.png",
     "description": "Creates a Metal Section that is used in various Blacksmithing recipes, the Metal Section produced depends on the type of ore used to create it.",
     "outputQuantity": 1,
     "xp": 15,

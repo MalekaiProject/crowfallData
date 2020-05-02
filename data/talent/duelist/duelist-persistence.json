@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Persistence improves Maximum Health by 250 per point spent and Attack Power by 50 per point spent.",
     "icon": "persistence.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -5,14 +5,14 @@
     "shortDescription": "Increases Harvest Damage for 2 Hits",
     "icon": "survivalist-burst-strength.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "6",
-        "cost": "4",
-        "cost_type": "Harvest Pips",
-        "duration": "6 seconds",
+        "buff_amount_1": "100%",
         "buff_type_1": "Harvest Base Damage",
-        "buff_amount_1": "100%"
+        "duration": "6 seconds",
+        "cost_type": "Harvest Pips",
+        "cost": "4",
+        "cooldown": "6",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

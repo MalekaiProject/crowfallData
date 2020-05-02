@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Role: Healing\\n\\nWith a single-minded focus of healing and resource regeneration, the chosen of Gaea are welcomed by all.\\n\\nGrants the Life Power Tray and the following powers:\\nWill O' Wisps\\nCircle Of Life\\nIronwood Body\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGaea's Inspiration\\nMail Armor Proficiency\\nMystical Staff Proficiency\\n\\nNew Mechanic: Essence Burn\\nLife Powers will generate Essence when used. If your Essence fills over 80% you will gain Essence Burn, causing you to take damage each second until you die or reduce your Essence under 80%.\\n\\nUsing powers in the Death Powers Tray will reduce your Essence.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Earthkeeper promotion class and prevents access to the Archdruid and Stormcaller promotion classes.",
     "icon": "promotion-class-earthkeeper.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -42,7 +43,7 @@
         "druid-gift-of-nature"
     ],
     "locksSkill": [
-        "promotion-class-stormcaller",
-        "promotion-class-archdruid"
+        "druid-promotion-class-stormcaller",
+        "druid-promotion-class-archdruid"
     ]
 }

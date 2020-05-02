@@ -1,7 +1,7 @@
 {
     "name": "Sentry Tower",
     "id": "stonemasonry-fort-wall-defense-005",
-    "icon": "stonemasonry_fort_wall_defense_005.png",
+    "icon": "stonemasonry-fort-wall-defense-005.png",
     "description": "Creates a Wood Sentry Tower Deed.",
     "outputQuantity": 1,
     "xp": 45,

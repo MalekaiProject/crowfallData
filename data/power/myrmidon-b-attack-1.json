@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "myrmidon-b-attack-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "17",
-        "cost_type": "Fury",
-        "min_damage_1": "35",
+        "weapon_damage_value": "38",
         "max_damage_1": "42",
-        "weapon_damage_value": "38"
+        "min_damage_1": "35",
+        "cost_type": "Fury",
+        "cost": "17",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "myrmidon-b-attack-2"

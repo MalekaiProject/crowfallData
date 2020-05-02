@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "duelist-b-attack-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "4",
-        "min_damage_1": "72",
+        "weapon_damage_value": "91",
         "max_damage_1": "109",
-        "weapon_damage_value": "91"
+        "min_damage_1": "72",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "duelist-b-attack-3"

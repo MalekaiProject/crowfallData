@@ -1,7 +1,7 @@
 {
     "name": "Woodland Hills Parcel",
     "id": "stonemasonry-parcel-004",
-    "icon": "stonemasonry_parcel_004.png",
+    "icon": "stonemasonry-parcel-004.png",
     "description": "Creates a Rank 1 Woodland Hills Parcel.",
     "outputQuantity": 1,
     "xp": 30,

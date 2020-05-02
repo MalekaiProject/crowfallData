@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-379",
     "name": "Stone Mother Lode: Exceptional Quarrying",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the Damage that Runestone Hammers can deal when quarrying Mother Lodes.",

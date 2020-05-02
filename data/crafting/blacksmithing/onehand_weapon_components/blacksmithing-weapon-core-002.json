@@ -1,7 +1,7 @@
 {
     "name": "Blade Rivets",
     "id": "blacksmithing-weapon-core-002",
-    "icon": "blacksmithing_weapon_core_002.png",
+    "icon": "blacksmithing-weapon-core-002.png",
     "description": "Creates a set of Blade Rivets used to create a Bladed Weapon.",
     "outputQuantity": 1,
     "xp": 15,

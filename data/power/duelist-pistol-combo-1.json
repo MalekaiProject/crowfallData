@@ -5,15 +5,13 @@
     "shortDescription": "Basic: Restore Pips",
     "icon": "duelist-pistol-combo-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Ray",
-        "max_targets": "1",
-        "range": "15",
-        "cost": "11",
-        "cost_type": "Resource",
-        "min_damage_1": "40",
+        "weapon_damage_value": "50",
         "max_damage_1": "60",
-        "weapon_damage_value": "50"
+        "min_damage_1": "40",
+        "range": "16",
+        "max_targets": "1",
+        "target": "Ray",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "duelist-pistol-combo-2"

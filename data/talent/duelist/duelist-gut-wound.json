@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Gut Wound enhances Impale to inflict Stun when performed using five Pips.",
     "icon": "gut-wound.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

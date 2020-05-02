@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-01-05",
     "name": "Hammer: Attack Control Intensity",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Attack Control Intensity while using a Hammer in your main hand.",

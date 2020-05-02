@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Unlock a Minor Discipline slot.",
     "icon": "knight-minor-i.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

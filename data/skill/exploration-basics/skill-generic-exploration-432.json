@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-432",
     "name": "Improved Dodge",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 6120,
     "description": "Decreases the amount of Time it takes to regenerate Dodge Power.",
     "icon": "skill-generic-exploration-432.png",
     "stats": [
@@ -15,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-429",
+            "skill": "skill-generic-exploration-318",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-318"
-    ]
+    "unlocksSkill": []
 }

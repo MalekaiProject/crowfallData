@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Whirling Disaster enhances Whirling Pain to first Slow and then Suppress enemies.",
     "icon": "whirling-disaster.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

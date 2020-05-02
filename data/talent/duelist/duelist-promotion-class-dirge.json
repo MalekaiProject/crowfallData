@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Role: Melee Control\\n\\nHeavily armored and control focused, this master of the foil is not to be trifled with. \\n\\nIncreases by 25%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Dirge  promotion class and prevents access to the Vanguard Scout  and Slayer promotion classes.",
     "icon": "promotion-class-dirge.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -26,7 +27,7 @@
         "duelist-persistence"
     ],
     "locksSkill": [
-        "promotion-class-slayer",
-        "promotion-class-vanguard-scout"
+        "duelist-promotion-class-slayer",
+        "duelist-promotion-class-vanguard-scout"
     ]
 }

@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Repent improves Hard Crowd Control by 6% per point spent.",
     "icon": "repent.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

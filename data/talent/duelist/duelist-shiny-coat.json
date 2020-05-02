@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Shiny Coat improves Personal Healing Modifier by 1.5% per point spent.",
     "icon": "shiny-coat.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Thorns Cause Bonus Area Damage",
     "icon": "explosive-thorns.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

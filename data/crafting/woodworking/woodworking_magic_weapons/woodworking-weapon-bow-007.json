@@ -1,7 +1,7 @@
 {
     "name": "Bow: Runic Spellbound Longbow",
     "id": "woodworking-weapon-bow-007",
-    "icon": "woodworking_weapon_bow_007.png",
+    "icon": "woodworking-weapon-bow-007.png",
     "description": "Creates a Two Handed Runic Spellbound Longbow, usable by those who have a mastery of Spellbound Longbows.",
     "outputQuantity": 1,
     "xp": 45,

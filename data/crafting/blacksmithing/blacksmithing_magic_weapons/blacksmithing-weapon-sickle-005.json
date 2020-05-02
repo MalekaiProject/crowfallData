@@ -1,7 +1,7 @@
 {
     "name": "Runic Sickle",
     "id": "blacksmithing-weapon-sickle-005",
-    "icon": "blacksmithing_weapon_sickle_005.png",
+    "icon": "blacksmithing-weapon-sickle-005.png",
     "description": "Creates a One Handed Runic Sickle, usable by those who have a mastery of Mystical Sickles.",
     "outputQuantity": 1,
     "xp": 45,

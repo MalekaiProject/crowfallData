@@ -1,7 +1,7 @@
 {
     "name": "Guild Hall",
     "id": "stonemasonry-arc-building-004",
-    "icon": "stonemasonry_arc_building_004.png",
+    "icon": "stonemasonry-arc-building-004.png",
     "description": "Creates a Large Guild Hall Deed.",
     "outputQuantity": 1,
     "xp": 45,

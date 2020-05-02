@@ -1,7 +1,7 @@
 {
     "name": "Rapier",
     "id": "blacksmithing-weapon-rapier-001",
-    "icon": "blacksmithing_weapon_rapier_001.png",
+    "icon": "blacksmithing-weapon-rapier-001.png",
     "description": "Creates a One Handed Rapier, usable by those who are proficient with Rapiers.",
     "outputQuantity": 1,
     "xp": 45,

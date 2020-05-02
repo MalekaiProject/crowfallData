@@ -2,6 +2,7 @@
     "id": "skill-combat-mail-02-04",
     "name": "Ice Resistance",
     "tree": "Mail",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Ice Resistance while using Mail chest armor.",

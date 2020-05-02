@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-412",
     "name": "Group Leader Inspired Harvest Critical: All",
     "tree": "Command",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "The passive power Way of the Leader, gains up to 2.5% additional Critical Harvest Chance when harvesting all Resource types as long as you are the group leader.",

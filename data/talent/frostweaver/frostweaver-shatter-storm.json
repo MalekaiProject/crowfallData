@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Shatter Storm power.\\n\\nTraits Granted:\\nVolatile Focus Gem.",
     "icon": "shatter-storm.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

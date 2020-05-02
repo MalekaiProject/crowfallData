@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-001",
     "name": "Basic Crafting",
     "tree": "Crafting Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 360,
     "description": "Increase the chance of Assembly Success when assembling Basic Crafting items. Increasing any Basic Crafting statistic also increases all crafting profession statistics of that type.",

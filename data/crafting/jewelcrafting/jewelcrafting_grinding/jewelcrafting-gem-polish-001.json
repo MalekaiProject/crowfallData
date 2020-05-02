@@ -1,7 +1,7 @@
 {
     "name": "Polish Gemstone",
     "id": "jewelcrafting-gem-polish-001",
-    "icon": "jewelcrafting_gem_polish_001.png",
+    "icon": "jewelcrafting-gem-polish-001.png",
     "description": "The third and final stage of crafting a gem involves the use of a Polishing Paste. This magnifies the gems inner beauty and readies it for setting in jewelry.",
     "outputQuantity": 1,
     "xp": 30,

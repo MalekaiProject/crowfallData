@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-04-02",
     "name": "Frostcaster: Critical Healing Chance",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Critical Healing Chance while using a Frostcaster in your main hand.",

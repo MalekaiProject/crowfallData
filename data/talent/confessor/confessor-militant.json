@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Militant improves Resist All and Final Mitigations Cap by 200 per point spent.",
     "icon": "militant.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

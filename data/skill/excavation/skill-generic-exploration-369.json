@@ -2,9 +2,10 @@
     "id": "skill-generic-exploration-369",
     "name": "Ore Mother Lode: Gem Chance",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
-    "description": "Grants the ability to harvest Gems from Mother Lodes of Ore.",
+    "description": "Increases the Chance to obtain Gems from Mother Lodes of Ore.",
     "icon": "skill-generic-exploration-369.png",
     "stats": [
         {

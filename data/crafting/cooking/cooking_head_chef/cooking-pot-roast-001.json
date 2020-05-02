@@ -1,7 +1,7 @@
 {
     "name": "Pot Roast",
     "id": "cooking-pot-roast-001",
-    "icon": "cooking_pot_roast_001.png",
+    "icon": "cooking-pot-roast-001.png",
     "description": "Creates some Pot Roast. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

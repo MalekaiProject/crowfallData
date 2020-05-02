@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Vengeful Vitality improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent.",
     "icon": "vengeful-vitality.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Apples Additionally Give Stamina",
     "icon": "connoisseur-glycolysis.png",
     "stats": {
-        "cast_time": "Passive",
+        "buff_type_1": "Stamina",
         "target": "Self",
-        "buff_type_1": "Stamina"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

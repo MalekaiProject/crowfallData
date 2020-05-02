@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-02-02",
     "name": "Great Axe: Critical Strike",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Critical Strike while using a Great Axe.",

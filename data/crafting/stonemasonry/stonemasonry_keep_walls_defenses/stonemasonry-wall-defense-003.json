@@ -1,7 +1,7 @@
 {
     "name": "Bridge and Ramp",
     "id": "stonemasonry-wall-defense-003",
-    "icon": "stonemasonry_wall_defense_003.png",
+    "icon": "stonemasonry-wall-defense-003.png",
     "description": "Creates a Stone Bridge and Ramp.",
     "outputQuantity": 1,
     "xp": 45,

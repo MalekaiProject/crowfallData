@@ -1,7 +1,7 @@
 {
     "name": "Bridge and Ramp",
     "id": "stonemasonry-fort-wall-defense-002",
-    "icon": "stonemasonry_fort_wall_defense_002.png",
+    "icon": "stonemasonry-fort-wall-defense-002.png",
     "description": "Creates a Wood Bridge and Ramp Deed.",
     "outputQuantity": 1,
     "xp": 45,

@@ -2,6 +2,7 @@
     "id": "skill-combat-mail-01-01",
     "name": "Health",
     "tree": "Mail",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Health while using Mail chest armor.",

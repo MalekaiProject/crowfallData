@@ -1,7 +1,7 @@
 {
     "name": "Baked Ice Cream",
     "id": "cooking-baked-ice-cream-001",
-    "icon": "cooking_baked_ice_cream_001.png",
+    "icon": "cooking-baked-ice-cream-001.png",
     "description": "Creates some delectable Baked Ice Cream. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

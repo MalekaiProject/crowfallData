@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-02-01",
     "name": "Movement Control Defense",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Movement Control Defense while wearing armor.",

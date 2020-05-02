@@ -1,7 +1,7 @@
 {
     "name": "Dagger",
     "id": "blacksmithing-weapon-dagger-001",
-    "icon": "blacksmithing_weapon_dagger_001.png",
+    "icon": "blacksmithing-weapon-dagger-001.png",
     "description": "Creates a One Handed Dagger, usable by those who are proficient with Daggers.",
     "outputQuantity": 1,
     "xp": 45,

@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Binding",
     "id": "runecarving-runestone-sigil-009",
-    "icon": "runecarving_runestone_sigil_009.png",
+    "icon": "runecarving-runestone-sigil-009.png",
     "description": "Crafting Component used in the assembly of a Major Disciplines.",
     "outputQuantity": 1,
     "xp": 15,

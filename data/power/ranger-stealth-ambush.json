@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "ranger-stealth-ambush.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "min_damage_1": "193",
+        "weapon_damage_value": "227",
         "max_damage_1": "261",
-        "weapon_damage_value": "227"
+        "min_damage_1": "193",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

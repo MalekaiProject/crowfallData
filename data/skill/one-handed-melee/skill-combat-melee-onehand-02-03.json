@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-02-03",
     "name": "Mace: Power Efficiency",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Power Efficiency while using a Mace in your main hand.",

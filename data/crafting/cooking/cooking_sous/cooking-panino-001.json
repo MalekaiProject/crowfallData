@@ -1,7 +1,7 @@
 {
     "name": "Grilled Sandwich",
     "id": "cooking-panino-001",
-    "icon": "cooking_panino_001.png",
+    "icon": "cooking-panino-001.png",
     "description": "Creates fancy grilled sandwichs using your favorite protein! Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

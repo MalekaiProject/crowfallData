@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Chain Attack also applies a Slow effect to the target.",
     "icon": "entangling-chains.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

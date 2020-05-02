@@ -2,6 +2,7 @@
     "id": "skill-combat-range-great-01-01",
     "name": "Book: Armor Penetration: Elemental",
     "tree": "Great Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Armor Penetration: Elemental while using a Book.",

@@ -1,7 +1,7 @@
 {
     "name": "Vendor NPC",
     "id": "stonemasonry-vendor-001",
-    "icon": "stonemasonry_vendor_001.png",
+    "icon": "stonemasonry-vendor-001.png",
     "description": "Creates a placeable Human Vendor NPC.",
     "outputQuantity": 1,
     "xp": 30,

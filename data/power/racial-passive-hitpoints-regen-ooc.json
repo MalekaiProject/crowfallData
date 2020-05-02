@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Out of Combat Health Regen",
     "icon": "racial-passive-hitpoints-regen-ooc.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "20",
         "buff_type_1": "Health Regen: Out of Combat",
-        "buff_amount_1": "20"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

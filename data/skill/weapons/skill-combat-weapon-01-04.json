@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-01-04",
     "name": "Critical Strike",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 16200,
     "description": "Increases Critical Strike while using a Main Hand Weapon.",

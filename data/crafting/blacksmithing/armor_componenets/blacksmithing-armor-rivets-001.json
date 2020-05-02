@@ -1,7 +1,7 @@
 {
     "name": "Metal Rivets",
     "id": "blacksmithing-armor-rivets-001",
-    "icon": "blacksmithing_armor_rivets_001.png",
+    "icon": "blacksmithing-armor-rivets-001.png",
     "description": "Creates Metal Rivets that are used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

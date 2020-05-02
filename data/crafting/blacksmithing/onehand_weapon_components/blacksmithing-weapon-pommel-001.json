@@ -1,7 +1,7 @@
 {
     "name": "Weapon Pommel",
     "id": "blacksmithing-weapon-pommel-001",
-    "icon": "blacksmithing_weapon_pommel_001.png",
+    "icon": "blacksmithing-weapon-pommel-001.png",
     "description": "Creates a Weapon Pommel that is used to create a Weapon Hilt.",
     "outputQuantity": 1,
     "xp": 15,

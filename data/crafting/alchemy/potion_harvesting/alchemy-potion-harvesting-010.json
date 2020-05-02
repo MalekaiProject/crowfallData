@@ -1,7 +1,7 @@
 {
     "name": "Potion of Plenty: Digging",
     "id": "alchemy-potion-harvesting-010",
-    "icon": "alchemy_potion_harvesting_010.png",
+    "icon": "alchemy-potion-harvesting-010.png",
     "description": "Creates a Potion of Plentiful Harvest: Grave Digging, this can be used to increase plentiful harvests for Grave Digging for 30 minutes.",
     "outputQuantity": 1,
     "xp": 15,

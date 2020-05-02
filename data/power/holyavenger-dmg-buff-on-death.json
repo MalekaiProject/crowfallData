@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Increase Damage on Group death",
     "icon": "holyavenger-dmg-buff-on-death.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

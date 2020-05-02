@@ -2,6 +2,7 @@
     "id": "skill-combat-range-great-01-06",
     "name": "Book: Hard Control Intensity",
     "tree": "Great Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Hard Control Intensity while using a Book.",

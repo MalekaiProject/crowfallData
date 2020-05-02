@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Mighty Shield increases the base damage of Shield Slam, Shield Swipe, and Shield Bash by 15%.",
     "icon": "mighty-shield.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

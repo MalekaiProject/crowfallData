@@ -1,7 +1,7 @@
 {
     "name": "Leather Gloves",
     "id": "leatherworking-armor-leather-gloves-010",
-    "icon": "leatherworking_armor_leather_gloves_010.png",
+    "icon": "leatherworking-armor-leather-gloves-010.png",
     "description": "Creates Advanced Armor Leather Gloves, usable by those who are proficient with Leather Armor.",
     "outputQuantity": 1,
     "xp": 45,

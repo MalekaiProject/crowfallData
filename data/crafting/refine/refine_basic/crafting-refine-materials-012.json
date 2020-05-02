@@ -1,0 +1,30 @@
+{
+    "name": "Refine Timber",
+    "id": "crafting-refine-materials-012",
+    "icon": "crafting-refine-materials-012.png",
+    "description": "Refine Timber into Wood.",
+    "outputQuantity": 75,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Timber",
+            "id": "timber",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 15,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

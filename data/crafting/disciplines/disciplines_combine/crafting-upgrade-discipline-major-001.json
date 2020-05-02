@@ -1,7 +1,7 @@
 {
     "name": "Upgrade Major Discipline",
     "id": "crafting-upgrade-discipline-major-001",
-    "icon": "crafting_upgrade_discipline_major_001.png",
+    "icon": "crafting-upgrade-discipline-major-001.png",
     "description": "Combine identical Major Disciplines of the same quality to create a higher quality version of the same Major Discipline.\\n\\nDisciplines must be Uncommon quality or higher.",
     "outputQuantity": 1,
     "xp": 0,

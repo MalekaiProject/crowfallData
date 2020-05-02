@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Kiss of Death enhances Kidney Shot to cause Stunned enemies to take 10% increased damage for 6 seconds.",
     "icon": "kiss-of-death.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

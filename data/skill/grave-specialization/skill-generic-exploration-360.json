@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-360",
     "name": "Grave Specialization Mastery",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 20160,
     "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Necromancy Additives when a Critical Harvest happens while digging any Grave. Also increases the Chance for a Weak Spot when digging any Grave.",

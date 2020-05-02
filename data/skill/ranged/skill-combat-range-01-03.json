@@ -2,6 +2,7 @@
     "id": "skill-combat-range-01-03",
     "name": "Critical Healing Amount",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Critical Healing Amount while using a Ranged Weapon in your main hand.",

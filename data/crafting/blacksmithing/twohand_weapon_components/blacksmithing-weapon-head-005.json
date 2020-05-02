@@ -1,7 +1,7 @@
 {
     "name": "Weapon Head: Great",
     "id": "blacksmithing-weapon-head-005",
-    "icon": "blacksmithing_weapon_head_005.png",
+    "icon": "blacksmithing-weapon-head-005.png",
     "description": "Creates a Great Weapon Head, the type of Weapon Head Mold used determines the Head.",
     "outputQuantity": 1,
     "xp": 30,

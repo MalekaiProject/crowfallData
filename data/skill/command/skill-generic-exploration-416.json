@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-416",
     "name": "Group Leader Inspired Critical Chance",
     "tree": "Command",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "The passive power Way of the Leader, gains up to 1% additional Critical Strike and Critical Healing Chance for the entire group as long as you are the group leader.",

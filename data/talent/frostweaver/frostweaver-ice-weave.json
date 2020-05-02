@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Ice Weave power.\\n\\nTraits Granted:\\nStable Focus Gem",
     "icon": "ice-weave.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

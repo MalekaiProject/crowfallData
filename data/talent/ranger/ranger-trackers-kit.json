@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Alertness and Forest Step powers.",
     "icon": "trackers-kit.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

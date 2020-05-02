@@ -1,7 +1,7 @@
 {
     "name": "Polish Soulgem",
     "id": "jewelcrafting-gem-polish-002",
-    "icon": "jewelcrafting_gem_polish_002.png",
+    "icon": "jewelcrafting-gem-polish-002.png",
     "description": "Refine a Rough Soulgem into a Polished Soulgem.",
     "outputQuantity": 1,
     "xp": 30,

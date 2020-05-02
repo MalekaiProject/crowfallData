@@ -1,7 +1,7 @@
 {
     "name": "Saddle: Swift Pack Pig",
     "id": "crafting-mount-002",
-    "icon": "crafting_mount_002.png",
+    "icon": "crafting-mount-002.png",
     "description": "Creates a Saddle: Swift Pack Pig, which grants the Summon Swift Pack Pig Power.",
     "outputQuantity": 1,
     "xp": 45,

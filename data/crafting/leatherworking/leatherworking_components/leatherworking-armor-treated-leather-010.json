@@ -1,7 +1,7 @@
 {
     "name": "Treated Leather",
     "id": "leatherworking-armor-treated-leather-010",
-    "icon": "leatherworking_armor_treated_leather_010.png",
+    "icon": "leatherworking-armor-treated-leather-010.png",
     "description": "Creates Treated Leather that use used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

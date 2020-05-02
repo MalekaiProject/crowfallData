@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Role: Melee Damage\\n\\nKnown for lurking in the shadows and leaving only to finish off a wounded target.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vanguard Scout  promotion class and prevents access to the Slayer and Dirge  promotion classes.",
     "icon": "promotion-class-vanguard-scout.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "duelist-lurk-more"
     ],
     "locksSkill": [
-        "promotion-class-slayer",
-        "promotion-class-dirge"
+        "duelist-promotion-class-slayer",
+        "duelist-promotion-class-dirge"
     ]
 }

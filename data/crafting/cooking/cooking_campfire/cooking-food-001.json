@@ -1,7 +1,7 @@
 {
     "name": "Basic Roasted Meats",
     "id": "cooking-food-001",
-    "icon": "cooking_food_001.png",
+    "icon": "cooking-food-001.png",
     "description": "Creates some basic roasted meats, traditionally cooked low and slow, this rustic form of cooking results in something that looks more like a meteorite than a meal. But it is not burnt, and beneath the crust is the most tender, juicy, smoky meat you could want.",
     "outputQuantity": 2,
     "xp": 3.75,

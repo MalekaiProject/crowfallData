@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Arrogance improves Fury Regen: In Combat by 2 per point spent.",
     "icon": "arrogance.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

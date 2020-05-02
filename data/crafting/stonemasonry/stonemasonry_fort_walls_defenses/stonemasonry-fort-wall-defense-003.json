@@ -1,7 +1,7 @@
 {
     "name": "Corner",
     "id": "stonemasonry-fort-wall-defense-003",
-    "icon": "stonemasonry_fort_wall_defense_003.png",
+    "icon": "stonemasonry-fort-wall-defense-003.png",
     "description": "Creates a Wood Corner Deed.",
     "outputQuantity": 1,
     "xp": 45,

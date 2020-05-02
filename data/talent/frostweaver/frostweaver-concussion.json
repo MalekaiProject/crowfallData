@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Concussion enhances Volatile Ice to decrease an enemy's Anti-Critical Strike by 7% and can stack up to five times.",
     "icon": "concussion.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

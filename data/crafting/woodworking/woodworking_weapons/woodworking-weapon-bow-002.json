@@ -1,7 +1,7 @@
 {
     "name": "Bow: High Tension Compound",
     "id": "woodworking-weapon-bow-002",
-    "icon": "woodworking_weapon_bow_002.png",
+    "icon": "woodworking-weapon-bow-002.png",
     "description": "Creates a Two Handed High Tension Compound Bow, usable by those who are proficient with High Tension Compound Bows.",
     "outputQuantity": 1,
     "xp": 45,

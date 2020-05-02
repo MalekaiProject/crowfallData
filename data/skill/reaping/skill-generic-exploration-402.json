@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-402",
     "name": "Plethora of Meat: Animal",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases chance for bonus Meat when skinning an Animal.",

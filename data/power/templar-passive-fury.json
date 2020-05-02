@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "templar-passive-fury.png",
     "stats": {
-        "cast_time": "Passive",
+        "max_targets": "1",
         "target": "Self",
-        "max_targets": "1"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-01-03",
     "name": "Sprint Efficiency",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Decreases Sprint Efficiency while using Leather chest armor.",

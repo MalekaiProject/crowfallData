@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Sleight of Hand improves Basic Attack Damage by 2% per point spent.",
     "icon": "sleight-of-hand.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

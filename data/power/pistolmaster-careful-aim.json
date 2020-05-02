@@ -5,8 +5,8 @@
     "shortDescription": "Increase Critical Chance when Standing Still",
     "icon": "pistolmaster-careful-aim.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

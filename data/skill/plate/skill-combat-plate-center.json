@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-center",
     "name": "Plate Training",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20160,
     "description": "Increases Anti-Critical Strike while using Plate chest armor.",

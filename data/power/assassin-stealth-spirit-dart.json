@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "assassin-stealth-spirit-dart.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "24",
-        "max_targets": "1",
-        "range": "15",
-        "min_damage_1": "20",
+        "weapon_damage_value": "25",
         "max_damage_1": "30",
-        "weapon_damage_value": "25"
+        "min_damage_1": "20",
+        "range": "15",
+        "max_targets": "1",
+        "cooldown": "24",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

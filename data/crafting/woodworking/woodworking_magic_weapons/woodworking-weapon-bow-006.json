@@ -1,7 +1,7 @@
 {
     "name": "Bow: Runic High Tension Compound",
     "id": "woodworking-weapon-bow-006",
-    "icon": "woodworking_weapon_bow_006.png",
+    "icon": "woodworking-weapon-bow-006.png",
     "description": "Creates a Two Handed Runic High Tension Compound Bow, usable by those who have a mastery of High Tension Compound Bows.",
     "outputQuantity": 1,
     "xp": 45,

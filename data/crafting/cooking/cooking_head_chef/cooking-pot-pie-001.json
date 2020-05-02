@@ -1,7 +1,7 @@
 {
     "name": "Sumptuous Pot Pie",
     "id": "cooking-pot-pie-001",
-    "icon": "cooking_pot_pie_001.png",
+    "icon": "cooking-pot-pie-001.png",
     "description": "Creates some fresh homemade pot pies, just like mom used to make. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-125",
     "name": "Runemaking Experimentation Points",
     "tree": "Runemaking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the amount of Experimentation Points available when experimenting on Runemaking items.",

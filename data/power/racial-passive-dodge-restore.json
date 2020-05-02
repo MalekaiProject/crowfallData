@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Chance for Extra Dodge Power when Dodging",
     "icon": "racial-passive-dodge-restore.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

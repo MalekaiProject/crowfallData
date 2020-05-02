@@ -1,7 +1,7 @@
 {
     "id": "poisoner-combo-2",
     "name": "Poisoned Blade",
-    "description": "attacks for 119 - 161 + 140% Weapon Damage and cause the enemy to become Poisoned taking 8 - 9 + 1% Weapon Damage per tick for 20 seconds.",
+    "description": "attacks for 119 - 161 + 140% Weapon Damage and cause the enemy to become Poisoned taking 8 - 9 + 1% Weapon Damage per tick for 10 seconds.",
     "shortDescription": "",
     "icon": "poisoner-combo-2.png",
     "stats": {
@@ -11,10 +11,10 @@
         "weapon_damage_value": "140",
         "max_damage_1": "161",
         "min_damage_1": "119",
-        "duration": "20 seconds",
+        "duration": "10 seconds",
         "cost_type": "Resource",
         "cost": "14",
-        "range": "4",
+        "range": "6",
         "max_targets": "1",
         "cooldown": "1",
         "target": "Cone",

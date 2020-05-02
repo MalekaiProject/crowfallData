@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Indestructible Frenzy enhances Frenzy to prevent you from dropping below one Health while it is active.",
     "icon": "indestructible-frenzy.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

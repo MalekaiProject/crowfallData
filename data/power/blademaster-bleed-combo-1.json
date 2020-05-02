@@ -5,16 +5,16 @@
     "shortDescription": "Attack: Bleed multiple enemies",
     "icon": "blademaster-bleed-combo-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "5",
-        "range": "5",
-        "cost": "15",
-        "cost_type": "Resource",
-        "min_damage_1": "56",
+        "weapon_damage_value": "65",
         "max_damage_1": "75",
-        "weapon_damage_value": "65"
+        "min_damage_1": "56",
+        "cost_type": "Resource",
+        "cost": "15",
+        "range": "5",
+        "max_targets": "5",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "blademaster-bleed-combo-2"

@@ -1,7 +1,7 @@
 {
     "name": "Gate 4x1 (Open)",
     "id": "stonemasonry-fort-wall-defense-004",
-    "icon": "stonemasonry_fort_wall_defense_004.png",
+    "icon": "stonemasonry-fort-wall-defense-004.png",
     "description": "Creates a Wood Open Gate 4x1 Deed.",
     "outputQuantity": 1,
     "xp": 45,

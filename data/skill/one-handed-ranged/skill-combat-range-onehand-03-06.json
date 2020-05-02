@@ -2,6 +2,7 @@
     "id": "skill-combat-range-onehand-03-06",
     "name": "Sickle: Electricity Damage Bonus",
     "tree": "One-Handed Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Electricity Damage Bonus while using a Sickle in your main hand.",

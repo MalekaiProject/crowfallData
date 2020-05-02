@@ -1,7 +1,7 @@
 {
     "name": "Intermediate Tunic",
     "id": "crafting-armor-basic-chest-001",
-    "icon": "crafting_armor_basic_chest_001.png",
+    "icon": "crafting-armor-basic-chest-001.png",
     "description": "Creates a Intermediate Armor Cloth Tunic, usable by all.",
     "outputQuantity": 1,
     "xp": 7.5,

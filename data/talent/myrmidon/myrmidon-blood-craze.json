@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Blood Craze enhances Berserk to reduce Berserk Crash damage by an additional 25% when damaging an enemy who is Bleeding.",
     "icon": "blood-craze.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

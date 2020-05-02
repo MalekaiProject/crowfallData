@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Malice improves Movement Control Intensity by 7% per point spent.",
     "icon": "malice.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

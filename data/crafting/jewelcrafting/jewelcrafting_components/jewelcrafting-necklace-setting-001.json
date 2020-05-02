@@ -1,7 +1,7 @@
 {
     "name": "Necklace Bail",
     "id": "jewelcrafting-necklace-setting-001",
-    "icon": "jewelcrafting_necklace_setting_001.png",
+    "icon": "jewelcrafting-necklace-setting-001.png",
     "description": "Creates a Necklace Bail, the type of Ore determines the attributes of the bail.\\n\\nCopper yields STR, Iron yields CON, Tin yields INT,\\nSilver yields DEX, and Gold yields SPR.",
     "outputQuantity": 1,
     "xp": 7.5,

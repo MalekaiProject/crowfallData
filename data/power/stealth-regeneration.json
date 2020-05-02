@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Increase Health Regen in Stealth",
     "icon": "stealth-regeneration.png",
     "stats": {
-        "cast_time": "Passive",
+        "buff_amount_1": "35",
         "target": "Self",
-        "buff_amount_1": "35"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

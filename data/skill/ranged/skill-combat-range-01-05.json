@@ -2,6 +2,7 @@
     "id": "skill-combat-range-01-05",
     "name": "Decay Rate: Weapon",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Decreases Decay Rate: Weapon Rate while using a Ranged Weapon in your main hand.",

@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-413",
     "name": "Group Leader Inspired Beneficial Harvest Chance: All",
     "tree": "Command",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "The passive power Way of the Leader, gains up to 5% additional Beneficial Harvest Chance when harvesting all Resource types as long as you are the group leader. Beneficial Harvests can only happen when the node is destroyed.",

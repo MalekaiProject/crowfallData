@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Unlock a Minor Discipline slot.",
     "icon": "cleric-minor-iii.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

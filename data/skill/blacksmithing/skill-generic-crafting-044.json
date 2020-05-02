@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-044",
     "name": "Blacksmithing Assembly Cap",
     "tree": "Blacksmithing",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the maximum potential value of Blacksmithing Assembly.",

@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "templar-reproach-3a.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "cooldown": "9",
-        "max_targets": "5",
-        "range": "5",
-        "min_damage_1": "72",
+        "weapon_damage_value": "90",
         "max_damage_1": "108",
-        "weapon_damage_value": "90"
+        "min_damage_1": "72",
+        "range": "5",
+        "max_targets": "5",
+        "cooldown": "9",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

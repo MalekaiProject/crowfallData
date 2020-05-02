@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Solidify improves Armor by 60 per point spent and Personal Damage Modifier by 1% per point spent.",
     "icon": "solidify.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

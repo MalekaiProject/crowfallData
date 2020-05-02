@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-02-04",
     "name": "Decay Rate: Weapon",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 16200,
     "description": "Decreases Decay Rate: Weapon Rate while using a Main Hand Weapon.",

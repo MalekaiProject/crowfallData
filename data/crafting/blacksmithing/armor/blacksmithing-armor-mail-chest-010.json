@@ -1,7 +1,7 @@
 {
     "name": "Mail Hauberk",
     "id": "blacksmithing-armor-mail-chest-010",
-    "icon": "blacksmithing_armor_mail_chest_010.png",
+    "icon": "blacksmithing-armor-mail-chest-010.png",
     "description": "Creates Advanced Armor Mail Hauberk, usable by those who are proficient with Mail Armor.",
     "outputQuantity": 1,
     "xp": 45,

@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Schadenfreude enhances Stun to recover 1.5% Health per point spent whenever you Stun an enemy.",
     "icon": "schadenfreude.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

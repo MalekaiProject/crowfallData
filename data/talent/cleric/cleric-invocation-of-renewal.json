@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Invocation of Renewal improves Critical Healing Amount by 3% per point spent.",
     "icon": "invocation-of-renewal.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

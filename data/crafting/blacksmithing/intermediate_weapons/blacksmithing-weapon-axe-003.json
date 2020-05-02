@@ -1,7 +1,7 @@
 {
     "name": "Axe",
     "id": "blacksmithing-weapon-axe-003",
-    "icon": "blacksmithing_weapon_axe_003.png",
+    "icon": "blacksmithing-weapon-axe-003.png",
     "description": "Creates a One Handed Axe, usable by those who are proficient with Axes.",
     "outputQuantity": 1,
     "xp": 15,

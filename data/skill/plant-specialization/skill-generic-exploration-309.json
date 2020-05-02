@@ -1,0 +1,14 @@
+{
+    "id": "skill-generic-exploration-309",
+    "name": "Plethora of Dust: Basic Resources",
+    "tree": "Plant Specialization",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 360,
+    "description": "Increases the chance for bonus Ethereal Dust when harvesting Basic Resources.",
+    "icon": "skill-generic-exploration-309.png",
+    "stats": [],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

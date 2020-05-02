@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "druid-z-sacrifice-basic.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "5",
-        "cost_type": "Health",
-        "min_damage_1": "192",
+        "weapon_damage_value": "240",
         "max_damage_1": "288",
-        "weapon_damage_value": "240"
+        "min_damage_1": "192",
+        "cost_type": "Health",
+        "cooldown": "5",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

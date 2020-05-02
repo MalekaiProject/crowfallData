@@ -1,0 +1,20 @@
+{
+    "id": "trait-frostcaster-mastery",
+    "name": "Frostcaster Mastery",
+    "description": "A small, one-handed ranged weapon primarily used to coalesce Ice into its' many forms.\\n\\nYou are a master at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "archmage",
+            "name": "Archmage"
+        },
+        {
+            "id": "frostguard",
+            "name": "Frostguard"
+        },
+        {
+            "id": "icecaller",
+            "name": "Icecaller"
+        }
+    ]
+}

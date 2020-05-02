@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "confessor-flamesoftruth-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "cooldown": "30",
-        "max_targets": "1",
-        "range": "25",
-        "cost": "55",
-        "cost_type": "Mana",
-        "min_damage_1": "47",
+        "weapon_damage_value": "59",
         "max_damage_1": "71",
-        "weapon_damage_value": "59"
+        "min_damage_1": "47",
+        "cost_type": "Mana",
+        "cost": "55",
+        "range": "25",
+        "max_targets": "1",
+        "cooldown": "30",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

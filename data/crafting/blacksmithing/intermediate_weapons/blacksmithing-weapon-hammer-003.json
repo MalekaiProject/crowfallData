@@ -1,7 +1,7 @@
 {
     "name": "Mystical Throwing Hammer",
     "id": "blacksmithing-weapon-hammer-003",
-    "icon": "blacksmithing_weapon_hammer_003.png",
+    "icon": "blacksmithing-weapon-hammer-003.png",
     "description": "Creates a Mystical Throwing Hammer, usable by those who are proficient with Hammers.",
     "outputQuantity": 1,
     "xp": 45,

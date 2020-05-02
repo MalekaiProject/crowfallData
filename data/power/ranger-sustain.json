@@ -5,11 +5,11 @@
     "shortDescription": "",
     "icon": "ranger-sustain.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "duration": "30 seconds",
+        "buff_amount_1": "40",
         "buff_type_1": "Lifesteal",
-        "buff_amount_1": "40"
+        "duration": "30 seconds",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

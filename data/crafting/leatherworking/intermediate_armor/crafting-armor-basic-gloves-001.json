@@ -1,7 +1,7 @@
 {
     "name": "Intermediate Gloves",
     "id": "crafting-armor-basic-gloves-001",
-    "icon": "crafting_armor_basic_gloves_001.png",
+    "icon": "crafting-armor-basic-gloves-001.png",
     "description": "Creates a Intermediate Armor Cloth Gloves, usable by all.",
     "outputQuantity": 1,
     "xp": 7.5,

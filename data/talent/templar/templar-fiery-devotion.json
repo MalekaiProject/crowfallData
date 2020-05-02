@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Fiery Devotion enhances Devotion to also buff your Damage Bonus: Fire by 15%.",
     "icon": "fiery-devotion.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

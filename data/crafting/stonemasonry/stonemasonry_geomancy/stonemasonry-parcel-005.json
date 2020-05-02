@@ -1,7 +1,7 @@
 {
     "name": "Estate Parcel",
     "id": "stonemasonry-parcel-005",
-    "icon": "stonemasonry_parcel_005.png",
+    "icon": "stonemasonry-parcel-005.png",
     "description": "Creates a Rank 1 Estate Parcel.",
     "outputQuantity": 1,
     "xp": 30,

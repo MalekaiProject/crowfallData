@@ -1,7 +1,7 @@
 {
     "name": "Bloodworm Stew",
     "id": "cooking-bloodworm-stew-001",
-    "icon": "cooking_bloodworm_stew_001.png",
+    "icon": "cooking-bloodworm-stew-001.png",
     "description": "Creates a big bowl of Bloodworm Stew to put some pep in your step! Produces 10.",
     "outputQuantity": 10,
     "xp": 3,

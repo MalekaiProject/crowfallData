@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-102",
     "name": "Woodworking Experimentation Points",
     "tree": "Woodworking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the amount of Experimentation Points available when experimenting on Woodworking items.",

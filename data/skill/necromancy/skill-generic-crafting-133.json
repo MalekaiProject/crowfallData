@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-133",
     "name": "Necromancy Experimentation",
     "tree": "Necromancy",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the chance of Experimentation Success when experimenting on Necromancy items.",

@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Rapid Fire and Snipe powers.",
     "icon": "rapid-fire.png",
+    "maxPoints": 1,
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [

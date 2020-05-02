@@ -1,7 +1,7 @@
 {
     "name": "Heartwood Firing Arms",
     "id": "woodworking-siege-weapon-component-001",
-    "icon": "woodworking_siege_weapon_component_001.png",
+    "icon": "woodworking-siege-weapon-component-001.png",
     "description": "Creates Heartwood Firing Arms that are used to create the MK III Siege Weapons.",
     "outputQuantity": 1,
     "xp": 15,

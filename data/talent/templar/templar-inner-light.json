@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Inner Light enhances Brilliance to reduce its cost to 500 Soul Power.",
     "icon": "inner-light.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

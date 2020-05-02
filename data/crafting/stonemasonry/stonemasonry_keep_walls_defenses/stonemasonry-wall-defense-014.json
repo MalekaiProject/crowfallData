@@ -1,7 +1,7 @@
 {
     "name": "Wall 2x1",
     "id": "stonemasonry-wall-defense-014",
-    "icon": "stonemasonry_wall_defense_014.png",
+    "icon": "stonemasonry-wall-defense-014.png",
     "description": "Creates a Stone Wall 2x1 Deed.",
     "outputQuantity": 1,
     "xp": 45,

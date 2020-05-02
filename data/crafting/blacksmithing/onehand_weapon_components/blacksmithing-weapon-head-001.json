@@ -1,7 +1,7 @@
 {
     "name": "Weapon Head",
     "id": "blacksmithing-weapon-head-001",
-    "icon": "blacksmithing_weapon_head_001.png",
+    "icon": "blacksmithing-weapon-head-001.png",
     "description": "Creates a One Handed Weapon Head, the type of Weapon Head Mold used determines the Head.",
     "outputQuantity": 1,
     "xp": 30,

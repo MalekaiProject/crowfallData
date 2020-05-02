@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-02-03",
     "name": "Disease Resistance",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Disease Resistance while wearing armor.",

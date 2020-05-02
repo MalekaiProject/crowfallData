@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Unstoppable improves Control Defense by 10% per point spent.",
     "icon": "unstoppable.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,7 +1,7 @@
 {
     "name": "Wall Insulation",
     "id": "stonemasonry-arc-component-006",
-    "icon": "stonemasonry_arc_component_006.png",
+    "icon": "stonemasonry-arc-component-006.png",
     "description": "Creates Wall Insulation used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

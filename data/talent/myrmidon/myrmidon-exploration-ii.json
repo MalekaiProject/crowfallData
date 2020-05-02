@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Unlock a Exploration Discipline slot.",
     "icon": "myrmidon-exploration-ii.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Reduce Damage when Low Health",
     "icon": "scimitarmaster-ironwood-body.png",
     "stats": {
-        "cast_time": "Passive",
+        "duration": "10 seconds",
         "target": "Self",
-        "duration": "10 seconds"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

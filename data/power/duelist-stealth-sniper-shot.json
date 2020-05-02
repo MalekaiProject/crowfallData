@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "duelist-stealth-sniper-shot.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "15",
-        "min_damage_1": "82",
+        "weapon_damage_value": "103",
         "max_damage_1": "124",
-        "weapon_damage_value": "103"
+        "min_damage_1": "82",
+        "range": "16",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

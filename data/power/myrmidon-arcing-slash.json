@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "myrmidon-arcing-slash.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "5",
-        "range": "4",
-        "cost": "20",
-        "cost_type": "Fury",
-        "min_damage_1": "50",
+        "weapon_damage_value": "56",
         "max_damage_1": "62",
-        "weapon_damage_value": "56"
+        "min_damage_1": "50",
+        "cost_type": "Fury",
+        "cost": "20",
+        "range": "6",
+        "max_targets": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "myrmidon-whirlwind"

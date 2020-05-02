@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Pepperbox Shot power.",
     "icon": "pepperbox-shot.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

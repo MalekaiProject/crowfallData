@@ -1,7 +1,7 @@
 {
     "name": "Cookies",
     "id": "cooking-food-006",
-    "icon": "cooking_food_006.png",
+    "icon": "cooking-food-006.png",
     "description": "Creates some tasty and sweet Cookies! Produces 12.",
     "outputQuantity": 12,
     "xp": 1.25,

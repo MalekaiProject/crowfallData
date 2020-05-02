@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "Increases Support Power by 175 per point spent.",
     "icon": "gift-of-nature.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Role: Ranged Damage\\n\\nSome want to see the world burn, this master of magic wants to freeze the world. And then explode it.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\n\\nWARNING: Purchasing this talent prevents access to the Icecaller and Frostguard promotion classes.",
     "icon": "promotion-class-archmage.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "frostweaver-dangerous-weaving"
     ],
     "locksSkill": [
-        "promotion-class-frostguard",
-        "promotion-class-icecaller"
+        "frostweaver-promotion-class-frostguard",
+        "frostweaver-promotion-class-icecaller"
     ]
 }

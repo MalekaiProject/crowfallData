@@ -1,9 +1,9 @@
 {
     "name": "Refine Bogwood",
     "id": "crafting-refine-materials-006",
-    "icon": "crafting_refine_materials_006.png",
+    "icon": "crafting-refine-materials-006.png",
     "description": "Refine Bogwood into Heartwood.",
-    "outputQuantity": 4,
+    "outputQuantity": 1,
     "xp": 0,
     "category": "refine",
     "subCategory": "refine_basic",

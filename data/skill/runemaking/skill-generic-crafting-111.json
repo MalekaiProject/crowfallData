@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-111",
     "name": "Runemaking Experimentation Cap",
     "tree": "Runemaking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the maximum potential value of Runemaking Experimentation.",

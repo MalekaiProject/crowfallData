@@ -1,7 +1,7 @@
 {
     "name": "Manor",
     "id": "stonemasonry-arc-building-003",
-    "icon": "stonemasonry_arc_building_003.png",
+    "icon": "stonemasonry-arc-building-003.png",
     "description": "Creates a Manor Deed.",
     "outputQuantity": 1,
     "xp": 45,

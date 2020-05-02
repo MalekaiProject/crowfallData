@@ -1,17 +1,17 @@
 {
     "id": "thornshield",
     "name": "Thornshield",
-    "description": "envelopes you with dangerous Thorns for 15, causing any who strike you to take damage.",
+    "description": "envelopes you with dangerous Thorns for 15 seconds, causing any who strike you to take damage.",
     "shortDescription": "Activate Thorns",
     "icon": "thornshield.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "23",
-        "cost": "16",
+        "buff_amount_1": "10",
+        "duration": "15 seconds",
         "cost_type": "Resource",
-        "duration": "15",
-        "buff_amount_1": "10"
+        "cost": "16",
+        "cooldown": "23",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

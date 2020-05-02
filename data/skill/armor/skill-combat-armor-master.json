@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-master",
     "name": "Armor Principles Mastery",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 14400,
     "description": "Increases Resist All, increases Health, and decreases Decay Rate: Armor while wearing armor.",

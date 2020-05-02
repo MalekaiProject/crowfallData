@@ -2,6 +2,7 @@
     "id": "skill-combat-range-02-01",
     "name": "Basic Attack Damage",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Basic Attack Damage while using a Ranged Weapon in your main hand.",

@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-332",
     "name": "Harvest Critical: Elven Grave",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases your chance for a Critical Harvest when digging an Elven Grave.",

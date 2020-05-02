@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-master",
     "name": "Plate Mastery",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 28080,
     "description": "Increases Health, decreases Sprint Cost, and decreases Decay Rate: Armor while using Plate chest armor.",

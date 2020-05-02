@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-01-04",
     "name": "Poison Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Poison Resistance while using Leather chest armor.",

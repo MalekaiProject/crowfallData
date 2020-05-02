@@ -1,7 +1,7 @@
 {
     "name": "Mead",
     "id": "cooking-mead-001",
-    "icon": "cooking_mead_001.png",
+    "icon": "cooking-mead-001.png",
     "description": "Creates some Mead, the finest of alcoholic beverages. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

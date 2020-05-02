@@ -1,7 +1,7 @@
 {
     "name": "Basic Harvesting Knife",
     "id": "runecarving-runestone-tool-005",
-    "icon": "runecarving_runestone_tool_005.png",
+    "icon": "runecarving-runestone-tool-005.png",
     "description": "Creates a Basic Runestone Knife, which is used to Harvest Hide from Animals. Using wood types other than Knotwood in all required slots will create a Sturdier version of the tool.",
     "outputQuantity": 1,
     "xp": 7.5,

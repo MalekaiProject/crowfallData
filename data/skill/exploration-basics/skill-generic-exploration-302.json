@@ -2,21 +2,30 @@
     "id": "skill-generic-exploration-302",
     "name": "Gathering",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 4320,
-    "description": "Reduces the amount of Decay that some Basic Tools suffer when harvesting.",
+    "pipAmount": 6120,
+    "description": "Reduces the amount of Decay that Runestone Axes, Runestone Hammers, and Runestone Picks suffer when harvesting.\\n\\nTraits Granted:\\nRunestone Axe Proficiency\\nRunestone Hammer Proficiency\\nRunestone Pick Proficiency",
     "icon": "skill-generic-exploration-302.png",
     "stats": [
         {
-            "name": "Decay Reduction: Basic Picks",
+            "name": "Decay Reduction: Picks",
             "amount": "2%"
         },
         {
-            "name": "Decay Reduction: Basic Hammers",
+            "name": "Decay Reduction: Hammers",
+            "amount": "2%"
+        },
+        {
+            "name": "Decay Reduction: Axes",
             "amount": "2%"
         }
     ],
-    "grants": [],
+    "grants": [
+        "equip_harvest_tool_axe",
+        "equip_harvest_tool_pick",
+        "equip_harvest_tool_hammer"
+    ],
     "unlockedFromSkill": [
         {
             "skill": "skill-generic-exploration-300",
@@ -24,6 +33,6 @@
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-310"
+        "skill-generic-exploration-426"
     ]
 }

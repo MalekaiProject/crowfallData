@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-009",
     "name": "Basic Crafting Experimentation Point",
     "tree": "Crafting Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 2160,
     "description": "Increases the amount of Experimentation Points available when experimenting on Basic Crafting items.",

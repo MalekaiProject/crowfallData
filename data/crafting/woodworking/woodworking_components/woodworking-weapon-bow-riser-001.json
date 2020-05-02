@@ -1,7 +1,7 @@
 {
     "name": "Bow Riser",
     "id": "woodworking-weapon-bow-riser-001",
-    "icon": "woodworking_weapon_bow_riser_001.png",
+    "icon": "woodworking-weapon-bow-riser-001.png",
     "description": "Creates a Bow Riser that is used to create a Bow.",
     "outputQuantity": 1,
     "xp": 30,

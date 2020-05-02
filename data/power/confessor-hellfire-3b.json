@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "confessor-hellfire-3b.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "cooldown": "23",
-        "max_targets": "5",
-        "cost": "120",
-        "cost_type": "Mana",
-        "duration": "10 seconds",
-        "min_damage_1": "105",
-        "max_damage_1": "157",
+        "weapon_damage_type": "Fire",
         "weapon_damage_value": "131",
-        "weapon_damage_type": "Fire"
+        "max_damage_1": "157",
+        "min_damage_1": "105",
+        "duration": "10 seconds",
+        "cost_type": "Mana",
+        "cost": "120",
+        "max_targets": "5",
+        "cooldown": "23",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

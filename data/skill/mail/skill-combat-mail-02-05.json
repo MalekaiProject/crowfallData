@@ -2,6 +2,7 @@
     "id": "skill-combat-mail-02-05",
     "name": "Decay Rate: Mail",
     "tree": "Mail",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Decay Rate: Mail while using Mail chest armor.",

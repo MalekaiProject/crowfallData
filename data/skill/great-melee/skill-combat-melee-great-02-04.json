@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-02-04",
     "name": "Great Axe: Movement Control Defense",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Movement Control Defense while using a Great Axe.",

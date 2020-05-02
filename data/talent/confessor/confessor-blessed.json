@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Blessed improves Maximum Stamina by 3 per point spent and Attack Power by 30 per point spent.",
     "icon": "blessed.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,7 +1,7 @@
 {
     "name": "Paella",
     "id": "cooking-paella-001",
-    "icon": "cooking_paella_001.png",
+    "icon": "cooking-paella-001.png",
     "description": "Creates some Paella. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

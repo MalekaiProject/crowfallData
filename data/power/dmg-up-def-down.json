@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Damage; Increase Damage Taken",
     "icon": "dmg-up-def-down.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Damage Bonus",
-        "buff_amount_1": "10%",
+        "buff_amount_2": "10%",
         "buff_type_2": "Personal Damage Modifier",
-        "buff_amount_2": "10%"
+        "buff_amount_1": "10%",
+        "buff_type_1": "Damage Bonus",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

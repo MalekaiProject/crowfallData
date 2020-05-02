@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-173",
     "name": "Partial Crafting Rerolls",
     "tree": "Jewelcrafting",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Decreases the cost of a Partial Reroll after experimenting on an item.",

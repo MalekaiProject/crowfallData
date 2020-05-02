@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "confessor-retaliate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "max_targets": "3",
-        "range": "5",
-        "cost": "65",
-        "cost_type": "Stamina",
-        "min_damage_1": "107",
+        "weapon_damage_value": "133",
         "max_damage_1": "160",
-        "weapon_damage_value": "133"
+        "min_damage_1": "107",
+        "cost_type": "Stamina",
+        "cost": "65",
+        "range": "5",
+        "max_targets": "3",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

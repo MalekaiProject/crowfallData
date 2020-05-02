@@ -1,13 +1,13 @@
 {
     "id": "frst-passive-volatile-casting",
     "name": "Volatile Focus",
-    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Volatile Ice near your target.\\n\\nVolatile Ice quickly explodes damaging enemies within 5m for 219 - 328 + 273% Weapon Damage.",
+    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Volatile Ice near your target.\\n\\nVolatile Ice quickly explodes damaging enemies within 5m for 197 - 296 + 247% Weapon Damage.",
     "shortDescription": "",
     "icon": "frst-passive-volatile-casting.png",
     "stats": {
-        "weapon_damage_2_value": "273",
-        "max_damage_2": "328",
-        "min_damage_2": "219",
+        "weapon_damage_2_value": "247",
+        "max_damage_2": "296",
+        "min_damage_2": "197",
         "target": "Self",
         "cast_time": "Passive"
     },

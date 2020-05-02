@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Explosive Shot enhances Pepperbox Shot to reduce the target's Piercing Mitigation by 25% when performed using five Pips.",
     "icon": "explosive-shot.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

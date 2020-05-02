@@ -1,7 +1,7 @@
 {
     "name": "Frostcaster",
     "id": "blacksmithing-weapon-frostcaster-003",
-    "icon": "blacksmithing_weapon_frostcaster_003.png",
+    "icon": "blacksmithing-weapon-frostcaster-003.png",
     "description": "Creates a Frostcaster, usable by those who are proficient with Frostcasters.",
     "outputQuantity": 1,
     "xp": 15,

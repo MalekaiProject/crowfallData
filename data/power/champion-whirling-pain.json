@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "champion-whirling-pain.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "cooldown": "24",
-        "max_targets": "5",
-        "range": "5",
-        "cost": "11",
-        "cost_type": "Rage",
-        "min_damage_1": "59",
+        "weapon_damage_value": "69",
         "max_damage_1": "79",
-        "weapon_damage_value": "69"
+        "min_damage_1": "59",
+        "cost_type": "Rage",
+        "cost": "11",
+        "range": "5",
+        "max_targets": "5",
+        "cooldown": "24",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

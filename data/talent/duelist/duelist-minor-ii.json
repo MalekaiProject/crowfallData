@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Unlock a Minor Discipline slot.",
     "icon": "duelist-minor-ii.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

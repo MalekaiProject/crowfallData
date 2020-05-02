@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "champion-b-attack-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "4",
-        "restore": "4",
-        "restore_type": "Rage",
-        "min_damage_1": "85",
+        "weapon_damage_value": "100",
         "max_damage_1": "115",
-        "weapon_damage_value": "100"
+        "min_damage_1": "85",
+        "restore_type": "Rage",
+        "restore": "4",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "champion-b-attack-2"

@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-355",
     "name": "Monster Grave Specialization",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when digging Monster Graves.",

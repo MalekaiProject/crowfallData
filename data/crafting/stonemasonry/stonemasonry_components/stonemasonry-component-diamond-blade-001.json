@@ -1,7 +1,7 @@
 {
     "name": "Diamond Cutting Blade",
     "id": "stonemasonry-component-diamond-blade-001",
-    "icon": "stonemasonry_component_diamond_blade_001.png",
+    "icon": "stonemasonry-component-diamond-blade-001.png",
     "description": "Creates a Cutting Blade strong enough to cut gems.",
     "outputQuantity": 1,
     "xp": 3.75,

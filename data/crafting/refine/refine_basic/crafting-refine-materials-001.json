@@ -1,9 +1,9 @@
 {
     "name": "Refine Metal Ingots",
     "id": "crafting-refine-materials-001",
-    "icon": "crafting_refine_materials_001.png",
+    "icon": "crafting-refine-materials-001.png",
     "description": "Refine Metal Ingots into Ore.",
-    "outputQuantity": 200,
+    "outputQuantity": 50,
     "xp": 0,
     "category": "refine",
     "subCategory": "refine_basic",

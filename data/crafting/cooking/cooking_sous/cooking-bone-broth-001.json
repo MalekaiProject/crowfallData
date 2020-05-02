@@ -1,7 +1,7 @@
 {
     "name": "Bone Broth",
     "id": "cooking-bone-broth-001",
-    "icon": "cooking_bone_broth_001.png",
+    "icon": "cooking-bone-broth-001.png",
     "description": "Creates some broth you can eat or for use in various Cooking recipes. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

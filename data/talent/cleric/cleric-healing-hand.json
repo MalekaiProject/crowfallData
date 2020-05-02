@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Healing Hand enhances Hand Of The Gods to also heal friendly targets within its deploy radius.",
     "icon": "healing-hand.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "templar-censure.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "15",
-        "max_targets": "1",
-        "range": "4",
-        "min_damage_1": "100",
+        "weapon_damage_value": "124",
         "max_damage_1": "149",
-        "weapon_damage_value": "124"
+        "min_damage_1": "100",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "15",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

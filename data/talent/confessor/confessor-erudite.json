@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Erudite improves Maximum Mana by 30 per point spent.",
     "icon": "erudite.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

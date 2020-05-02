@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-04-04",
     "name": "Fencing: Hard Control Defense",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Hard Control Defense while using a Rapier in your main hand.",

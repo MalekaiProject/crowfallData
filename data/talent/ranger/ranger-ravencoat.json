@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Ravencoat reduces the amount of Damage Taken by 2% per point spent.",
     "icon": "ravencoat.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

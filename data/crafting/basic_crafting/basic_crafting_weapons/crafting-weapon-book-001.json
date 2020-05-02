@@ -1,7 +1,7 @@
 {
     "name": "Basic Book",
     "id": "crafting-weapon-book-001",
-    "icon": "crafting_weapon_book_001.png",
+    "icon": "crafting-weapon-book-001.png",
     "description": "Creates a Basic Book, usable by those who are proficient with Books.",
     "outputQuantity": 1,
     "xp": 7.5,

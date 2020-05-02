@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "This talent grants the Massive Cleave power.",
     "icon": "massive-cleave.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

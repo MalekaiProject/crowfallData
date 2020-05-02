@@ -1,7 +1,7 @@
 {
     "name": "Great Axe",
     "id": "blacksmithing-weapon-axe-030",
-    "icon": "blacksmithing_weapon_axe_030.png",
+    "icon": "blacksmithing-weapon-axe-030.png",
     "description": "Creates a Great Axe, usable by those who are proficient with Great Axes.",
     "outputQuantity": 1,
     "xp": 45,

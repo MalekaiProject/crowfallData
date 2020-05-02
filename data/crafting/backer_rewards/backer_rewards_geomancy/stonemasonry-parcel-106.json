@@ -1,7 +1,7 @@
 {
     "name": "Woodland Creek Parcel",
     "id": "stonemasonry-parcel-106",
-    "icon": "stonemasonry_parcel_106.png",
+    "icon": "stonemasonry-parcel-106.png",
     "description": "Creates a Rank 1 Backer Reward Woodland Creek Parcel.",
     "outputQuantity": 1,
     "xp": 0,

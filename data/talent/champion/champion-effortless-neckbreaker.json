@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Effortless Neckbreaker enhances Neckbreaker reducing its cost to 300 Soul Power.",
     "icon": "effortless-neckbreaker.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

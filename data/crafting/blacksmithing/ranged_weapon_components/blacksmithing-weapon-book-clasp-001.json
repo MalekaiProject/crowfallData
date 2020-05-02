@@ -1,7 +1,7 @@
 {
     "name": "Book Clasp",
     "id": "blacksmithing-weapon-book-clasp-001",
-    "icon": "blacksmithing_weapon_book_clasp_001.png",
+    "icon": "blacksmithing-weapon-book-clasp-001.png",
     "description": "Creates a Book Clasp that is used to create a One Handed Book.",
     "outputQuantity": 1,
     "xp": 30,

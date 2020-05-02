@@ -1,7 +1,7 @@
 {
     "name": "Metal Scales",
     "id": "blacksmithing-metal-scales-011",
-    "icon": "blacksmithing_metal_scales_011.png",
+    "icon": "blacksmithing-metal-scales-011.png",
     "description": "Creates Metal Scales that are used in various Blacksmithing recipes, the Metal Scales produced depends on the type of ore used to create it.",
     "outputQuantity": 1,
     "xp": 15,

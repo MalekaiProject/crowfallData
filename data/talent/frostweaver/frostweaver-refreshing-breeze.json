@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Refreshing Breeze power.\\n\\nTraits Granted:\\nRefreshing Focus Gem",
     "icon": "refreshing-breeze.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

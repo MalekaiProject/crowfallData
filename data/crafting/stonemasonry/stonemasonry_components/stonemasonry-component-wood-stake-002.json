@@ -1,7 +1,7 @@
 {
     "name": "Wood Stakes",
     "id": "stonemasonry-component-wood-stake-002",
-    "icon": "stonemasonry_component_wood_stake_002.png",
+    "icon": "stonemasonry-component-wood-stake-002.png",
     "description": "Creates a Pile of Wood Stakes used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

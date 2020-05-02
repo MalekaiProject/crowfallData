@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Righteous Defense enhances Shield Block to Heal allies and yourself when you are damaged by enemies.",
     "icon": "righteous-defense.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

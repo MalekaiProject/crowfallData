@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Oath of Protection enhances Oath Of Will to reduce the cost of maintaining Block by 75% and lose no additional Stamina when Blocking Big Hits for 12 seconds.",
     "icon": "oath-of-protection.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-409",
     "name": "Crafting Leadership",
     "tree": "Command",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 35280,
     "description": "The passive power Way of the Leader, gains up to 5 additional Crafting Basics Assembly and Crafting Basics Experimentation for the entire group as long as you are the group leader.",

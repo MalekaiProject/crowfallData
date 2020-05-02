@@ -1,7 +1,7 @@
 {
     "name": "Soil",
     "id": "stonemasonry-soil-001",
-    "icon": "stonemasonry_soil_001.png",
+    "icon": "stonemasonry-soil-001.png",
     "description": "Creates Soil for crafting Parcels.",
     "outputQuantity": 1,
     "xp": 15,

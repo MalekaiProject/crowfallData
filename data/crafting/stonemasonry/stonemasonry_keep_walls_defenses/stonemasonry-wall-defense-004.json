@@ -1,7 +1,7 @@
 {
     "name": "Corner and Tower",
     "id": "stonemasonry-wall-defense-004",
-    "icon": "stonemasonry_wall_defense_004.png",
+    "icon": "stonemasonry-wall-defense-004.png",
     "description": "Creates a Stone Corner and Tower.",
     "outputQuantity": 1,
     "xp": 45,

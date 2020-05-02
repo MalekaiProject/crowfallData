@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Punishing Decree improves Movement Control Intensity and Hard Control Intensity by 7% per point spent.",
     "icon": "punishing-decree.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-424",
     "name": "Crafting Specialist",
     "tree": "Command",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 45360,
     "description": "The passive power Way of the Leader, gains up to 5% additional Thrall Power: All for the entire group as long as you are the group leader.",

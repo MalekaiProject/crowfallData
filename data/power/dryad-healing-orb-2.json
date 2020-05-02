@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "dryad-healing-orb-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Area",
-        "max_targets": "1",
-        "range": "35",
-        "min_damage_1": "39",
+        "weapon_damage_value": "17.3",
         "max_damage_1": "48",
-        "weapon_damage_value": "17.3"
+        "min_damage_1": "39",
+        "range": "35",
+        "max_targets": "1",
+        "target": "Area",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

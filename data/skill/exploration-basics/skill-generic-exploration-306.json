@@ -2,24 +2,25 @@
     "id": "skill-generic-exploration-306",
     "name": "Harvest Bone",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
+    "pipAmount": 6120,
     "description": "Grants ability to harvest Bone when skinning an Animal.",
     "icon": "skill-generic-exploration-306.png",
     "stats": [
         {
             "name": "Harvest Chance: Bone",
-            "amount": "0.4%"
+            "amount": "1%"
         }
     ],
-    "grants": [],
+    "grants": [
+        "equip_harvest_tool_knife_spirit"
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-304",
+            "skill": "skill-generic-exploration-316",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-307"
-    ]
+    "unlocksSkill": []
 }

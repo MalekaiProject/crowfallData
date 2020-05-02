@@ -1,9 +1,9 @@
 {
     "name": "Refine Mineral Cluster",
     "id": "crafting-refine-materials-005",
-    "icon": "crafting_refine_materials_005.png",
+    "icon": "crafting-refine-materials-005.png",
     "description": "Refine Mineral Cluster into Minerals.",
-    "outputQuantity": 20,
+    "outputQuantity": 8,
     "xp": 0,
     "category": "refine",
     "subCategory": "refine_basic",

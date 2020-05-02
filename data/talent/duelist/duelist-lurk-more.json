@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Lurk More improves Stealth by 5 and Stealth Damage Bonus by 10% per point spent.",
     "icon": "lurk-more.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

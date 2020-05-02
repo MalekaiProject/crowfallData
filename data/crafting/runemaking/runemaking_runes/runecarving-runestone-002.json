@@ -1,7 +1,7 @@
 {
     "name": "Runestone: Death",
     "id": "runecarving-runestone-002",
-    "icon": "runecarving_runestone_002.png",
+    "icon": "runecarving-runestone-002.png",
     "description": "Creates a Death Runestone that is used in the assembly of a Mystical Staff. Adds increased Attack Power to Staff.",
     "outputQuantity": 1,
     "xp": 15,

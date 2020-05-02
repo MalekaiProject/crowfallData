@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "myrmidon-whirlwind.png",
     "stats": {
-        "cast_time": "Channeled",
-        "target": "Sphere",
-        "max_targets": "5",
-        "range": "5",
-        "cost": "9",
-        "cost_type": "Fury",
-        "min_damage_1": "24",
-        "max_damage_1": "30",
-        "weapon_damage_value": "27",
+        "max_damage_2": "24",
         "min_damage_2": "18",
-        "max_damage_2": "24"
+        "weapon_damage_value": "27",
+        "max_damage_1": "30",
+        "min_damage_1": "24",
+        "cost_type": "Fury",
+        "cost": "9",
+        "range": "5",
+        "max_targets": "5",
+        "target": "Sphere",
+        "cast_time": "Channeled"
     },
     "nextChain": [],
     "lastChain": [

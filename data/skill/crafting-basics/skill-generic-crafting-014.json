@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-014",
     "name": "Basic Crafting Experimentation",
     "tree": "Crafting Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 2160,
     "description": "Increases the chance of Experimentation Success when experimenting on Basic Crafting items.",

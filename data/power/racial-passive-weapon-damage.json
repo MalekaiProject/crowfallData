@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Weapon Damage",
     "icon": "racial-passive-weapon-damage.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "8",
         "buff_type_1": "Weapon Damage",
-        "buff_amount_1": "8"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

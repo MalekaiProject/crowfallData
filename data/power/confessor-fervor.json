@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "confessor-fervor.png",
     "stats": {
-        "cast_time": "Channeled",
-        "target": "Self",
-        "cooldown": "45",
-        "restore": "350",
-        "restore_type": "Mana",
+        "duration": "5 seconds",
         "restore_type_time": "over five seconds",
-        "duration": "5 seconds"
+        "restore_type": "Mana",
+        "restore": "350",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Channeled"
     },
     "nextChain": [],
     "lastChain": [],

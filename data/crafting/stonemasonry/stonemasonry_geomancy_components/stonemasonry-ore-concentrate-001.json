@@ -1,7 +1,7 @@
 {
     "name": "Ore Concentrate",
     "id": "stonemasonry-ore-concentrate-001",
-    "icon": "stonemasonry_ore_concentrate_001.png",
+    "icon": "stonemasonry-ore-concentrate-001.png",
     "description": "Creates Ore Concentrate for crafting Parcels. Non-Basic Ore is either Aurelium, Copper, Iron, Tin, or Silver.",
     "outputQuantity": 1,
     "xp": 3.75,

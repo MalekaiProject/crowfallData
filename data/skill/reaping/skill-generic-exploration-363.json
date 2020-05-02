@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-363",
     "name": "Plant Reaping Basics",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Increases the Damage that Runestone Sickles can deal when gathering. [NYI]",

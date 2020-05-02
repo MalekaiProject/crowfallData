@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "This talent grants the Shield Block power.",
     "icon": "shield-block.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

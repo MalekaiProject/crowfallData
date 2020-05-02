@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Reduces Craft Assembly and Experiment Difficulty of Recipes",
     "icon": "helper-monkey.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Assembly Difficulty Reduction",
-        "buff_amount_1": "5",
+        "buff_amount_2": "5",
         "buff_type_2": "Experiment Difficulty Reduction",
-        "buff_amount_2": "5"
+        "buff_amount_1": "5",
+        "buff_type_1": "Assembly Difficulty Reduction",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -1,7 +1,7 @@
 {
     "name": "Basic Mystical Throwing Hammer",
     "id": "crafting-weapon-one-hand-hammer-001",
-    "icon": "crafting_weapon_one_hand_hammer_001.png",
+    "icon": "crafting-weapon-one-hand-hammer-001.png",
     "description": "Creates a Basic Mystical Throwing Hammer, usable by those who are proficient with Hammers.",
     "outputQuantity": 1,
     "xp": 7.5,

@@ -1,7 +1,7 @@
 {
     "name": "Large Cooking Pot",
     "id": "blacksmithing-largepot-001",
-    "icon": "blacksmithing_largepot_001.png",
+    "icon": "blacksmithing-largepot-001.png",
     "description": "Creates a very large cooking pot that is used in various Cooking recipes.",
     "outputQuantity": 10,
     "xp": 0.38,

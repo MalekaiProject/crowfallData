@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Barrage and Dagger Spin powers.",
     "icon": "bring-me-everyone.png",
+    "maxPoints": 1,
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [

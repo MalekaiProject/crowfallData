@@ -1,7 +1,7 @@
 {
     "name": "Basic Short Sword",
     "id": "crafting-weapon-short-sword-001",
-    "icon": "crafting_weapon_short_sword_001.png",
+    "icon": "crafting-weapon-short-sword-001.png",
     "description": "Creates a Basic Short Sword, usable by those who are proficient with Short Swords.",
     "outputQuantity": 1,
     "xp": 7.5,

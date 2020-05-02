@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Quick Reload improves Hard Control Intensity by 7% per point spent.",
     "icon": "quick-reload.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

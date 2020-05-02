@@ -1,7 +1,7 @@
 {
     "name": "Woodland Grove Parcel",
     "id": "stonemasonry-parcel-003",
-    "icon": "stonemasonry_parcel_003.png",
+    "icon": "stonemasonry-parcel-003.png",
     "description": "Creates a Rank 1 Woodland Grove Parcel.",
     "outputQuantity": 1,
     "xp": 30,

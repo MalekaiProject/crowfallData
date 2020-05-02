@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-05-01",
     "name": "Sword: Armor Penetration: Physical",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Armor Penetration: Physical while using a Sword in your main hand.",

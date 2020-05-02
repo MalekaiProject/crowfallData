@@ -5,17 +5,17 @@
     "shortDescription": "Attack: Inflict Holy damage",
     "icon": "adjudicator-adjudicate-1.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "16",
-        "cost_type": "Resource",
-        "min_damage_1": "113",
-        "max_damage_1": "153",
+        "weapon_damage_type": "Fire",
         "weapon_damage_value": "133",
-        "weapon_damage_type": "Fire"
+        "max_damage_1": "153",
+        "min_damage_1": "113",
+        "cost_type": "Resource",
+        "cost": "16",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "adjudicator-adjudicate-2"

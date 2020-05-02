@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Unlock a Exploration Discipline slot.",
     "icon": "confessor-exploration-i.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

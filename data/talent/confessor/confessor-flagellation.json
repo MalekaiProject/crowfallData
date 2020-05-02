@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Flagellation improves Armor Penetration: Elemental by 3% per point spent.",
     "icon": "flagellation.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

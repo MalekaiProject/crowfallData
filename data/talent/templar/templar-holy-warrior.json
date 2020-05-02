@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "This talent grants the Holy Warrior power.",
     "icon": "holy-warrior.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

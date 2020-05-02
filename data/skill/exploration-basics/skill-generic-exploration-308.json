@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-308",
     "name": "Improved Bandaging",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 6120,
     "description": "Increases the amount of Health you restore when using a Bandage.",
     "icon": "skill-generic-exploration-308.png",
     "stats": [
@@ -15,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-305",
+            "skill": "skill-generic-exploration-316",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-431"
-    ]
+    "unlocksSkill": []
 }

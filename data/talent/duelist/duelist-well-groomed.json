@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Well Groomed improves Maximum Health by 150 per point spent.",
     "icon": "well-groomed.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

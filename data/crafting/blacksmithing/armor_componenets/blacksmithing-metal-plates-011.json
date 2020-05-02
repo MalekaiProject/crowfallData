@@ -1,7 +1,7 @@
 {
     "name": "Metal Plates",
     "id": "blacksmithing-metal-plates-011",
-    "icon": "blacksmithing_metal_plates_011.png",
+    "icon": "blacksmithing-metal-plates-011.png",
     "description": "Creates a Metal Plate that is used in various Blacksmithing recipes, the Metal Plate produced depends on the type of ore used to create it.",
     "outputQuantity": 1,
     "xp": 15,

@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-02-01",
     "name": "Anti-Critical Strike",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Anti-Critical Strike while using a Melee Weapon in your main hand.",

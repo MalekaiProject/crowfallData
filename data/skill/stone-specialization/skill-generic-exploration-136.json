@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-136",
     "name": "Stone Specialization",
     "tree": "Stone Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Reduces the amount of Decay that Runestone Hammers suffer when quarrying.\\n\\nBeneficial Harvests from quarrying can now apply temporary Buff Effects to you.\\n\\nIncrease the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Hunger Crystals.",

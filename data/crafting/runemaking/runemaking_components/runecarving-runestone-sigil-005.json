@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Life",
     "id": "runecarving-runestone-sigil-005",
-    "icon": "runecarving_runestone_sigil_005.png",
+    "icon": "runecarving-runestone-sigil-005.png",
     "description": "Crafting Component used in the assembly of a Runestone: Life.",
     "outputQuantity": 1,
     "xp": 15,

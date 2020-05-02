@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "ranger-disengage.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "24",
-        "max_targets": "1",
-        "range": "25",
-        "cost": "380",
-        "cost_type": "Energy",
-        "min_damage_1": "148",
+        "weapon_damage_value": "175",
         "max_damage_1": "201",
-        "weapon_damage_value": "175"
+        "min_damage_1": "148",
+        "cost_type": "Energy",
+        "cost": "380",
+        "range": "25",
+        "max_targets": "1",
+        "cooldown": "24",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

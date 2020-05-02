@@ -1,7 +1,7 @@
 {
     "name": "Basic Recurve Bow",
     "id": "crafting-weapon-bow-001",
-    "icon": "crafting_weapon_bow_001.png",
+    "icon": "crafting-weapon-bow-001.png",
     "description": "Creates a Basic Recurve Bow, usable by those who are proficient with Bows.",
     "outputQuantity": 1,
     "xp": 7.5,

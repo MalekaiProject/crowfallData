@@ -1,7 +1,7 @@
 {
     "name": "Composite Wood Plank",
     "id": "woodworking-plank-003",
-    "icon": "woodworking_plank_003.png",
+    "icon": "woodworking-plank-003.png",
     "description": "Creates a Composite Wood Plank that is used in various Woodworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

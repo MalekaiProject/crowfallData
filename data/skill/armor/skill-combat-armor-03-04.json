@@ -2,6 +2,7 @@
     "id": "skill-combat-armor-03-04",
     "name": "Slashing Resistance",
     "tree": "Armor",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10440,
     "description": "Increases Slashing Resistance while wearing armor.",

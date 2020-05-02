@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "champion-vicious-stomp.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "24",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "12",
-        "cost_type": "Rage",
-        "min_damage_1": "113",
+        "weapon_damage_value": "133",
         "max_damage_1": "153",
-        "weapon_damage_value": "133"
+        "min_damage_1": "113",
+        "cost_type": "Rage",
+        "cost": "12",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "24",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "champion-disarming-shout",

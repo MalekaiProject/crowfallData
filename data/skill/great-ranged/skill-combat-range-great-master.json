@@ -2,6 +2,7 @@
     "id": "skill-combat-range-great-master",
     "name": "Great Range Mastery",
     "tree": "Great Ranged",
+    "maxPoints": 5,
     "pointRequirement": 30,
     "pipAmount": 45360,
     "description": "Increases Armor Penetration: All, Power Efficiency and Health while using a Great Range Weapon.",

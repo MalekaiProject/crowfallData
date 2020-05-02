@@ -1,7 +1,7 @@
 {
     "name": "Runic Mace",
     "id": "blacksmithing-weapon-mace-005",
-    "icon": "blacksmithing_weapon_mace_005.png",
+    "icon": "blacksmithing-weapon-mace-005.png",
     "description": "Creates a One Handed Runic Mace, usable by those who have a mastery of Maces.",
     "outputQuantity": 1,
     "xp": 45,

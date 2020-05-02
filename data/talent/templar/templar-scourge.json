@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Scourge improves Movement Control Intensity by 7% per point spent.",
     "icon": "scourge.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

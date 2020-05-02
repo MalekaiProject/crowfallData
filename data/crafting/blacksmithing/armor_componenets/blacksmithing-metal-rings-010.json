@@ -1,7 +1,7 @@
 {
     "name": "Metal Rings",
     "id": "blacksmithing-metal-rings-010",
-    "icon": "blacksmithing_metal_rings_010.png",
+    "icon": "blacksmithing-metal-rings-010.png",
     "description": "Creates Metal Rings that are used in various Blacksmithing recipes, the Metal Rings produced depends on the type of ore used to create it.",
     "outputQuantity": 1,
     "xp": 15,

@@ -1,7 +1,7 @@
 {
     "name": "Mail Armor Themed Stall",
     "id": "stonemasonry-stall-007",
-    "icon": "stonemasonry_stall_007.png",
+    "icon": "stonemasonry-stall-007.png",
     "description": "Creates a Mail Armor Themed Vendor Stall you can place in your EK which you will place your vendor in to sell your wares.",
     "outputQuantity": 1,
     "xp": 30,

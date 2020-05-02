@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "cleric-block.png",
     "stats": {
-        "cast_time": "Hold Channeled",
-        "target": "Self",
-        "cost": "6",
-        "cost_type": "Stamina",
-        "cost_type_time": "cost_type_time_per_second",
-        "min_damage_1": "150",
+        "weapon_damage_value": "100",
         "max_damage_1": "15",
-        "weapon_damage_value": "100"
+        "min_damage_1": "150",
+        "cost_type_time": "cost_type_time_per_second",
+        "cost_type": "Stamina",
+        "cost": "6",
+        "target": "Self",
+        "cast_time": "Hold Channeled"
     },
     "nextChain": [],
     "lastChain": [],

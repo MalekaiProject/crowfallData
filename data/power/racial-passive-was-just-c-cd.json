@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Heal Over Time when any Knockdown, Stun, Root, or Snare is Applied",
     "icon": "racial-passive-was-just-c-cd.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "6%",
         "duration": "4",
-        "buff_amount_1": "6%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

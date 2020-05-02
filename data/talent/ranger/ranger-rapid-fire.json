@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Rapid Fire power.",
     "icon": "rapid-fire.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

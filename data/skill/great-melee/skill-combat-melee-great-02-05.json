@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-great-02-05",
     "name": "Great Axe: Slashing Damage Bonus",
     "tree": "Great Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Slashing Damage Bonus while using a Great Axe.",

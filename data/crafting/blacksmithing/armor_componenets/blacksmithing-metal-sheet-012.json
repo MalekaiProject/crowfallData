@@ -1,7 +1,7 @@
 {
     "name": "Metal Sheet",
     "id": "blacksmithing-metal-sheet-012",
-    "icon": "blacksmithing_metal_sheet_012.png",
+    "icon": "blacksmithing-metal-sheet-012.png",
     "description": "Creates a Metal Sheet that is used in various Blacksmithing recipes, the Metal Sheet produced depends on the type of ore used to create it.",
     "outputQuantity": 1,
     "xp": 15,

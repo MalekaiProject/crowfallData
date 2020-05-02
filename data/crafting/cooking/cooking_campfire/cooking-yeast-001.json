@@ -1,7 +1,7 @@
 {
     "name": "Yeast",
     "id": "cooking-yeast-001",
-    "icon": "cooking_yeast_001.png",
+    "icon": "cooking-yeast-001.png",
     "description": "Creates some Yeast, acooking reagent for use in various Cooking recipes. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

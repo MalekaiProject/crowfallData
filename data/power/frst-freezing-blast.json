@@ -1,7 +1,7 @@
 {
     "id": "frst-freezing-blast",
     "name": "Freezing Blast",
-    "description": "sweeps forward damaging enemies within for 77 - 115 + 96% Weapon Damage. Any of your Ice within the effect is converted to Frigid Ice.\\n\\nFrigid Ice harms enemies within 5m over time Dazing them and inflicting 57 - 86 + 70% Weapon Damage. Enemies destroy it on contact taking 201 - 301 + 251% Weapon Damage, becoming Rooted and suffering Ice Buildup. Tripping it again while afflicted with Ice Buildup causes Knockdown.",
+    "description": "sweeps forward damaging enemies within for 77 - 115 + 96% Weapon Damage. Any of your Ice within the effect is converted to Frigid Ice.\\n\\nFrigid Ice harms enemies within 5m over time Dazing them and inflicting 57 - 86 + 70% Weapon Damage. Enemies destroy it on contact taking 201 - 301 + 251% Weapon Damage, becoming Rooted and suffering Ice Buildup. Tripping it again while afflicted with Ice Buildup causes Knockdown.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
     "shortDescription": "",
     "icon": "frst-freezing-blast.png",
     "stats": {

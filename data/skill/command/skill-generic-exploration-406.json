@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-406",
     "name": "Command",
     "tree": "Command",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the Range that Way of the Leader effects apply to group memebers, up to an additional 25m.\\n\\nPassive Power Granted:\\nWay of the Leader",

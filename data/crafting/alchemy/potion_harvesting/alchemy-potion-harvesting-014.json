@@ -1,7 +1,7 @@
 {
     "name": "Potion of Plenty: Skinning",
     "id": "alchemy-potion-harvesting-014",
-    "icon": "alchemy_potion_harvesting_014.png",
+    "icon": "alchemy-potion-harvesting-014.png",
     "description": "Creates a Potion of Plentiful Harvest: Skinning, this can be used to increase plentiful harvests for Skinning for 30 minutes.",
     "outputQuantity": 1,
     "xp": 15,

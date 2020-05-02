@@ -1,7 +1,7 @@
 {
     "name": "Mulch",
     "id": "stonemasonry-mulch-001",
-    "icon": "stonemasonry_mulch_001.png",
+    "icon": "stonemasonry-mulch-001.png",
     "description": "Creates Mulch used for crafting Parcels. Non-Basic Wood is either Oak, Ash, Yew, Birch, or Spruce.",
     "outputQuantity": 1,
     "xp": 3.75,

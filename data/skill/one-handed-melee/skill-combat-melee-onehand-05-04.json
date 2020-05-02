@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-onehand-05-04",
     "name": "Sword: Power Efficiency",
     "tree": "One-Handed Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
     "description": "Increases Power Efficiency while using a Sword in your main hand.",

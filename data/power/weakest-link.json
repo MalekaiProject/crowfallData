@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Increase Damage vs Slowed enemies",
     "icon": "weakest-link.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -1,7 +1,7 @@
 {
     "name": "Bread",
     "id": "cooking-bread-001",
-    "icon": "cooking_bread_001.png",
+    "icon": "cooking-bread-001.png",
     "description": "Creates a very delicious batch of bread! Produces 12.",
     "outputQuantity": 12,
     "xp": 1.25,

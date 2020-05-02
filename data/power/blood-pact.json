@@ -1,16 +1,16 @@
 {
     "id": "blood-pact",
     "name": "Blood Pact",
-    "description": "grants a Blood Pact for 15 converting ability Resource costs to Health.",
+    "description": "grants a Blood Pact for 15 seconds converting ability Resource costs to Health.",
     "shortDescription": "Change Power Cost to Health",
     "icon": "blood-pact.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "16",
+        "duration": "15 seconds",
         "cost_type": "Resource",
-        "duration": "15"
+        "cost": "16",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

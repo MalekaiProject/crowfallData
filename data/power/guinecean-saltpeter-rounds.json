@@ -5,12 +5,12 @@
     "shortDescription": "Pistol Shots Snare Targets, Increases Pistol Range, only for Duelist",
     "icon": "guinecean-saltpeter-rounds.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "24",
-        "duration": "20 seconds",
+        "buff_amount_1": "5",
         "buff_type_1": "Distance Bonus",
-        "buff_amount_1": "5"
+        "duration": "20 seconds",
+        "cooldown": "24",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

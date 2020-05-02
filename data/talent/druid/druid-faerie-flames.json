@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Faerie Flames power.",
     "icon": "faerie-flames.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

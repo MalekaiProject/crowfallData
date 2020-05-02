@@ -2,6 +2,7 @@
     "id": "skill-combat-mail-04-03",
     "name": "Attack Control Defense",
     "tree": "Mail",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Attack Control Defense while using Mail chest armor.",

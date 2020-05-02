@@ -5,13 +5,13 @@
     "shortDescription": "",
     "icon": "druid-natures-grace-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "68",
-        "cost": "22",
-        "cost_type": "Essence",
+        "buff_amount_1": "2%",
         "duration": "12 seconds",
-        "buff_amount_1": "2%"
+        "cost_type": "Essence",
+        "cost": "22",
+        "cooldown": "68",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

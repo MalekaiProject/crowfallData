@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Increase Chain Heal Jumps; Falloff Reduction",
     "icon": "pixie-pix-fix.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

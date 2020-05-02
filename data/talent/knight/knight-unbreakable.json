@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Unbreakable increases Shield Block and Fortified Shield Slam damage reduction by 10%.",
     "icon": "unbreakable.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

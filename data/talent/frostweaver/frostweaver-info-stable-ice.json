@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Stable Ice is harmless and visible only to you. It can be picked up and added automatically to your Ice Stores. If your Ice Stores are full, Stable Ice is consumed on contact to restore 50 Mana./n/nStable Ice can be created with Ice Weave and Stable Focus.",
     "icon": "info-stable-ice.png",
+    "maxPoints": 0,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

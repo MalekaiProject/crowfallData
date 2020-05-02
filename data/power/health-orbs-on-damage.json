@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Spawn Health Orbs on Damage",
     "icon": "health-orbs-on-damage.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "60 seconds",
-        "min_damage_1": "101",
+        "weapon_damage_value": "448",
         "max_damage_1": "123",
-        "weapon_damage_value": "448"
+        "min_damage_1": "101",
+        "duration": "60 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

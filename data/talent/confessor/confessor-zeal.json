@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Basic Attacks deal 20% more damage for 12 seconds after completely casting Fervor.",
     "icon": "zeal.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

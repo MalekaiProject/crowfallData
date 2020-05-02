@@ -1,7 +1,7 @@
 {
     "name": "Weapon Shaft: Medium",
     "id": "blacksmithing-weapon-shaft-002",
-    "icon": "blacksmithing_weapon_shaft_002.png",
+    "icon": "blacksmithing-weapon-shaft-002.png",
     "description": "Creates a Medium Weapon Shaft that is used to create Great Axes and Great Maces.",
     "outputQuantity": 1,
     "xp": 15,

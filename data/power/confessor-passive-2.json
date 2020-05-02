@@ -5,11 +5,11 @@
     "shortDescription": "",
     "icon": "confessor-passive-2.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "15",
+        "buff_amount_1": "5%",
         "buff_type_1": "Damage Bonus",
-        "buff_amount_1": "5%"
+        "duration": "15 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -1,7 +1,7 @@
 {
     "name": "Grinding Wheel",
     "id": "stonemasonry-component-grind-wheel-003",
-    "icon": "stonemasonry_component_grind_wheel_003.png",
+    "icon": "stonemasonry-component-grind-wheel-003.png",
     "description": "Creates a Grinding Wheel used to facet gems.",
     "outputQuantity": 1,
     "xp": 45,

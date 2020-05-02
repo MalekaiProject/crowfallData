@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-347",
     "name": "Beneficial Harvest Power: Grave",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the intensity of the Beneficial Harvest Effect applied when digging Graves. Beneficial Harvests can only happen when the node is destroyed.",

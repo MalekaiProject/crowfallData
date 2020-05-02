@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "This talent grants the Yaga's Gift passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nCrushing Damage Bonus Cap\\n\\nTraits Granted:\\nAxe Mastery\\nDagger Mastery\\nMace Mastery",
     "icon": "vandal.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

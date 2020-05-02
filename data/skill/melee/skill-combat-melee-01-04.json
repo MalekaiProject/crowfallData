@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-01-04",
     "name": "Damage Bonus",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Damage Bonus while using a Melee Weapon in your main hand.",

@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this master of blades has perfected the art of swordplay.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Swordsman promotion class and prevents access to the Secutor and Sentinel promotion classes.",
     "icon": "promotion-class-swordsman.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "knight-commanding-vow"
     ],
     "locksSkill": [
-        "promotion-class-secutor",
-        "promotion-class-sentinel"
+        "knight-promotion-class-secutor",
+        "knight-promotion-class-sentinel"
     ]
 }

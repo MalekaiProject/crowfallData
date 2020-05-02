@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Virtuous Light enhances Divine Light to heal without draining additional Righteousness pips from you each tick.",
     "icon": "virtuous-light.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

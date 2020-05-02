@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Potency improves Maximum Stamina by 5 per point spent and Power Efficiency by 8 per point spent.",
     "icon": "potency.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

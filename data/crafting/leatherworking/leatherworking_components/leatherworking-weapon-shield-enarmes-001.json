@@ -1,7 +1,7 @@
 {
     "name": "Enarmes",
     "id": "leatherworking-weapon-shield-enarmes-001",
-    "icon": "leatherworking_weapon_shield_enarmes_001.png",
+    "icon": "leatherworking-weapon-shield-enarmes-001.png",
     "description": "Creates an Enarmes that is used to create a Shield.",
     "outputQuantity": 1,
     "xp": 15,

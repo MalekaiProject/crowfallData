@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-119",
     "name": "Plethora of Dust: Tin Ore",
     "tree": "Ore Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the chance for bonus Ethereal Dust when mining Tin.",

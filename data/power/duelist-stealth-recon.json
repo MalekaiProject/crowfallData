@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "duelist-stealth-recon.png",
     "stats": {
-        "cast_time": "Instant",
+        "max_targets": "1",
         "target": "Ray",
-        "max_targets": "1"
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

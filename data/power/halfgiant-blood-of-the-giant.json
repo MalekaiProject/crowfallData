@@ -5,13 +5,13 @@
     "shortDescription": "Harness Hatred, Increasing Damage and Size",
     "icon": "halfgiant-blood-of-the-giant.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cost": "100",
-        "cost_type": "Hate",
-        "buff_type_1": "Damage Bonus",
+        "buff_type_2": "Healing Bonus",
         "buff_amount_1": "5%",
-        "buff_type_2": "Healing Bonus"
+        "buff_type_1": "Damage Bonus",
+        "cost_type": "Hate",
+        "cost": "100",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

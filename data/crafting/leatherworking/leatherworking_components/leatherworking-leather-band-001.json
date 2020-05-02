@@ -1,7 +1,7 @@
 {
     "name": "Leather Sheet",
     "id": "leatherworking-leather-band-001",
-    "icon": "leatherworking_leather_band_001.png",
+    "icon": "leatherworking-leather-band-001.png",
     "description": "Creates a Leather Sheet that is used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

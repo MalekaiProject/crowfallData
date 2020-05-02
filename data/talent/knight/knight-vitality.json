@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Vitality improves Maximum Energy by 45 per point spent.",
     "icon": "vitality.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

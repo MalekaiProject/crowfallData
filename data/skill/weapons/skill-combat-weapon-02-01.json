@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-02-01",
     "name": "Power Efficiency",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
     "description": "Increases Power Efficiency while using a Main Hand Weapon.",

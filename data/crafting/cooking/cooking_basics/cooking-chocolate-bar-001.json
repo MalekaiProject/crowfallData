@@ -1,7 +1,7 @@
 {
     "name": "Chocolate Bar",
     "id": "cooking-chocolate-bar-001",
-    "icon": "cooking_chocolate_bar_001.png",
+    "icon": "cooking-chocolate-bar-001.png",
     "description": "Creates some chocolate bars. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Critical Damage Amount",
     "icon": "racial-passive-critical-damage.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "5%",
         "buff_type_1": "Critical Damage",
-        "buff_amount_1": "5%"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -5,11 +5,11 @@
     "shortDescription": "",
     "icon": "druid-avatar-pack.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "max_targets": "5",
+        "cost_type": "Essence",
         "cost": "35",
-        "cost_type": "Essence"
+        "max_targets": "5",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

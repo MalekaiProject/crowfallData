@@ -5,12 +5,12 @@
     "shortDescription": "",
     "icon": "myrmidon-hatred.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "12",
-        "cost": "10",
+        "duration": "8 seconds",
         "cost_type": "Fury",
-        "duration": "8 seconds"
+        "cost": "10",
+        "cooldown": "12",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

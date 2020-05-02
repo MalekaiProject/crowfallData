@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Overachieve improves Critical Strike by 2% per point spent.",
     "icon": "overachieve.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

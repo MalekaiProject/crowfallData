@@ -5,14 +5,14 @@
     "shortDescription": "Target Debuff Anti-Critical Strike",
     "icon": "fae-faerie-fire.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Ray",
-        "cooldown": "45",
-        "max_targets": "1",
-        "range": "20",
-        "duration": "30 seconds",
+        "buff_amount_1": "8%",
         "buff_type_1": "Critically Hit",
-        "buff_amount_1": "8%"
+        "duration": "30 seconds",
+        "range": "20",
+        "max_targets": "1",
+        "cooldown": "45",
+        "target": "Ray",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

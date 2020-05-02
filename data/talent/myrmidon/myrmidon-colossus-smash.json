@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "This talent grants the Colossus Smash power.",
     "icon": "colossus-smash.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

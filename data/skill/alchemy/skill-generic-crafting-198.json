@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-198",
     "name": "Alchemy Mastery",
     "tree": "Alchemy",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 40320,
     "description": "Increases the chance of Experimentation Success, the maximum potential value of Alchemy Assembly, Alchemy Experimentation, and Experimentation Points available  while crafting Alchemy items. Also enhances the power of Buffs that Alchemy Stations grant when they have a Thrall inhabiting them.",

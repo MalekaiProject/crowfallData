@@ -1,7 +1,7 @@
 {
     "id": "frst-passive-cool-casting",
     "name": "Cooling Focus",
-    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Cool Ice near your target.\\n\\nCool Ice benefits allies within 10m over time restoring their native resource.",
+    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Cool Ice near your target.\\n\\nCool Ice benefits allies within 10m over time restoring their native resource.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
     "shortDescription": "",
     "icon": "frst-passive-cool-casting.png",
     "stats": {

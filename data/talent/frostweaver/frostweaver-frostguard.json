@@ -2,14 +2,19 @@
     "id": "frostweaver-frostguard",
     "name": "Frostguard",
     "class": "frostweaver",
-    "description": "This talent grants the Frostguard passive power.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 10%:\\nIce Damage Bonus\\nIce Damage Cap",
+    "description": "This talent grants the Frostguard passive power.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 10%:\\nIce Damage Bonus\\nIce Damage Cap\\n\\nTraits Granted:\\nFrostcaster Mastery",
     "icon": "frostguard.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [
         {
             "id": "frostguard",
             "name": "Frostguard"
+        },
+        {
+            "id": "trait-frostcaster-mastery",
+            "name": "Frostcaster Mastery"
         }
     ],
     "unlockedFromSkill": [

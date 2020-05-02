@@ -1,7 +1,7 @@
 {
     "name": "Empty Flask",
     "id": "alchemy-empty-flask-002",
-    "icon": "alchemy_empty_flask_002.png",
+    "icon": "alchemy-empty-flask-002.png",
     "description": "Creates an Empty Flask for Potion Crafting. Produces 3.",
     "outputQuantity": 3,
     "xp": 4,

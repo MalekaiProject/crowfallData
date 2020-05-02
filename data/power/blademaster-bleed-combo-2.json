@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "blademaster-bleed-combo-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "5",
-        "max_targets": "5",
-        "range": "5",
-        "cost": "14",
-        "cost_type": "Resource",
-        "min_damage_1": "62",
+        "weapon_damage_value": "72",
         "max_damage_1": "83",
-        "weapon_damage_value": "72"
+        "min_damage_1": "62",
+        "cost_type": "Resource",
+        "cost": "14",
+        "range": "5",
+        "max_targets": "5",
+        "cooldown": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "blademaster-bleed-combo-3"

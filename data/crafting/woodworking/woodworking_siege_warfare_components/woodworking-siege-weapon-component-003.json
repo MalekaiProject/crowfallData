@@ -1,7 +1,7 @@
 {
     "name": "Reinforcing Brackets",
     "id": "woodworking-siege-weapon-component-003",
-    "icon": "woodworking_siege_weapon_component_003.png",
+    "icon": "woodworking-siege-weapon-component-003.png",
     "description": "Creates Reinforcing Brackets that are used to create the MK II Siege Weapons.",
     "outputQuantity": 1,
     "xp": 15,

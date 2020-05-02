@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Double Down enhances Kidney Shot to apply a Severe Bleed when Stunning an enemy.",
     "icon": "double-down.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

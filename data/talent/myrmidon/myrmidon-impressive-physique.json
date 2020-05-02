@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Impressive Physique improves Maximum Health by 175 per point spent.",
     "icon": "impressive-physique.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

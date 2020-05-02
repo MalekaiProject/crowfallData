@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-03-04",
     "name": "Critical Healing Amount",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 16200,
     "description": "Increases Critical Healing Amount while using a Main Hand Weapon.",

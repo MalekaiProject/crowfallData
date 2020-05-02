@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-center",
     "name": "Weapons Training",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 4320,
     "description": "Increases Attack Power while using a Main Hand Weapon.",

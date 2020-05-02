@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-02-02",
     "name": "Electricity Resistance",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Electricity Resistance while using Plate chest armor.",

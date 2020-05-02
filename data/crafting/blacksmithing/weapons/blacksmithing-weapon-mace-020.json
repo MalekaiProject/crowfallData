@@ -1,7 +1,7 @@
 {
     "name": "Great Mace",
     "id": "blacksmithing-weapon-mace-020",
-    "icon": "blacksmithing_weapon_mace_020.png",
+    "icon": "blacksmithing-weapon-mace-020.png",
     "description": "Creates a Two Handed Great Mace, usable by those who are proficient with Great Maces.",
     "outputQuantity": 1,
     "xp": 45,

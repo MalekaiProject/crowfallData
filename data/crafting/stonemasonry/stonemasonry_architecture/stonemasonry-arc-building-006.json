@@ -1,7 +1,7 @@
 {
     "name": "Keep",
     "id": "stonemasonry-arc-building-006",
-    "icon": "stonemasonry_arc_building_006.png",
+    "icon": "stonemasonry-arc-building-006.png",
     "description": "Creates a Keep Deed.",
     "outputQuantity": 1,
     "xp": 45,

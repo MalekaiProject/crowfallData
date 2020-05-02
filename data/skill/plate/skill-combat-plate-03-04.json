@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-03-04",
     "name": "Ice Resistance",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Ice Resistance while using Plate chest armor.",

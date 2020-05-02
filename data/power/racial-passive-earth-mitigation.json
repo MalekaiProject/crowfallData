@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Nature Resistance",
     "icon": "racial-passive-earth-mitigation.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "1000",
         "buff_type_1": "Nature Resistance",
-        "buff_amount_1": "1000"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -1,7 +1,7 @@
 {
     "name": "Survivalist Campfire",
     "id": "crafting-campfire-001",
-    "icon": "crafting_campfire_001.png",
+    "icon": "crafting-campfire-001.png",
     "description": "Creates a Survivalist Campfire Item, which can be used to construct a Survivalist Campfire in the world. Adding the optional Wild Card Ingredient will grant you an even more powerful fire.",
     "outputQuantity": 1,
     "xp": 15,

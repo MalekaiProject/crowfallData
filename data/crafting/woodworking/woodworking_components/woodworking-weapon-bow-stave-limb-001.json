@@ -1,7 +1,7 @@
 {
     "name": "Limbs: Bow",
     "id": "woodworking-weapon-bow-stave-limb-001",
-    "icon": "woodworking_weapon_bow_stave_limb_001.png",
+    "icon": "woodworking-weapon-bow-stave-limb-001.png",
     "description": "Creates a Bow Limb that is used to create a Bow.",
     "outputQuantity": 1,
     "xp": 30,

@@ -1,7 +1,7 @@
 {
     "name": "Casting Aperture",
     "id": "blacksmithing-weapon-frostcaster-barrel-001",
-    "icon": "blacksmithing_weapon_frostcaster_barrel_001.png",
+    "icon": "blacksmithing-weapon-frostcaster-barrel-001.png",
     "description": "Creates a Casting Aperture that is used to create a Frostcaster",
     "outputQuantity": 1,
     "xp": 30,

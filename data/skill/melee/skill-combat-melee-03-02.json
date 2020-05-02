@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-03-02",
     "name": "Support Power",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Support Power while using a Melee Weapon in your main hand.",

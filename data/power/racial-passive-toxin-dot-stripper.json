@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Chance to Remove All Toxin Effects From You when Any Toxin is Applied",
     "icon": "racial-passive-toxin-dot-stripper.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

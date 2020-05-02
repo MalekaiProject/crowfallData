@@ -1,7 +1,7 @@
 {
     "name": "Bow Rest",
     "id": "blacksmithing-weapon-bow-rest-001",
-    "icon": "blacksmithing_weapon_bow_rest_001.png",
+    "icon": "blacksmithing-weapon-bow-rest-001.png",
     "description": "Creates a Bow Rest that is used to create a Bow.",
     "outputQuantity": 1,
     "xp": 30,

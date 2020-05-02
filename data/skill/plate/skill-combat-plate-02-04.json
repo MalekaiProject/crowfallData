@@ -2,6 +2,7 @@
     "id": "skill-combat-plate-02-04",
     "name": "Crushing Resistance",
     "tree": "Plate",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Crushing Resistance while using Plate chest armor.",

@@ -2,6 +2,7 @@
     "id": "skill-combat-leather-03-02",
     "name": "Crushing Resistance",
     "tree": "Leather",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 21960,
     "description": "Increases Crushing Resistance while using Leather chest armor.",

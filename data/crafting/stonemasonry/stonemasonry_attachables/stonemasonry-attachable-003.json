@@ -1,7 +1,7 @@
 {
     "name": "Hanging Banner",
     "id": "stonemasonry-attachable-003",
-    "icon": "stonemasonry_attachable_003.png",
+    "icon": "stonemasonry-attachable-003.png",
     "description": "Creates a Stone Attachable Hanging Banner Deed.",
     "outputQuantity": 1,
     "xp": 30,

@@ -1,7 +1,7 @@
 {
     "name": "Biscuits and Gravy",
     "id": "cooking-biscuits-and-gravy-001",
-    "icon": "cooking_biscuits_and_gravy_001.png",
+    "icon": "cooking-biscuits-and-gravy-001.png",
     "description": "Creates some delicious Biscuits and Gravy. Produces 10",
     "outputQuantity": 10,
     "xp": 1.5,

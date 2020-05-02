@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "This talent grants the Arbiter passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nFire Damage Cap\\n\\nTraits Granted:\\nMystical Throwing Hammer Mastery\\nBuckler Mastery\\nMedium Shield Mastery",
     "icon": "arbiter.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [

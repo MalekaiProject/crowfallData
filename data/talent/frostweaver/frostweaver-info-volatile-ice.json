@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Volatile Ice quickly explodes damaging enemies within 5m for 219 - 328 + 273% Weapon Damage./n/nVolatile Ice can be created directly with Volatile Ice Weave and Ice Weave. You may convert Ice you've already created into Volatile Ice using Shatter Storm and it can be created randomly with Volatile Focus.",
     "icon": "info-volatile-ice.png",
+    "maxPoints": 0,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

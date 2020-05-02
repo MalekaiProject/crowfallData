@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-142",
     "name": "Necromancy Assembly Cap",
     "tree": "Necromancy",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the maximum potential value of Necromancy Assembly.",

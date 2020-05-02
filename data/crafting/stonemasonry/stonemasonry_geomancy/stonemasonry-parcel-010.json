@@ -1,7 +1,7 @@
 {
     "name": "Town Parcel",
     "id": "stonemasonry-parcel-010",
-    "icon": "stonemasonry_parcel_010.png",
+    "icon": "stonemasonry-parcel-010.png",
     "description": "Creates a Rank 1 Town Parcel.",
     "outputQuantity": 1,
     "xp": 30,

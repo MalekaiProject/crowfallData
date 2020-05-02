@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-386",
     "name": "Plethora of Dust: Elven",
     "tree": "Grave Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the chance for bonus Ethereal Dust when digging Elven Graves.",

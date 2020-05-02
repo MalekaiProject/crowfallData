@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-097",
     "name": "Silver Ore Basics",
     "tree": "Ore Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Silver Ore when mining Silver.",

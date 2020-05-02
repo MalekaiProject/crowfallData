@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "ranger-forest-step.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "24",
-        "range": "30",
-        "cost": "131",
-        "cost_type": "Energy",
-        "min_damage_1": "76",
+        "weapon_damage_value": "89",
         "max_damage_1": "103",
-        "weapon_damage_value": "89"
+        "min_damage_1": "76",
+        "cost_type": "Energy",
+        "cost": "131",
+        "range": "30",
+        "cooldown": "24",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "ranger-tendon-slice"

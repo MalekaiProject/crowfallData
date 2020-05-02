@@ -1,9 +1,9 @@
 {
     "name": "Refine Gem Cluster",
     "id": "crafting-refine-materials-004",
-    "icon": "crafting_refine_materials_004.png",
+    "icon": "crafting-refine-materials-004.png",
     "description": "Refine Gem Cluster into Gems.",
-    "outputQuantity": 4,
+    "outputQuantity": 1,
     "xp": 0,
     "category": "refine",
     "subCategory": "refine_basic",

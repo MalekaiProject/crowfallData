@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "myrmidon-net-pull.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "max_targets": "1",
-        "range": "30",
-        "cost": "17",
-        "cost_type": "Fury",
-        "min_damage_1": "95",
+        "weapon_damage_value": "106",
         "max_damage_1": "116",
-        "weapon_damage_value": "106"
+        "min_damage_1": "95",
+        "cost_type": "Fury",
+        "cost": "17",
+        "range": "30",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

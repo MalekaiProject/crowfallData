@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "druid-z-lightning-strike.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Ray",
-        "cooldown": "24",
-        "max_targets": "5",
-        "range": "35",
-        "cost": "46",
-        "cost_type": "Essence",
-        "min_damage_1": "207",
-        "max_damage_1": "311",
+        "weapon_damage_type": "Electricity",
         "weapon_damage_value": "259",
-        "weapon_damage_type": "Electricity"
+        "max_damage_1": "311",
+        "min_damage_1": "207",
+        "cost_type": "Essence",
+        "cost": "46",
+        "range": "35",
+        "max_targets": "5",
+        "cooldown": "24",
+        "target": "Ray",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "druid-z-aurora-emitter"

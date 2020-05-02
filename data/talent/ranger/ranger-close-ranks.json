@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Close Ranks enhances Archers Stake to become Treant Wood Stake, which removes its deploy time and prevents some types of Movement Reduction and Root effects.",
     "icon": "close-ranks.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

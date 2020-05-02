@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Cruel Blades improves Damage Bonus by 1% per point spent.",
     "icon": "cruel-blades.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

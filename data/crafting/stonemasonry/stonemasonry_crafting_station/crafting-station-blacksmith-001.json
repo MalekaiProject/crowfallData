@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: Blacksmithing",
     "id": "crafting-station-blacksmith-001",
-    "icon": "crafting_station_blacksmith_001.png",
+    "icon": "crafting-station-blacksmith-001.png",
     "description": "Creates a deed for a Blacksmithing crafting station.",
     "outputQuantity": 1,
     "xp": 15,

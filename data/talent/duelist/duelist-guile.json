@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Guile improves Resist All by 100 per point spent.",
     "icon": "guile.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

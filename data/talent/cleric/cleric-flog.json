@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Flog improves Critical Damage by 5% per point spent.",
     "icon": "flog.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

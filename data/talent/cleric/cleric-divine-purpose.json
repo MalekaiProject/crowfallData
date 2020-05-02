@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "Divine Purpose enhances Divine Order to reduce its cost to 500 Soul Power.",
     "icon": "divine-purpose.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "Role: Melee Damage\\n\\nThis terror fuels increased critical strikes with dominance gained from their powers.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Alpha Warrior  promotion class and prevents access to the Pit Fighter and Barbarian promotion classes.",
     "icon": "promotion-class-alpha-warrior.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +18,7 @@
         "champion-enmity"
     ],
     "locksSkill": [
-        "promotion-class-pit-fighter",
-        "promotion-class-barbarian"
+        "champion-promotion-class-pit-fighter",
+        "champion-promotion-class-barbarian"
     ]
 }

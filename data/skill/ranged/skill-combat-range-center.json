@@ -2,6 +2,7 @@
     "id": "skill-combat-range-center",
     "name": "Ranged Combat Training",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Critical Strike while using a Ranged Weapon in your main hand.",

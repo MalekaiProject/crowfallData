@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Unlock a Major Discipline slot.",
     "icon": "confessor-major-i.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

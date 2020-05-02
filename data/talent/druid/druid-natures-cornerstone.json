@@ -4,6 +4,7 @@
     "class": "druid",
     "description": "This talent grants the Gaea's Wail power.",
     "icon": "natures-cornerstone.png",
+    "maxPoints": 1,
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [

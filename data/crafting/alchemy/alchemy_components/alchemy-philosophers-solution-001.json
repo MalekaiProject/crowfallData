@@ -1,7 +1,7 @@
 {
     "name": "Philosopher's Solution",
     "id": "alchemy-philosophers-solution-001",
-    "icon": "alchemy_philosophers_solution_001.png",
+    "icon": "alchemy-philosophers-solution-001.png",
     "description": "Creates a solution used in the crafting of a Philosopher's Stone.\\n\\nGround Halite and Powdered Slate yield a DEX solution,\\nGround Dolomite and Powdered Marble yield a INT solution,\\nGround Sulphur and Powdered Travertine yields a SPR solution,\\nGround Cinnabar and Powdered Granite yield a STR solution,\\nGround Nitrate and Powdered Limestone yield a CON solution",
     "outputQuantity": 1,
     "xp": 15,

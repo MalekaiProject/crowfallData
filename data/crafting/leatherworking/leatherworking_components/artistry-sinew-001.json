@@ -1,7 +1,7 @@
 {
     "name": "Lacing Sinew",
     "id": "artistry-sinew-001",
-    "icon": "artistry_sinew_001.png",
+    "icon": "artistry-sinew-001.png",
     "description": "Creates Lacing Sinew that is used in various crafting recipes. Produces 5.",
     "outputQuantity": 5,
     "xp": 0.75,

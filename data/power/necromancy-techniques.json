@@ -5,12 +5,12 @@
     "shortDescription": "Passive: Increase Necromancy Assembly and Experimentation Caps",
     "icon": "necromancy-techniques.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "buff_type_1": "Necromancy Cap",
-        "buff_amount_1": "15",
+        "buff_amount_2": "15",
         "buff_type_2": "Necromancy Experimentation Cap",
-        "buff_amount_2": "15"
+        "buff_amount_1": "15",
+        "buff_type_1": "Necromancy Cap",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

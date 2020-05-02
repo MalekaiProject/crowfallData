@@ -2,6 +2,7 @@
     "id": "skill-combat-range-02-02",
     "name": "Armor Penetration: Elemental",
     "tree": "Ranged",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Armor Penetration: Elemental while using a Ranged Weapon in your main hand.",

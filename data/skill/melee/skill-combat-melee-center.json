@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-center",
     "name": "Melee Combat Training",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 20520,
     "description": "Increases Critical Strike while using a Melee Weapon in your main hand.",

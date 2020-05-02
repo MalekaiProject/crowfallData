@@ -1,7 +1,7 @@
 {
     "name": "Fresh Butter",
     "id": "cooking-butter-001",
-    "icon": "cooking_butter_001.png",
+    "icon": "cooking-butter-001.png",
     "description": "Creates some sticks of butter that is ready to eat or for use in various Cooking recipes. Produces 10",
     "outputQuantity": 10,
     "xp": 1.5,

@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Adds Grave Digging specific Buffs to all Energetic Harvesting Buffs",
     "icon": "grave-digging-empowered-digging.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

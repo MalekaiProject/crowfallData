@@ -1,7 +1,7 @@
 {
     "name": "Bow: Spellbound Longbow",
     "id": "woodworking-weapon-bow-003",
-    "icon": "woodworking_weapon_bow_003.png",
+    "icon": "woodworking-weapon-bow-003.png",
     "description": "Creates a Two Handed Spellbound Longbow, usable by those who are proficient with Spellbound Longbows.",
     "outputQuantity": 1,
     "xp": 45,

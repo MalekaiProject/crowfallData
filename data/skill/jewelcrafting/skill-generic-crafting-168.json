@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-168",
     "name": "Jewelcrafting Research",
     "tree": "Jewelcrafting",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the chance of Assembly Success and Experimentation Success while crafting Jewelcrafting items.",

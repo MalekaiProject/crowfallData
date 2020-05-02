@@ -1,7 +1,7 @@
 {
     "name": "Kebab Skewers",
     "id": "cooking-kebab-skewers-001",
-    "icon": "cooking_kebab_skewers_001.png",
+    "icon": "cooking-kebab-skewers-001.png",
     "description": "Creates Kebab Skewers, a quick and rustic meal. Use meat or mushrooms and produce to create a few sticks of deliciousness. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

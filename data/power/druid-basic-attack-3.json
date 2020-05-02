@@ -1,19 +1,19 @@
 {
     "id": "druid-basic-attack-3",
     "name": "Lightning Crack",
-    "description": "unleashes an electrical blast, causing 218 - 326 + 272% Weapon Damage.",
+    "description": "unleashes an electrical blast, causing 195 - 293 + 244% Weapon Damage.",
     "shortDescription": "",
     "icon": "druid-basic-attack-3.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "max_targets": "1",
-        "range": "30",
-        "cost": "30",
+        "weapon_damage_value": "244",
+        "max_damage_1": "293",
+        "min_damage_1": "195",
         "cost_type": "Essence",
-        "min_damage_1": "218",
-        "max_damage_1": "326",
-        "weapon_damage_value": "272"
+        "cost": "30",
+        "range": "30",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

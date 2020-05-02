@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-208",
     "name": "Stonemasonry Assembly",
     "tree": "Stonemasonry",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increase the chance of Assembly Success when assembling Stonemasonry items.",

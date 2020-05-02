@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-01-02",
     "name": "Critical Damage",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 16200,
     "description": "Increases Critical Damage while using a Main Hand Weapon.",

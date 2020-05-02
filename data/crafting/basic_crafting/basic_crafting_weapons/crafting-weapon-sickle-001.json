@@ -1,7 +1,7 @@
 {
     "name": "Basic Sickle",
     "id": "crafting-weapon-sickle-001",
-    "icon": "crafting_weapon_sickle_001.png",
+    "icon": "crafting-weapon-sickle-001.png",
     "description": "Creates a Basic Sickle, usable by those who are proficient with Sickles.",
     "outputQuantity": 1,
     "xp": 7.5,

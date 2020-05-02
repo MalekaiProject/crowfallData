@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "knight-noble-blood-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "23",
-        "restore": "350",
-        "restore_type": "Energy",
-        "restore_type_time": "over 3 seconds",
-        "min_damage_1": "0",
+        "weapon_damage_value": "0",
         "max_damage_1": "0",
-        "weapon_damage_value": "0"
+        "min_damage_1": "0",
+        "restore_type_time": "over 3 seconds",
+        "restore_type": "Energy",
+        "restore": "350",
+        "cooldown": "23",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

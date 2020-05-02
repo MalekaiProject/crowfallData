@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Free Weaving power.\\n\\nIncreases by 1:\\nIce Storage Capacity",
     "icon": "free-weaving.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

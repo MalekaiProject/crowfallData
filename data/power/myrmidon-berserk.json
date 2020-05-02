@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "myrmidon-berserk.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "12",
-        "cost": "10",
-        "cost_type": "Fury",
-        "duration": "8 seconds",
-        "min_damage_1": "267",
+        "weapon_damage_value": "297",
         "max_damage_1": "327",
-        "weapon_damage_value": "297"
+        "min_damage_1": "267",
+        "duration": "8 seconds",
+        "cost_type": "Fury",
+        "cost": "10",
+        "cooldown": "12",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

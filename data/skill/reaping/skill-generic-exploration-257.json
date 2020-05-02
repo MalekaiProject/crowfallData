@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-257",
     "name": "Exceptional Axes",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Increases the Damage that Runestone Axes can deal when logging.",

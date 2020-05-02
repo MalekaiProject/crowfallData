@@ -1,7 +1,7 @@
 {
     "name": "Hardened Leather Square",
     "id": "leatherworking-hard-leather-011",
-    "icon": "leatherworking_hard_leather_011.png",
+    "icon": "leatherworking-hard-leather-011.png",
     "description": "Creates a Hardened Leather Square that is used in various Leatherworking recipes.",
     "outputQuantity": 1,
     "xp": 15,

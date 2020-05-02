@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "This talent grants the Chill Out power.\\n\\nTraits Granted:\\nCooling Focus Gem.",
     "icon": "chill-out.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

@@ -5,14 +5,15 @@
     "shortDescription": "",
     "icon": "myrmidon-neck-slice.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "1",
-        "max_targets": "1",
-        "cost_type": "Fury",
-        "min_damage_1": "162",
+        "weapon_damage_value": "180",
         "max_damage_1": "198",
-        "weapon_damage_value": "180"
+        "min_damage_1": "162",
+        "cost_type": "Fury",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

@@ -1,7 +1,7 @@
 {
     "name": "Metal Bar",
     "id": "blacksmithing-metal-bar-003",
-    "icon": "blacksmithing_metal_bar_003.png",
+    "icon": "blacksmithing-metal-bar-003.png",
     "description": "Creates a Metal Bar that is used in various crafting recipes, the Metal Bar produced depends on the type of ore used to create it.",
     "outputQuantity": 1,
     "xp": 15,

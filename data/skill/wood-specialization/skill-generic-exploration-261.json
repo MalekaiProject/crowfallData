@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-261",
     "name": "Wood Specialization Mastery",
     "tree": "Wood Specialization",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 20160,
     "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Wood when a Critical Harvest happens while logging any Tree. Also increases the Chance for a Weak Spot when logging any Tree.",

@@ -5,16 +5,16 @@
     "shortDescription": "",
     "icon": "ranger-supression-shot.png",
     "stats": {
-        "cast_time": "Ground Aimed",
-        "target": "Area",
-        "cooldown": "30",
-        "max_targets": "5",
-        "range": "35",
-        "cost": "1",
-        "cost_type": "Arrow",
-        "min_damage_1": "93",
+        "weapon_damage_value": "109",
         "max_damage_1": "126",
-        "weapon_damage_value": "109"
+        "min_damage_1": "93",
+        "cost_type": "Arrow",
+        "cost": "1",
+        "range": "35",
+        "max_targets": "5",
+        "cooldown": "30",
+        "target": "Area",
+        "cast_time": "Ground Aimed"
     },
     "nextChain": [],
     "lastChain": [

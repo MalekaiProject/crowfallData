@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-377",
     "name": "Beneficial Harvest Chance: Stone",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases chance of a Beneficial Harvest when quarrying any type of Stone. Beneficial Harvests can only happen when the node is destroyed.",

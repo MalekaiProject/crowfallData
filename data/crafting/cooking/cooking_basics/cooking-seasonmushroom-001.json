@@ -1,7 +1,7 @@
 {
     "name": "Seasoned Mushrooms",
     "id": "cooking-seasonmushroom-001",
-    "icon": "cooking_seasonmushroom_001.png",
+    "icon": "cooking-seasonmushroom-001.png",
     "description": "Creates some Seasoned Mushrooms, your harvested mushrooms preped into a tasty snack. Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

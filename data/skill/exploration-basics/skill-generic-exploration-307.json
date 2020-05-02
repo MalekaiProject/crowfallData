@@ -1,26 +1,26 @@
 {
     "id": "skill-generic-exploration-307",
-    "name": "Improved Consumption",
+    "name": "Skinning Basics",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the amount of Food you restore when Eating.",
+    "pipAmount": 6120,
+    "description": "Increases chance for bonus Meat when skinning an Animal.\\n\\nTraits Granted:\\nSpirit Knife Proficiency",
     "icon": "skill-generic-exploration-307.png",
     "stats": [
         {
-            "name": "Consumption",
-            "amount": "2%"
+            "name": "Plethora of Meat: Animal",
+            "amount": "0.6%"
         }
     ],
-    "grants": [],
+    "grants": [
+        "equip_harvest_tool_knife"
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-306",
+            "skill": "skill-generic-exploration-316",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-305",
-        "skill-generic-exploration-430"
-    ]
+    "unlocksSkill": []
 }

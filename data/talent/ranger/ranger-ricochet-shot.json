@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "This talent grants the Ricochet Shot power.",
     "icon": "ricochet-shot.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "assassin-retaliate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Area",
-        "max_targets": "3",
-        "range": "5",
-        "cost": "65",
-        "cost_type": "Stamina",
-        "min_damage_1": "105",
+        "weapon_damage_value": "132",
         "max_damage_1": "158",
-        "weapon_damage_value": "132"
+        "min_damage_1": "105",
+        "cost_type": "Stamina",
+        "cost": "65",
+        "range": "5",
+        "max_targets": "3",
+        "target": "Area",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],
@@ -24,7 +24,7 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest",
+        "anyone",
         "assassin"
     ]
 }

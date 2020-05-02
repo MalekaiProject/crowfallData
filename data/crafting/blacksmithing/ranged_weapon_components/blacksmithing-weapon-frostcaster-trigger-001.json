@@ -1,7 +1,7 @@
 {
     "name": "Arcane Actuator",
     "id": "blacksmithing-weapon-frostcaster-trigger-001",
-    "icon": "blacksmithing_weapon_frostcaster_trigger_001.png",
+    "icon": "blacksmithing-weapon-frostcaster-trigger-001.png",
     "description": "Creates an Arcane Actuator that is used to create a Frostcaster",
     "outputQuantity": 1,
     "xp": 15,

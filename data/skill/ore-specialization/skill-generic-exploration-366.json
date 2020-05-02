@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-366",
     "name": "Copper Ore Basics",
     "tree": "Ore Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Copper Ore when mining Copper.",

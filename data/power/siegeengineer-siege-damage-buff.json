@@ -5,9 +5,9 @@
     "shortDescription": "Channel: Increase Target Siege Engine Damage",
     "icon": "siegeengineer-siege-damage-buff.png",
     "stats": {
-        "cast_time": "Channeled",
+        "max_targets": "1",
         "target": "Reticle",
-        "max_targets": "1"
+        "cast_time": "Channeled"
     },
     "nextChain": [],
     "lastChain": [],

@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Elegant Form improves Critical Healing Chance by 2% per point spent.",
     "icon": "elegant-form.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

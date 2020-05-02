@@ -5,12 +5,12 @@
     "shortDescription": "Instantly Heals Damage, Damage Taken Becomes DoT",
     "icon": "minotaur-bloodthirst.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "30",
-        "cost": "25",
+        "duration": "8 seconds",
         "cost_type": "Resource",
-        "duration": "8 seconds"
+        "cost": "25",
+        "cooldown": "30",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

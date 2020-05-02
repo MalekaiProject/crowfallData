@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "Unlock a Exploration Discipline slot.",
     "icon": "duelist-exploration-i.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

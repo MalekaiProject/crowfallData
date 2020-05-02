@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-112",
     "name": "Plentiful Resources: Tin Ore",
     "tree": "Ore Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Tin.",

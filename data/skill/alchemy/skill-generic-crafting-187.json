@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-187",
     "name": "Alchemy Assembly Cap",
     "tree": "Alchemy",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the maximum potential value of Alchemy Assembly.",

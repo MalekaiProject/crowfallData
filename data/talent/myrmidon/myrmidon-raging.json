@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "Raging enhances Retaliate powers to recover 35 Stamina over 7 seconds.",
     "icon": "raging.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

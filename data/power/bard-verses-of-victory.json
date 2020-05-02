@@ -5,15 +5,15 @@
     "shortDescription": "Song: Increase Group Attack, Support Power",
     "icon": "bard-verses-of-victory.png",
     "stats": {
-        "cast_time": "2 Seconds",
-        "target": "Group",
-        "cooldown": "1",
-        "max_targets": "5",
-        "duration": "12 seconds",
-        "buff_type_1": "Attack Power",
-        "buff_amount_1": "75",
+        "buff_amount_2": "75",
         "buff_type_2": "Support Power",
-        "buff_amount_2": "75"
+        "buff_amount_1": "75",
+        "buff_type_1": "Attack Power",
+        "duration": "12 seconds",
+        "max_targets": "5",
+        "cooldown": "1",
+        "target": "Group",
+        "cast_time": "2 Seconds"
     },
     "nextChain": [],
     "lastChain": [],

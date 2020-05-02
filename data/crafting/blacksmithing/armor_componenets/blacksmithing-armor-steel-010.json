@@ -1,7 +1,7 @@
 {
     "name": "Treated Steel",
     "id": "blacksmithing-armor-steel-010",
-    "icon": "blacksmithing_armor_steel_010.png",
+    "icon": "blacksmithing-armor-steel-010.png",
     "description": "Creates Treated Steel that can be used in various Blacksmithing recipes.",
     "outputQuantity": 1,
     "xp": 15,

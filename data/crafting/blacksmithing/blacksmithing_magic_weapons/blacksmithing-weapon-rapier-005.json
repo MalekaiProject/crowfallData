@@ -1,7 +1,7 @@
 {
     "name": "Runic Rapier",
     "id": "blacksmithing-weapon-rapier-005",
-    "icon": "blacksmithing_weapon_rapier_005.png",
+    "icon": "blacksmithing-weapon-rapier-005.png",
     "description": "Creates a One Handed Runic Rapier, usable by those who have a mastery of Rapiers.",
     "outputQuantity": 1,
     "xp": 45,

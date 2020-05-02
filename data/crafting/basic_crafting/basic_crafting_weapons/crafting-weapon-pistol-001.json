@@ -1,7 +1,7 @@
 {
     "name": "Basic Pistol",
     "id": "crafting-weapon-pistol-001",
-    "icon": "crafting_weapon_pistol_001.png",
+    "icon": "crafting-weapon-pistol-001.png",
     "description": "Creates a Basic Pistol, usable by those who are proficient with Off Hand Pistols.",
     "outputQuantity": 1,
     "xp": 7.5,

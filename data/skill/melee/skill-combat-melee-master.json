@@ -2,6 +2,7 @@
     "id": "skill-combat-melee-master",
     "name": "Melee Combat Mastery",
     "tree": "Melee",
+    "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 29520,
     "description": "Increases Critical Strike, Attack Power, and Support Power while using a Melee Weapon in your main hand.",

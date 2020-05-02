@@ -4,6 +4,7 @@
     "class": "champion",
     "description": "This talent grants the Invincible Warrior power.",
     "icon": "invincible-warrior.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

@@ -5,13 +5,10 @@
     "shortDescription": "",
     "icon": "talent-knight-swordsmanship.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "10 seconds",
-        "buff_type_1": "Basic Attack Damage",
         "buff_amount_1": "50%",
-        "buff_type_2": "Basic Attack Damage Cap",
-        "buff_amount_2": "20%"
+        "duration": "10 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

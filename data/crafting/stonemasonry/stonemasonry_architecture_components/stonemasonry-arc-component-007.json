@@ -1,7 +1,7 @@
 {
     "name": "Wall Section",
     "id": "stonemasonry-arc-component-007",
-    "icon": "stonemasonry_arc_component_007.png",
+    "icon": "stonemasonry-arc-component-007.png",
     "description": "Creates a Wall Section used in Defensive placeables, the type of resources determines the type of Wall created.\\n\\nWooden Stakes yield a Wooden Wall Section,\\nStone Bricks yield a Stone Wall Section.",
     "outputQuantity": 1,
     "xp": 15,

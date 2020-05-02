@@ -1,7 +1,7 @@
 {
     "name": "Restored Leg",
     "id": "necromancy-leg-002",
-    "icon": "necromancy_leg_002.png",
+    "icon": "necromancy-leg-002.png",
     "description": "Restore a Desiccated Leg that is used to create a vessel.",
     "outputQuantity": 1,
     "xp": 30,

@@ -1,7 +1,7 @@
 {
     "name": "Great Sword",
     "id": "blacksmithing-weapon-two-hand-sword-003",
-    "icon": "blacksmithing_weapon_two_hand_sword_003.png",
+    "icon": "blacksmithing-weapon-two-hand-sword-003.png",
     "description": "Creates a Two Handed Great Sword, usable by those who are proficient with Great Swords.",
     "outputQuantity": 1,
     "xp": 15,

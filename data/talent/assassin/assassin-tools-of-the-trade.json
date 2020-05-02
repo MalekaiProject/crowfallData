@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "This talent grants the Diffusion power, and you can now equip Toxins that grant the Poison Toxin passive power.\\n\\nGrants the following recipe:\\nBasic Toxin",
     "icon": "tools-of-the-trade.png",
+    "maxPoints": 1,
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [

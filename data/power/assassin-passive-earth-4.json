@@ -5,11 +5,11 @@
     "shortDescription": "",
     "icon": "assassin-passive-earth-4.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "min_damage_1": "33",
+        "weapon_damage_value": "41",
         "max_damage_1": "49",
-        "weapon_damage_value": "41"
+        "min_damage_1": "33",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

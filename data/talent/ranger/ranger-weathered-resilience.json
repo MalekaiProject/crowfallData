@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "Weathered Resilience improves Maximum Health by 100 per point spent.",
     "icon": "weathered-resilience.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

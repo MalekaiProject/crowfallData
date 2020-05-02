@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-171",
     "name": "Jewelcrafting Experimentation Points",
     "tree": "Jewelcrafting",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the amount of Experimentation Points available when experimenting on Jewelcrafting items.",

@@ -2,6 +2,7 @@
     "id": "skill-combat-mail-04-04",
     "name": "Piercing Resistance",
     "tree": "Mail",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
     "description": "Increases Piercing Resistance while using Mail chest armor.",

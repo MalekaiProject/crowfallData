@@ -5,14 +5,14 @@
     "shortDescription": "Increases Power Cost Multiplier",
     "icon": "highelf-humiliate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Ray",
-        "cooldown": "45",
-        "max_targets": "1",
-        "range": "30",
-        "duration": "30 seconds",
+        "buff_amount_1": "15%",
         "buff_type_1": "Power Cost Multiplier",
-        "buff_amount_1": "15%"
+        "duration": "30 seconds",
+        "range": "30",
+        "max_targets": "1",
+        "cooldown": "45",
+        "target": "Ray",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

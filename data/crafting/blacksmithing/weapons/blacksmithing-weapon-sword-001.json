@@ -1,7 +1,7 @@
 {
     "name": "Longsword",
     "id": "blacksmithing-weapon-sword-001",
-    "icon": "blacksmithing_weapon_sword_001.png",
+    "icon": "blacksmithing-weapon-sword-001.png",
     "description": "Creates a One Handed Longsword, usable by those who are proficient with Longswords.",
     "outputQuantity": 1,
     "xp": 45,

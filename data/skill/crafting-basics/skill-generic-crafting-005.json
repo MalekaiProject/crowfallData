@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-005",
     "name": "Runemaking Basics",
     "tree": "Crafting Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Unlocks the Runemaking skill tree.",

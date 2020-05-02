@@ -1,7 +1,7 @@
 {
     "name": "Runic Frostcaster",
     "id": "blacksmithing-weapon-frostcaster-005",
-    "icon": "blacksmithing_weapon_frostcaster_005.png",
+    "icon": "blacksmithing-weapon-frostcaster-005.png",
     "description": "Creates a Frostcaster, usable by those who have a mastery of Frostcasters.",
     "outputQuantity": 1,
     "xp": 45,

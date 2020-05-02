@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "This talent grants the Cheap Shot power.",
     "icon": "cheap-shot.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

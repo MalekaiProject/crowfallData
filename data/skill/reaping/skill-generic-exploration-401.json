@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-401",
     "name": "Beneficial Harvest Chance: Animal",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases chance of a Beneficial Harvest when skinning any type of Animal. Beneficial Harvests can only happen when the node is destroyed.",

@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "templar-subjugate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "4",
-        "cost_type": "Righteousness",
-        "min_damage_1": "113",
+        "weapon_damage_value": "141",
         "max_damage_1": "169",
-        "weapon_damage_value": "141"
+        "min_damage_1": "113",
+        "cost_type": "Righteousness",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

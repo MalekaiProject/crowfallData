@@ -1,0 +1,30 @@
+{
+    "name": "Refine Pelt",
+    "id": "crafting-refine-materials-017",
+    "icon": "crafting-refine-materials-017.png",
+    "description": "Refine Pelts into Hide.",
+    "outputQuantity": 75,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Pelt",
+            "id": "pelt",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 15,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

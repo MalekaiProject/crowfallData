@@ -2,9 +2,10 @@
     "id": "skill-generic-exploration-376",
     "name": "Stone Mother Lode: Mineral Chance",
     "tree": "Excavation",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
-    "description": "Grants the ability to harvest Minerals from Mother Lodes of Stone.",
+    "description": "Increases the Chance to obtain Minerals from Mother Lodes of Stone.",
     "icon": "skill-generic-exploration-376.png",
     "stats": [
         {

@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-02-03",
     "name": "Basic Attack Damage",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases Basic Attack Damage while using a Main Hand Weapon.",

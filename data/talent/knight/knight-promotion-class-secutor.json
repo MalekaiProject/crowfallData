@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Role: Melee Defense\\n\\nA stalwart defender who is a master of fighting with all forms of shields.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Secutor promotion class and prevents access to the Swordsman and Sentinel promotion classes.",
     "icon": "promotion-class-secutor.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -22,7 +23,7 @@
         "knight-unstoppable"
     ],
     "locksSkill": [
-        "promotion-class-swordsman",
-        "promotion-class-sentinel"
+        "knight-promotion-class-swordsman",
+        "knight-promotion-class-sentinel"
     ]
 }

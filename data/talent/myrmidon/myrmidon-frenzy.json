@@ -4,6 +4,7 @@
     "class": "myrmidon",
     "description": "This talent grants the Frenzy power.",
     "icon": "frenzy.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

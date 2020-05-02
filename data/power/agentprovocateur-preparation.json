@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Generate Pips while Stealthed",
     "icon": "agentprovocateur-preparation.png",
     "stats": {
-        "cast_time": "Passive",
+        "duration": "30 seconds",
         "target": "Self",
-        "duration": "30 seconds"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Moral Prerogative enhances Righteous Stand to increase its channel duration by 50% allowing more time before another Pip is spent.",
     "icon": "moral-prerogative.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

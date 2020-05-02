@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Stinging Strikes improves Critical Damage by 3% per point spent.",
     "icon": "stinging-strikes.png",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

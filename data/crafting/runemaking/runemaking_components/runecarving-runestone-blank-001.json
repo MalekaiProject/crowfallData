@@ -1,7 +1,7 @@
 {
     "name": "Unmarked Runestone",
     "id": "runecarving-runestone-blank-001",
-    "icon": "runecarving_runestone_blank_001.png",
+    "icon": "runecarving-runestone-blank-001.png",
     "description": "Creates Unmarked Runestones, the outcome varies by resource.\\n\\n3 Knotwood yields a Wooden Runestone,\\n3 Non-Basic Wood yields a Sturdy Wooden Runestone,\\n3 Cobblestone yields a Stone Runestone,\\n3 Non-Basic Stone yields a Sturdy Stone Runestone.",
     "outputQuantity": 1,
     "xp": 15,

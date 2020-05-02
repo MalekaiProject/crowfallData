@@ -2,8 +2,9 @@
     "id": "skill-generic-exploration-429",
     "name": "Movement Speed Damage Bonus",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 6120,
     "description": "Increases your Damage Bonus against targets who are Snared or Dazed.",
     "icon": "skill-generic-exploration-429.png",
     "stats": [
@@ -15,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-315",
+            "skill": "skill-generic-exploration-318",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-432"
-    ]
+    "unlocksSkill": []
 }

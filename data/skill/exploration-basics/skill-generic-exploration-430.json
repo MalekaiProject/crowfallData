@@ -1,21 +1,26 @@
 {
     "id": "skill-generic-exploration-430",
-    "name": "Improved Ingestion",
+    "name": "Improved Metabolism",
     "tree": "Exploration Basics",
+    "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the amount of Food you restore when Drinking.",
+    "pipAmount": 6120,
+    "description": "Increases the amount of Food you restore when Eating and Drinking.",
     "icon": "skill-generic-exploration-430.png",
     "stats": [
         {
             "name": "Ingestion",
+            "amount": "2%"
+        },
+        {
+            "name": "Consumption",
             "amount": "2%"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-307",
+            "skill": "skill-generic-exploration-316",
             "point": 4
         }
     ],

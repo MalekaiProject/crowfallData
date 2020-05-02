@@ -5,14 +5,14 @@
     "shortDescription": "Passive: Spawn Healing Orbs; Attack Power",
     "icon": "blademaster-blood-price.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
-        "duration": "60 seconds",
-        "buff_type_1": "Attack Power",
-        "buff_amount_1": "100",
-        "min_damage_1": "63",
+        "weapon_damage_value": "28",
         "max_damage_1": "77",
-        "weapon_damage_value": "28"
+        "min_damage_1": "63",
+        "buff_amount_1": "100",
+        "buff_type_1": "Attack Power",
+        "duration": "60 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

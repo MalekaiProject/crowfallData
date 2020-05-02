@@ -1,7 +1,7 @@
 {
     "name": "Juice",
     "id": "cooking-juice-001",
-    "icon": "cooking_juice_001.png",
+    "icon": "cooking-juice-001.png",
     "description": "Creates some tasty juice using apples or carrots! Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,

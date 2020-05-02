@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Aggression improves Basic Attack Damage by 2% per point spent.",
     "icon": "aggression.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

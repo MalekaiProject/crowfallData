@@ -1,7 +1,7 @@
 {
     "name": "Pistol Hammer and Frizzen",
     "id": "blacksmithing-weapon-pistol-hammer-001",
-    "icon": "blacksmithing_weapon_pistol_hammer_001.png",
+    "icon": "blacksmithing-weapon-pistol-hammer-001.png",
     "description": "Creates a Pistol Hammer and Frizzen that is used to create a Pistol.",
     "outputQuantity": 1,
     "xp": 15,

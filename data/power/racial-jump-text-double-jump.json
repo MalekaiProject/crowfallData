@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Jump Again While Near the Apex of Your First Jump",
     "icon": "racial-jump-text-double-jump.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

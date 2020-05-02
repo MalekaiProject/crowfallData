@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Role: Healing\\n\\nSo versed in magic they can coalesce it into powerful healing and defensive creations.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 450:\\nSupport Power\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent prevents access to the Archmage and Frostguard promotion classes.",
     "icon": "promotion-class-icecaller.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
@@ -22,7 +23,7 @@
         "frostweaver-numbing-cold"
     ],
     "locksSkill": [
-        "promotion-class-archmage",
-        "promotion-class-frostguard"
+        "frostweaver-promotion-class-archmage",
+        "frostweaver-promotion-class-frostguard"
     ]
 }

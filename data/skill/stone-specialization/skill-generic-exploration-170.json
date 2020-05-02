@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-170",
     "name": "Travertine Specialization",
     "tree": "Stone Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Travertine.",

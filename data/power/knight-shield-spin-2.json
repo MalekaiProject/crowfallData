@@ -5,17 +5,17 @@
     "shortDescription": "",
     "icon": "knight-shield-spin-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "30",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "203",
-        "cost_type": "Energy",
-        "min_damage_1": "115",
-        "max_damage_1": "156",
+        "weapon_damage_type": "Crushing",
         "weapon_damage_value": "136",
-        "weapon_damage_type": "Crushing"
+        "max_damage_1": "156",
+        "min_damage_1": "115",
+        "cost_type": "Energy",
+        "cost": "203",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "30",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [

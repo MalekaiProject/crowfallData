@@ -1,7 +1,7 @@
 {
     "name": "Architectural Arches",
     "id": "stonemasonry-arc-component-001",
-    "icon": "stonemasonry_arc_component_001.png",
+    "icon": "stonemasonry-arc-component-001.png",
     "description": "Creates Architectural Arches used in Architectural crafting.",
     "outputQuantity": 1,
     "xp": 15,

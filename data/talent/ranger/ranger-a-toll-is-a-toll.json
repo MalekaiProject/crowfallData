@@ -4,6 +4,7 @@
     "class": "ranger",
     "description": "A Toll is a Toll enhances Archers Stake to become Treant Wood Stake, which removes its deploy time and applies a Slow to all enemies within 10m.",
     "icon": "a-toll-is-a-toll.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

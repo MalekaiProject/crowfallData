@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-143",
     "name": "Thrall Presence",
     "tree": "Necromancy",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Enhances the power of Buffs that Necromancy Stations grant when they have a Thrall inhabiting them.",

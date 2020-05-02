@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Dynamite power.",
     "icon": "dynamite.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

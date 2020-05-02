@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "duelist-redirect-pain.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Self",
-        "cooldown": "45",
-        "cost": "1",
-        "cost_type": "Pips",
-        "min_damage_1": "0",
+        "weapon_damage_value": "0",
         "max_damage_1": "0",
-        "weapon_damage_value": "0"
+        "min_damage_1": "0",
+        "cost_type": "Pips",
+        "cost": "1",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

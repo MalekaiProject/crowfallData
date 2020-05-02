@@ -1,7 +1,7 @@
 {
     "name": "Basic Shield",
     "id": "crafting-weapon-shield-001",
-    "icon": "crafting_weapon_shield_001.png",
+    "icon": "crafting-weapon-shield-001.png",
     "description": "Creates a Basic Shield, the type of resources determines the Shield created.\\n\\nStone yields a Buckler,\\nWood yields a Medium Shield.",
     "outputQuantity": 1,
     "xp": 7.5,

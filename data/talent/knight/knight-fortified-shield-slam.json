@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Fortified Shield Slam enhances Shield Slam so you are considered Blocking while charging.",
     "icon": "fortified-shield-slam.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

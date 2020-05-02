@@ -1,7 +1,7 @@
 {
     "name": "Plate Gloves",
     "id": "blacksmithing-armor-plate-gloves-010",
-    "icon": "blacksmithing_armor_plate_gloves_010.png",
+    "icon": "blacksmithing-armor-plate-gloves-010.png",
     "description": "Creates Advanced Armor Plate Gloves, usable by those who are proficient with Plate Armor.",
     "outputQuantity": 1,
     "xp": 45,

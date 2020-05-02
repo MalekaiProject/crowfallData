@@ -1,7 +1,7 @@
 {
     "name": "Meta-Magical Conducter",
     "id": "blacksmithing-weapon-frostcaster-pins-001",
-    "icon": "blacksmithing_weapon_frostcaster_pins_001.png",
+    "icon": "blacksmithing-weapon-frostcaster-pins-001.png",
     "description": "Creates a Meta-Magical Conducter that is used to create a Frostcaster",
     "outputQuantity": 1,
     "xp": 15,

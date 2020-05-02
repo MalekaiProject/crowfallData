@@ -5,11 +5,11 @@
     "shortDescription": "",
     "icon": "assassin-stealth-recon.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "cooldown": "12",
+        "range": "30",
         "max_targets": "1",
-        "range": "30"
+        "cooldown": "12",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

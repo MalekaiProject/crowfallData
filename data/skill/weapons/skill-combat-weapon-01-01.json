@@ -2,6 +2,7 @@
     "id": "skill-combat-weapon-01-01",
     "name": "Health",
     "tree": "Weapons",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
     "description": "Increases Health while using a Main Hand Weapon.",

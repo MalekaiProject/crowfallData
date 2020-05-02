@@ -4,6 +4,7 @@
     "class": "knight",
     "description": "Hardiness improves In and Out of Combat Health Regeneration by 5 per point spent.",
     "icon": "hardiness.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

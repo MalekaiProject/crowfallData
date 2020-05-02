@@ -4,6 +4,7 @@
     "class": "frostweaver",
     "description": "Frosty Fortification improves Armor by 100 per point spent.\\n\\nTraits Granted:\\nCool Focus Gem",
     "icon": "frosty-fortification.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

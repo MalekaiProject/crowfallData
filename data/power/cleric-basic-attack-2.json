@@ -5,14 +5,14 @@
     "shortDescription": "",
     "icon": "cleric-basic-attack-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Reticle",
-        "max_targets": "1",
-        "range": "20",
-        "cost": "12",
-        "min_damage_1": "73",
+        "weapon_damage_value": "81",
         "max_damage_1": "89",
-        "weapon_damage_value": "81"
+        "min_damage_1": "73",
+        "cost": "12",
+        "range": "20",
+        "max_targets": "1",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "cleric-basic-attack-3"

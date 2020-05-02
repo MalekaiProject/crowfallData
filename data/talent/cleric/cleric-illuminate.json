@@ -4,6 +4,7 @@
     "class": "cleric",
     "description": "This talent grants the Illuminate power.",
     "icon": "illuminate.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

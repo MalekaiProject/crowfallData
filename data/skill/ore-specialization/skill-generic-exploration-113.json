@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-113",
     "name": "Plentiful Resources: Silver Ore",
     "tree": "Ore Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10080,
     "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Silver.",

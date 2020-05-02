@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Tools of Justice improves Damage Bonus: Fire by 1% per point spent.",
     "icon": "tools-of-justice.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

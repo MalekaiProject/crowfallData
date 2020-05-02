@@ -5,10 +5,10 @@
     "shortDescription": "Passive: Increase Resist All",
     "icon": "racial-passive-all-mitigations.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self",
+        "buff_amount_1": "300",
         "buff_type_1": "Resist All",
-        "buff_amount_1": "300"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

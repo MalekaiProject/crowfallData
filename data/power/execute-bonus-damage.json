@@ -5,8 +5,8 @@
     "shortDescription": "Passive: Increase Execute Power Damage",
     "icon": "execute-bonus-damage.png",
     "stats": {
-        "cast_time": "Passive",
-        "target": "Self"
+        "target": "Self",
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

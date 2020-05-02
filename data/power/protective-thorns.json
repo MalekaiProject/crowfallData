@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Thorns Grant Resistance Class Buff",
     "icon": "protective-thorns.png",
     "stats": {
-        "cast_time": "Passive",
+        "duration": "20 seconds",
         "target": "Self",
-        "duration": "20 seconds"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

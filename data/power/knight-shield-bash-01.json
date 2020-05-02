@@ -5,15 +5,15 @@
     "shortDescription": "",
     "icon": "knight-shield-bash-01.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Sphere",
-        "range": "3",
-        "min_damage_1": "50",
-        "max_damage_1": "67",
-        "weapon_damage_value": "58",
-        "weapon_damage_type": "Crushing",
+        "max_damage_2": "128",
         "min_damage_2": "94",
-        "max_damage_2": "128"
+        "weapon_damage_type": "Crushing",
+        "weapon_damage_value": "58",
+        "max_damage_1": "67",
+        "min_damage_1": "50",
+        "range": "6",
+        "target": "Sphere",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],

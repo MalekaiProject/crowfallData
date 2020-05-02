@@ -5,9 +5,9 @@
     "shortDescription": "Passive: Gain Crit Chance on Low Health",
     "icon": "low-health-crit-buff.png",
     "stats": {
-        "cast_time": "Passive",
+        "buff_amount_1": "50",
         "target": "Self",
-        "buff_amount_1": "50"
+        "cast_time": "Passive"
     },
     "nextChain": [],
     "lastChain": [],

@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-399",
     "name": "Harvest Bone",
     "tree": "Reaping",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
     "description": "Increases chance to harvest Bone when skinning an Animal.",

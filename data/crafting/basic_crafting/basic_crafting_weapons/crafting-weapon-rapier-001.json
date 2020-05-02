@@ -1,7 +1,7 @@
 {
     "name": "Basic Rapier",
     "id": "crafting-weapon-rapier-001",
-    "icon": "crafting_weapon_rapier_001.png",
+    "icon": "crafting-weapon-rapier-001.png",
     "description": "Creates a Basic Rapier, usable by those who are proficient with Rapiers.",
     "outputQuantity": 1,
     "xp": 7.5,

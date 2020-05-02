@@ -1,7 +1,7 @@
 {
     "name": "Necklace",
     "id": "jewelcrafting-necklace-001",
-    "icon": "jewelcrafting_necklace_001.png",
+    "icon": "jewelcrafting-necklace-001.png",
     "description": "Creates a Necklace based on the type of Polished Gemstone used.",
     "outputQuantity": 1,
     "xp": 45,

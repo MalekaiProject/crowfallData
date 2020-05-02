@@ -4,6 +4,7 @@
     "class": "confessor",
     "description": "Feed the Flames improves Ranged Distance Bonus by 4 meters per point spent.",
     "icon": "feed-the-flames.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

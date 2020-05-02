@@ -4,6 +4,7 @@
     "class": "duelist",
     "description": "This talent grants the Go For Broke power.",
     "icon": "go-for-broke.png",
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [

@@ -5,18 +5,18 @@
     "shortDescription": "Retaliate with Movement Speed Bonus",
     "icon": "escapeartist-speedy-retaliate.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Area",
-        "max_targets": "3",
-        "range": "5",
-        "cost": "65",
-        "cost_type": "Stamina",
-        "duration": "8 seconds",
-        "buff_type_1": "Movement Speed",
-        "buff_amount_1": "30%",
-        "min_damage_1": "113",
+        "weapon_damage_value": "133",
         "max_damage_1": "153",
-        "weapon_damage_value": "133"
+        "min_damage_1": "113",
+        "buff_amount_1": "30%",
+        "buff_type_1": "Movement Speed",
+        "duration": "8 seconds",
+        "cost_type": "Stamina",
+        "cost": "65",
+        "range": "5",
+        "max_targets": "3",
+        "target": "Area",
+        "cast_time": "Instant"
     },
     "nextChain": [],
     "lastChain": [],
@@ -26,6 +26,7 @@
     "isHeal": false,
     "isBuff": true,
     "tags": [
-        "anyone"
+        "anyone",
+        "stealth"
     ]
 }

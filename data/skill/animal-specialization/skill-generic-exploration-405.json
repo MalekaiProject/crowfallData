@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-405",
     "name": "Carnivore Specialization",
     "tree": "Animal Specialization",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 15120,
     "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning Carnivore Animals.",

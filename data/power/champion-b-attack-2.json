@@ -1,19 +1,19 @@
 {
     "id": "champion-b-attack-2",
     "name": "Crushing Overhead",
-    "description": "strikes in front of you for 124 - 167 + 145% Weapon Damage, generating 4 Rage if you hit.",
+    "description": "strikes in front of you for 102 - 138 + 120% Weapon Damage, generating 4 Rage if you hit.",
     "shortDescription": "",
     "icon": "champion-b-attack-2.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "max_targets": "1",
-        "range": "4",
-        "restore": "4",
+        "weapon_damage_value": "120",
+        "max_damage_1": "138",
+        "min_damage_1": "102",
         "restore_type": "Rage",
-        "min_damage_1": "124",
-        "max_damage_1": "167",
-        "weapon_damage_value": "145"
+        "restore": "4",
+        "range": "6",
+        "max_targets": "1",
+        "target": "Cone",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "champion-b-attack-3"

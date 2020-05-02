@@ -2,6 +2,7 @@
     "id": "skill-generic-exploration-219",
     "name": "Animal Specialization Mastery",
     "tree": "Animal Specialization",
+    "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 20160,
     "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Hide when a Critical Harvest happens while skinning any Animal. Also increases the Chance for a Weak Spot when skinning any Animal.",

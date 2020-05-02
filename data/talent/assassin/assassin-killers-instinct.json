@@ -4,6 +4,7 @@
     "class": "assassin",
     "description": "Killer's Instinct improves Critical Damage by 5% per point spent.",
     "icon": "killers-instinct.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

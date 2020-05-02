@@ -4,6 +4,7 @@
     "class": "templar",
     "description": "Righteous Indignation improves Critical Damage by 5% per point spent.",
     "icon": "righteous-indignation.png",
+    "maxPoints": 3,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

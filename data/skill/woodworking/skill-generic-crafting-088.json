@@ -2,6 +2,7 @@
     "id": "skill-generic-crafting-088",
     "name": "Woodworking Experimentation Cap",
     "tree": "Woodworking",
+    "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
     "description": "Increases the maximum potential value of Woodworking Experimentation.",

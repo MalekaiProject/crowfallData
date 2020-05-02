@@ -1,7 +1,7 @@
 {
     "name": "Runestone: Haste",
     "id": "runecarving-runestone-004",
-    "icon": "runecarving_runestone_004.png",
+    "icon": "runecarving-runestone-004.png",
     "description": "Creates a Haste Runestone that is used to create Magic Quivers.",
     "outputQuantity": 1,
     "xp": 15,
