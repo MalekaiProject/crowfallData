@@ -4,7 +4,7 @@
     "tree": "Grave Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases chance of a Beneficial Harvest when digging any type of Grave. Beneficial Harvests can only happen when the node is destroyed.",
     "icon": "skill-generic-exploration-349.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-389",
+            "skill": "skill-generic-exploration-354",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-354"
-    ]
+    "unlocksSkill": []
 }

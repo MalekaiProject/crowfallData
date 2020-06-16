@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Reduces the amount of Decay a Runestone Hammer suffers when quarrying.",
+    "pipAmount": 13680,
+    "description": "Decreases the amount of Decay a Runestone Hammer suffers when quarrying.",
     "icon": "skill-generic-exploration-152.png",
     "stats": [
         {
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-151",
+            "skill": "skill-generic-exploration-172",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-156",
-        "skill-generic-exploration-166"
-    ]
+    "unlocksSkill": []
 }

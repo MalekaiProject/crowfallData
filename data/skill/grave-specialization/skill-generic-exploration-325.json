@@ -4,8 +4,8 @@
     "tree": "Grave Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Duration of a Beneficial Harvest Effect applied when digging Graves. Beneficial Harvests can only happen when the node is destroyed.",
+    "pipAmount": 13680,
+    "description": "Increases the duration of a Beneficial Harvest Effect applied when digging Graves. Beneficial Harvests can only happen when the node is destroyed.",
     "icon": "skill-generic-exploration-325.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-388",
+            "skill": "skill-generic-exploration-326",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-326"
-    ]
+    "unlocksSkill": []
 }

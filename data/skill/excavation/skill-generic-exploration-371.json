@@ -4,24 +4,21 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases the Damage that Runestone Picks can deal when mining Mother Lodes.",
     "icon": "skill-generic-exploration-371.png",
     "stats": [
         {
             "name": "Mother Lode: Mining",
-            "amount": "-2"
+            "amount": "2"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-370",
+            "skill": "skill-generic-exploration-132",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-077",
-        "skill-generic-exploration-131"
-    ]
+    "unlocksSkill": []
 }

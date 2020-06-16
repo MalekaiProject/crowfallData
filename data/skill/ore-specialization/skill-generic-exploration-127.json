@@ -4,8 +4,8 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Iron.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when mining Iron.",
     "icon": "skill-generic-exploration-127.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-117",
+            "skill": "skill-generic-exploration-099",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-100",
+        "skill-generic-exploration-101",
+        "skill-generic-exploration-111",
+        "skill-generic-exploration-116",
+        "skill-generic-exploration-117"
+    ]
 }

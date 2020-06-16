@@ -4,8 +4,8 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the potential Maximum Amount of Silver Ore when you score a Critical Harvest while mining Silver.",
+    "pipAmount": 13680,
+    "description": "Increases the potential maximum amount of Silver Ore when you score a Critical Harvest while mining Silver.",
     "icon": "skill-generic-exploration-106.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-105",
+            "skill": "skill-generic-exploration-129",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-107"
-    ]
+    "unlocksSkill": []
 }

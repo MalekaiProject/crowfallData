@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 10800,
-    "description": "Increases chance to harvest Apples when logging Trees.\\n\\nCampfires now restore more Hitpoints while Resting.\\n\\nReduces the Cast Time of all Mounts\\n\\nPower Granted:\\nEnergetic Harvesting",
+    "description": "Increases chance to harvest Apples when logging Trees.\\n\\nCampfires now restore more Hitpoints while Resting.\\n\\nDecreases the Cast Time of all Mounts.",
     "icon": "skill-generic-exploration-319.png",
     "stats": [
         {
@@ -21,9 +21,7 @@
             "amount": "0.1(s)"
         }
     ],
-    "grants": [
-        "power_ultimate_energetic_harvesting"
-    ],
+    "grants": [],
     "unlockedFromSkill": [],
     "unlocksSkill": []
 }

@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 10800,
-    "description": "Increases Health, Stamina, and Resist All.\\n\\nTraits Granted:\\nMark of Faith",
+    "description": "Increases Health, Stamina, and Resist All.\\n\\nTraits Granted at 5 Pips:\\nMark of Faith",
     "icon": "skill-combat-basic-mastery.png",
     "stats": [
         {

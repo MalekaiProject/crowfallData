@@ -1,7 +1,7 @@
 {
     "id": "champion-brutal-warrior",
     "name": "Brutal Warrior",
-    "description": "increases your size inflicting Knockdown and damaging nearby enemies for 89 - 121 + 105% Weapon Damage while briefly applying a short barrier equal to 20% of your maximum Health and preventing Control Effects.\\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.",
+    "description": "increases your size inflicting Knockdown and damaging nearby enemies for 89 - 121 + 105% Weapon Damage while preventing damage equal to 20% of your maximum Health and preventing Control Effects.\\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.",
     "shortDescription": "",
     "icon": "champion-brutal-warrior.png",
     "stats": {

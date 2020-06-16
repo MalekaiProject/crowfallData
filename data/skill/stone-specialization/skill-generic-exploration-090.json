@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Granite.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when quarrying Granite.",
     "icon": "skill-generic-exploration-090.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-375",
+            "skill": "skill-generic-exploration-064",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-065",
+        "skill-generic-exploration-066",
+        "skill-generic-exploration-074",
+        "skill-generic-exploration-374",
+        "skill-generic-exploration-375"
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "id": "shieldfigher-mighty-shield-slam",
     "name": "Mighty Shield Slam",
-    "description": "delivers a shield attack moving you forward 3.1m using all your might to consume all Stamina and scale damage with stamina spent. \\n\\nMighty Shield Slam inflicts 32 Damage Bonus per Stamina spent + 97% Crushing Weapon Damage to multiple enemies, pushing them back. \\n\\nWhile charging the attack you are considered Blocking. \\n\\nThe attack has a 100% Critical Strike modifier when charged more than 66%.",
+    "description": "delivers a shield attack moving you forward using all your might to consume all Stamina and scale damage with stamina spent. \\n\\nMighty Shield Slam inflicts 32 Damage Bonus per Stamina spent + 97% Crushing Weapon Damage to multiple enemies, pushing them back. \\n\\nWhile charging the attack you are considered Blocking. \\n\\nThe attack has a 100% Critical Strike modifier when charged more than 66%.",
     "shortDescription": "Charged Attack: Empty Stamina for Damage",
     "icon": "shieldfigher-mighty-shield-slam.png",
     "stats": {

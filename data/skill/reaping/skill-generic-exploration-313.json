@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-313",
+    "name": "Plentiful Resources: Plants",
+    "tree": "Reaping",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 10800,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when harvesting Plants.",
+    "icon": "skill-generic-exploration-313.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Plant",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-173",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-309"
+    ]
+}

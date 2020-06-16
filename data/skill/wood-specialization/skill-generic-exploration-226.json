@@ -4,8 +4,8 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the potential Maximum Amount of Birch Wood when you score a Critical Harvest while logging Birch.",
+    "pipAmount": 13680,
+    "description": "Increases the potential maximum amount of Birch Wood when you score a Critical Harvest while logging Birch.",
     "icon": "skill-generic-exploration-226.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-225",
+            "skill": "skill-generic-exploration-253",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-227"
-    ]
+    "unlocksSkill": []
 }

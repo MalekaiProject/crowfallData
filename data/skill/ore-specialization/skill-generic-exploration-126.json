@@ -4,7 +4,7 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for a Beneficial Harvest when mining Ore. Beneficial Harvests can only happen when the node is destroyed.",
     "icon": "skill-generic-exploration-126.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-125",
+            "skill": "skill-generic-exploration-130",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-130"
-    ]
+    "unlocksSkill": []
 }

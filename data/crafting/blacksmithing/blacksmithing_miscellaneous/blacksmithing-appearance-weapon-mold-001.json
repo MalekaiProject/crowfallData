@@ -1,0 +1,30 @@
+{
+    "name": "Modify Weapon Mold",
+    "id": "blacksmithing-appearance-weapon-mold-001",
+    "icon": "",
+    "description": "Creates a Race-style Weapon Mold, which can be used to alter the final appearance of a weapon.",
+    "outputQuantity": 1,
+    "xp": 3.75,
+    "category": "blacksmithing",
+    "subCategory": "blacksmithing_miscellaneous",
+    "ingredients": [
+        {
+            "name": "Blade Mold",
+            "id": "blade-mold",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Appearance Compendium",
+            "id": "appearance-compendium",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

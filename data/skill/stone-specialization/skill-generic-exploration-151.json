@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the potential Maximum Amount of Marble when you score a Critical Harvest while quarrying Marble.",
+    "pipAmount": 13680,
+    "description": "Increases the potential maximum amount of Marble when you score a Critical Harvest while quarrying Marble.",
     "icon": "skill-generic-exploration-151.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-150",
+            "skill": "skill-generic-exploration-172",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-152"
-    ]
+    "unlocksSkill": []
 }

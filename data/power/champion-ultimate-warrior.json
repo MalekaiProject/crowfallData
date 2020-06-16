@@ -1,7 +1,7 @@
 {
     "id": "champion-ultimate-warrior",
     "name": "Ultimate Warrior",
-    "description": "increases your size, heals, restores Rage, briefly applies a short barrier equal to 20% of your maximum Health and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.",
+    "description": "increases your size, heals, restores Rage, briefly prevents damage equal to 20% of your maximum Health and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.",
     "shortDescription": "",
     "icon": "champion-ultimate-warrior.png",
     "stats": {

@@ -4,8 +4,8 @@
     "tree": "Animal Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Reduces the amount of Decay a Runestone Knife suffers when skinning.",
+    "pipAmount": 13680,
+    "description": "Decreases the amount of Decay a Runestone Knife suffers when skinning.",
     "icon": "skill-generic-exploration-191.png",
     "stats": [
         {
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-190",
+            "skill": "skill-generic-exploration-213",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-197",
-        "skill-generic-exploration-205"
-    ]
+    "unlocksSkill": []
 }

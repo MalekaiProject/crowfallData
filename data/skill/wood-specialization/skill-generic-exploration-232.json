@@ -4,8 +4,8 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the potential Maximum Amount of Ash Wood when you score a Critical Harvest while logging Ash.",
+    "pipAmount": 13680,
+    "description": "Increases the potential maximum amount of Ash Wood when you score a Critical Harvest while logging Ash.",
     "icon": "skill-generic-exploration-232.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-231",
+            "skill": "skill-generic-exploration-255",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-233"
-    ]
+    "unlocksSkill": []
 }

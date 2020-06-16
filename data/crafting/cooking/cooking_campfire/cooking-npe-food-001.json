@@ -1,0 +1,21 @@
+{
+    "name": "Tinker Camp Stew",
+    "id": "cooking-npe-food-001",
+    "icon": "cooking-npe-food-001.png",
+    "description": "Creates a hearty stew Tinkers love. Stewed over a rustic campfire in a communal pot.",
+    "outputQuantity": 10,
+    "xp": 0.75,
+    "category": "cooking",
+    "subCategory": "cooking_campfire",
+    "ingredients": [
+        {
+            "name": "Animal Meat",
+            "id": "animal-meat",
+            "icon": "Animal Meat.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

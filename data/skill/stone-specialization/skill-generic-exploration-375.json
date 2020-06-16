@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Duration of a Beneficial Harvest Effect applied when quarrying Stone. Beneficial Harvests can only happen when the node is destroyed.",
+    "pipAmount": 13680,
+    "description": "Increases the duration of a Beneficial Harvest Effect applied when quarrying Stone. Beneficial Harvests can only happen when the node is destroyed.",
     "icon": "skill-generic-exploration-375.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-374",
+            "skill": "skill-generic-exploration-090",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-090"
-    ]
+    "unlocksSkill": []
 }

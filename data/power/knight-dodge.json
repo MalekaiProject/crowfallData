@@ -1,7 +1,7 @@
 {
     "id": "knight-dodge",
     "name": "Sidestep",
-    "description": "moves 10 in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
+    "description": "moves 10 meters in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
     "shortDescription": "Roll in a WASD direction.",
     "icon": "knight-dodge.png",
     "stats": {

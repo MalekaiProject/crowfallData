@@ -1,0 +1,12 @@
+{
+    "id": "trait-intermediate-runestone-hammers",
+    "name": "Intermediate Runestone Hammers",
+    "description": "Intermediate Runestone Hammers.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-302",
+            "name": "Gathering"
+        }
+    ]
+}

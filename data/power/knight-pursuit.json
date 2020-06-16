@@ -1,7 +1,7 @@
 {
     "id": "knight-pursuit",
     "name": "Pursuit",
-    "description": "charges you forward 20m. When the charge ends, deal 119 - 161 + 140% Crushing Weapon Damage to enemies in front of you.",
+    "description": "increases your Movement Speed Modifier by 100% for 3 seconds.",
     "shortDescription": "",
     "icon": "knight-pursuit.png",
     "stats": {
@@ -9,12 +9,14 @@
         "weapon_damage_value": "140",
         "max_damage_1": "161",
         "min_damage_1": "119",
+        "buff_amount_1": "100%",
+        "buff_type_1": "Movement Speed Modifier",
+        "duration": "3 seconds",
         "cost_type": "Energy",
         "cost": "375",
-        "range": "20",
-        "max_targets": "5",
+        "max_targets": "1",
         "cooldown": "30",
-        "target": "Reticle",
+        "target": "Self",
         "cast_time": "Instant"
     },
     "nextChain": [],

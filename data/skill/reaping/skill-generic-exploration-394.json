@@ -1,26 +1,24 @@
 {
     "id": "skill-generic-exploration-394",
-    "name": "Exceptional Plethora of Dust: Wood",
+    "name": "Plethora of Dust: Wood",
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases the chance for bonus Ethereal Dust when logging a Tree.",
     "icon": "skill-generic-exploration-394.png",
     "stats": [
         {
             "name": "Plethora of Dust: Wood",
-            "amount": "2%"
+            "amount": "1%"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-393",
+            "skill": "skill-generic-exploration-258",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-258"
-    ]
+    "unlocksSkill": []
 }

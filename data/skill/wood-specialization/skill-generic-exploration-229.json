@@ -4,8 +4,8 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the potential Maximum Amount of Spruce Wood when you score a Critical Harvest while logging Spruce.",
+    "pipAmount": 13680,
+    "description": "Increases the potential maximum amount of Spruce Wood when you score a Critical Harvest while logging Spruce.",
     "icon": "skill-generic-exploration-229.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-228",
+            "skill": "skill-generic-exploration-254",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-230"
-    ]
+    "unlocksSkill": []
 }

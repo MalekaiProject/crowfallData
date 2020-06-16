@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Reduces the amount of Decay that Runestone Axes, Runestone Hammers, and Runestone Picks suffer when harvesting.\\n\\nTraits Granted:\\nRunestone Axe Proficiency\\nRunestone Hammer Proficiency\\nRunestone Pick Proficiency",
+    "description": "Decreases the amount of Decay that Runestone Hammers, and Runestone Picks suffer when excavating.\\n\\nTraits Granted at 1 Pip:\\nIntermediate Runestone Hammers\\nIntermediate Runestone Picks",
     "icon": "skill-generic-exploration-302.png",
     "stats": [
         {
@@ -15,14 +15,9 @@
         {
             "name": "Decay Reduction: Hammers",
             "amount": "2%"
-        },
-        {
-            "name": "Decay Reduction: Axes",
-            "amount": "2%"
         }
     ],
     "grants": [
-        "equip_harvest_tool_axe",
         "equip_harvest_tool_pick",
         "equip_harvest_tool_hammer"
     ],

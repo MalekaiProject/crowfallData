@@ -4,7 +4,7 @@
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
+    "pipAmount": 10800,
     "description": "Increases chance for bonus Meat when skinning an Animal.",
     "icon": "skill-generic-exploration-083.png",
     "stats": [
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-085",
+            "skill": "skill-generic-exploration-216",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-215",
-        "skill-generic-exploration-400"
-    ]
+    "unlocksSkill": []
 }

@@ -4,8 +4,8 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Yew Wood when logging Yew.",
+    "pipAmount": 13680,
+    "description": "Increases your chance for a Critical Harvest and increases the potential maximum amount of Yew Wood when logging Yew.",
     "icon": "skill-generic-exploration-224.png",
     "stats": [
         {

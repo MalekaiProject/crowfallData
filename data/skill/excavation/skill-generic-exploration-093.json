@@ -4,8 +4,8 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 95,
-    "pipAmount": 15120,
-    "description": "Increases the Chance to obtain Gems, Minerals, Grave Goods, and Hunger Shard Additiveswhen Excavating the appropriate node type.",
+    "pipAmount": 18000,
+    "description": "Increases the chance to obtain Gems, Minerals, Grave Goods, and Hunger Shard Additives when Excavating the appropriate node type.",
     "icon": "skill-generic-exploration-093.png",
     "stats": [
         {

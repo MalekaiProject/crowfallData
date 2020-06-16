@@ -4,7 +4,7 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for bonus Ethereal Dust when mining Silver.",
     "icon": "skill-generic-exploration-122.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-121",
+            "skill": "skill-generic-exploration-129",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-123"
-    ]
+    "unlocksSkill": []
 }

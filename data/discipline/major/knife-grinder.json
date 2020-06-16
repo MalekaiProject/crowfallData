@@ -4,19 +4,19 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-bladed-weapon-training",
-            "name": "Bladed Weapon Training"
+            "id": "trait-dagger-proficiency",
+            "name": "Dagger Proficiency"
         }
     ],
     "icon": "knife-grinder.png",
     "stats": [
         {
-            "name": "Armor Penetration: Slashing",
+            "name": "Armor Penetration: Piercing",
             "value": "3%"
         },
         {
-            "name": "Slashing Damage Bonus",
-            "value": "3%"
+            "name": "Physical Resistance",
+            "value": "300"
         }
     ],
     "grantsPowers": [

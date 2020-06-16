@@ -1,7 +1,7 @@
 {
     "id": "shieldfighter-shield-throw",
     "name": "Throw Illusion Shield",
-    "description": "throws an illusion shield and ricochet off multiple nearby enemies for 85 - 115 + 100% Weapon Damage. \\n\\nAdditional ricochets beyond the first can be increased via the Shield Throw Bonus Ricochets statistic. \\n\\nDamage is reduced by 30% per each ricochet up to a maximum of a 60% reduction.",
+    "description": "throws an illusion shield at your target for 85 - 115 + 100% Weapon Damage and causes it to richochet off to an additional target. \\n\\nAdditional ricochets beyond the first richochet can be increased via the Shield Throw Bonus Ricochets statistic. \\n\\nDamage is reduced by 30% per each ricochet up to a maximum of a 60% reduction.",
     "shortDescription": "Attack Multiple Enemies",
     "icon": "shieldfighter-shield-throw.png",
     "stats": {

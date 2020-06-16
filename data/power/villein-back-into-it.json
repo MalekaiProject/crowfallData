@@ -1,7 +1,7 @@
 {
     "id": "villein-back-into-it",
     "name": "Put Your Back Into It!",
-    "description": "spends Health to gain 5 Harvest Pips on your next 2 harvests for 8 seconds or 2 hits, whichever comes first.",
+    "description": "spends Health to gain 5 Harvest Pips per hit on your next 2 harvests for 8 seconds or 2 hits, whichever comes first.",
     "shortDescription": "Use Health to Gain Harvest Pips",
     "icon": "villein-back-into-it.png",
     "stats": {

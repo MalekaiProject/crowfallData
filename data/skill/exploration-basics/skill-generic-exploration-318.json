@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Reduces the Cast Time of all Mounts.\\n\\nTraits Granted:\\nSwift Saddles",
+    "description": "Decreases the Cast Time of all Mounts.\\n\\nTraits Granted at 5 Pips:\\nSwift Saddles",
     "icon": "skill-generic-exploration-318.png",
     "stats": [
         {
@@ -24,9 +24,9 @@
     ],
     "unlocksSkill": [
         "skill-generic-exploration-314",
-        "skill-generic-exploration-433",
         "skill-generic-exploration-315",
         "skill-generic-exploration-429",
-        "skill-generic-exploration-432"
+        "skill-generic-exploration-432",
+        "skill-generic-exploration-433"
     ]
 }

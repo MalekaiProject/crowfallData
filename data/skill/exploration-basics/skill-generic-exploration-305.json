@@ -1,19 +1,25 @@
 {
     "id": "skill-generic-exploration-305",
-    "name": "Harvest Blood",
+    "name": "Logging Basics",
     "tree": "Exploration Basics",
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Grants ability to harvest Blood when skinning an Animal.",
+    "description": "Increases chance to harvest Knotwood when logging Knotwood Trees.\\n\\nIncreases the chance to obtain Heartwood when logging Trees.\\n\\nTraits Granted at 5 Pips:\\nAdvanced Runestone Axes",
     "icon": "skill-generic-exploration-305.png",
     "stats": [
         {
-            "name": "Harvest Chance: Blood",
-            "amount": "1%"
+            "name": "Plentiful Resources Wood: Knot",
+            "amount": "0.2"
+        },
+        {
+            "name": "Heartwood Harvest Chance: All",
+            "amount": "0.6%"
         }
     ],
-    "grants": [],
+    "grants": [
+        "equip_harvest_tool_axe_spirit"
+    ],
     "unlockedFromSkill": [
         {
             "skill": "skill-generic-exploration-316",

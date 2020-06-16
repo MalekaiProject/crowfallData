@@ -1,11 +1,11 @@
 {
     "id": "skill-generic-exploration-080",
-    "name": "Stone Mother Lode: Exceptional Mineral Chance",
+    "name": "Stone Mother Lode: Mineral Chance",
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance to obtain Minerals from Mother Lodes of Stone.",
+    "pipAmount": 10800,
+    "description": "Increases the chance to obtain Minerals from Mother Lodes of Stone.",
     "icon": "skill-generic-exploration-080.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-378",
+            "skill": "skill-generic-exploration-174",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-082"
-    ]
+    "unlocksSkill": []
 }

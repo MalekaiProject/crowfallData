@@ -16,9 +16,7 @@
         "cast_time": "Instant"
     },
     "nextChain": [],
-    "lastChain": [
-        ""
-    ],
+    "lastChain": [],
     "inSpellbook": true,
     "isGroupPower": false,
     "isBeneficial": false,

@@ -4,7 +4,7 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for bonus Ethereal Dust when logging Oak.",
     "icon": "skill-generic-exploration-396.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-087",
+            "skill": "skill-generic-exploration-092",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-397"
-    ]
+    "unlocksSkill": []
 }

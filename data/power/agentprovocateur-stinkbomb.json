@@ -1,7 +1,7 @@
 {
     "id": "agentprovocateur-stinkbomb",
     "name": "Stink Bomb",
-    "description": "torments enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth.",
+    "description": "torments enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption.\\n\\nThis power will return you to Stealth if you take no damage while executing.",
     "shortDescription": "Stealth: Target Area Stun; Moderate Corruption",
     "icon": "agentprovocateur-stinkbomb.png",
     "stats": {

@@ -6,7 +6,7 @@
     "icon": "siegeengineer-siege-shield.png",
     "stats": {
         "max_targets": "3",
-        "cast_time": "Instant"
+        "cast_time": "Channeled"
     },
     "nextChain": [],
     "lastChain": [],

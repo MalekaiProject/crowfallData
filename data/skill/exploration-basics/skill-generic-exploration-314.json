@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Decreases the Duration of any Movement Speed reductions applied to you.",
+    "description": "Decreases the duration of any Movement Speed reductions applied to you.",
     "icon": "skill-generic-exploration-314.png",
     "stats": [
         {

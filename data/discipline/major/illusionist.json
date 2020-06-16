@@ -15,30 +15,30 @@
             "value": "5"
         },
         {
-            "name": "Critical Strike",
+            "name": "Incoming Critical Heals",
             "value": "3%"
         }
     ],
     "grantsPowers": [
         {
             "id": "illusionist-glamour-weapon",
-            "name": "Glamour Weapon",
+            "name": "Glamour",
             "description": "Increase Attack Power"
         },
         {
             "id": "illusionist-invisibility",
             "name": "Invisibility",
-            "description": "Toggle: Invisible while motionless; Non-Stealth Users Only"
+            "description": "Toggle: Invisible while motionless; Non-Stealth and Non-Camouflage Users Only"
         },
         {
-            "id": "rapiermaster-hamstring",
-            "name": "Hot Foot",
-            "description": "Passive: Slow on last Basic"
+            "id": "illusionist-petrification-illusion",
+            "name": "Petrification Illusion",
+            "description": "Increase Basic Attack Damage and adds slow to 3rd Basic Attack"
         },
         {
-            "id": "weakest-link",
-            "name": "Phantom Feints",
-            "description": "Passive: Increase Damage vs Slowed enemies"
+            "id": "illusionist-phantom-armor",
+            "name": "Phantom Armor",
+            "description": "Passive: Chance to gain Armor Class when hit"
         }
     ],
     "grantsSlot": [],

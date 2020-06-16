@@ -4,8 +4,8 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Reduces the amount of Decay a Runestone Pick suffers when mining.",
+    "pipAmount": 13680,
+    "description": "Decreases the amount of Decay a Runestone Pick suffers when mining.",
     "icon": "skill-generic-exploration-107.png",
     "stats": [
         {
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-106",
+            "skill": "skill-generic-exploration-129",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-113",
-        "skill-generic-exploration-121"
-    ]
+    "unlocksSkill": []
 }

@@ -4,7 +4,7 @@
     "tree": "Grave Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for bonus Ethereal Dust when digging Guinecean Graves.",
     "icon": "skill-generic-exploration-389.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-348",
+            "skill": "skill-generic-exploration-354",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-349"
-    ]
+    "unlocksSkill": []
 }

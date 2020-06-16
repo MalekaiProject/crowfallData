@@ -4,8 +4,8 @@
     "tree": "Animal Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning Omnivore Animals.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when skinning Omnivore Animals.",
     "icon": "skill-generic-exploration-214.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-210",
+            "skill": "skill-generic-exploration-192",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-193",
+        "skill-generic-exploration-194",
+        "skill-generic-exploration-198",
+        "skill-generic-exploration-209",
+        "skill-generic-exploration-210"
+    ]
 }

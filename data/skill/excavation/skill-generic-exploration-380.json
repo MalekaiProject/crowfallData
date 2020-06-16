@@ -4,8 +4,8 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Grants the ability to harvest Grave Goods from Graves.",
+    "pipAmount": 10800,
+    "description": "Increases the chance to obtain Grave Goods from Graves.",
     "icon": "skill-generic-exploration-380.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-320",
+            "skill": "skill-generic-exploration-357",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-381"
-    ]
+    "unlocksSkill": []
 }

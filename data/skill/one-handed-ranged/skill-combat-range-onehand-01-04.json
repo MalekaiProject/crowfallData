@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
-    "description": "Increases Power Efficiency while using a Hammer in your main hand.",
+    "description": "Increases Power Efficiency while using a Runestone Hammer in your main hand.",
     "icon": "skill-combat-range-onehand-01-04.png",
     "stats": [
         {

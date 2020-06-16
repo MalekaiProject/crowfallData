@@ -4,7 +4,7 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 13680,
     "description": "Increases your chance for a Critical Harvest when mining Copper.",
     "icon": "skill-generic-exploration-061.png",
     "stats": [
@@ -21,6 +21,6 @@
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-062"
+        "skill-generic-exploration-089"
     ]
 }

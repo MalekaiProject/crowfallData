@@ -1,0 +1,24 @@
+{
+    "id": "skill-generic-exploration-356",
+    "name": "Beneficial Harvest Power: Plant",
+    "tree": "Reaping",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 10800,
+    "description": "Increases the intensity of the Beneficial Harvest Effect applied when harvesting Plants.",
+    "icon": "skill-generic-exploration-356.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Power: Plant",
+            "amount": "3%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-309",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "illusionist-petrification-illusion",
+    "name": "Petrification Illusion",
+    "description": "increases Basic Attack Damage by 10% for 15 seconds and modifies your third basic attack to slow enemies.",
+    "shortDescription": "Increase Basic Attack Damage and adds slow to 3rd Basic Attack",
+    "icon": "illusionist-petrification-illusion.png",
+    "stats": {
+        "buff_amount_1": "10%",
+        "buff_type_1": "Basic Attack Damage",
+        "duration": "15 seconds",
+        "cost_type": "Resource",
+        "cost": "16",
+        "cooldown": "23",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

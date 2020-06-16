@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 40320,
-    "description": "Increases the chance of Experimentation Success, the maximum potential value of Jewelcrafting Assembly, Jewelcrafting Experimentation, and Experimentation Points available  while crafting Jewelcrafting items. Also enhances the power of Buffs that Jewelcrafting Stations grant when they have a Thrall inhabiting them.",
+    "description": "Increases the chance of Experimentation Success, the maximum potential value of Jewelcrafting Assembly, Jewelcrafting Experimentation, and Experimentation Points available  while crafting Jewelcrafting items. Also enhances the power of buffs that Jewelcrafting Stations grant when they have a Thrall inhabiting them.",
     "icon": "skill-generic-crafting-175.png",
     "stats": [
         {

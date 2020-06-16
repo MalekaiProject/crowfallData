@@ -1,7 +1,7 @@
 {
     "id": "confessor-hellfire-3b",
     "name": "Fire Tornadoes",
-    "description": "consumes your Hellfire Aura to launch three Hellfire Tornadoes that pull nearby enemies into them and damage them for 105 - 157 + 131% Fire Weapon Damage. The Hellfire Tornadoes last 15 seconds.",
+    "description": "consumes your Hellfire Aura to launch three Hellfire Tornadoes that Knockdown nearby enemies, and damage them for 105 - 157 + 131% Fire Weapon Damage. The Hellfire Tornadoes last 8 seconds.",
     "shortDescription": "",
     "icon": "confessor-hellfire-3b.png",
     "stats": {

@@ -4,7 +4,7 @@
     "tree": "Animal Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for bonus Animal Meat when skinning Omnivore Animals.",
     "icon": "skill-generic-exploration-209.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-208",
+            "skill": "skill-generic-exploration-214",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-210"
-    ]
+    "unlocksSkill": []
 }

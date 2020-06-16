@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-exploration-309",
+    "name": "Plant Critical Chance",
+    "tree": "Reaping",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 10800,
+    "description": "Increases your chance for a Critical Harvest when harvesting Plants.",
+    "icon": "skill-generic-exploration-309.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Plant",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-313",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-431",
+        "skill-generic-exploration-215",
+        "skill-generic-exploration-257",
+        "skill-generic-exploration-131",
+        "skill-generic-exploration-356"
+    ]
+}

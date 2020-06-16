@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 40320,
-    "description": "Increases the chance of Experimentation Success, the maximum potential value of Runemaking Assembly, Runemaking Experimentation, and Experimentation Points available  while crafting Runemaking items. Also enhances the power of Buffs that Runemaking Stations grant when they have a Thrall inhabiting them.",
+    "description": "Increases the chance of Experimentation Success, the maximum potential value of Runemaking Assembly, Runemaking Experimentation, and Experimentation Points available  while crafting Runemaking items. Also enhances the power of buffs that Runemaking Stations grant when they have a Thrall inhabiting them.",
     "icon": "skill-generic-crafting-129.png",
     "stats": [
         {

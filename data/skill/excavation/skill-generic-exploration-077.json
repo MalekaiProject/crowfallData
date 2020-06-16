@@ -1,11 +1,11 @@
 {
     "id": "skill-generic-exploration-077",
-    "name": "Ore Mother Lode: Exceptional Gem Chance",
+    "name": "Ore Mother Lode: Gem Chance",
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance to obtain Gems from Mother Lodes of Ore.",
+    "pipAmount": 10800,
+    "description": "Increases the chance to obtain Gems from Mother Lodes of Ore.",
     "icon": "skill-generic-exploration-077.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-371",
+            "skill": "skill-generic-exploration-132",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-079"
-    ]
+    "unlocksSkill": []
 }

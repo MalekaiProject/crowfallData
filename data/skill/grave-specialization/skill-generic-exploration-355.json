@@ -4,8 +4,8 @@
     "tree": "Grave Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when digging Monster Graves.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when digging Monster Graves.",
     "icon": "skill-generic-exploration-355.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-351",
+            "skill": "skill-generic-exploration-331",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-338",
+        "skill-generic-exploration-339",
+        "skill-generic-exploration-343",
+        "skill-generic-exploration-351",
+        "skill-generic-exploration-390"
+    ]
 }

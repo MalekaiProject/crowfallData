@@ -1,7 +1,7 @@
 {
     "id": "elken-dodge",
     "name": "Dive Roll",
-    "description": "rolls quickly moving you 10 in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
+    "description": "rolls quickly moving you 10 meters in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
     "shortDescription": "Dive Roll in a WASD direction",
     "icon": "elken-dodge.png",
     "stats": {

@@ -1,8 +1,8 @@
 {
-    "name": "Bow: Runic Composite Recurve",
+    "name": "Bow: Runic Recurve",
     "id": "woodworking-weapon-bow-005",
     "icon": "woodworking-weapon-bow-005.png",
-    "description": "Creates a Two Handed Runic Composite Recurve Bow, usable by those who have a mastery of Recurve Bows.",
+    "description": "Creates a Runic Recurve Bow, usable by those who have a mastery of Recurve Bows.",
     "outputQuantity": 1,
     "xp": 45,
     "category": "woodworking",

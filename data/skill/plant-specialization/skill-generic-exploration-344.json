@@ -1,0 +1,14 @@
+{
+    "id": "skill-generic-exploration-344",
+    "name": "Carrying Capacity: Bodies - DEPRECATED",
+    "tree": "Plant Specialization",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the Bonus Inventory size of equipped Gravedigger's Bags.",
+    "icon": "skill-generic-exploration-344.png",
+    "stats": [],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

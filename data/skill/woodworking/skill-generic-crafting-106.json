@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 40320,
-    "description": "Increases the chance of Experimentation Success, the maximum potential value of Woodworking Assembly, Woodworking Experimentation, and Experimentation Points available  while crafting Woodworking items. Also enhances the power of Buffs that Woodworking Stations grant when they have a Thrall inhabiting them.",
+    "description": "Increases the chance of Experimentation Success, the maximum potential value of Woodworking Assembly, Woodworking Experimentation, and Experimentation Points available  while crafting Woodworking items. Also enhances the power of buffs that Woodworking Stations grant when they have a Thrall inhabiting them.",
     "icon": "skill-generic-crafting-106.png",
     "stats": [
         {

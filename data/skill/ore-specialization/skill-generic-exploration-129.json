@@ -4,8 +4,8 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Silver.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when mining Silver.",
     "icon": "skill-generic-exploration-129.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-123",
+            "skill": "skill-generic-exploration-105",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-106",
+        "skill-generic-exploration-107",
+        "skill-generic-exploration-113",
+        "skill-generic-exploration-122",
+        "skill-generic-exploration-123"
+    ]
 }

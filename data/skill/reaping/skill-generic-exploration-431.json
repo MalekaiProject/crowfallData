@@ -1,0 +1,24 @@
+{
+    "id": "skill-generic-exploration-431",
+    "name": "Plethora of Dust: Plant",
+    "tree": "Reaping",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 10800,
+    "description": "Increases the chance for bonus Ethereal Dust when harvesting Plants.",
+    "icon": "skill-generic-exploration-431.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Plants",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-309",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

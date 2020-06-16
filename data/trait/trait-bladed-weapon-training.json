@@ -4,14 +4,6 @@
     "description": "You have trained with many blades, slicing through those who would dare cross you.\\n\\nYou can equip Bladed Weapon Disciplines.",
     "requiredBy": [
         {
-            "id": "poisoner",
-            "name": "Poisoner"
-        },
-        {
-            "id": "knife-grinder",
-            "name": "Knife Grinder"
-        },
-        {
             "id": "blade-master",
             "name": "Blade Master"
         }

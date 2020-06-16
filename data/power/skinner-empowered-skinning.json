@@ -1,7 +1,7 @@
 {
     "id": "skinner-empowered-skinning",
     "name": "Empowered Skinning",
-    "description": "enhances Energetic Harvesting with additional Skinning effects.\\n\\n1 Harvest Pip: Gain Empowered Skinning increasing Skinning by 5% while Energetic Harvest is active.\\n\\n2 Harvest Pips: Gain Perceptive Skinning increasing Spot Weakness: Animal by 5% while Perceptive Harvest is active.\\n\\n3 Harvest Pips: Increase Stamina restore amount by 4.\\n\\n4 Harvest Pips: Gain Heightened Skinning increasing the effectiveness of Energetic Harvest, Perceptive Harvest, and Stamina restore effects gained in the next 7 seconds when Heightened Harvest is active.\\n\\n5 Harvest Pips: Gain Furious Skinning increasing Harvest Base Damage: Animal by 30 for 6 seconds or 2 hits, whichever comes first, when Furious Reaping is active.",
+    "description": "enhances Energetic Harvesting with additional Skinning effects.\\n\\n1 Harvest Pip: Gain Empowered Skinning increasing Skinning by 5% while Energetic Harvest is active.\\n\\n2 Harvest Pips: Gain Perceptive Skinning increasing Spot Weakness: Animal by 5% while Perceptive Harvest is active.\\n\\n3 Harvest Pips: Gain Furious Skinning increasing Harvest Base Damage: Animal by 30 for 6 seconds or 2 hits, whichever comes first when Furious Reaping is active.\\n\\n4 Harvest Pips: Gain Heightened Skinning increasing the effectiveness of Energetic Harvest, Perceptive Harvest, and Stamina restore effects gained in the next 8 seconds when Heightened Harvest is active.\\n\\n5 Harvest Pips: Increase Stamina restore amount by 4.",
     "shortDescription": "Passive: Adds Skinning specific Buffs to all Energetic Harvesting Buffs",
     "icon": "skinner-empowered-skinning.png",
     "stats": {

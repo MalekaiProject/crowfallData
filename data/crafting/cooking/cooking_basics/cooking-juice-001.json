@@ -2,7 +2,7 @@
     "name": "Juice",
     "id": "cooking-juice-001",
     "icon": "cooking-juice-001.png",
-    "description": "Creates some tasty juice using apples or carrots! Produces 10.",
+    "description": "Creates some tasty juice using apples! Produces 10.",
     "outputQuantity": 10,
     "xp": 1.5,
     "category": "cooking",
@@ -18,8 +18,8 @@
             "optional": false
         },
         {
-            "name": "Apple or Carrot",
-            "id": "apple-or-carrot",
+            "name": "Apple",
+            "id": "apple",
             "icon": "",
             "quantity": 10,
             "slotIndex": 1,

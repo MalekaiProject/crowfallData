@@ -1,7 +1,7 @@
 {
     "id": "highelf-dodge",
     "name": "Dive Roll",
-    "description": "quickly moves you 10 in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
+    "description": "quickly moves you 10 meters in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
     "shortDescription": "Dive Roll in a WASD direction",
     "icon": "highelf-dodge.png",
     "stats": {

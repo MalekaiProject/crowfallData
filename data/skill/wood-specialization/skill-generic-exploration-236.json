@@ -4,8 +4,8 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Reduces the amount of Decay a Runestone Axe suffers when logging.",
+    "pipAmount": 13680,
+    "description": "Decreases the amount of Decay a Runestone Axe suffers when logging.",
     "icon": "skill-generic-exploration-236.png",
     "stats": [
         {
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-235",
+            "skill": "skill-generic-exploration-256",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-240",
-        "skill-generic-exploration-250"
-    ]
+    "unlocksSkill": []
 }

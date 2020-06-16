@@ -21,10 +21,10 @@
         }
     ],
     "unlocksSkill": [
+        "skill-generic-exploration-305",
         "skill-generic-exploration-306",
         "skill-generic-exploration-307",
-        "skill-generic-exploration-430",
-        "skill-generic-exploration-305",
-        "skill-generic-exploration-308"
+        "skill-generic-exploration-308",
+        "skill-generic-exploration-430"
     ]
 }

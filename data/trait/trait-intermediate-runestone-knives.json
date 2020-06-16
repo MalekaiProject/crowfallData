@@ -1,0 +1,12 @@
+{
+    "id": "trait-intermediate-runestone-knives",
+    "name": "Intermediate Runestone Knives",
+    "description": "Intermediate Runestone Knives.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-301",
+            "name": "Survival"
+        }
+    ]
+}

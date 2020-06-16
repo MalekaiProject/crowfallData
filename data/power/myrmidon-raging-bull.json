@@ -1,7 +1,7 @@
 {
     "id": "myrmidon-raging-bull",
     "name": "Raging Bull",
-    "description": "flings enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies. \\n\\nYou gain a damage preventing barrier, become immune to control effects and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "description": "flings enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies. \\n\\nYou gain damage prevention, become immune to control effects and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
     "shortDescription": "",
     "icon": "myrmidon-raging-bull.png",
     "stats": {

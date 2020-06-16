@@ -2,7 +2,7 @@
     "id": "illusionist-invisibility",
     "name": "Invisibility",
     "description": "makes you disappear automatically while both standing still and not in combat.\\n\\nIt will take 3 seconds to become Invisible after you stop moving.",
-    "shortDescription": "Toggle: Invisible while motionless; Non-Stealth Users Only",
+    "shortDescription": "Toggle: Invisible while motionless; Non-Stealth and Non-Camouflage Users Only",
     "icon": "illusionist-invisibility.png",
     "stats": {
         "cost_type_time": "cost_type_time_per_second",

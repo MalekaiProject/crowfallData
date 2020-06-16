@@ -1,0 +1,66 @@
+{
+    "name": "Create Boulder",
+    "id": "crafting-refine-combine-resources-003",
+    "icon": "crafting-refine-combine-resources-003.png",
+    "description": "Combine Non-Basic Stone into a Boulder",
+    "outputQuantity": 1,
+    "xp": 0,
+    "category": "refine",
+    "subCategory": "refine_basic",
+    "ingredients": [
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "Non-Basic Stone.png",
+            "quantity": 50,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "Non-Basic Stone.png",
+            "quantity": 50,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "Non-Basic Stone.png",
+            "quantity": 50,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "Non-Basic Stone.png",
+            "quantity": 50,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Stone",
+            "id": "non-basic-stone",
+            "icon": "Non-Basic Stone.png",
+            "quantity": 50,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 20,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

@@ -4,8 +4,8 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
-    "description": "Increases chance to harvest Ethereal Dust while harvesting Ore, Stone or Hunger Crystals. Also increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when excavating Ore, Stone or Graves.",
+    "pipAmount": 10800,
+    "description": "Increases chance to harvest Ethereal Dust while harvesting Ore, Stone or Hunger Crystals. Also increases the chance for a successful harvest as well as the potential for higher Quality Resources when excavating Ore, Stone or Graves.\\n\\nPower Granted at 5 Pips:\\nEnergetic Harvesting",
     "icon": "skill-generic-exploration-056.png",
     "stats": [
         {
@@ -33,7 +33,9 @@
             "amount": "0.2"
         }
     ],
-    "grants": [],
+    "grants": [
+        "power_ultimate_energetic_harvesting"
+    ],
     "unlockedFromSkill": [],
     "unlocksSkill": [
         "skill-generic-exploration-057",

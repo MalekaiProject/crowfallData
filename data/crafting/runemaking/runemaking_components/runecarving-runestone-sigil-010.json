@@ -39,7 +39,7 @@
             "name": "Soul Essence",
             "id": "soul-essence",
             "icon": "",
-            "quantity": 1,
+            "quantity": 5,
             "slotIndex": 3,
             "wildcard": false,
             "optional": false

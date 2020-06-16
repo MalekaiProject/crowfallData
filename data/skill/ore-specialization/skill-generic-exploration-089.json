@@ -4,8 +4,8 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Copper.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when mining Copper.",
     "icon": "skill-generic-exploration-089.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-368",
+            "skill": "skill-generic-exploration-061",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-062",
+        "skill-generic-exploration-063",
+        "skill-generic-exploration-073",
+        "skill-generic-exploration-367",
+        "skill-generic-exploration-368"
+    ]
 }

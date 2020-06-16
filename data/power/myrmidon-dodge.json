@@ -1,7 +1,7 @@
 {
     "id": "myrmidon-dodge",
     "name": "Dive Roll",
-    "description": "rolls you away from danger moving 10 in your WASD direction at the cost of one Dodge pip and causing 68 - 83 + 76% Weapon Damage twice to nearby enemies. \\n\\nYou recover one Dodge pip every 12 seconds.",
+    "description": "rolls you away from danger moving 10 meters in your WASD direction at the cost of one Dodge pip and causing 68 - 83 + 76% Weapon Damage twice to nearby enemies. \\n\\nYou recover one Dodge pip every 12 seconds.",
     "shortDescription": "Dive Roll in a WASD direction",
     "icon": "myrmidon-dodge.png",
     "stats": {

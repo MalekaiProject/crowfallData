@@ -2,7 +2,7 @@
     "id": "knight-stop",
     "name": "Stop!",
     "class": "knight",
-    "description": "Stop! enhances Pursuit to Stun the nearest enemy.",
+    "description": "Stop! enhances Pursuit to add a Stun to your next successful Shield Attack within 8 seconds.",
     "icon": "stop.png",
     "maxPoints": 1,
     "pointRequirement": 0,

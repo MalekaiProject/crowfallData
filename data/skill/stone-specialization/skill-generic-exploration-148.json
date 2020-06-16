@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the potential Maximum Amount of Slate when you score a Critical Harvest while quarrying Slate.",
+    "pipAmount": 13680,
+    "description": "Increases the potential maximum amount of Slate when you score a Critical Harvest while quarrying Slate.",
     "icon": "skill-generic-exploration-148.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-147",
+            "skill": "skill-generic-exploration-171",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-149"
-    ]
+    "unlocksSkill": []
 }

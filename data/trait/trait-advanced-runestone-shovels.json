@@ -1,0 +1,12 @@
+{
+    "id": "trait-advanced-runestone-shovels",
+    "name": "Advanced Runestone Shovels",
+    "description": "You are no stranger to digging a few graves...\\ndigging them up as well.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-320",
+            "name": "Digging Basics"
+        }
+    ]
+}

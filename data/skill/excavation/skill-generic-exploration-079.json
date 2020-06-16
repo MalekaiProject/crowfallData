@@ -4,7 +4,7 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases chance of a Beneficial Harvest when mining any type of Ore. Beneficial Harvests can only happen when the node is destroyed.",
     "icon": "skill-generic-exploration-079.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-077",
+            "skill": "skill-generic-exploration-132",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-372"
-    ]
+    "unlocksSkill": []
 }

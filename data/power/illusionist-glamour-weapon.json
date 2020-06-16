@@ -1,7 +1,7 @@
 {
     "id": "illusionist-glamour-weapon",
-    "name": "Glamour Weapon",
-    "description": "adds a Glamour to your weapon increasing your Attack Power by 150 for 15 seconds.",
+    "name": "Glamour",
+    "description": "adds a Glamour to you, increasing your Attack Power by 150 for 45 seconds.",
     "shortDescription": "Increase Attack Power",
     "icon": "illusionist-glamour-weapon.png",
     "stats": {

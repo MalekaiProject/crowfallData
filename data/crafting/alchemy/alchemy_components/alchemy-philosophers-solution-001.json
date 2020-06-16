@@ -39,7 +39,7 @@
             "name": "Ethereal Dust",
             "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
-            "quantity": 2,
+            "quantity": 5,
             "slotIndex": 3,
             "wildcard": false,
             "optional": false

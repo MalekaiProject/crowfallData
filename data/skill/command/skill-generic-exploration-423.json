@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 45360,
-    "description": "The passive power Way of the Leader, gains increased Chance for a successful harvest as well as the Potential for higher Quality Resources when harvesting all Resource types as long as you are the group leader.",
+    "description": "The passive power Way of the Leader, gains increased chance for a successful harvest as well as the potential for higher Quality Resources when harvesting all Resource types as long as you are the group leader.",
     "icon": "skill-generic-exploration-423.png",
     "stats": [
         {

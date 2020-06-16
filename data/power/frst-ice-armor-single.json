@@ -1,7 +1,7 @@
 {
     "id": "frst-ice-armor-single",
     "name": "Frost Armor",
-    "description": "uses Weaving to create Frost Armor.\\n\\nFrost Armor can be picked up by allies and you to add 3500 Armor. It lasts until you take damage and then up to 15 seconds after. Each hit adds one Frost Armor Crack counter (one per second max) and the effect ends if you are hit after your third Frost Armor Crack.\\n\\nWeaving reduces your Ice Stores by one. If your Ice Stores are empty, 250 Mana is drained to create the Ice. If neither cost can be paid, Ice is not woven but Mana is restored instead.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
+    "description": "uses Weaving to create Frost Armor which can last for 180 seconds.\\n\\nFrost Armor can be picked up by allies and you to add 3500 Armor. It lasts until you zone or until you take damage and then up to 15 seconds after the damage. Each hit adds one Frost Armor Crack counter (one per second max) and the effect ends if you are hit after your third Frost Armor Crack.\\n\\nWeaving reduces your Ice Stores by one. If your Ice Stores are empty, 250 Mana is drained to create the Ice. If neither cost can be paid, Ice is not woven but Mana is restored instead.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
     "shortDescription": "",
     "icon": "frst-ice-armor-single.png",
     "stats": {

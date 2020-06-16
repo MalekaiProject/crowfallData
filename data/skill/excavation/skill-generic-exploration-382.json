@@ -4,7 +4,7 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases the chance for bonus Ethereal Dust when digging Graves.",
     "icon": "skill-generic-exploration-382.png",
     "stats": [
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-381",
+            "skill": "skill-generic-exploration-357",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-356",
-        "skill-generic-exploration-364"
-    ]
+    "unlocksSkill": []
 }

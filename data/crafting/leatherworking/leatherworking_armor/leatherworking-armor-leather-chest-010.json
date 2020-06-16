@@ -63,11 +63,20 @@
             "optional": true
         },
         {
+            "name": "Armor Coating Solution",
+            "id": "armor-coating-solution",
+            "icon": "Armor Coating Solution.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        },
+        {
             "name": "Specialty Seal",
             "id": "specialty-seal",
             "icon": "Specialty Seal.png",
             "quantity": 1,
-            "slotIndex": 6,
+            "slotIndex": 7,
             "wildcard": false,
             "optional": true
         }

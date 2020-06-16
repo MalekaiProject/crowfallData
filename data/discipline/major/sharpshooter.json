@@ -55,8 +55,8 @@
             "name": "Arrows"
         },
         {
-            "id": "trait-basic-bow-proficiency",
-            "name": "Basic Bow Proficiency"
+            "id": "trait-compound-bow-proficiency",
+            "name": "Compound Bow Proficiency"
         },
         {
             "id": "trait-executioner",
@@ -67,12 +67,12 @@
             "name": "Exotic Arrows"
         },
         {
-            "id": "trait-high-tension-compound-bow-proficiency",
-            "name": "High Tension Compound Bow Proficiency"
-        },
-        {
             "id": "trait-quiver-proficiency",
             "name": "Quiver Proficiency"
+        },
+        {
+            "id": "trait-recurve-bow-proficiency",
+            "name": "Recurve Bow Proficiency"
         }
     ],
     "description": "Many undervalue the beauty and simplicity of the arrow, but the truth is that a rapid firing archer is just as deadly as any other foe in combat. Long range shots allow for a quick and effective way to take an opponent down with minimal interaction.",

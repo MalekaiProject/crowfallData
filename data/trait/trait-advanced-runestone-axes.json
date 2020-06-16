@@ -1,0 +1,12 @@
+{
+    "id": "trait-advanced-runestone-axes",
+    "name": "Advanced Runestone Axes",
+    "description": "Advanced Runestone Axes.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-305",
+            "name": "Logging Basics"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Increases chance to harvest Apples when logging Trees, and reduces the amount of Decay that Runestone Knives suffer when skinning.\\n\\nRecipes Granted:\\nSurvivalist Cooking\\n\\nTraits Granted:\\nRunestone Knife Proficiency",
+    "description": "Increases chance to harvest Apples when logging Trees.\\n\\nDecreases the amount of Decay that Runestone Axes, and Runestone Knives suffer when reaping.\\n\\nRecipes Granted:\\nSurvivalist Cooking\\n\\nTraits Granted at 1 Pip:\\nIntermediate Runestone Axes\\nIntermediate Runestone Knives",
     "icon": "skill-generic-exploration-301.png",
     "stats": [
         {
@@ -15,9 +15,16 @@
         {
             "name": "Decay Reduction: Knives",
             "amount": "2%"
+        },
+        {
+            "name": "Decay Reduction: Axes",
+            "amount": "2%"
         }
     ],
-    "grants": [],
+    "grants": [
+        "equip_harvest_tool_axe",
+        "equip_harvest_tool_knife"
+    ],
     "unlockedFromSkill": [
         {
             "skill": "skill-generic-exploration-300",

@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Slate.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when quarrying Slate.",
     "icon": "skill-generic-exploration-155.png",
     "stats": [
         {
@@ -16,7 +16,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-149",
+            "skill": "skill-generic-exploration-171",
             "point": 4
         }
     ],

@@ -4,8 +4,8 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance to obtain Minerals from Mother Lodes of Stone.",
+    "pipAmount": 10800,
+    "description": "Increases the chance to obtain Minerals from Mother Lodes of Stone.",
     "icon": "skill-generic-exploration-376.png",
     "stats": [
         {
@@ -21,6 +21,6 @@
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-377"
+        "skill-generic-exploration-174"
     ]
 }

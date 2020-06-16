@@ -4,8 +4,8 @@
     "tree": "Animal Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Hide when skinning Omnivore Animals.",
+    "pipAmount": 13680,
+    "description": "Increases your chance for a Critical Harvest and increases the potential maximum amount of Hide when skinning Omnivore Animals.",
     "icon": "skill-generic-exploration-182.png",
     "stats": [
         {

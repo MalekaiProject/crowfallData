@@ -4,7 +4,7 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for bonus Ethereal Dust when quarrying Limestone.",
     "icon": "skill-generic-exploration-158.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-157",
+            "skill": "skill-generic-exploration-169",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-159"
-    ]
+    "unlocksSkill": []
 }

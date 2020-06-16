@@ -1,0 +1,12 @@
+{
+    "id": "trait-advanced-runestone-knives",
+    "name": "Advanced Runestone Knives",
+    "description": "Advanced Runestone Knives.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-307",
+            "name": "Skinning Basics"
+        }
+    ]
+}

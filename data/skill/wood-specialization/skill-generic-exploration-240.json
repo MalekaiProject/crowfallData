@@ -4,8 +4,8 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when logging Yew.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when logging Yew.",
     "icon": "skill-generic-exploration-240.png",
     "stats": [
         {
@@ -16,7 +16,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-236",
+            "skill": "skill-generic-exploration-256",
             "point": 4
         }
     ],

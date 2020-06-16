@@ -5,6 +5,14 @@
     "requiredBy": [],
     "grantedBy": [
         {
+            "id": "sharpshooter",
+            "name": "Sharpshooter"
+        },
+        {
+            "id": "arcane-archer",
+            "name": "Arcane Archer"
+        },
+        {
             "id": "ranger",
             "name": "Ranger"
         }

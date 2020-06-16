@@ -1,7 +1,7 @@
 {
     "id": "nethari-call-flames",
     "name": "Call Flames",
-    "description": "increases your Damage Bonus: Fire by 10% for 15 seconds and applies a Major Burning damage over time effect to up to 5 enemies within 8.",
+    "description": "increases your Damage Bonus: Fire by 10% for 15 seconds and applies a Major Burning damage over time effect to up to 5 enemies within 8 meters.",
     "shortDescription": "Fire Buff, Sets Nearby Enemies on Fire",
     "icon": "nethari-call-flames.png",
     "stats": {

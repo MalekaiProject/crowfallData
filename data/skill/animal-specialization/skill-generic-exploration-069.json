@@ -4,8 +4,8 @@
     "tree": "Animal Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning Carnivore Animals.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when skinning Carnivore Animals.",
     "icon": "skill-generic-exploration-069.png",
     "stats": [
         {
@@ -16,7 +16,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-075",
+            "skill": "skill-generic-exploration-405",
             "point": 4
         }
     ],

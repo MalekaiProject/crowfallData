@@ -1,0 +1,24 @@
+{
+    "id": "illusionist-phantom-armor",
+    "name": "Phantom Armor",
+    "description": "has a chance to increase your Armor Class by 3500 for 12 seconds when an enemy damages you. Cannot occur more than once every 60 seconds.",
+    "shortDescription": "Passive: Chance to gain Armor Class when hit",
+    "icon": "illusionist-phantom-armor.png",
+    "stats": {
+        "buff_amount_1": "3500",
+        "buff_type_1": "Armor Class",
+        "duration": "12 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

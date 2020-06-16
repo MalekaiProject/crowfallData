@@ -1,16 +1,16 @@
 {
     "id": "skill-combat-plate-03-05",
-    "name": "Sprint Efficiency",
+    "name": "Stamina",
     "tree": "Plate",
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
-    "description": "Decreases Sprint Efficiency while using Plate chest armor.",
+    "description": "Increases Stamina while using Plate chest armor.",
     "icon": "skill-combat-plate-03-05.png",
     "stats": [
         {
-            "name": "Sprint Efficiency",
-            "amount": "-0.1"
+            "name": "Stamina",
+            "amount": "1"
         }
     ],
     "grants": [],

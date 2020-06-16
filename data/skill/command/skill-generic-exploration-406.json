@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
-    "description": "Increases the Range that Way of the Leader effects apply to group memebers, up to an additional 25m.\\n\\nPassive Power Granted:\\nWay of the Leader",
+    "description": "Increases the Range that Way of the Leader effects apply to group members, up to an additional 25m.\\n\\nPassive Power Granted at 1 Pip:\\nWay of the Leader",
     "icon": "skill-generic-exploration-406.png",
     "stats": [
         {

@@ -1,7 +1,7 @@
 {
     "id": "frst-ult-re-fridgerate",
     "name": "Re-Fridgerate",
-    "description": "refills your Ice Stores and restores Mana over 10 seconds.\\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "description": "refills your Ice Stores and restores Mana over 10 seconds.\\n\\nYou gain damage prevention and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
     "shortDescription": "",
     "icon": "frst-ult-re-fridgerate.png",
     "stats": {

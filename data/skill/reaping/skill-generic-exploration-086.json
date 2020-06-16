@@ -4,7 +4,7 @@
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
+    "pipAmount": 10800,
     "description": "Increases the chance for bonus Ethereal Dust when logging a Tree.",
     "icon": "skill-generic-exploration-086.png",
     "stats": [
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-088",
+            "skill": "skill-generic-exploration-258",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-257",
-        "skill-generic-exploration-392"
-    ]
+    "unlocksSkill": []
 }

@@ -1,7 +1,7 @@
 {
     "id": "champion-invincible-warrior",
     "name": "Invincible Warrior",
-    "description": "makes you nigh invincible with a protective Barrier and healing over time. \\n\\nYou become immune to control effects and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "description": "makes you nigh invincible with damage prevention and healing over time. \\n\\nYou become immune to control effects and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
     "shortDescription": "",
     "icon": "champion-invincible-warrior.png",
     "stats": {

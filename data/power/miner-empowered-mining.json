@@ -1,7 +1,7 @@
 {
     "id": "miner-empowered-mining",
     "name": "Empowered Mining",
-    "description": "enhances Energetic Harvesting with additional Mining effects.\\n\\n1 Harvest Pip: Gain Empowered Mining increasing Mining by 5% while Energetic Harvest is active.\\n\\n2 Harvest Pips: Gain Perceptive Mining increasing Spot Weakness: Ore by 5% while Perceptive Harvest is active.\\n\\n3 Harvest Pips: Increase Stamina restore amount by 4.\\n\\n4 Harvest Pips: Gain Heightened Mining increasing the effectiveness of Energetic Harvest, Perceptive Harvest, and Stamina restore effects gained in the next 7 seconds when Heightened Harvest is active.\\n\\n5 Harvest Pips: Gain Furious Mining increasing Harvest Base Damage: Ore by 30 for 6 seconds or 2 hits, whichever comes first when Furious Reaping is active.",
+    "description": "enhances Energetic Harvesting with additional Mining effects.\\n\\n1 Harvest Pip: Gain Empowered Mining increasing Mining by 5% while Energetic Harvest is active.\\n\\n2 Harvest Pips: Gain Perceptive Mining increasing Spot Weakness: Ore by 5% while Perceptive Harvest is active.\\n\\n3 Harvest Pips: Gain Furious Mining increasing Harvest Base Damage: Ore by 30 for 6 seconds or 2 hits, whichever comes first when Furious Reaping is active.\\n\\n4 Harvest Pips: Gain Heightened Mining increasing the effectiveness of Energetic Harvest, Perceptive Harvest, and Stamina restore effects gained in the next 8 seconds when Heightened Harvest is active.\\n\\n5 Harvest Pips: Increase Stamina restore amount by 4.",
     "shortDescription": "Passive: Adds Mining specific Buffs to all Energetic Harvesting Buffs",
     "icon": "miner-empowered-mining.png",
     "stats": {

@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Limestone.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when quarrying Limestone.",
     "icon": "skill-generic-exploration-153.png",
     "stats": [
         {
@@ -16,7 +16,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-143",
+            "skill": "skill-generic-exploration-169",
             "point": 4
         }
     ],

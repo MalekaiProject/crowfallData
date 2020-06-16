@@ -1,0 +1,30 @@
+{
+    "name": "Imbue Blade Mold",
+    "id": "runecarving-imbue-blade-mold-001",
+    "icon": "",
+    "description": "Creates an Imbued Blade Mold, which is used to grant unique Powers to weapons.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "runemaking",
+    "subCategory": "runemaking_imbues",
+    "ingredients": [
+        {
+            "name": "Blade Mold",
+            "id": "blade-mold",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Imbuement Sigil",
+            "id": "imbuement-sigil",
+            "icon": "Imbuement Sigil.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": true,
+            "optional": false
+        }
+    ]
+}

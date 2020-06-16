@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 25200,
-    "description": "Increases the chance of Assembly Success when assembling Basic Crafting items. Also enhances the power of Buffs that Crafting Stations grant when they have a Thrall inhabiting them.",
+    "description": "Increases the chance of Assembly Success when assembling Basic Crafting items. Also enhances the power of buffs that Crafting Stations grant when they have a Thrall inhabiting them.",
     "icon": "skill-generic-crafting-019.png",
     "stats": [
         {

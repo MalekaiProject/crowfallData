@@ -2,7 +2,7 @@
     "id": "confessor-redeem",
     "name": "Redeem",
     "class": "confessor",
-    "description": "Redeem improves Movement Crowd Control by 6% per point spent.",
+    "description": "Redeem improves Movement Control Intensity by 6% per point spent.",
     "icon": "redeem.png",
     "maxPoints": 3,
     "pointRequirement": 0,

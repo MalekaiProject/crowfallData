@@ -4,7 +4,7 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases the Damage that Runestone Hammers can deal when mining.",
     "icon": "skill-generic-exploration-174.png",
     "stats": [
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-379",
+            "skill": "skill-generic-exploration-376",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-080",
+        "skill-generic-exploration-082",
+        "skill-generic-exploration-377",
+        "skill-generic-exploration-378",
+        "skill-generic-exploration-379"
+    ]
 }

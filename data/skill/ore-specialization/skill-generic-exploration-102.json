@@ -4,7 +4,7 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 13680,
     "description": "Increases your chance for a Critical Harvest when mining Tin.",
     "icon": "skill-generic-exploration-102.png",
     "stats": [
@@ -21,6 +21,6 @@
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-103"
+        "skill-generic-exploration-128"
     ]
 }

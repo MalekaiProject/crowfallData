@@ -1,0 +1,39 @@
+{
+    "name": "Intermediate Harvesting Tools",
+    "id": "runecarving-runestone-tool-006",
+    "icon": "runecarving-runestone-tool-006.png",
+    "description": "Creates an Intermediate Runestone Tool. The type of tool used will determine the type of Tool created.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "runemaking",
+    "subCategory": "runemaking_intermediate",
+    "ingredients": [
+        {
+            "name": "Basic Harvest Tool",
+            "id": "basic-harvest-tool",
+            "icon": "Basic Harvest Tool.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": true,
+            "optional": false
+        },
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "Ore.png",
+            "quantity": 3,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

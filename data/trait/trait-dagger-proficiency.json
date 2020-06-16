@@ -2,7 +2,20 @@
     "id": "trait-dagger-proficiency",
     "name": "Dagger Proficiency",
     "description": "Malekai once challenged himself to create the most devilish weapon, and so he created the dagger, and proceeded to slather it in poisons.\\n\\nA small, one-handed melee weapon primarily used for piercing jabs.\\n\\nYou are proficient at wielding this type of blade.",
-    "requiredBy": [],
+    "requiredBy": [
+        {
+            "id": "poisoner",
+            "name": "Poisoner"
+        },
+        {
+            "id": "knife-grinder",
+            "name": "Knife Grinder"
+        },
+        {
+            "id": "black-mask",
+            "name": "Black Mask"
+        }
+    ],
     "grantedBy": [
         {
             "id": "assassin",

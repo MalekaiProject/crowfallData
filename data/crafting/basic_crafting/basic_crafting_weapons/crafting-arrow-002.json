@@ -2,7 +2,7 @@
     "name": "Basic Arrows",
     "id": "crafting-arrow-002",
     "icon": "crafting-arrow-002.png",
-    "description": "Creates some Basic Piercing Arrows.Produces 100.",
+    "description": "Creates some Basic Piercing Arrows, usable by those who are proficient with Bows. Produces 100.",
     "outputQuantity": 100,
     "xp": 0.04,
     "category": "basic_crafting",

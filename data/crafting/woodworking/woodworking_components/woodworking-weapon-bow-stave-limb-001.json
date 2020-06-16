@@ -41,7 +41,7 @@
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
-            "wildcard": false,
+            "wildcard": true,
             "optional": false
         },
         {

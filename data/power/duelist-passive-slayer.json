@@ -15,6 +15,7 @@
     "isHeal": false,
     "isBuff": false,
     "tags": [
-        "anyone"
+        "anyone",
+        "stealth"
     ]
 }

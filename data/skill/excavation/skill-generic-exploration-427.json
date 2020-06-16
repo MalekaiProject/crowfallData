@@ -4,8 +4,8 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when excavating Hunger Crystals.",
+    "pipAmount": 10800,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when excavating Hunger Crystals.",
     "icon": "skill-generic-exploration-427.png",
     "stats": [
         {

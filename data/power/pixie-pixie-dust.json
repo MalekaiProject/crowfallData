@@ -27,6 +27,7 @@
     "isHeal": true,
     "isBuff": true,
     "tags": [
-        "anyone"
+        "anyone_but_druid",
+        "druid_healing"
     ]
 }

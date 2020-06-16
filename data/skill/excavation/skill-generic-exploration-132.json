@@ -4,7 +4,7 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases the Damage that Runestone Picks can deal when mining.",
     "icon": "skill-generic-exploration-132.png",
     "stats": [
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-372",
+            "skill": "skill-generic-exploration-369",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-077",
+        "skill-generic-exploration-079",
+        "skill-generic-exploration-370",
+        "skill-generic-exploration-371",
+        "skill-generic-exploration-372"
+    ]
 }

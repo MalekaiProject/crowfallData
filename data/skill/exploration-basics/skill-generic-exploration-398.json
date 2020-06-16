@@ -1,16 +1,16 @@
 {
     "id": "skill-generic-exploration-398",
-    "name": "Harvest Beeswax",
+    "name": "Cutting Grit",
     "tree": "Exploration Basics",
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Increases chance to harvest Beeswax when logging Trees.",
+    "description": "Grants the ability to harvest Cutting Grit when mining Slag.",
     "icon": "skill-generic-exploration-398.png",
     "stats": [
         {
-            "name": "Harvest Chance: Beeswax",
-            "amount": "0.8%"
+            "name": "Harvest Chance: Cutting Grit",
+            "amount": "3%"
         }
     ],
     "grants": [],

@@ -4,7 +4,7 @@
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases the Damage that Runestone Axes can deal when logging.",
     "icon": "skill-generic-exploration-258.png",
     "stats": [
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-394",
+            "skill": "skill-generic-exploration-391",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-086",
+        "skill-generic-exploration-088",
+        "skill-generic-exploration-392",
+        "skill-generic-exploration-393",
+        "skill-generic-exploration-394"
+    ]
 }

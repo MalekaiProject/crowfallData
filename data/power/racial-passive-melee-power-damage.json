@@ -17,5 +17,8 @@
     "isBeneficial": false,
     "isHeal": false,
     "isBuff": false,
-    "tags": []
+    "tags": [
+        "melee",
+        "stealth"
+    ]
 }

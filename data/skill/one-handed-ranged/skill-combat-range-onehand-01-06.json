@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 40320,
-    "description": "Increases Critical Strike while using a Hammer in your main hand.",
+    "description": "Increases Critical Strike while using a Runestone Hammer in your main hand.",
     "icon": "skill-combat-range-onehand-01-06.png",
     "stats": [
         {

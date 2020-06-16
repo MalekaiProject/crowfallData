@@ -1,7 +1,7 @@
 {
     "id": "elken-headbutt",
     "name": "Head Butt",
-    "description": "charges you forward 20m knocking down enemies and causing 82 - 100 + 91% Weapon Damage.",
+    "description": "charges you forward 20m knocking down enemies and causing 82 - 100 + 91% Weapon Damage. This crushes an enemy who is actively using Block, opening them up for attacks.",
     "shortDescription": "Charge Forward, Targets Suffer Knockdown",
     "icon": "elken-headbutt.png",
     "stats": {

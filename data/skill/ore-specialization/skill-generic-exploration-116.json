@@ -4,7 +4,7 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for bonus Ethereal Dust when mining Iron.",
     "icon": "skill-generic-exploration-116.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-115",
+            "skill": "skill-generic-exploration-127",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-117"
-    ]
+    "unlocksSkill": []
 }

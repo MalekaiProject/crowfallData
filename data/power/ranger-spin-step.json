@@ -1,7 +1,7 @@
 {
     "id": "ranger-spin-step",
     "name": "Spin Step",
-    "description": "moves you quickly 10 in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
+    "description": "moves you quickly 10 meters in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
     "shortDescription": "Roll in a WASD direction",
     "icon": "ranger-spin-step.png",
     "stats": {

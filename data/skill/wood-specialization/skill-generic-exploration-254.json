@@ -4,8 +4,8 @@
     "tree": "Wood Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when logging Spruce.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when logging Spruce.",
     "icon": "skill-generic-exploration-254.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-246",
+            "skill": "skill-generic-exploration-228",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-229",
+        "skill-generic-exploration-230",
+        "skill-generic-exploration-238",
+        "skill-generic-exploration-245",
+        "skill-generic-exploration-246"
+    ]
 }

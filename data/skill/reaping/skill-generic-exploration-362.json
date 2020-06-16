@@ -4,8 +4,8 @@
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 95,
-    "pipAmount": 15120,
-    "description": "Increases the Duration and Power of any Beneficial Harvest effect. Also increases the size of Bonus Harvesting Inventories when you have an Inventory Bag of that type equipped.",
+    "pipAmount": 18000,
+    "description": "Increases the duration and Power of any Beneficial Harvest effect.\\n\\nIncreases the chance for a successful harvest as well as the potential for higher Quality Resources when harvesting Plants.",
     "icon": "skill-generic-exploration-362.png",
     "stats": [
         {
@@ -17,8 +17,8 @@
             "amount": "3%"
         },
         {
-            "name": "Inventory Bonus Slots: Harvesting",
-            "amount": "0.8"
+            "name": "Plentiful Resources Plant",
+            "amount": "0.2"
         }
     ],
     "grants": [],

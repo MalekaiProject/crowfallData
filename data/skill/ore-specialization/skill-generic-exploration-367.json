@@ -4,7 +4,7 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
+    "pipAmount": 13680,
     "description": "Increases the chance for bonus Ethereal Dust when mining Copper.",
     "icon": "skill-generic-exploration-367.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-078",
+            "skill": "skill-generic-exploration-089",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-368"
-    ]
+    "unlocksSkill": []
 }

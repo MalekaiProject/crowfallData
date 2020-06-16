@@ -1,0 +1,48 @@
+{
+    "name": "Armor Coating",
+    "id": "alchemy-philosophers-solution-002",
+    "icon": "alchemy-philosophers-solution-002.png",
+    "description": "Creates a concentrated solution used to coat armor. All Philosopher's Solutions used to create coating must be of the same type.\\nThe benefits of the coating will not allow further experimentation on the attributes it provides in any further crafts.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "alchemy",
+    "subCategory": "arcane_mixings",
+    "ingredients": [
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosophers-solution",
+            "icon": "Philosopher's Solution.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosophers-solution",
+            "icon": "Philosopher's Solution.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosophers-solution",
+            "icon": "Philosopher's Solution.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Solution",
+            "id": "philosophers-solution",
+            "icon": "Philosopher's Solution.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

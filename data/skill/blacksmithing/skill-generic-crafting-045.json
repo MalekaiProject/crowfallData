@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
-    "description": "Enhances the power of Buffs that Blacksmithing Stations grant when they have a Thrall inhabiting them.",
+    "description": "Enhances the power of buffs that Blacksmithing Stations grant when they have a Thrall inhabiting them.",
     "icon": "skill-generic-crafting-045.png",
     "stats": [
         {

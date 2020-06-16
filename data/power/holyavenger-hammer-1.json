@@ -14,7 +14,7 @@
         "range": "5",
         "max_targets": "1",
         "cooldown": "9",
-        "target": "Cone",
+        "target": "Reticle",
         "cast_time": "Instant"
     },
     "nextChain": [

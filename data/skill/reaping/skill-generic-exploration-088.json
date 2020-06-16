@@ -4,7 +4,7 @@
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
+    "pipAmount": 10800,
     "description": "Increases chance of a Beneficial Harvest when logging any type of Tree. Beneficial Harvests can only happen when the node is destroyed.",
     "icon": "skill-generic-exploration-088.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-391",
+            "skill": "skill-generic-exploration-258",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-086"
-    ]
+    "unlocksSkill": []
 }

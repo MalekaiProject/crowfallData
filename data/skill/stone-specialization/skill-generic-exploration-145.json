@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the potential Maximum Amount of Travertine when you score a Critical Harvest while quarrying Travertine.",
+    "pipAmount": 13680,
+    "description": "Increases the potential maximum amount of Travertine when you score a Critical Harvest while quarrying Travertine.",
     "icon": "skill-generic-exploration-145.png",
     "stats": [
         {
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-144",
+            "skill": "skill-generic-exploration-170",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-146"
-    ]
+    "unlocksSkill": []
 }

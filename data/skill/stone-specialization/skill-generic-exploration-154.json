@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Travertine.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when quarrying Travertine.",
     "icon": "skill-generic-exploration-154.png",
     "stats": [
         {
@@ -16,7 +16,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-146",
+            "skill": "skill-generic-exploration-170",
             "point": 4
         }
     ],

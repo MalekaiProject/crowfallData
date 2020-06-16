@@ -4,8 +4,8 @@
     "tree": "Grave Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Reduces the amount of Decay a Runestone Shovel suffers when digging.",
+    "pipAmount": 13680,
+    "description": "Decreases the amount of Decay a Runestone Shovel suffers when digging.",
     "icon": "skill-generic-exploration-333.png",
     "stats": [
         {
@@ -16,12 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-332",
+            "skill": "skill-generic-exploration-352",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-340",
-        "skill-generic-exploration-344"
-    ]
+    "unlocksSkill": []
 }

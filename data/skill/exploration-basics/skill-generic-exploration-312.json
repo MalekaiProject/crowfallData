@@ -5,16 +5,12 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Increases chance to harvest Slag Ore when mining Slag.\\n\\nGrants the ability to harvest Cutting Grit when mining Slag.\\n\\nIncreases the Chance to obtain Gems from Mother Lodes of Ore.\\n\\nTraits Granted:\\nSpirit Pick Proficiency",
+    "description": "Increases chance to harvest Slag Ore when mining Slag.\\n\\nIncreases the chance to obtain Gems when mining Mother Lodes of Ore.\\n\\nTraits Granted at 5 Pips:\\nAdvanced Runestone Picks",
     "icon": "skill-generic-exploration-312.png",
     "stats": [
         {
             "name": "Plentiful Resources Ore: Slag",
             "amount": "0.2"
-        },
-        {
-            "name": "Harvest Chance: Cutting Grit",
-            "amount": "3%"
         },
         {
             "name": "Gem Harvest Chance: All",

@@ -4,7 +4,7 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 50,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases chance to harvest Hunger Shard Weapon Additives when excavating Hunger Crystals.",
     "icon": "skill-generic-exploration-425.png",
     "stats": [

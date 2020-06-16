@@ -36,8 +36,8 @@
             "optional": false
         },
         {
-            "name": "Blade Mold: Great",
-            "id": "blade-mold-great",
+            "name": "Weapon Form",
+            "id": "weapon-form",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,

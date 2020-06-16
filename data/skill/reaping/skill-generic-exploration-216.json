@@ -4,7 +4,7 @@
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases the Damage that Runestone Knives can deal when skinning.",
     "icon": "skill-generic-exploration-216.png",
     "stats": [
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-402",
+            "skill": "skill-generic-exploration-399",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-083",
+        "skill-generic-exploration-085",
+        "skill-generic-exploration-400",
+        "skill-generic-exploration-401",
+        "skill-generic-exploration-402"
+    ]
 }

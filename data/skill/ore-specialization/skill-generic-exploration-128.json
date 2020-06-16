@@ -4,8 +4,8 @@
     "tree": "Ore Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Tin.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when mining Tin.",
     "icon": "skill-generic-exploration-128.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-120",
+            "skill": "skill-generic-exploration-102",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-103",
+        "skill-generic-exploration-104",
+        "skill-generic-exploration-112",
+        "skill-generic-exploration-119",
+        "skill-generic-exploration-120"
+    ]
 }

@@ -1,7 +1,7 @@
 {
     "id": "assassin-stealth-spirit-dart",
     "name": "Spirit Dart",
-    "description": "launches a Spirit Dart at an enemy and applies your currently equipped Toxin while maintaining Stealth. If the target is Exposed, the cooldown of your next Spirit Dart is reduced.",
+    "description": "launches a Spirit Dart at an enemy and applies your currently equipped Toxin. If you poison an Exposed target with Spirit Dart, the cooldown of your next Spirit Dart is reduced.\\n\\nThis power will return you to Stealth if you take no damage while executing.",
     "shortDescription": "",
     "icon": "assassin-stealth-spirit-dart.png",
     "stats": {

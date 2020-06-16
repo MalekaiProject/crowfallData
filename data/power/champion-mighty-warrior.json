@@ -1,7 +1,7 @@
 {
     "id": "champion-mighty-warrior",
     "name": "Mighty Warrior",
-    "description": "increases your size and Bonus Damage by up to 20%, restores Rage, applies a short barrier equal to 20% of your maximum Health and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.\\n\\nNote: This ability will replace the Blood Of The Giant Half-Giant Racial power.",
+    "description": "increases your size and Bonus Damage by up to 20%, restores Rage, prevents damage equal to 20% of your maximum Health and can be instantly Flash-Cast. \\n\\nThis effect can stack twice but will overwrite other Warrior effects.\\n\\nNote: This ability will replace the Blood Of The Giant Half-Giant Racial power.",
     "shortDescription": "",
     "icon": "champion-mighty-warrior.png",
     "stats": {

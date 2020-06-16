@@ -4,23 +4,21 @@
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 10800,
     "description": "Increases chance for bonus Meat when skinning an Animal.",
     "icon": "skill-generic-exploration-402.png",
     "stats": [
         {
             "name": "Plethora of Meat: Animal",
-            "amount": "2%"
+            "amount": "1%"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-401",
+            "skill": "skill-generic-exploration-216",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-216"
-    ]
+    "unlocksSkill": []
 }

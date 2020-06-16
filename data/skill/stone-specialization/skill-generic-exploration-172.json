@@ -4,8 +4,8 @@
     "tree": "Stone Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Marble",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when quarrying Marble",
     "icon": "skill-generic-exploration-172.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-168",
+            "skill": "skill-generic-exploration-150",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-151",
+        "skill-generic-exploration-152",
+        "skill-generic-exploration-156",
+        "skill-generic-exploration-167",
+        "skill-generic-exploration-168"
+    ]
 }

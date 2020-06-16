@@ -1,22 +1,22 @@
 {
     "id": "skill-generic-exploration-215",
-    "name": "Exceptional Knives",
+    "name": "Plethora of Dust: Plant",
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
-    "description": "Increases the Damage that Runestone Knives can deal when skinning.",
+    "pipAmount": 10800,
+    "description": "Increases the chance for bonus Ethereal Dust when harvesting Plants.",
     "icon": "skill-generic-exploration-215.png",
     "stats": [
         {
-            "name": "Skinning",
-            "amount": "1.4"
+            "name": "Plethora of Dust: Plants",
+            "amount": "1%"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-083",
+            "skill": "skill-generic-exploration-309",
             "point": 4
         }
     ],

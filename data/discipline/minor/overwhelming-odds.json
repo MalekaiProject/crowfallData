@@ -14,7 +14,7 @@
         {
             "id": "enemies-near-mitigation",
             "name": "Overwhelming Odds",
-            "description": "Passive: Gain Mitigation when Enemies Near"
+            "description": "Passive: Gain Resistance when Enemies Near"
         }
     ],
     "grantsSlot": [],

@@ -4,8 +4,8 @@
     "tree": "Grave Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 15120,
-    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when digging a Human Grave.",
+    "pipAmount": 13680,
+    "description": "Increases the chance for a successful harvest as well as the potential for higher Quality Resources when digging a Human Grave.",
     "icon": "skill-generic-exploration-326.png",
     "stats": [
         {
@@ -16,9 +16,15 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-325",
+            "skill": "skill-generic-exploration-321",
             "point": 4
         }
     ],
-    "unlocksSkill": []
+    "unlocksSkill": [
+        "skill-generic-exploration-385",
+        "skill-generic-exploration-323",
+        "skill-generic-exploration-322",
+        "skill-generic-exploration-325",
+        "skill-generic-exploration-388"
+    ]
 }

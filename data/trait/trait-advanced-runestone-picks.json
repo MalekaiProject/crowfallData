@@ -1,0 +1,12 @@
+{
+    "id": "trait-advanced-runestone-picks",
+    "name": "Advanced Runestone Picks",
+    "description": "Advanced Runestone Picks.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-312",
+            "name": "Mining Basics"
+        }
+    ]
+}

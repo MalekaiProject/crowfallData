@@ -4,8 +4,8 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-stealther",
-            "name": "Stealther"
+            "id": "trait-dagger-proficiency",
+            "name": "Dagger Proficiency"
         }
     ],
     "icon": "black-mask.png",

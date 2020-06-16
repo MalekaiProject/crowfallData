@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Increases chance for bonus Meat when skinning an Animal.\\n\\nTraits Granted:\\nSpirit Knife Proficiency",
+    "description": "Increases chance for bonus Meat when skinning an Animal.\\n\\nTraits Granted at 5 Pips:\\nAdvanced Runestone Knives",
     "icon": "skill-generic-exploration-307.png",
     "stats": [
         {
@@ -14,7 +14,7 @@
         }
     ],
     "grants": [
-        "equip_harvest_tool_knife"
+        "equip_harvest_tool_knife_spirit"
     ],
     "unlockedFromSkill": [
         {

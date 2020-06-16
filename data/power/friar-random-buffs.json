@@ -1,7 +1,7 @@
 {
     "id": "friar-random-buffs",
     "name": "Fortuitous Blessings",
-    "description": "grants the Seeker's Blessing for movement speed if you have not recently healed, Impoverished Blessing for restoring your Resource over time if you have healed and are low resource and Charitable Blessing for Support Power otherwise.",
+    "description": "periodically grants the Seeker's Blessing for movement speed if you have not recently healed, Impoverished Blessing for restoring your Resource over time if you have healed and are low resource and Charitable Blessing for Support Power otherwise.",
     "shortDescription": "Passive: Periodically gain random buff",
     "icon": "friar-random-buffs.png",
     "stats": {

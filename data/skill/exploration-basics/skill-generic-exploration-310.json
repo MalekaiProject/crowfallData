@@ -1,25 +1,19 @@
 {
     "id": "skill-generic-exploration-310",
-    "name": "Logging Basics",
+    "name": "Stamina",
     "tree": "Exploration Basics",
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Increases chance to harvest Knotwood when logging Knotwood Trees.\\n\\nIncreases the Chance to obtain Heartwood from Trees.\\n\\nTraits Granted:\\nSpirit Axe Proficiency",
+    "description": "Increases Stamina.",
     "icon": "skill-generic-exploration-310.png",
     "stats": [
         {
-            "name": "Plentiful Resources Wood: Knot",
-            "amount": "0.2"
-        },
-        {
-            "name": "Heartwood Harvest Chance: All",
-            "amount": "0.6%"
+            "name": "Stamina",
+            "amount": "1"
         }
     ],
-    "grants": [
-        "equip_harvest_tool_axe_spirit"
-    ],
+    "grants": [],
     "unlockedFromSkill": [
         {
             "skill": "skill-generic-exploration-317",

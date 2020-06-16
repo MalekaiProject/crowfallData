@@ -2,7 +2,7 @@
     "name": "Discipline: Exploration",
     "id": "runecarving-discipline-001",
     "icon": "runecarving-discipline-001.png",
-    "description": "Creates a Major Discipline. The type of Soul used will determine the type of Discipline created.",
+    "description": "Creates an Exploration Discipline. The type of Soul used will determine the type of Discipline created.",
     "outputQuantity": 1,
     "xp": 45,
     "category": "runemaking",

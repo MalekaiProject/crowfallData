@@ -1,0 +1,12 @@
+{
+    "id": "trait-intermediate-runestone-axes",
+    "name": "Intermediate Runestone Axes",
+    "description": "Intermediate Runestone Axes.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-301",
+            "name": "Survival"
+        }
+    ]
+}

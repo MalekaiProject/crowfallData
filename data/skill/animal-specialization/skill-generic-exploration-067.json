@@ -4,7 +4,7 @@
     "tree": "Animal Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 13680,
     "description": "Increases your chance for a Critical Harvest when skinning Carnivore Animals.",
     "icon": "skill-generic-exploration-067.png",
     "stats": [
@@ -21,6 +21,6 @@
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-068"
+        "skill-generic-exploration-405"
     ]
 }

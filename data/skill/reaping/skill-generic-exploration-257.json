@@ -1,22 +1,22 @@
 {
     "id": "skill-generic-exploration-257",
-    "name": "Exceptional Axes",
+    "name": "Plentiful Fibrous Roots",
     "tree": "Reaping",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 5040,
-    "description": "Increases the Damage that Runestone Axes can deal when logging.",
+    "pipAmount": 10800,
+    "description": "Increases the chance for bonus Fibrous Roots when harvesting Plants.",
     "icon": "skill-generic-exploration-257.png",
     "stats": [
         {
-            "name": "Logging",
-            "amount": "1.4"
+            "name": "Harvest Chance: Fibrous Roots",
+            "amount": "1%"
         }
     ],
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-086",
+            "skill": "skill-generic-exploration-309",
             "point": 4
         }
     ],

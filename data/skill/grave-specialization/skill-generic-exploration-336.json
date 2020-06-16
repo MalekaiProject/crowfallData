@@ -4,7 +4,7 @@
     "tree": "Grave Specialization",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
+    "pipAmount": 13680,
     "description": "Increases your chance for a Critical Harvest when digging a Guinecean Grave.",
     "icon": "skill-generic-exploration-336.png",
     "stats": [
@@ -16,11 +16,9 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "skill-generic-exploration-330",
+            "skill": "skill-generic-exploration-354",
             "point": 4
         }
     ],
-    "unlocksSkill": [
-        "skill-generic-exploration-337"
-    ]
+    "unlocksSkill": []
 }

@@ -2,7 +2,7 @@
     "id": "confessor-well-oiled-sandal",
     "name": "Well-Oiled Sandal",
     "class": "confessor",
-    "description": "Well-Oiled Sandal improves Dodge Regen Rate by 10% per point spent.",
+    "description": "Well-Oiled Sandal improves Dodge Regen Rate reducing recovery time by 1 second per point spent.",
     "icon": "well-oiled-sandal.png",
     "maxPoints": 3,
     "pointRequirement": 0,

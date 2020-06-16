@@ -1,7 +1,7 @@
 {
     "id": "cleric-miracle",
     "name": "Miracle",
-    "description": "heals group members and you instantly for 225 - 275 + 100% Support Power, increasing their Critical Strike by 5% for 15 seconds and restoring some of your own Mana. \\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "description": "heals group members and you instantly for 225 - 275 + 100% Support Power, increasing their Critical Strike by 5% for 15 seconds and restoring some of your own Mana. \\n\\nYou gain damage prevention and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
     "shortDescription": "",
     "icon": "cleric-miracle.png",
     "stats": {

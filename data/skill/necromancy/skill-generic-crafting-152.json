@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 95,
     "pipAmount": 40320,
-    "description": "Increases the chance of Experimentation Success, the maximum potential value of Necromancy Assembly, Necromancy Experimentation, and Experimentation Points available  while crafting Necromancy items. Also enhances the power of Buffs that Necromancy Stations grant when they have a Thrall inhabiting them.",
+    "description": "Increases the chance of Experimentation Success, the maximum potential value of Necromancy Assembly, Necromancy Experimentation, and Experimentation Points available  while crafting Necromancy items. Also enhances the power of buffs that Necromancy Stations grant when they have a Thrall inhabiting them.",
     "icon": "skill-generic-crafting-152.png",
     "stats": [
         {

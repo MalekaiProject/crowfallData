@@ -55,20 +55,20 @@
             "name": "Arrows"
         },
         {
-            "id": "trait-basic-bow-proficiency",
-            "name": "Basic Bow Proficiency"
-        },
-        {
             "id": "trait-elemental-arrows",
             "name": "Elemental Arrows"
         },
         {
-            "id": "trait-spellbound-longbow-proficiency",
-            "name": "Spellbound Longbow Proficiency"
-        },
-        {
             "id": "trait-quiver-proficiency",
             "name": "Quiver Proficiency"
+        },
+        {
+            "id": "trait-recurve-bow-proficiency",
+            "name": "Recurve Bow Proficiency"
+        },
+        {
+            "id": "trait-spellbound-bow-proficiency",
+            "name": "Spellbound Bow Proficiency"
         }
     ],
     "description": "The Arcane Archer is one of the most deadly of mystical manipulators. Harnessing the power of the elements allows the archer to root their enemies while also creating protective barriers and enhancing their quickness with an unrivaled adroitness.",

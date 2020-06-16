@@ -17,12 +17,12 @@
             "name": "Recurve Bow Mastery"
         },
         {
-            "id": "trait-spellbound-longbow-mastery",
-            "name": "Spellbound Longbow Mastery"
+            "id": "trait-spellbound-bow-mastery",
+            "name": "Spellbound Bow Mastery"
         },
         {
-            "id": "trait-high-tension-compound-bow-mastery",
-            "name": "High Tension Compound Bow Mastery"
+            "id": "trait-compound-bow-mastery",
+            "name": "Compound Bow Mastery"
         },
         {
             "id": "",

@@ -1,0 +1,12 @@
+{
+    "id": "trait-advanced-runestone-hammers",
+    "name": "Advanced Runestone Hammers",
+    "description": "Advanced Runestone Hammers.\\n\\nYou are proficient with this type of tool.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-311",
+            "name": "Quarrying Basics"
+        }
+    ]
+}

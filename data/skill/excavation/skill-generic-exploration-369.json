@@ -4,8 +4,8 @@
     "tree": "Excavation",
     "maxPoints": 5,
     "pointRequirement": 0,
-    "pipAmount": 10080,
-    "description": "Increases the Chance to obtain Gems from Mother Lodes of Ore.",
+    "pipAmount": 10800,
+    "description": "Increases the chance to obtain Gems from Mother Lodes of Ore.",
     "icon": "skill-generic-exploration-369.png",
     "stats": [
         {
@@ -21,6 +21,6 @@
         }
     ],
     "unlocksSkill": [
-        "skill-generic-exploration-370"
+        "skill-generic-exploration-132"
     ]
 }

@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-173",
+    "name": "Beneficial Harvest Chance: Plant",
+    "tree": "Reaping",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 10800,
+    "description": "Increases chance of a Beneficial Harvest when harvesting any type of Plants.",
+    "icon": "skill-generic-exploration-173.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Chance: Plant",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-361",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-313"
+    ]
+}

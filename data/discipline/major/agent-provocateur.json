@@ -21,7 +21,7 @@
     ],
     "grantsPowers": [
         {
-            "id": "agentprovocateur-caltrops",
+            "id": "agentprovocateur-caltrops-v2",
             "name": "Caltrops",
             "description": "Stealth: Target Area Snare; Pierce Debuff"
         },
