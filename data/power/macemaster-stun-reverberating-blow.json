@@ -1,17 +1,17 @@
 {
     "id": "macemaster-stun-reverberating-blow",
     "name": "Reverberating Blow",
-    "description": "afflicts an enemy with an aura causing other nearby enemies to suffer 26 - 35 + 30% Weapon Damage.",
+    "description": "afflicts an enemy with an aura causing other nearby enemies to suffer 30 + 30% Weapon Damage.",
     "shortDescription": "Attack: Target enemy pulses damaging aura",
     "icon": "macemaster-stun-reverberating-blow.png",
     "stats": {
         "weapon_damage_value": "30",
-        "max_damage_1": "35",
-        "min_damage_1": "26",
+        "max_damage_1": "30",
+        "min_damage_1": "30",
         "cost_type": "Resource",
-        "cost": "19",
+        "cost": "12",
         "range": "6",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "24",
         "target": "Cone",
         "cast_time": "Instant"

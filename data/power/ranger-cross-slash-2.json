@@ -1,13 +1,13 @@
 {
     "id": "ranger-cross-slash-2",
     "name": "Cross Slash",
-    "description": "slashes in front of you for 86 - 116 + 101% Weapon Damage. Applies a Moderate Bleed effect.",
+    "description": "slashes in front of you for 101 + 101% Weapon Damage. Applies a Moderate Bleed effect.",
     "shortDescription": "",
     "icon": "ranger-cross-slash-2.png",
     "stats": {
         "weapon_damage_value": "101",
-        "max_damage_1": "116",
-        "min_damage_1": "86",
+        "max_damage_1": "101",
+        "min_damage_1": "101",
         "cost_type": "Energy",
         "cost": "131",
         "range": "6",

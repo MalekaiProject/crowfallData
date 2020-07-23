@@ -1,15 +1,17 @@
 {
     "id": "myrmidon-raging-bull",
     "name": "Raging Bull",
-    "description": "flings enemies away from you causing 39 - 48 + 44% Weapon Damage to nearby enemies. \\n\\nYou gain damage prevention, become immune to control effects and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
+    "description": "flings enemies away from you causing 44 + 44% Weapon Damage to nearby enemies. \\n\\nYou gain damage prevention, become immune to control effects and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
     "shortDescription": "",
     "icon": "myrmidon-raging-bull.png",
     "stats": {
         "weapon_damage_value": "44",
-        "max_damage_1": "48",
-        "min_damage_1": "39",
+        "max_damage_1": "44",
+        "min_damage_1": "44",
+        "cost_type": "Soul Power",
+        "cost": "1000",
         "range": "5",
-        "max_targets": "5",
+        "max_targets": "3",
         "target": "Cone",
         "cast_time": "Instant"
     },

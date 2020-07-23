@@ -1,13 +1,13 @@
 {
     "id": "standardbearer-misc-buff",
     "name": "Rallying Banner",
-    "description": "fortifies nearby group members with a banner increasing Attack Power by 100, healing those under 35% Health for 38 - 46 + 16.8% Support Power per second and removing Slow effects.",
+    "description": "fortifies nearby group members with a banner increasing Attack Power by 100, healing those under 35% Health for 42 + 16.8% Support Power per second and removing Slow effects.",
     "shortDescription": "Group Attack Power; Rescue Healing; Slow Cleanse",
     "icon": "standardbearer-misc-buff.png",
     "stats": {
         "weapon_damage_value": "16.8",
-        "max_damage_1": "46",
-        "min_damage_1": "38",
+        "max_damage_1": "42",
+        "min_damage_1": "42",
         "duration": "30 seconds",
         "cost_type": "Resource",
         "cost": "16",

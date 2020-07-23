@@ -1,13 +1,13 @@
 {
     "id": "knight-noble-blood",
     "name": "Noble Blood",
-    "description": "deals 60 - 81 + 70% Weapon Damage to enemies in a cone. You gain a Barrier lasting up to 15 seconds.",
+    "description": "deals 70 + 70% Weapon Damage to enemies in a cone. You gain a Barrier lasting up to 15 seconds.",
     "shortDescription": "",
     "icon": "knight-noble-blood.png",
     "stats": {
         "weapon_damage_value": "70",
-        "max_damage_1": "81",
-        "min_damage_1": "60",
+        "max_damage_1": "70",
+        "min_damage_1": "70",
         "buff_type_1": "Absorption Barrier",
         "range": "5",
         "max_targets": "3",

@@ -1,18 +1,18 @@
 {
     "id": "ranger-trap-faerie-melee",
     "name": "Faerie Trap",
-    "description": "places a faerie trap at your feet which explodes when an enemy approaches it dealing 57 - 77 + 67% Weapon Damage as Nature Damage./n/nLines all enemies damaged with Faerie Fire, increasing their chance to be Critically Hit by 8% and preventing them from entering Stealth for 30 seconds.\\n\\nAdditionally a Barrier is applied to you for each enemy damaged./n/nTrap will exist for 60 seconds.",
+    "description": "places a faerie trap at your feet which explodes when an enemy approaches it dealing 67 + 67% Weapon Damage as Nature Damage./n/nLines all enemies damaged with Faerie Fire, increasing their chance to be Critically Hit by 8% and preventing them from entering Stealth for 30 seconds.\\n\\nAdditionally a Barrier is applied to you for each enemy damaged./n/nTrap will exist for 60 seconds.",
     "shortDescription": "",
     "icon": "ranger-trap-faerie-melee.png",
     "stats": {
         "weapon_damage_type": "Nature",
         "weapon_damage_value": "67",
-        "max_damage_1": "77",
-        "min_damage_1": "57",
+        "max_damage_1": "67",
+        "min_damage_1": "67",
         "duration": "60 seconds",
         "cost_type": "Energy",
         "cost": "178",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "45",
         "target": "Area",
         "cast_time": "Instant"

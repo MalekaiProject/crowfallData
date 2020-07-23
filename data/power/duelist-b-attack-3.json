@@ -1,13 +1,13 @@
 {
     "id": "duelist-b-attack-3",
     "name": "Swift Swings",
-    "description": "attacks for 65 - 97 + 81% Weapon Damage.",
+    "description": "attacks for 81 + 81% Weapon Damage.",
     "shortDescription": "",
     "icon": "duelist-b-attack-3.png",
     "stats": {
         "weapon_damage_value": "81",
-        "max_damage_1": "97",
-        "min_damage_1": "65",
+        "max_damage_1": "81",
+        "min_damage_1": "81",
         "range": "6",
         "max_targets": "1",
         "target": "Cone",

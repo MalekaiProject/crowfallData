@@ -1,13 +1,13 @@
 {
     "id": "myrmidon-cast-net",
     "name": "Cast Net",
-    "description": "flings a net at your target rooting them in place and inflicting 83 - 102 + 93% Weapon Damage.",
+    "description": "flings a net at your target rooting them in place and inflicting 93 + 93% Weapon Damage.",
     "shortDescription": "",
     "icon": "myrmidon-cast-net.png",
     "stats": {
         "weapon_damage_value": "93",
-        "max_damage_1": "102",
-        "min_damage_1": "83",
+        "max_damage_1": "93",
+        "min_damage_1": "93",
         "cost_type": "Fury",
         "cost": "17",
         "range": "30",

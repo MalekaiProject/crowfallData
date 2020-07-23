@@ -5,8 +5,8 @@
     "shortDescription": "Ground Target Area: Healing",
     "icon": "naiad-fountain.png",
     "stats": {
-        "weapon_damage_value": "31",
-        "max_damage_1": "25",
+        "weapon_damage_value": "28",
+        "max_damage_1": "28",
         "buff_amount_1": "30",
         "duration": "15 seconds",
         "cost_type": "Resource",

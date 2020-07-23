@@ -1,12 +1,14 @@
 {
     "id": "assassin-dodge",
     "name": "Dodge",
-    "description": "swoops you 13 meters in your WASD direction.",
+    "description": "swoops you 10 meters in your WASD direction.",
     "shortDescription": "Dash in a WASD direction",
     "icon": "assassin-dodge.png",
     "stats": {
-        "range": "13",
-        "cooldown": "15",
+        "cost_type": "Dodge",
+        "cost": "1",
+        "range": "10",
+        "cooldown": "11",
         "target": "Self",
         "cast_time": "Instant"
     },

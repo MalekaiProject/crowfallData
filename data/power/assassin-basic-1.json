@@ -1,13 +1,13 @@
 {
     "id": "assassin-basic-1",
     "name": "Swift Cut",
-    "description": "jabs for 44 - 66 + 55% Weapon Damage.\\n\\nGenerates 1 Pip.",
+    "description": "jabs for 55 + 55% Weapon Damage.\\n\\nGenerates 1 Pip.",
     "shortDescription": "",
     "icon": "assassin-basic-1.png",
     "stats": {
         "weapon_damage_value": "55",
-        "max_damage_1": "66",
-        "min_damage_1": "44",
+        "max_damage_1": "55",
+        "min_damage_1": "55",
         "range": "6",
         "max_targets": "1",
         "target": "Reticle",

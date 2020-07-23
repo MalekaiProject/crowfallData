@@ -1,13 +1,13 @@
 {
     "id": "assassin-basic-3",
     "name": "Deadly Overhead",
-    "description": "jabs for 59 - 89 + 74% Weapon Damage.\\n\\nGenerates 1 Pip.",
+    "description": "jabs for 74 + 74% Weapon Damage.\\n\\nGenerates 1 Pip.",
     "shortDescription": "",
     "icon": "assassin-basic-3.png",
     "stats": {
         "weapon_damage_value": "74",
-        "max_damage_1": "89",
-        "min_damage_1": "59",
+        "max_damage_1": "74",
+        "min_damage_1": "74",
         "range": "6",
         "max_targets": "1",
         "target": "Reticle",

@@ -9,6 +9,10 @@
             "name": "Assassin"
         },
         {
+            "id": "frostweaver",
+            "name": "Frostweaver"
+        },
+        {
             "id": "duelist",
             "name": "Duelist"
         }

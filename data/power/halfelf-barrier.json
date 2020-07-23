@@ -15,7 +15,7 @@
     "lastChain": [],
     "inSpellbook": true,
     "isGroupPower": false,
-    "isBeneficial": false,
+    "isBeneficial": true,
     "isHeal": false,
     "isBuff": false,
     "tags": [

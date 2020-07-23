@@ -1,13 +1,13 @@
 {
     "id": "frst-basic-1",
     "name": "Quick Cast",
-    "description": "casts ice at an enemy for 67 - 100 + 83% Weapon Damage.",
+    "description": "casts ice at an enemy for 83 + 83% Weapon Damage.",
     "shortDescription": "",
     "icon": "frst-basic-1.png",
     "stats": {
         "weapon_damage_value": "83",
-        "max_damage_1": "100",
-        "min_damage_1": "67",
+        "max_damage_1": "83",
+        "min_damage_1": "83",
         "cost_type": "Mana",
         "cost": "13",
         "range": "30",

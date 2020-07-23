@@ -1,13 +1,13 @@
 {
     "id": "confessor-flamesoftruth-2",
     "name": "Forced Confession",
-    "description": "consumes the Flames of Truth applied to your target, causing an explosion that deals 47 - 71 + 59% Weapon Damage and leaves your target Stunned.",
+    "description": "consumes the Flames of Truth applied to your target, causing an explosion that deals 59 + 59% Weapon Damage and leaves your target Stunned.",
     "shortDescription": "",
     "icon": "confessor-flamesoftruth-2.png",
     "stats": {
         "weapon_damage_value": "59",
-        "max_damage_1": "71",
-        "min_damage_1": "47",
+        "max_damage_1": "59",
+        "min_damage_1": "59",
         "cost_type": "Mana",
         "cost": "55",
         "range": "25",

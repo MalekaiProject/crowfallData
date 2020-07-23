@@ -1,13 +1,13 @@
 {
     "id": "myrmidon-bloodied-swipe-2b",
     "name": "Colossus Smash",
-    "description": "lunges you up to 20m toward an enemy and strikes with both axes stunning them and causing 173 - 212 + 192% Weapon Damage.",
+    "description": "lunges you up to 20m toward an enemy and strikes with both axes stunning them and causing 192 + 192% Weapon Damage.",
     "shortDescription": "",
     "icon": "myrmidon-bloodied-swipe-2b.png",
     "stats": {
         "weapon_damage_value": "192",
-        "max_damage_1": "212",
-        "min_damage_1": "173",
+        "max_damage_1": "192",
+        "min_damage_1": "192",
         "cost_type": "Fury",
         "cost": "31",
         "range": "6",

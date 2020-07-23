@@ -1,13 +1,13 @@
 {
     "id": "ranger-stealth-ambush",
     "name": "Ambush",
-    "description": "delivers a lethal surprise attack from the shadows causing 193 - 261 + 227% Weapon Damage.",
+    "description": "delivers a lethal surprise attack from the shadows causing 227 + 227% Weapon Damage.",
     "shortDescription": "",
     "icon": "ranger-stealth-ambush.png",
     "stats": {
         "weapon_damage_value": "227",
-        "max_damage_1": "261",
-        "min_damage_1": "193",
+        "max_damage_1": "227",
+        "min_damage_1": "227",
         "range": "6",
         "max_targets": "1",
         "cooldown": "9",

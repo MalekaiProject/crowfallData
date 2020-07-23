@@ -1,15 +1,13 @@
 {
     "id": "bowmaster-multishot",
     "name": "Multi-Shot",
-    "description": "launches three arrows at once striking enemies in a cone for 77 - 105 + 91% Weapon Damage.\\n\\nThis power's Maximum Range cannot be modified.",
+    "description": "launches three arrows at once striking enemies in a cone for 91 + 91% Weapon Damage.\\n\\nThis power's Maximum Range cannot be modified.",
     "shortDescription": "Attack: Cone damage three enemies",
     "icon": "bowmaster-multishot.png",
     "stats": {
         "weapon_damage_value": "91",
-        "max_damage_1": "105",
-        "min_damage_1": "77",
-        "cost_type": "Resource",
-        "cost": "21",
+        "max_damage_1": "91",
+        "min_damage_1": "91",
         "range": "30",
         "max_targets": "3",
         "cooldown": "9",

@@ -6,8 +6,8 @@
     "icon": "health-orbs-on-damage.png",
     "stats": {
         "weapon_damage_value": "448",
-        "max_damage_1": "123",
-        "min_damage_1": "101",
+        "max_damage_1": "112",
+        "min_damage_1": "112",
         "duration": "60 seconds",
         "target": "Self",
         "cast_time": "Passive"

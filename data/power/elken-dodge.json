@@ -8,6 +8,7 @@
         "cost_type": "Dodge",
         "cost": "1",
         "range": "10",
+        "cooldown": "11",
         "target": "Self",
         "cast_time": "Instant"
     },

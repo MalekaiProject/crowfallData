@@ -6,10 +6,10 @@
     "icon": "druid-z-shroud-darkness.png",
     "stats": {
         "weapon_damage_value": "119",
-        "max_damage_1": "143",
-        "min_damage_1": "96",
+        "max_damage_1": "119",
+        "min_damage_1": "119",
         "cost_type": "Essence",
-        "cost": "31",
+        "cost": "14",
         "cooldown": "45",
         "target": "Self",
         "cast_time": "Instant"

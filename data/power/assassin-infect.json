@@ -6,8 +6,8 @@
     "icon": "assassin-infect.png",
     "stats": {
         "weapon_damage_value": "140",
-        "max_damage_1": "168",
-        "min_damage_1": "112",
+        "max_damage_1": "140",
+        "min_damage_1": "140",
         "cost_type": "Pips",
         "cost": "1",
         "range": "6",

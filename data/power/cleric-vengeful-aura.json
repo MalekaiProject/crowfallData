@@ -5,8 +5,6 @@
     "shortDescription": "",
     "icon": "cleric-vengeful-aura.png",
     "stats": {
-        "cost_type": "Mana",
-        "cost": "175",
         "range": "50",
         "max_targets": "5",
         "target": "Group",

@@ -1,13 +1,13 @@
 {
     "id": "assassin-disengage",
     "name": "Disengage",
-    "description": "dashes you backward 16m with an attack generating a Pip and causing 86 - 129 + 108% Weapon Damage.",
+    "description": "dashes you backward 16m with an attack generating a Pip and causing 108 + 108% Weapon Damage.",
     "shortDescription": "",
     "icon": "assassin-disengage.png",
     "stats": {
         "weapon_damage_value": "108",
-        "max_damage_1": "129",
-        "min_damage_1": "86",
+        "max_damage_1": "108",
+        "min_damage_1": "108",
         "range": "16",
         "max_targets": "1",
         "cooldown": "9",

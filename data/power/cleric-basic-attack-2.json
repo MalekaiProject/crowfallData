@@ -1,13 +1,13 @@
 {
     "id": "cleric-basic-attack-2",
     "name": "Holy Hammer",
-    "description": "hurls a spirit hammer at your reticle target for 73 - 89 + 81% Weapon Damage.",
+    "description": "hurls a spirit hammer at your reticle target for 81 + 81% Weapon Damage.",
     "shortDescription": "",
     "icon": "cleric-basic-attack-2.png",
     "stats": {
         "weapon_damage_value": "81",
-        "max_damage_1": "89",
-        "min_damage_1": "73",
+        "max_damage_1": "81",
+        "min_damage_1": "81",
         "cost": "12",
         "range": "20",
         "max_targets": "1",

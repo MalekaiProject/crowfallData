@@ -1,17 +1,17 @@
 {
     "id": "sharpshooter-ricochet-shot",
     "name": "Ricochet Shot",
-    "description": "fires an arrow that can ricochet to strike up to four additional nearby enemies for 65 - 89 + 77% Weapon Damage and has a 100% Critical Strike modifier after the second ricochet.",
+    "description": "fires an arrow that can ricochet to strike up to four additional nearby enemies for 77 + 77% Weapon Damage and has a 100% Critical Strike modifier after the second ricochet.",
     "shortDescription": "Attack: Multiple Enemies; Buff Critical Strike",
     "icon": "sharpshooter-ricochet-shot.png",
     "stats": {
         "weapon_damage_value": "77",
-        "max_damage_1": "89",
-        "min_damage_1": "65",
-        "cost_type": "Resource",
-        "cost": "18",
+        "max_damage_1": "77",
+        "min_damage_1": "77",
+        "cost_type": "Arrow",
+        "cost": "1",
         "range": "15",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "9",
         "target": "Reticle",
         "cast_time": "Instant"

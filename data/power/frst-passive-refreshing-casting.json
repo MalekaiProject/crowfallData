@@ -1,13 +1,13 @@
 {
     "id": "frst-passive-refreshing-casting",
     "name": "Refreshing Focus",
-    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Refreshing Ice near your target.\\n\\nRefreshing Ice quickly bursts healing allies within 10m for 35 - 43 + 157% Support Power.",
+    "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Refreshing Ice near your target.\\n\\nRefreshing Ice quickly bursts healing allies within 10m for 39 + 157% Support Power.",
     "shortDescription": "",
     "icon": "frst-passive-refreshing-casting.png",
     "stats": {
         "weapon_damage_2_value": "157",
-        "max_damage_2": "43",
-        "min_damage_2": "35",
+        "max_damage_2": "39",
+        "min_damage_2": "39",
         "target": "Self",
         "cast_time": "Passive"
     },

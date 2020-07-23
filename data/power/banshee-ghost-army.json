@@ -1,19 +1,19 @@
 {
     "id": "banshee-ghost-army",
     "name": "Ghost Army",
-    "description": "calls forth a Ghost Army in front of you dealing 60 - 81 + 70% Weapon Damage and applies a Haunt buff that heals 12.5% of the Damage dealt by Ghost Army when it expires.",
+    "description": "calls forth a Ghost Army in front of you dealing 70 + 70% Weapon Damage and applies a Haunt buff that heals 12.5% of the Damage dealt by Ghost Army when it expires.",
     "shortDescription": "Attack: Damage Multiple Enemies; Healing",
     "icon": "banshee-ghost-army.png",
     "stats": {
         "weapon_damage_type": "Nature",
         "weapon_damage_value": "70",
-        "max_damage_1": "81",
-        "min_damage_1": "60",
+        "max_damage_1": "70",
+        "min_damage_1": "70",
         "buff_amount_1": "50%",
         "duration": "5 seconds",
         "cost_type": "Resource",
         "cost": "16",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "23",
         "target": "Rectangle",
         "cast_time": "Hold Channeled"

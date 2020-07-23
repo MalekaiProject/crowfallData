@@ -1,18 +1,18 @@
 {
     "id": "ranger-trap-stun-melee",
     "name": "Concussive Trap",
-    "description": "places a concussive trap at your feet which explodes when an enemy approaches it dealing 57 - 77 + 67% Weapon Damage as Crushing Damage./n/nAll targets hit are stunned./n/nTrap will exist for 60 seconds.",
+    "description": "places a concussive trap at your feet which explodes when an enemy approaches it dealing 67 + 67% Weapon Damage as Crushing Damage./n/nAll targets hit are stunned./n/nTrap will exist for 60 seconds.",
     "shortDescription": "",
     "icon": "ranger-trap-stun-melee.png",
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "67",
-        "max_damage_1": "77",
-        "min_damage_1": "57",
+        "max_damage_1": "67",
+        "min_damage_1": "67",
         "duration": "60 seconds",
         "cost_type": "Energy",
         "cost": "178",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "30",
         "target": "Area",
         "cast_time": "Instant"

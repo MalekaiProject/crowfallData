@@ -1,19 +1,17 @@
 {
     "id": "ranger-dagger-spin-4",
     "name": "Dagger Spin",
-    "description": "spins you in place and deal 57 - 77 + 67% Weapon Damage around you.",
+    "description": "spins you in place and deal 67 + 67% Weapon Damage around you.",
     "shortDescription": "",
     "icon": "ranger-dagger-spin-4.png",
     "stats": {
         "weapon_damage_value": "67",
-        "max_damage_1": "77",
-        "min_damage_1": "57",
+        "max_damage_1": "67",
+        "min_damage_1": "67",
         "buff_amount_1": "60%",
         "buff_type_1": "Lifesteal Bonus",
-        "cost_type": "Energy",
-        "cost": "0",
         "range": "6",
-        "max_targets": "5",
+        "max_targets": "3",
         "target": "Sphere",
         "cast_time": "Instant"
     },

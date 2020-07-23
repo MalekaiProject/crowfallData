@@ -1,17 +1,18 @@
 {
     "id": "legionnaire-dodge",
     "name": "Dash",
-    "description": "dashes 20 meters in your WASD direction at the cost of one Dodge pip and causing 41 - 50 + 46% Weapon Damage to nearby enemies where you stop.",
+    "description": "dashes 20 meters in your WASD direction at the cost of one Dodge pip and causing 46 + 46% Weapon Damage to nearby enemies where you stop.",
     "shortDescription": "Dash in a WASD direction",
     "icon": "legionnaire-dodge.png",
     "stats": {
         "weapon_damage_value": "46",
-        "max_damage_1": "50",
-        "min_damage_1": "41",
+        "max_damage_1": "46",
+        "min_damage_1": "46",
         "cost_type": "Dodge",
         "cost": "1",
         "range": "20",
-        "max_targets": "5",
+        "max_targets": "3",
+        "cooldown": "22",
         "target": "Self",
         "cast_time": "Instant"
     },

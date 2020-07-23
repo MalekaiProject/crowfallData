@@ -1,14 +1,15 @@
 {
     "id": "confessor-b-attack-3",
     "name": "Righteous Conflagration",
-    "description": "shoots a fireball, causing 115 - 172 + 144%  Fire Weapon Damage and applying Sin to your target.",
+    "description": "shoots a fireball, causing 144 + 144%  Fire Weapon Damage and applying Sin to your target.",
     "shortDescription": "",
     "icon": "confessor-b-attack-3.png",
     "stats": {
         "weapon_damage_type": "Fire",
         "weapon_damage_value": "144",
-        "max_damage_1": "172",
-        "min_damage_1": "115",
+        "max_damage_1": "144",
+        "min_damage_1": "144",
+        "cost_type": "Mana",
         "cost": "45",
         "range": "25",
         "max_targets": "1",

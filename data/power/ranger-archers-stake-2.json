@@ -6,8 +6,8 @@
     "icon": "ranger-archers-stake-2.png",
     "stats": {
         "weapon_damage_value": "267",
-        "max_damage_1": "307",
-        "min_damage_1": "227",
+        "max_damage_1": "267",
+        "min_damage_1": "267",
         "buff_amount_1": "100",
         "buff_type_1": "Attack Power",
         "duration": "30 seconds",

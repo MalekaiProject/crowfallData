@@ -1,13 +1,13 @@
 {
     "id": "assassin-stealth-cheap-shot",
     "name": "Cheap Shot",
-    "description": "waylays an enemy from stealth causing 20 - 30 + 25% Weapon Damage, stunning them for 5 seconds if they are Exposed or 3 seconds otherwise, and generating Pips. This stun is unaffected by the target's Resolve or any Stun duration reducing skills.",
+    "description": "waylays an enemy from stealth causing 25 + 25% Weapon Damage, stunning them for 5 seconds if they are Exposed or 3 seconds otherwise, and generating Pips. This stun is unaffected by the target's Resolve or any Stun duration reducing skills.",
     "shortDescription": "",
     "icon": "assassin-stealth-cheap-shot.png",
     "stats": {
         "weapon_damage_value": "25",
-        "max_damage_1": "30",
-        "min_damage_1": "20",
+        "max_damage_1": "25",
+        "min_damage_1": "25",
         "range": "6",
         "max_targets": "1",
         "cooldown": "9",

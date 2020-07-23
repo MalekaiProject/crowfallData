@@ -1,13 +1,13 @@
 {
     "id": "shieldfighter-brutal-slam",
     "name": "Brutal Slam",
-    "description": "strikes with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Mitigation by 20.",
+    "description": "strikes with your shield for 133 + 133% Weapon Damage and lower their Physical Mitigation by 20.",
     "shortDescription": "Attack: Reduce enemy Physical Mitigation",
     "icon": "shieldfighter-brutal-slam.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "buff_amount_1": "20",
         "buff_type_1": "Physical Resistance",
         "cost_type": "Resource",

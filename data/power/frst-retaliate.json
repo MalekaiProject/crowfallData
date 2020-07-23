@@ -1,15 +1,17 @@
 {
     "id": "frst-retaliate",
     "name": "Retaliate",
-    "description": "returns you to your feet, dealing 107 - 160 + 133% Weapon Damage to nearby enemies and increases your Ice Stores by one. If your Ice Stores are full, Stable Ice is created nearby.\\n\\nStable Ice is harmless and visible only to you. It can be picked up and added automatically to your Ice Stores. If your Ice Stores are full, Stable Ice is consumed on contact to restore 50 Mana.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
+    "description": "returns you to your feet, dealing 133 + 133% Weapon Damage to nearby enemies and increases your Ice Stores by one. If your Ice Stores are full, Stable Ice is created nearby.\\n\\nStable Ice is harmless and visible only to you. It can be picked up and added automatically to your Ice Stores. If your Ice Stores are full, Stable Ice is consumed on contact to restore 50 Mana.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
     "shortDescription": "",
     "icon": "frst-retaliate.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "160",
-        "min_damage_1": "107",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "cost_type": "Stamina",
+        "cost": "65",
         "range": "5",
-        "max_targets": "1",
+        "max_targets": "3",
         "target": "Reticle",
         "cast_time": "Instant"
     },

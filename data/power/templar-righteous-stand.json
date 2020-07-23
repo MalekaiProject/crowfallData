@@ -6,8 +6,8 @@
     "icon": "templar-righteous-stand.png",
     "stats": {
         "weapon_damage_value": "264",
-        "max_damage_1": "317",
-        "min_damage_1": "211",
+        "max_damage_1": "264",
+        "min_damage_1": "264",
         "cost_type": "Righteousness",
         "cost": "1",
         "target": "Self",

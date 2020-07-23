@@ -1,13 +1,13 @@
 {
     "id": "myrmidon-net-pull",
     "name": "Net Pull",
-    "description": "pulls your target toward you inflicting 95 - 116 + 106% Weapon Damage.",
+    "description": "pulls your target toward you inflicting 106 + 106% Weapon Damage.",
     "shortDescription": "",
     "icon": "myrmidon-net-pull.png",
     "stats": {
         "weapon_damage_value": "106",
-        "max_damage_1": "116",
-        "min_damage_1": "95",
+        "max_damage_1": "106",
+        "min_damage_1": "106",
         "cost_type": "Fury",
         "cost": "17",
         "range": "30",

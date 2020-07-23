@@ -1,13 +1,13 @@
 {
     "id": "escapeartist-speedy-retaliate",
     "name": "Speedy Retaliate",
-    "description": "regains your senses recovering immediately from Knockdown or Stun effects with an attack inflicting 113 - 153 + 133% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds.",
+    "description": "regains your senses recovering immediately from Knockdown or Stun effects with an attack inflicting 133 + 133% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds.",
     "shortDescription": "Retaliate with Movement Speed Bonus",
     "icon": "escapeartist-speedy-retaliate.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "buff_amount_1": "30%",
         "buff_type_1": "Movement Speed",
         "duration": "8 seconds",

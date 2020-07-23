@@ -1,13 +1,13 @@
 {
     "id": "champion-b-attack-1",
     "name": "Strong Swing",
-    "description": "strikes in front of you for 85 - 115 + 100% Weapon Damage, generating 4 Rage if you hit.",
+    "description": "strikes in front of you for 100 + 100% Weapon Damage, generating 4 Rage if you hit.",
     "shortDescription": "",
     "icon": "champion-b-attack-1.png",
     "stats": {
         "weapon_damage_value": "100",
-        "max_damage_1": "115",
-        "min_damage_1": "85",
+        "max_damage_1": "100",
+        "min_damage_1": "100",
         "restore_type": "Rage",
         "restore": "4",
         "range": "6",

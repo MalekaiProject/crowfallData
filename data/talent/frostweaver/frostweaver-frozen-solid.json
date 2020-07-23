@@ -2,7 +2,7 @@
     "id": "frostweaver-frozen-solid",
     "name": "Frozen Solid",
     "class": "frostweaver",
-    "description": "Frozen Solid enhances your Frost Armor so that it remains functional with as many as five Ice Armor Cracks and these may only form once every 2 seconds.",
+    "description": "Frozen Solid enhances your Frost Armor so that it remains functional with as many as four Ice Armor Cracks and these may only form once every 1.5 seconds.",
     "icon": "frozen-solid.png",
     "maxPoints": 1,
     "pointRequirement": 0,

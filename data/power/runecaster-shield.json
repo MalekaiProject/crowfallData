@@ -6,8 +6,8 @@
     "icon": "runecaster-shield.png",
     "stats": {
         "weapon_damage_value": "100",
-        "max_damage_1": "115",
-        "min_damage_1": "85",
+        "max_damage_1": "100",
+        "min_damage_1": "100",
         "buff_amount_1": "20",
         "buff_type_1": "Elemental Resistance",
         "cost_type": "Resource",

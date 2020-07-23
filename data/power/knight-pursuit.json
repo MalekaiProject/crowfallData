@@ -7,8 +7,8 @@
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "140",
-        "max_damage_1": "161",
-        "min_damage_1": "119",
+        "max_damage_1": "140",
+        "min_damage_1": "140",
         "buff_amount_1": "100%",
         "buff_type_1": "Movement Speed Modifier",
         "duration": "3 seconds",

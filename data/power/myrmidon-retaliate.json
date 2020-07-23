@@ -1,13 +1,13 @@
 {
     "id": "myrmidon-retaliate",
     "name": "Retaliate",
-    "description": "returns you to your feet, dealing 39 - 48 + 44% Weapon Damage to nearby enemies.",
+    "description": "returns you to your feet, dealing 44 + 44% Weapon Damage to nearby enemies.",
     "shortDescription": "",
     "icon": "myrmidon-retaliate.png",
     "stats": {
         "weapon_damage_value": "44",
-        "max_damage_1": "48",
-        "min_damage_1": "39",
+        "max_damage_1": "44",
+        "min_damage_1": "44",
         "cost_type": "Stamina",
         "cost": "65",
         "range": "6",

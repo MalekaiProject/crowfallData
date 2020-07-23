@@ -6,11 +6,11 @@
     "icon": "holyavenger-suns-of-worvan.png",
     "stats": {
         "weapon_damage_value": "107",
-        "max_damage_1": "123",
-        "min_damage_1": "91",
+        "max_damage_1": "107",
+        "min_damage_1": "107",
         "duration": "15 seconds",
         "cost_type": "Resource",
-        "cost": "13",
+        "cost": "12",
         "cooldown": "23",
         "target": "Self",
         "cast_time": "Instant"

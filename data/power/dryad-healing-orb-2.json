@@ -1,13 +1,15 @@
 {
     "id": "dryad-healing-orb-2",
     "name": "Form Life II",
-    "description": "manifests an Orb at your targeted location that allies or you may use to heal 39 to 48 + 17.3% Support Power.",
+    "description": "manifests an Orb at your targeted location that allies or you may use to heal 43 to 43 + 17.3% Support Power.",
     "shortDescription": "",
     "icon": "dryad-healing-orb-2.png",
     "stats": {
         "weapon_damage_value": "17.3",
-        "max_damage_1": "48",
-        "min_damage_1": "39",
+        "max_damage_1": "43",
+        "min_damage_1": "43",
+        "cost_type": "Resource",
+        "cost": "21",
         "range": "35",
         "max_targets": "1",
         "target": "Area",

@@ -7,8 +7,8 @@
     "stats": {
         "weapon_damage_type": "Holy",
         "weapon_damage_value": "133",
-        "max_damage_1": "160",
-        "min_damage_1": "107",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "duration": "15 seconds",
         "cost_type": "Zealotry",
         "cost": "1000",

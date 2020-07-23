@@ -1,16 +1,16 @@
 {
     "id": "confessor-hellfire-2b",
     "name": "Hellfire Aura",
-    "description": "consumes your Hellfire Shield to surrounding you in a pulsing Hellfire Aura that damages enemies within 4m 23 - 28 Weapon Damage twice a second.",
+    "description": "consumes your Hellfire Shield to surrounding you in a pulsing Hellfire Aura that damages enemies within 4m 25 Weapon Damage twice a second.",
     "shortDescription": "",
     "icon": "confessor-hellfire-2b.png",
     "stats": {
-        "max_damage_1": "28",
-        "min_damage_1": "23",
+        "max_damage_1": "25",
+        "min_damage_1": "25",
         "duration": "10 seconds",
         "cost_type": "Mana",
         "cost": "80",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "15",
         "target": "Sphere",
         "cast_time": "Instant"

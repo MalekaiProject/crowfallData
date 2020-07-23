@@ -1,13 +1,13 @@
 {
     "id": "ranger-twin-surge",
     "name": "Twin Surge",
-    "description": "slashes in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.",
+    "description": "slashes in front of you with both blades dealing 67 + 67% Weapon Damage twice.",
     "shortDescription": "",
     "icon": "ranger-twin-surge.png",
     "stats": {
         "weapon_damage_value": "67",
-        "max_damage_1": "77",
-        "min_damage_1": "57",
+        "max_damage_1": "67",
+        "min_damage_1": "67",
         "restore_type": "Stamina",
         "restore": "150",
         "cost_type": "Energy",

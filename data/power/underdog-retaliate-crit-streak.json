@@ -6,13 +6,11 @@
     "icon": "underdog-retaliate-crit-streak.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "buff_amount_1": "50",
         "buff_type_1": "Critical Strike",
         "duration": "30 seconds",
-        "cost_type": "Resource",
-        "cost": "16",
         "target": "Self",
         "cast_time": "Passive"
     },

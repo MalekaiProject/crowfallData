@@ -1,14 +1,14 @@
 {
     "id": "focusmaster-mind-revenge",
     "name": "Wreckoning",
-    "description": "empowers your barriers to explode when they expire wrecking nearby enemies for 56 - 84 + 70% Weapon Damage.",
+    "description": "empowers your barriers to explode when they expire wrecking nearby enemies for 70 + 70% Weapon Damage.",
     "shortDescription": "Passive: Area Damage when Barrier Removed",
     "icon": "focusmaster-mind-revenge.png",
     "stats": {
         "weapon_damage_value": "70",
-        "max_damage_1": "84",
-        "min_damage_1": "56",
-        "max_targets": "5",
+        "max_damage_1": "70",
+        "min_damage_1": "70",
+        "max_targets": "3",
         "target": "Self",
         "cast_time": "Passive"
     },

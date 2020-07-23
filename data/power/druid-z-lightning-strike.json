@@ -1,18 +1,18 @@
 {
     "id": "druid-z-lightning-strike",
     "name": "Lightning Strike",
-    "description": "strikes enemies with lightning for 207 - 311 + 259% Weapon Damage as Electricity Damage, while also Dazing them.",
+    "description": "strikes enemies with lightning for 259 + 259% Weapon Damage as Electricity Damage, while also Dazing them.",
     "shortDescription": "",
     "icon": "druid-z-lightning-strike.png",
     "stats": {
         "weapon_damage_type": "Electricity",
         "weapon_damage_value": "259",
-        "max_damage_1": "311",
-        "min_damage_1": "207",
+        "max_damage_1": "259",
+        "min_damage_1": "259",
         "cost_type": "Essence",
-        "cost": "46",
+        "cost": "21",
         "range": "35",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "24",
         "target": "Ray",
         "cast_time": "Instant"

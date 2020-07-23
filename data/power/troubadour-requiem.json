@@ -1,7 +1,7 @@
 {
     "id": "troubadour-requiem",
     "name": "Requiem",
-    "description": "sings for 12 seconds increasing Damage Taken by 15% for up to 5 enemies within 5 meters.\\n\\nType 2 Song.",
+    "description": "sings for 12 seconds increasing Damage Taken by 15% for up to 3 enemies within 5 meters.\\n\\nType 2 Song.",
     "shortDescription": "Song: Increase Enemy Damage Taken",
     "icon": "troubadour-requiem.png",
     "stats": {
@@ -9,7 +9,7 @@
         "buff_type_1": "Damage Taken",
         "duration": "12 seconds",
         "range": "5",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "1",
         "target": "Point Blank Area",
         "cast_time": "2 Seconds"

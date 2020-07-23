@@ -1,13 +1,13 @@
 {
     "id": "frst-basic-3",
     "name": "Spiral Cast",
-    "description": "casts ice at an enemy for 120 - 180 + 150% Weapon Damage.",
+    "description": "casts ice at an enemy for 150 + 150% Weapon Damage.",
     "shortDescription": "",
     "icon": "frst-basic-3.png",
     "stats": {
         "weapon_damage_value": "150",
-        "max_damage_1": "180",
-        "min_damage_1": "120",
+        "max_damage_1": "150",
+        "min_damage_1": "150",
         "cost_type": "Mana",
         "cost": "19",
         "range": "30",

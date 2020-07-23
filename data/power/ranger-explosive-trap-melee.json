@@ -1,18 +1,18 @@
 {
     "id": "ranger-explosive-trap-melee",
     "name": "Explosive Trap",
-    "description": "places an explosive trap at your feet which explodes when an enemy approaches it dealing 57 - 77 + 67% Weapon Damage as Fire Damage./n/nAll targets hit are Knocked into the air./n/nTrap will exist for 60 seconds.",
+    "description": "places an explosive trap at your feet which explodes when an enemy approaches it dealing 67 + 67% Weapon Damage as Fire Damage./n/nAll targets hit are Knocked into the air./n/nTrap will exist for 60 seconds.",
     "shortDescription": "",
     "icon": "ranger-explosive-trap-melee.png",
     "stats": {
         "weapon_damage_type": "Fire",
         "weapon_damage_value": "67",
-        "max_damage_1": "77",
-        "min_damage_1": "57",
+        "max_damage_1": "67",
+        "min_damage_1": "67",
         "duration": "60 seconds",
         "cost_type": "Energy",
         "cost": "178",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "24",
         "target": "Area",
         "cast_time": "Instant"

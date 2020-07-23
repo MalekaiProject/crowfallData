@@ -1,13 +1,13 @@
 {
     "id": "ranger-forest-step",
     "name": "Forest Step",
-    "description": "blinks you through the forest shadows directly to your target and strike for 76 - 103 + 89% Weapon Damage.",
+    "description": "blinks you through the forest shadows directly to your target and strike for 89 + 89% Weapon Damage.",
     "shortDescription": "",
     "icon": "ranger-forest-step.png",
     "stats": {
         "weapon_damage_value": "89",
-        "max_damage_1": "103",
-        "min_damage_1": "76",
+        "max_damage_1": "89",
+        "min_damage_1": "89",
         "cost_type": "Energy",
         "cost": "131",
         "range": "30",

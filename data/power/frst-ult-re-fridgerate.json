@@ -6,8 +6,7 @@
     "icon": "frst-ult-re-fridgerate.png",
     "stats": {
         "cost_type": "Soul Power",
-        "cost": "500",
-        "cooldown": "10",
+        "cost": "1000",
         "target": "Self",
         "cast_time": "Instant"
     },

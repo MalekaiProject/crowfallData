@@ -2,7 +2,7 @@
     "id": "assassin-flow-state",
     "name": "Flow State",
     "class": "assassin",
-    "description": "In The Zone has a chance to refund Combo Points on every attack.",
+    "description": "In The Zone has a chance to refund Pips on every attack.",
     "icon": "flow-state.png",
     "maxPoints": 1,
     "pointRequirement": 0,

@@ -1,13 +1,13 @@
 {
     "id": "duelist-passive-dirge",
     "name": "Dirge",
-    "description": "causes impale to inflict 79 - 119 + 99% Weapon Damage per Pip spent and refund one Pip when used against an enemy under 50% Health.",
+    "description": "causes impale to inflict 99 + 99% Weapon Damage per Pip spent and refund one Pip when used against an enemy under 50% Health.",
     "shortDescription": "",
     "icon": "duelist-passive-dirge.png",
     "stats": {
         "weapon_damage_value": "99",
-        "max_damage_1": "119",
-        "min_damage_1": "79",
+        "max_damage_1": "99",
+        "min_damage_1": "99",
         "cast_time": "Passive"
     },
     "nextChain": [],

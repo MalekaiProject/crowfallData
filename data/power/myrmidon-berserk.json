@@ -6,8 +6,8 @@
     "icon": "myrmidon-berserk.png",
     "stats": {
         "weapon_damage_value": "297",
-        "max_damage_1": "327",
-        "min_damage_1": "267",
+        "max_damage_1": "297",
+        "min_damage_1": "297",
         "duration": "8 seconds",
         "cost_type": "Fury",
         "cost": "10",

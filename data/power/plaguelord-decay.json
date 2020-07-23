@@ -6,10 +6,10 @@
     "icon": "plaguelord-decay.png",
     "stats": {
         "weapon_damage_value": "107",
-        "max_damage_1": "123",
-        "min_damage_1": "91",
+        "max_damage_1": "107",
+        "min_damage_1": "107",
         "cost_type": "Resource",
-        "cost": "13",
+        "cost": "12",
         "range": "30",
         "max_targets": "1",
         "cooldown": "45",

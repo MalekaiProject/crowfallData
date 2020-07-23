@@ -1,7 +1,7 @@
 {
     "id": "champion-kicksand",
     "name": "Kick Sand",
-    "description": "kicks sand at a nearby enemy, blinding them for 4 seconds while dealing 158 - 214 + 186% Weapon Damage.",
+    "description": "kicks sand at a nearby enemy, blinding them for 4 seconds while dealing 158 + 186% Weapon Damage.",
     "shortDescription": "",
     "icon": "champion-kicksand.png",
     "stats": {

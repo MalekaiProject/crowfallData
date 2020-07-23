@@ -1,13 +1,13 @@
 {
     "id": "duelist-retaliate",
     "name": "Retaliate",
-    "description": "returns you to your feet, damaging all nearby enemies for 105 - 158 + 132% Weapon Damage. \\n\\nRetaliating an Exposed enemy generates an additional Pip and resets Retaliate's cooldown.",
+    "description": "returns you to your feet, damaging all nearby enemies for 132 + 132% Weapon Damage. \\n\\nRetaliating an Exposed enemy generates an additional Pip and resets Retaliate's cooldown.",
     "shortDescription": "",
     "icon": "duelist-retaliate.png",
     "stats": {
         "weapon_damage_value": "132",
-        "max_damage_1": "158",
-        "min_damage_1": "105",
+        "max_damage_1": "132",
+        "min_damage_1": "132",
         "cost_type": "Stamina",
         "cost": "65",
         "range": "5",
@@ -26,7 +26,7 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest",
+        "anyone",
         "stealth"
     ]
 }

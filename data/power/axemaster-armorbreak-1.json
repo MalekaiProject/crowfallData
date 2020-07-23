@@ -1,13 +1,13 @@
 {
     "id": "axemaster-armorbreak-1",
     "name": "Demolish Armor",
-    "description": "demolishes an enemy's Physical Mitigations causing 120 - 163 + 142% Weapon Damage.",
+    "description": "demolishes an enemy's Physical Mitigations causing 142 + 142% Weapon Damage.",
     "shortDescription": "Attack: Inflict stacking Armor Break",
     "icon": "axemaster-armorbreak-1.png",
     "stats": {
         "weapon_damage_value": "142",
-        "max_damage_1": "163",
-        "min_damage_1": "120",
+        "max_damage_1": "142",
+        "min_damage_1": "142",
         "buff_type_1": "Physical Armor Penetration",
         "cost_type": "Resource",
         "cost": "17",

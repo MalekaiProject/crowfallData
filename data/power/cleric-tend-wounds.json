@@ -1,13 +1,13 @@
 {
     "id": "cleric-tend-wounds",
     "name": "Tend Wounds",
-    "description": "aids the ally under your target reticle, healing them and you for 16 - 19 + 7.1% Support Power per second over eight seconds.",
+    "description": "aids the ally under your target reticle, healing them and you for 18 + 7.1% Support Power per second over eight seconds.",
     "shortDescription": "",
     "icon": "cleric-tend-wounds.png",
     "stats": {
         "weapon_damage_value": "7.1",
-        "max_damage_1": "19",
-        "min_damage_1": "16",
+        "max_damage_1": "18",
+        "min_damage_1": "18",
         "lifetime": "8",
         "cost_type": "Mana",
         "cost": "85",

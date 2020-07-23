@@ -1,17 +1,17 @@
 {
     "id": "champion-whirling-pain",
     "name": "Whirling Pain",
-    "description": "sweeps around you repeatedly dealing 59 - 79 + 69% Weapon Damage per swing. \\n\\nYou may move while spinning.",
+    "description": "sweeps around you repeatedly dealing 69 + 69% Weapon Damage per swing. \\n\\nYou may move while spinning.",
     "shortDescription": "",
     "icon": "champion-whirling-pain.png",
     "stats": {
         "weapon_damage_value": "69",
-        "max_damage_1": "79",
-        "min_damage_1": "59",
+        "max_damage_1": "69",
+        "min_damage_1": "69",
         "cost_type": "Rage",
         "cost": "11",
         "range": "5",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "24",
         "target": "Sphere",
         "cast_time": "Instant"

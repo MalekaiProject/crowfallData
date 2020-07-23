@@ -1,13 +1,13 @@
 {
     "id": "ranger-jab",
     "name": "Jab",
-    "description": "slashes in front of you knocking down your target, dealing 136 - 184 + 160% Weapon Damage. This attack has a 100% Critical Strike modifier.",
+    "description": "slashes in front of you knocking down your target, dealing 160 + 160% Weapon Damage. This attack has a 100% Critical Strike modifier.",
     "shortDescription": "",
     "icon": "ranger-jab.png",
     "stats": {
         "weapon_damage_value": "160",
-        "max_damage_1": "184",
-        "min_damage_1": "136",
+        "max_damage_1": "160",
+        "min_damage_1": "160",
         "cost_type": "Energy",
         "cost": "190",
         "range": "6",

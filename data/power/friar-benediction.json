@@ -1,14 +1,14 @@
 {
     "id": "friar-benediction",
     "name": "Benediction",
-    "description": "blesses group members and you increasing Bleed Resistance by 50 for 30 seconds.",
+    "description": "blesses group members and you increasing Bleed Resistance by 35% for 30 seconds.",
     "shortDescription": "Group increase Bleed Resistance",
     "icon": "friar-benediction.png",
     "stats": {
         "weapon_damage_value": "100",
-        "max_damage_1": "115",
-        "min_damage_1": "85",
-        "buff_amount_1": "50",
+        "max_damage_1": "100",
+        "min_damage_1": "100",
+        "buff_amount_1": "35",
         "buff_type_1": "Bleed Resistance",
         "duration": "30 seconds",
         "cost_type": "Resource",

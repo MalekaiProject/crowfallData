@@ -1,13 +1,13 @@
 {
     "id": "ranger-sweep",
     "name": "Sweep",
-    "description": "slashes in front of you for 113 - 153 + 133% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds a 10% Damage Bonus to their next attack.",
+    "description": "slashes in front of you for 133 + 133% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds a 10% Damage Bonus to their next attack.",
     "shortDescription": "",
     "icon": "ranger-sweep.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "cost_type": "Energy",
         "cost": "190",
         "range": "6",

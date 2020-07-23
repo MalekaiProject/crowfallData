@@ -1,13 +1,13 @@
 {
     "id": "knight-onslaught-2a",
     "name": "Brutal Strike",
-    "description": "attacks for 168 - 227 + 197% Weapon Damage.",
+    "description": "attacks for 197 + 197% Weapon Damage.",
     "shortDescription": "",
     "icon": "knight-onslaught-2a.png",
     "stats": {
         "weapon_damage_value": "197",
-        "max_damage_1": "227",
-        "min_damage_1": "168",
+        "max_damage_1": "197",
+        "min_damage_1": "197",
         "cost_type": "Energy",
         "cost": "281",
         "range": "6",

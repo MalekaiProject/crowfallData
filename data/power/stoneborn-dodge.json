@@ -1,13 +1,14 @@
 {
     "id": "stoneborn-dodge",
     "name": "Barrel Roll",
-    "description": "moves you quickly 10 meters in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
+    "description": "moves you quickly 10 meters in your WASD direction.",
     "shortDescription": "Barrel Roll in a WASD direction",
     "icon": "stoneborn-dodge.png",
     "stats": {
         "cost_type": "Dodge",
         "cost": "1",
         "range": "10",
+        "cooldown": "11",
         "target": "Self",
         "cast_time": "Instant"
     },

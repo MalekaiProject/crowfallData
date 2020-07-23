@@ -1,13 +1,13 @@
 {
     "id": "duelist-flintlock-shot",
     "name": "Flintlock Shot",
-    "description": "shoots for 107 - 160 + 134% Weapon Damage and generates two Pips. \\n\\nIf Flintlock Shot hits an Exposed enemy while they attack or use an ability they are knocked down, and take additional damage and you generate an additional Pip.",
+    "description": "shoots for 134 + 134% Weapon Damage and generates two Pips. \\n\\nIf Flintlock Shot hits an Exposed enemy while they attack or use an ability they are knocked down, and take additional damage and you generate an additional Pip.",
     "shortDescription": "",
     "icon": "duelist-flintlock-shot.png",
     "stats": {
         "weapon_damage_value": "134",
-        "max_damage_1": "160",
-        "min_damage_1": "107",
+        "max_damage_1": "134",
+        "min_damage_1": "134",
         "range": "15",
         "max_targets": "1",
         "cooldown": "9",

@@ -1,13 +1,13 @@
 {
     "id": "duelist-stealth-ambush",
     "name": "Ambush",
-    "description": "leaps you out of your Burrow performing a deadly surprise attack for 117 - 176 + 147% Weapon Damage and generating two Pips. \\n\\nIf Ambush hits an Exposed enemy while they attack or use an ability they are knocked down, take additional damage and you earn additional Pips.",
+    "description": "leaps you out of your Burrow performing a deadly surprise attack for 147 + 147% Weapon Damage and generating two Pips. \\n\\nIf Ambush hits an Exposed enemy while they attack or use an ability they are knocked down, take additional damage and you earn additional Pips.",
     "shortDescription": "",
     "icon": "duelist-stealth-ambush.png",
     "stats": {
         "weapon_damage_value": "147",
-        "max_damage_1": "176",
-        "min_damage_1": "117",
+        "max_damage_1": "147",
+        "min_damage_1": "147",
         "range": "6",
         "max_targets": "1",
         "cooldown": "9",

@@ -6,8 +6,8 @@
     "icon": "knifegrinder-cauterize.png",
     "stats": {
         "weapon_damage_value": "80",
-        "max_damage_1": "92",
-        "min_damage_1": "68",
+        "max_damage_1": "80",
+        "min_damage_1": "80",
         "cost_type": "Resource",
         "cost": "10",
         "cooldown": "9",

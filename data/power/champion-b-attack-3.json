@@ -1,13 +1,13 @@
 {
     "id": "champion-b-attack-3",
     "name": "Overwhelming Uppercut",
-    "description": "strikes in front of you for 119 - 161 + 140% Weapon Damage, generating 4 Rage if you hit. Overwhelming Uppercut applies Mortal Strike to all hit, which reduces the effectiveness of any Healing that target receives by 25% for 15 seconds.",
+    "description": "strikes in front of you for 140 + 140% Weapon Damage, generating 4 Rage if you hit. Overwhelming Uppercut applies Mortal Strike to all hit, which reduces the effectiveness of any Healing that target receives by 25% for 15 seconds.",
     "shortDescription": "",
     "icon": "champion-b-attack-3.png",
     "stats": {
         "weapon_damage_value": "140",
-        "max_damage_1": "161",
-        "min_damage_1": "119",
+        "max_damage_1": "140",
+        "min_damage_1": "140",
         "buff_amount_1": "25",
         "buff_type_1": "Healing",
         "duration": "15 seconds",

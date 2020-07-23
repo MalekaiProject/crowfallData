@@ -7,8 +7,8 @@
     "stats": {
         "weapon_damage_type": "Elemental",
         "weapon_damage_value": "70",
-        "max_damage_1": "81",
-        "min_damage_1": "60",
+        "max_damage_1": "70",
+        "min_damage_1": "70",
         "cost_type": "Resource",
         "cost": "16",
         "cooldown": "45",
@@ -19,7 +19,7 @@
     "lastChain": [],
     "inSpellbook": true,
     "isGroupPower": false,
-    "isBeneficial": false,
+    "isBeneficial": true,
     "isHeal": false,
     "isBuff": false,
     "tags": [

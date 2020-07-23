@@ -6,8 +6,8 @@
     "icon": "cleric-retaliate.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "147",
-        "min_damage_1": "120",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "cost_type": "Stamina",
         "cost": "65",
         "range": "5",
@@ -24,6 +24,6 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest"
+        "anyone"
     ]
 }

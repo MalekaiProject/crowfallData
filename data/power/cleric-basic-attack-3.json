@@ -1,13 +1,13 @@
 {
     "id": "cleric-basic-attack-3",
     "name": "Divine Hammer",
-    "description": "hurls a spirit hammer at your reticle target for 141 - 173 + 157% Weapon Damage.",
+    "description": "hurls a spirit hammer at your reticle target for 157 + 157% Weapon Damage.",
     "shortDescription": "",
     "icon": "cleric-basic-attack-3.png",
     "stats": {
         "weapon_damage_value": "157",
-        "max_damage_1": "173",
-        "min_damage_1": "141",
+        "max_damage_1": "157",
+        "min_damage_1": "157",
         "cost": "21",
         "range": "20",
         "max_targets": "1",

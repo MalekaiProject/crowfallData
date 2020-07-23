@@ -6,8 +6,8 @@
     "icon": "assassin-shadowstep.png",
     "stats": {
         "weapon_damage_value": "132",
-        "max_damage_1": "158",
-        "min_damage_1": "105",
+        "max_damage_1": "132",
+        "min_damage_1": "132",
         "cost_type": "Soul Power",
         "cost": "1000",
         "cooldown": "5",

@@ -1,13 +1,13 @@
 {
     "id": "assassin-basic-2",
     "name": "Double Swing",
-    "description": "jabs twice for 53 - 80 + 66% Weapon Damage.\\n\\nGenerates 1 Pip.",
+    "description": "jabs twice for 66 + 66% Weapon Damage.\\n\\nGenerates 1 Pip.",
     "shortDescription": "",
     "icon": "assassin-basic-2.png",
     "stats": {
         "weapon_damage_value": "66",
-        "max_damage_1": "80",
-        "min_damage_1": "53",
+        "max_damage_1": "66",
+        "min_damage_1": "66",
         "range": "6",
         "max_targets": "1",
         "target": "Reticle",

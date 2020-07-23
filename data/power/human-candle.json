@@ -6,7 +6,7 @@
     "icon": "human-candle.png",
     "stats": {
         "cost_type": "Resource",
-        "cost": "25",
+        "cost": "16",
         "cooldown": "45",
         "target": "Self",
         "cast_time": "Instant"
@@ -15,9 +15,9 @@
     "lastChain": [],
     "inSpellbook": true,
     "isGroupPower": false,
-    "isBeneficial": false,
+    "isBeneficial": true,
     "isHeal": false,
-    "isBuff": false,
+    "isBuff": true,
     "tags": [
         "anyone"
     ]

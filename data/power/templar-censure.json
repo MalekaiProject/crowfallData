@@ -1,13 +1,13 @@
 {
     "id": "templar-censure",
     "name": "Censure",
-    "description": "lunges you forward up to 20m with a sword strike, causing 100 - 149 + 124% Weapon Damage and leaving your target Stunned.",
+    "description": "lunges you forward up to 20m with a sword strike, causing 124 + 124% Weapon Damage and leaving your target Stunned.",
     "shortDescription": "",
     "icon": "templar-censure.png",
     "stats": {
         "weapon_damage_value": "124",
-        "max_damage_1": "149",
-        "min_damage_1": "100",
+        "max_damage_1": "124",
+        "min_damage_1": "124",
         "range": "6",
         "max_targets": "1",
         "cooldown": "15",

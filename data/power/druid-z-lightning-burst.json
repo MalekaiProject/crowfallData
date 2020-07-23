@@ -1,18 +1,18 @@
 {
     "id": "druid-z-lightning-burst",
     "name": "Lightning Burst",
-    "description": "electrifies enemies with lightning for 210 - 315 + 262% Weapon Damage as Electricity Damage.",
+    "description": "electrifies enemies with lightning for 262 + 262% Weapon Damage as Electricity Damage.",
     "shortDescription": "",
     "icon": "druid-z-lightning-burst.png",
     "stats": {
         "weapon_damage_type": "Electricity",
         "weapon_damage_value": "262",
-        "max_damage_1": "315",
-        "min_damage_1": "210",
+        "max_damage_1": "262",
+        "min_damage_1": "262",
         "cost_type": "Essence",
-        "cost": "68",
+        "cost": "31",
         "range": "35",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "9",
         "target": "Ray",
         "cast_time": "Instant"

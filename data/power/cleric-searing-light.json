@@ -1,7 +1,7 @@
 {
     "id": "cleric-searing-light",
     "name": "Searing Light",
-    "description": "manifests divine light from your shield Blinding your reticle target and inflicting 169 - 207 + 188% Holy Weapon Damage and can be instantly Flash-Cast. \\n\\nTargets are only blinded when the Charging Flash effect is expired.",
+    "description": "manifests divine light from your shield Blinding your reticle target and inflicting 169 + 188% Holy Weapon Damage and can be instantly Flash-Cast. \\n\\nTargets are only blinded when the Charging Flash effect is expired.",
     "shortDescription": "",
     "icon": "cleric-searing-light.png",
     "stats": {

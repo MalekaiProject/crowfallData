@@ -6,8 +6,8 @@
     "icon": "assassin-stealth-spirit-dart.png",
     "stats": {
         "weapon_damage_value": "25",
-        "max_damage_1": "30",
-        "min_damage_1": "20",
+        "max_damage_1": "25",
+        "min_damage_1": "25",
         "range": "15",
         "max_targets": "1",
         "cooldown": "24",

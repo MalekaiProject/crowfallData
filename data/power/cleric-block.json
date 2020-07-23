@@ -10,7 +10,7 @@
         "min_damage_1": "150",
         "cost_type_time": "cost_type_time_per_second",
         "cost_type": "Stamina",
-        "cost": "6",
+        "cost": "3",
         "target": "Self",
         "cast_time": "Hold Channeled"
     },

@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "frst-passive-cool-casting.png",
     "stats": {
-        "weapon_damage_value": "62",
-        "max_damage_1": "17",
-        "min_damage_1": "14",
+        "weapon_damage_value": "280",
+        "max_damage_1": "70",
+        "min_damage_1": "70",
         "target": "Self",
         "cast_time": "Passive"
     },

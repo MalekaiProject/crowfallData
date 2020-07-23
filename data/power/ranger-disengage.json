@@ -1,13 +1,13 @@
 {
     "id": "ranger-disengage",
     "name": "Disengage",
-    "description": "leaps you backwards 25m rooting your target, dealing 148 - 201 + 175% Weapon Damage and placing you into your Ranged tray.",
+    "description": "leaps you backwards 25m rooting your target, dealing 175 + 175% Weapon Damage and placing you into your Ranged tray.",
     "shortDescription": "",
     "icon": "ranger-disengage.png",
     "stats": {
         "weapon_damage_value": "175",
-        "max_damage_1": "201",
-        "min_damage_1": "148",
+        "max_damage_1": "175",
+        "min_damage_1": "175",
         "cost_type": "Energy",
         "cost": "380",
         "range": "25",

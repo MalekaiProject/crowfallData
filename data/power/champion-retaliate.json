@@ -1,13 +1,13 @@
 {
     "id": "champion-retaliate",
     "name": "Retaliate",
-    "description": "returns you to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.",
+    "description": "returns you to your feet, dealing 133 + 133% Weapon Damage to nearby enemies.",
     "shortDescription": "",
     "icon": "champion-retaliate.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "cost_type": "Stamina",
         "cost": "65",
         "range": "5",
@@ -26,6 +26,6 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest"
+        "anyone"
     ]
 }

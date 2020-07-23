@@ -1,14 +1,14 @@
 {
     "id": "knight-chain-pull",
     "name": "Chain Attack",
-    "description": "throws a chain to pull an enemy toward you causing 130 - 176 + 153% Weapon Damage.",
+    "description": "throws a chain to pull an enemy toward you causing 153 + 153% Weapon Damage.",
     "shortDescription": "",
     "icon": "knight-chain-pull.png",
     "stats": {
         "weapon_damage_type": "Piercing",
         "weapon_damage_value": "153",
-        "max_damage_1": "176",
-        "min_damage_1": "130",
+        "max_damage_1": "153",
+        "min_damage_1": "153",
         "cost_type": "Energy",
         "cost": "281",
         "range": "30",

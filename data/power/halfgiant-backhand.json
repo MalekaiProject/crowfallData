@@ -1,14 +1,14 @@
 {
     "id": "halfgiant-backhand",
     "name": "Backhand",
-    "description": "backhands the target in front of you, stunning and dealing 113 - 153 + 133% Crushing Weapon Damage.",
+    "description": "backhands the target in front of you, stunning and dealing 133 + 133% Crushing Weapon Damage.",
     "shortDescription": "Attack: Stun target",
     "icon": "halfgiant-backhand.png",
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "range": "6",
         "max_targets": "1",
         "cooldown": "30",

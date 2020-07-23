@@ -1,13 +1,13 @@
 {
     "id": "duelist-pistol-combo-3",
     "name": "Professional Shot",
-    "description": "shoots an enemy twice for 42 - 64 + 53% Weapon Damage while generating two Pips.",
+    "description": "shoots an enemy twice for 53 + 53% Weapon Damage while generating two Pips.",
     "shortDescription": "",
     "icon": "duelist-pistol-combo-3.png",
     "stats": {
         "weapon_damage_value": "53",
-        "max_damage_1": "64",
-        "min_damage_1": "42",
+        "max_damage_1": "53",
+        "min_damage_1": "53",
         "range": "16",
         "max_targets": "1",
         "target": "Ray",

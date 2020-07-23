@@ -1,14 +1,14 @@
 {
     "id": "holyavenger-hammer-1",
     "name": "Grabthar's Hammer",
-    "description": "smites an enemy for 91 - 124 + 108 Weapon Damage.",
+    "description": "smites an enemy for 108 + 108 Weapon Damage.",
     "shortDescription": "Attack: Stun an enemy",
     "icon": "holyavenger-hammer-1.png",
     "stats": {
         "weapon_damage_type": "Holy",
         "weapon_damage_value": "108",
-        "max_damage_1": "124",
-        "min_damage_1": "91",
+        "max_damage_1": "108",
+        "min_damage_1": "108",
         "cost_type": "Resource",
         "cost": "11",
         "range": "5",

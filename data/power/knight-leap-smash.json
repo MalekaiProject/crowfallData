@@ -1,16 +1,18 @@
 {
     "id": "knight-leap-smash",
     "name": "Whirling Leap",
-    "description": "pulls in nearby enemies and damages them for 232 - 314 + 273% Crushing Weapon Damage. You gain damage prevention, become immune to control effects and your Expose statuses are removed.",
+    "description": "pulls in nearby enemies and damages them for 273 + 273% Crushing Weapon Damage. You gain damage prevention, become immune to control effects and your Expose statuses are removed.",
     "shortDescription": "",
     "icon": "knight-leap-smash.png",
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "273",
-        "max_damage_1": "314",
-        "min_damage_1": "232",
+        "max_damage_1": "273",
+        "min_damage_1": "273",
+        "cost_type": "Soul Power",
+        "cost": "500",
         "range": "8",
-        "max_targets": "5",
+        "max_targets": "3",
         "target": "Sphere",
         "cast_time": "Instant"
     },

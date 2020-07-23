@@ -1,12 +1,12 @@
 {
     "id": "confessor-hellfire-1",
     "name": "Hellfire Shield",
-    "description": "surrounds you in a Hellfire Shield for 15 seconds. Anyone who hits you is damaged for 23 - 28 damage.",
+    "description": "surrounds you in a Hellfire Shield for 15 seconds. Anyone who hits you is damaged for 25 damage.",
     "shortDescription": "",
     "icon": "confessor-hellfire-1.png",
     "stats": {
-        "max_damage_1": "28",
-        "min_damage_1": "23",
+        "max_damage_1": "25",
+        "min_damage_1": "25",
         "duration": "15 seconds",
         "cost_type": "Mana",
         "cost": "55",

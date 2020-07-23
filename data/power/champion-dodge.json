@@ -1,13 +1,14 @@
 {
     "id": "champion-dodge",
     "name": "Dodge Roll",
-    "description": "moves you quickly moving 10 meters in your WASD direction at the cost of one Dodge pip. \\n\\nYou recover one Dodge pip every 10 seconds.",
+    "description": "moves you quickly moving 10 meters in your WASD direction.",
     "shortDescription": "Roll in a WASD direction",
     "icon": "champion-dodge.png",
     "stats": {
         "cost_type": "Dodge",
         "cost": "1",
         "range": "10",
+        "cooldown": "11",
         "target": "Self",
         "cast_time": "Instant"
     },

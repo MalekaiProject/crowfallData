@@ -6,8 +6,8 @@
     "icon": "druid-z-sacrifice-basic.png",
     "stats": {
         "weapon_damage_value": "240",
-        "max_damage_1": "288",
-        "min_damage_1": "192",
+        "max_damage_1": "240",
+        "min_damage_1": "240",
         "cost_type": "Health",
         "cooldown": "5",
         "target": "Self",

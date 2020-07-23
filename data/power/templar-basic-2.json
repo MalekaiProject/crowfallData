@@ -1,13 +1,13 @@
 {
     "id": "templar-basic-2",
     "name": "Divine Overhead",
-    "description": "attacks for 94 - 141 + 117% Weapon Damage.",
+    "description": "attacks for 117 + 117% Weapon Damage.",
     "shortDescription": "",
     "icon": "templar-basic-2.png",
     "stats": {
         "weapon_damage_value": "117",
-        "max_damage_1": "141",
-        "min_damage_1": "94",
+        "max_damage_1": "117",
+        "min_damage_1": "117",
         "range": "6",
         "max_targets": "1",
         "target": "Cone",

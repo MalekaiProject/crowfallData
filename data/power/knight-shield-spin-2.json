@@ -1,14 +1,14 @@
 {
     "id": "knight-shield-spin-2",
     "name": "Shield Stun",
-    "description": "attacks in front of you for 115 - 156 + 136% Crushing Weapon Damage, Stunning your target.",
+    "description": "attacks in front of you for 136 + 136% Crushing Weapon Damage, Stunning your target.",
     "shortDescription": "",
     "icon": "knight-shield-spin-2.png",
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "136",
-        "max_damage_1": "156",
-        "min_damage_1": "115",
+        "max_damage_1": "136",
+        "min_damage_1": "136",
         "cost_type": "Energy",
         "cost": "203",
         "range": "6",

@@ -6,8 +6,8 @@
     "icon": "duelist-inconceivable.png",
     "stats": {
         "weapon_damage_value": "75",
-        "max_damage_1": "90",
-        "min_damage_1": "60",
+        "max_damage_1": "75",
+        "min_damage_1": "75",
         "duration": "6 - 36 seconds",
         "cost_type": "Pips",
         "cost": "1",

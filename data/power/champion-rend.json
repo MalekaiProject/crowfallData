@@ -1,13 +1,13 @@
 {
     "id": "champion-rend",
     "name": "Rend",
-    "description": "deals 187 - 253 + 220% Weapon Damage. Rend applies a Severe Bleed to all hit.",
+    "description": "deals 220 + 220% Weapon Damage. Rend applies a Severe Bleed to all hit.",
     "shortDescription": "",
     "icon": "champion-rend.png",
     "stats": {
         "weapon_damage_value": "220",
-        "max_damage_1": "253",
-        "min_damage_1": "187",
+        "max_damage_1": "220",
+        "min_damage_1": "220",
         "cost_type": "Rage",
         "cost": "18",
         "range": "6",

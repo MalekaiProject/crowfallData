@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "frst-chill-out.png",
     "stats": {
-        "weapon_damage_value": "62",
-        "max_damage_1": "17",
-        "min_damage_1": "14",
+        "weapon_damage_value": "186",
+        "max_damage_1": "46",
+        "min_damage_1": "46",
         "cooldown": "12",
         "target": "Group",
         "cast_time": "Instant"

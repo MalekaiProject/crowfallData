@@ -6,10 +6,10 @@
     "icon": "juggernaut-unstoppable.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "cost_type": "Resource",
-        "cost": "16",
+        "cost": "12",
         "cooldown": "45",
         "target": "Self",
         "cast_time": "Instant"

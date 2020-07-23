@@ -1,13 +1,13 @@
 {
     "id": "ranger-mb-attack-2",
     "name": "Wicked Slash",
-    "description": "slashes in front of you twice for 50 - 67 + 59% Weapon Damage.",
+    "description": "slashes in front of you twice for 59 + 59% Weapon Damage.",
     "shortDescription": "",
     "icon": "ranger-mb-attack-2.png",
     "stats": {
         "weapon_damage_value": "59",
-        "max_damage_1": "67",
-        "min_damage_1": "50",
+        "max_damage_1": "59",
+        "min_damage_1": "59",
         "range": "6",
         "max_targets": "1",
         "target": "Cone",

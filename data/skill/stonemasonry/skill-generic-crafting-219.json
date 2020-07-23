@@ -1,11 +1,11 @@
 {
     "id": "skill-generic-crafting-219",
-    "name": "Partial Crafting Rerolls",
+    "name": "Crafting Polish",
     "tree": "Stonemasonry",
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
-    "description": "Decreases the cost of a Partial Reroll after experimenting on an item.",
+    "description": "Decreases the cost of Polish after experimenting on an item.",
     "icon": "skill-generic-crafting-219.png",
     "stats": [
         {

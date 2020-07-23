@@ -1,13 +1,13 @@
 {
     "id": "druid-natures-avatar",
     "name": "Nature's Avatar",
-    "description": "empowers a targeted ally adding 30% Critical Strike, 50% Critical Damage, 24% Damage Bonus and 350 Attack Power.",
+    "description": "empowers a targeted ally increasing Damage Bonus and Critical Strike by 20% while you channel.",
     "shortDescription": "",
     "icon": "druid-natures-avatar.png",
     "stats": {
         "cost_type_time": "cost_type_time_per_second",
         "cost_type": "Essence",
-        "cost": "35",
+        "cost": "16",
         "range": "50",
         "max_targets": "1",
         "cooldown": "9",

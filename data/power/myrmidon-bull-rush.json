@@ -1,15 +1,13 @@
 {
     "id": "myrmidon-bull-rush",
     "name": "Bull Rush",
-    "description": "charges you forward 20m. When the charge ends, Knockdown and deal 123 - 150 + 137% Weapon Damage to enemies within 4m of you.",
+    "description": "charges you forward 20m. When the charge ends, Knockdown and deal 137 + 137% Weapon Damage to enemies within 4m of you.",
     "shortDescription": "Attack: Charge Forward; Damage Enemies",
     "icon": "myrmidon-bull-rush.png",
     "stats": {
         "weapon_damage_value": "137",
-        "max_damage_1": "150",
-        "min_damage_1": "123",
-        "cost_type": "Fury",
-        "cost": "31",
+        "max_damage_1": "137",
+        "min_damage_1": "137",
         "range": "20",
         "max_targets": "3",
         "cooldown": "30",

@@ -1,13 +1,13 @@
 {
     "id": "duelist-pistol-combo-1",
     "name": "Clean Shot",
-    "description": "shoots an enemy for 40 - 60 + 50% Weapon Damage while generating a Pip.",
+    "description": "shoots an enemy for 50 + 50% Weapon Damage while generating a Pip.",
     "shortDescription": "Basic: Restore Pips",
     "icon": "duelist-pistol-combo-1.png",
     "stats": {
         "weapon_damage_value": "50",
-        "max_damage_1": "60",
-        "min_damage_1": "40",
+        "max_damage_1": "50",
+        "min_damage_1": "50",
         "range": "16",
         "max_targets": "1",
         "target": "Ray",

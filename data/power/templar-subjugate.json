@@ -1,13 +1,13 @@
 {
     "id": "templar-subjugate",
     "name": "Subjugate",
-    "description": "slices an enemy for 113 - 169 + 141% Weapon Damage and roots them in place.",
+    "description": "slices an enemy for 141 + 141% Weapon Damage and roots them in place.",
     "shortDescription": "",
     "icon": "templar-subjugate.png",
     "stats": {
         "weapon_damage_value": "141",
-        "max_damage_1": "169",
-        "min_damage_1": "113",
+        "max_damage_1": "141",
+        "min_damage_1": "141",
         "cost_type": "Righteousness",
         "range": "6",
         "max_targets": "1",

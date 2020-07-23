@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Increases chance to harvest Apples when logging Trees.\\n\\nDecreases the amount of Decay that Runestone Axes, and Runestone Knives suffer when reaping.\\n\\nRecipes Granted:\\nSurvivalist Cooking\\n\\nTraits Granted at 1 Pip:\\nIntermediate Runestone Axes\\nIntermediate Runestone Knives",
+    "description": "Increases chance to harvest Apples when logging Trees.\\n\\nDecreases the amount of Decay that Runestone Axes, and Runestone Knives suffer when reaping.\\n\\nRecipes Granted at 1 Pip:\\nIntermediate Runestone Axe\\nIntermediate Runestone Knife\\nSurvivalist Cooking\\n\\nTraits Granted at 1 Pip:\\nIntermediate Runestone Axes\\nIntermediate Runestone Knives",
     "icon": "skill-generic-exploration-301.png",
     "stats": [
         {
@@ -23,7 +23,8 @@
     ],
     "grants": [
         "equip_harvest_tool_axe",
-        "equip_harvest_tool_knife"
+        "equip_harvest_tool_knife",
+        "recipe_intermediate_harvest_tool_axe_knife"
     ],
     "unlockedFromSkill": [
         {

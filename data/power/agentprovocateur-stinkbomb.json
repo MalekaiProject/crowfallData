@@ -5,10 +5,8 @@
     "shortDescription": "Stealth: Target Area Stun; Moderate Corruption",
     "icon": "agentprovocateur-stinkbomb.png",
     "stats": {
-        "cost_type": "Resource",
-        "cost": "13",
         "range": "35",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "30",
         "target": "Area",
         "cast_time": "Ground Aimed"

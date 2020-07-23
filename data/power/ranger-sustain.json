@@ -8,6 +8,8 @@
         "buff_amount_1": "40",
         "buff_type_1": "Lifesteal",
         "duration": "30 seconds",
+        "cost_type": "Soul Power",
+        "cost": "500",
         "target": "Self",
         "cast_time": "Instant"
     },

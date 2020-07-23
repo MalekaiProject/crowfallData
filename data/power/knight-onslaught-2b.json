@@ -1,17 +1,17 @@
 {
     "id": "knight-onslaught-2b",
     "name": "Twin Assault",
-    "description": "attacks in front of you twice for 15 - 20 + 17% Weapon Damage each strike.",
+    "description": "attacks in front of you twice for 17 + 17% Weapon Damage each strike.",
     "shortDescription": "",
     "icon": "knight-onslaught-2b.png",
     "stats": {
         "weapon_damage_value": "17",
-        "max_damage_1": "20",
-        "min_damage_1": "15",
+        "max_damage_1": "17",
+        "min_damage_1": "17",
         "cost_type": "Energy",
         "cost": "172",
         "range": "5",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "9",
         "target": "Cone",
         "cast_time": "Instant"

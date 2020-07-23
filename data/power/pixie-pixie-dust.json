@@ -6,15 +6,15 @@
     "icon": "pixie-pixie-dust.png",
     "stats": {
         "weapon_damage_value": "63",
-        "max_damage_1": "72",
-        "min_damage_1": "54",
+        "max_damage_1": "63",
+        "min_damage_1": "63",
         "buff_amount_1": "25%",
         "buff_type_1": "Incoming Healing",
         "duration": "25 seconds",
         "cost_type": "Resource",
         "cost": "14",
         "range": "5",
-        "max_targets": "5",
+        "max_targets": "3",
         "cooldown": "45",
         "target": "Area",
         "cast_time": "Instant"

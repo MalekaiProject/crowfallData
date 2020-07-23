@@ -1,17 +1,17 @@
 {
     "id": "druid-z-wicked-winds",
     "name": "Wicked Winds",
-    "description": "launches a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage as Nature Damage.",
+    "description": "consumes your Shroud of Darkness to launch a swirling maelstrom to fling enemies around and causing 242 + 242% Weapon Damage as Nature Damage.",
     "shortDescription": "",
     "icon": "druid-z-wicked-winds.png",
     "stats": {
         "weapon_damage_type": "Nature",
         "weapon_damage_value": "242",
-        "max_damage_1": "290",
-        "min_damage_1": "193",
+        "max_damage_1": "242",
+        "min_damage_1": "242",
         "cost_type": "Essence",
-        "cost": "79",
-        "max_targets": "5",
+        "cost": "36",
+        "max_targets": "3",
         "cooldown": "24",
         "target": "Reticle",
         "cast_time": "Instant"

@@ -1,13 +1,13 @@
 {
     "id": "duelist-b-attack-2",
     "name": "Gorgeous Riposte",
-    "description": "attacks for 72 - 109 + 91% Weapon Damage.",
+    "description": "attacks for 91 + 91% Weapon Damage.",
     "shortDescription": "",
     "icon": "duelist-b-attack-2.png",
     "stats": {
         "weapon_damage_value": "91",
-        "max_damage_1": "109",
-        "min_damage_1": "72",
+        "max_damage_1": "91",
+        "min_damage_1": "91",
         "range": "6",
         "max_targets": "1",
         "target": "Cone",

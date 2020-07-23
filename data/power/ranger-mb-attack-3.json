@@ -1,13 +1,13 @@
 {
     "id": "ranger-mb-attack-3",
     "name": "Vile Slash",
-    "description": "slashes in front of you twice for 69 - 93 + 81% Weapon Damage and gain the Spot Weakness buff increasing your Physical Armor Penetration by 5%.",
+    "description": "slashes in front of you twice for 81 + 81% Weapon Damage and gain the Spot Weakness buff increasing your Physical Armor Penetration by 5%.",
     "shortDescription": "",
     "icon": "ranger-mb-attack-3.png",
     "stats": {
         "weapon_damage_value": "81",
-        "max_damage_1": "93",
-        "min_damage_1": "69",
+        "max_damage_1": "81",
+        "min_damage_1": "81",
         "range": "6",
         "max_targets": "1",
         "target": "Cone",

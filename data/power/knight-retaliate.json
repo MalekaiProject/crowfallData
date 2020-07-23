@@ -1,13 +1,13 @@
 {
     "id": "knight-retaliate",
     "name": "Retaliate",
-    "description": "returns you to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. \\n\\nThis attack may only be used while Controlled.",
+    "description": "returns you to your feet, damaging all nearby enemies twice for 67 + 67% Weapon Damage. \\n\\nThis attack may only be used while Controlled.",
     "shortDescription": "",
     "icon": "knight-retaliate.png",
     "stats": {
         "weapon_damage_value": "67",
-        "max_damage_1": "77",
-        "min_damage_1": "57",
+        "max_damage_1": "67",
+        "min_damage_1": "67",
         "cost_type": "Stamina",
         "cost": "65",
         "range": "5",
@@ -24,6 +24,6 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest"
+        "anyone"
     ]
 }

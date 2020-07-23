@@ -1,14 +1,14 @@
 {
     "id": "knight-onslaught-3a",
     "name": "Shockwave",
-    "description": "attacks enemies in front of you, dealing 171 - 232 + 202% Crushing Weapon Damage and leaving them Knocked Down.",
+    "description": "attacks enemies in front of you, dealing 202 + 202% Crushing Weapon Damage and leaving them Knocked Down.",
     "shortDescription": "",
     "icon": "knight-onslaught-3a.png",
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "202",
-        "max_damage_1": "232",
-        "min_damage_1": "171",
+        "max_damage_1": "202",
+        "min_damage_1": "202",
         "cost_type": "Energy",
         "cost": "281",
         "range": "7",

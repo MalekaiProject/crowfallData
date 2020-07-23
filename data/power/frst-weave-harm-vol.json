@@ -5,9 +5,9 @@
     "shortDescription": "",
     "icon": "frst-weave-harm-vol.png",
     "stats": {
-        "weapon_damage_2_value": "247",
-        "max_damage_2": "296",
-        "min_damage_2": "197",
+        "weapon_damage_2_value": "95",
+        "max_damage_2": "95",
+        "min_damage_2": "95",
         "cost_type": "Weaving",
         "target": "Reticle",
         "cast_time": "Instant"

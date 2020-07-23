@@ -1,13 +1,13 @@
 {
     "id": "frst-basic-2",
     "name": "Backhand Cast",
-    "description": "casts ice at an enemy for 78 - 117 + 97% Weapon Damage.",
+    "description": "casts ice at an enemy for 97 + 97% Weapon Damage.",
     "shortDescription": "",
     "icon": "frst-basic-2.png",
     "stats": {
         "weapon_damage_value": "97",
-        "max_damage_1": "117",
-        "min_damage_1": "78",
+        "max_damage_1": "97",
+        "min_damage_1": "97",
         "cost_type": "Mana",
         "cost": "13",
         "range": "30",

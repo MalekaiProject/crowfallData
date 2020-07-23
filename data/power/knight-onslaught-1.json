@@ -1,13 +1,13 @@
 {
     "id": "knight-onslaught-1",
     "name": "Onslaught",
-    "description": "attacks twice for 74 - 100 + 87% Weapon Damage each strike.",
+    "description": "attacks twice for 87 + 87% Weapon Damage each strike.",
     "shortDescription": "",
     "icon": "knight-onslaught-1.png",
     "stats": {
         "weapon_damage_value": "87",
-        "max_damage_1": "100",
-        "min_damage_1": "74",
+        "max_damage_1": "87",
+        "min_damage_1": "87",
         "cost_type": "Energy",
         "cost": "156",
         "range": "6",

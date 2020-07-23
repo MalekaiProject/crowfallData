@@ -6,8 +6,8 @@
     "icon": "templar-devotion.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "160",
-        "min_damage_1": "107",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "duration": "15 seconds",
         "cost_type": "Righteousness",
         "cost": "1",
@@ -25,6 +25,6 @@
     "isBuff": false,
     "tags": [
         "melee",
-        "harvest"
+        "anyone"
     ]
 }

@@ -1,14 +1,14 @@
 {
     "id": "knight-shield-spin-1",
     "name": "Shield Swipe",
-    "description": "attacks in front of you for 113 - 153 + 133% Crushing Weapon Damage.",
+    "description": "attacks in front of you for 133 + 133% Crushing Weapon Damage.",
     "shortDescription": "",
     "icon": "knight-shield-spin-1.png",
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "133",
-        "max_damage_1": "153",
-        "min_damage_1": "113",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "cost_type": "Energy",
         "cost": "250",
         "range": "6",

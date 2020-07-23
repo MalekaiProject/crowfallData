@@ -1,7 +1,7 @@
 {
     "id": "confessor-hellfire-3a",
     "name": "Hellfire Blast",
-    "description": "blasts those in front of you, dealing 82 - 123 + 102% Weapon Damage and leaving them Stunned.",
+    "description": "blasts those in front of you, dealing 82 + 102% Weapon Damage and leaving them Stunned.",
     "shortDescription": "",
     "icon": "confessor-hellfire-3a.png",
     "stats": {

@@ -1,17 +1,17 @@
 {
     "id": "myrmidon-arcing-slash",
     "name": "Arcing Slash",
-    "description": "slashes upward violently inflicting 50 - 62 + 56% Weapon Damage.",
+    "description": "slashes upward violently inflicting 56 + 56% Weapon Damage.",
     "shortDescription": "",
     "icon": "myrmidon-arcing-slash.png",
     "stats": {
         "weapon_damage_value": "56",
-        "max_damage_1": "62",
-        "min_damage_1": "50",
+        "max_damage_1": "56",
+        "min_damage_1": "56",
         "cost_type": "Fury",
-        "cost": "20",
+        "cost": "19",
         "range": "6",
-        "max_targets": "5",
+        "max_targets": "3",
         "target": "Cone",
         "cast_time": "Instant"
     },

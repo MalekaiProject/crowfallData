@@ -5,10 +5,12 @@
     "shortDescription": "Blink in a WASD direction",
     "icon": "druid-dissipate.png",
     "stats": {
-        "buff_amount_1": "18m",
+        "buff_amount_1": "20m",
         "buff_type_1": "Blink",
+        "cost_type": "Dodge",
+        "cost": "1",
         "range": "20",
-        "cooldown": "15",
+        "cooldown": "22",
         "target": "Self",
         "cast_time": "Instant"
     },

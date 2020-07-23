@@ -1,13 +1,13 @@
 {
     "id": "assassin-kidney-shot",
     "name": "Kidney Shot",
-    "description": "stabs an enemy with a crippling blow to the vitals causing 80 - 120 + 100% Weapon Damage and stunning for a duration scaling by Pips spent.\\n\\n1 Pip: 3.25 seconds \\n2 Pips: 4 seconds \\n3 Pips: 4.75 seconds \\n4 Pips: 5.5 seconds \\n5 Pips: 6.25 seconds",
+    "description": "stabs an enemy with a crippling blow to the vitals causing 100 + 100% Weapon Damage and stunning for a duration scaling by Pips spent.\\n\\n1 Pip: 3.25 seconds \\n2 Pips: 4 seconds \\n3 Pips: 4.75 seconds \\n4 Pips: 5.5 seconds \\n5 Pips: 6.25 seconds",
     "shortDescription": "",
     "icon": "assassin-kidney-shot.png",
     "stats": {
         "weapon_damage_value": "100",
-        "max_damage_1": "120",
-        "min_damage_1": "80",
+        "max_damage_1": "100",
+        "min_damage_1": "100",
         "cost_type": "Pips",
         "cost": "1",
         "range": "6",

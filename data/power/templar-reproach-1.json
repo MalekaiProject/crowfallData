@@ -1,17 +1,17 @@
 {
     "id": "templar-reproach-1",
     "name": "Reproach",
-    "description": "slashes multiple enemies, dealing 54 - 81 + 67% Weapon Damage.",
+    "description": "slashes multiple enemies, dealing 67 + 67% Weapon Damage.",
     "shortDescription": "",
     "icon": "templar-reproach-1.png",
     "stats": {
         "weapon_damage_value": "67",
-        "max_damage_1": "81",
-        "min_damage_1": "54",
+        "max_damage_1": "67",
+        "min_damage_1": "67",
         "cost_type": "Righteousness",
         "cost": "1",
         "range": "5",
-        "max_targets": "5",
+        "max_targets": "3",
         "target": "Cone",
         "cast_time": "Instant"
     },

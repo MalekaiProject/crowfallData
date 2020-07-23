@@ -1,7 +1,7 @@
 {
     "id": "confessor-hellfire-2a",
     "name": "Fire Wave",
-    "description": "consumes your Hellfire Shield, transforming it into moving fiery wave that damages any target struck by it for 102 - 153 + 127% Weapon Damage.",
+    "description": "consumes your Hellfire Shield, transforming it into moving fiery wave that damages any target struck by it for 102 + 127% Weapon Damage.",
     "shortDescription": "",
     "icon": "confessor-hellfire-2a.png",
     "stats": {

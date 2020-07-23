@@ -1,13 +1,13 @@
 {
     "id": "fieldsurgeon-rescue",
     "name": "Rescue",
-    "description": "averts an ally's imminent death for 10 seconds preventing them from dropping below 1 Health and healing them for 189 - 231 + 84% Support Power. \\n\\nRecently Rescued allies may not be affected by Rescue.",
+    "description": "averts an ally's imminent death for 10 seconds preventing them from dropping below 1 Health and healing them for 210 + 84% Support Power. \\n\\nRecently Rescued allies may not be affected by Rescue.",
     "shortDescription": "Target Ally Avoids Death",
     "icon": "fieldsurgeon-rescue.png",
     "stats": {
         "weapon_damage_value": "84",
-        "max_damage_1": "231",
-        "min_damage_1": "189",
+        "max_damage_1": "210",
+        "min_damage_1": "210",
         "duration": "10 seconds",
         "cost_type": "Resource",
         "cost": "16",

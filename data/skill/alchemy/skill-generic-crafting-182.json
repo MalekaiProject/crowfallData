@@ -1,15 +1,15 @@
 {
     "id": "skill-generic-crafting-182",
-    "name": "Total Crafting Rerolls",
+    "name": "Crafting Rerolls",
     "tree": "Alchemy",
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 25200,
-    "description": "Decreases the cost of a Total Reroll after experimenting on an item.",
+    "description": "Decreases the cost of a Reroll after experimenting on an item.",
     "icon": "skill-generic-crafting-182.png",
     "stats": [
         {
-            "name": "Total Reroll Cost Modifier",
+            "name": "Reroll Cost Reduction",
             "amount": "1%"
         }
     ],

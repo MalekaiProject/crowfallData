@@ -7,7 +7,7 @@
     "stats": {
         "cost_type_time": "cost_type_time_per_second",
         "cost_type": "Stamina",
-        "cost": "0.5",
+        "cost": "5",
         "cooldown": "45",
         "target": "Self",
         "cast_time": "Toggle"

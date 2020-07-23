@@ -1,15 +1,15 @@
 {
     "id": "templar-reproach-2",
     "name": "Castigate",
-    "description": "slashes multiple enemies, dealing 61 - 92 + 76% Weapon Damage.",
+    "description": "slashes multiple enemies, dealing 76 + 76% Weapon Damage.",
     "shortDescription": "",
     "icon": "templar-reproach-2.png",
     "stats": {
         "weapon_damage_value": "76",
-        "max_damage_1": "92",
-        "min_damage_1": "61",
+        "max_damage_1": "76",
+        "min_damage_1": "76",
         "range": "5",
-        "max_targets": "5",
+        "max_targets": "3",
         "target": "Cone",
         "cast_time": "Instant"
     },

@@ -1,14 +1,14 @@
 {
     "id": "holyavenger-hammer-2",
     "name": "Grabthar's Hammer",
-    "description": "smashes an enemy, stunning them for 106 - 143 + 124% Weapon Damage.",
+    "description": "smashes an enemy, stunning them for 124 + 124% Weapon Damage.",
     "shortDescription": "",
     "icon": "holyavenger-hammer-2.png",
     "stats": {
         "weapon_damage_type": "Holy",
         "weapon_damage_value": "124",
-        "max_damage_1": "143",
-        "min_damage_1": "106",
+        "max_damage_1": "124",
+        "min_damage_1": "124",
         "cost_type": "Resource",
         "cost": "12",
         "range": "5",

@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Decreases the amount of Decay that Runestone Hammers, and Runestone Picks suffer when excavating.\\n\\nTraits Granted at 1 Pip:\\nIntermediate Runestone Hammers\\nIntermediate Runestone Picks",
+    "description": "Decreases the amount of Decay that Runestone Hammers, and Runestone Picks suffer when excavating.\\n\\nRecipes Granted at 1 Pip:\\nIntermediate Runestone Hammer\\nIntermediate Runestone Pick\\n\\nTraits Granted at 1 Pip:\\nIntermediate Runestone Hammers\\nIntermediate Runestone Picks",
     "icon": "skill-generic-exploration-302.png",
     "stats": [
         {
@@ -19,7 +19,8 @@
     ],
     "grants": [
         "equip_harvest_tool_pick",
-        "equip_harvest_tool_hammer"
+        "equip_harvest_tool_hammer",
+        "recipe_intermediate_harvest_tool_hammer_pick"
     ],
     "unlockedFromSkill": [
         {

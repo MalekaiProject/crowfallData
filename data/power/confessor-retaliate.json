@@ -1,13 +1,13 @@
 {
     "id": "confessor-retaliate",
     "name": "Retaliate",
-    "description": "returns you to your feet, dealing 107 - 160 + 133% Weapon Damage to nearby enemies.",
+    "description": "returns you to your feet, dealing 133 + 133% Weapon Damage to nearby enemies.",
     "shortDescription": "",
     "icon": "confessor-retaliate.png",
     "stats": {
         "weapon_damage_value": "133",
-        "max_damage_1": "160",
-        "min_damage_1": "107",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
         "cost_type": "Stamina",
         "cost": "65",
         "range": "5",
