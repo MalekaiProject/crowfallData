@@ -11,6 +11,7 @@
         "cost_type": "Resource",
         "cost": "16",
         "range": "5",
+        "max_targets": "3",
         "cooldown": "30",
         "target": "Self",
         "cast_time": "Instant"

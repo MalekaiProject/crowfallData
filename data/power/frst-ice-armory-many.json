@@ -1,7 +1,7 @@
 {
     "id": "frst-ice-armory-many",
     "name": "Frost Armory",
-    "description": "instantly creates at least one Frost Armor with additional pieces of Frost Armor formed for each Ice in your Ice Stores, emptying them in the process.\\n\\nFrost Armor can be picked up by allies and you to add 3500 Armor. This effect lasts until you zone or until you take damage and then up to 15 seconds after the damage. Each hit adds one Frost Armor Crack counter (one per 0.5 seconds max) and the effect ends if you are hit after your third Frost Armor Crack.\\n\\nYour Ice Storage Capacity determines the number of Ice you may have active simultaneously.",
+    "description": "instantly applies the Frost Armor effect to you and one nearby group member for each Ice in your Ice Stores, emptying them in the process. Frost Armor adds 3500 Armor and lasts until you zone or until you take damage and then up to 15 seconds after the damage. Each hit adds one Frost Armor Crack counter (one per 0.5 seconds max) and the effect ends if you are hit after your third Frost Armor Crack.",
     "shortDescription": "",
     "icon": "frst-ice-armory-many.png",
     "stats": {
