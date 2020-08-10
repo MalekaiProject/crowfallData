@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
-    "description": "Unlocks the Runemaking skill tree.",
+    "description": "Skill Tree Unlocked at 5 Pips:\\nRunemaking",
     "icon": "skill-generic-crafting-005.png",
     "stats": [
         {

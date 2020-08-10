@@ -8,6 +8,7 @@
         "cost_type": "Essence",
         "cost": "35",
         "max_targets": "1",
+        "cooldown": "68",
         "target": "Self",
         "cast_time": "Instant"
     },

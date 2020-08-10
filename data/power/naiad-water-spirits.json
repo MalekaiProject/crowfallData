@@ -15,7 +15,7 @@
         "velocity": "4 m/s",
         "cost_type": "Resource",
         "cost": "29",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "25",
         "target": "Area",
         "cast_time": "Charged"

@@ -13,7 +13,7 @@
         "duration": "5 seconds",
         "cost_type": "Resource",
         "cost": "16",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "23",
         "target": "Rectangle",
         "cast_time": "Hold Channeled"

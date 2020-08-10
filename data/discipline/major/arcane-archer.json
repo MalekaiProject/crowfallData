@@ -32,7 +32,7 @@
         {
             "id": "bowmaster-multishot",
             "name": "Multi-Shot",
-            "description": "Attack: Cone damage three enemies"
+            "description": "Attack: Cone damage five enemies"
         },
         {
             "id": "arcanearcher-barrier",

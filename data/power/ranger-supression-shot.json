@@ -11,7 +11,7 @@
         "cost_type": "Arrow",
         "cost": "1",
         "range": "35",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "30",
         "target": "Area",
         "cast_time": "Ground Aimed"

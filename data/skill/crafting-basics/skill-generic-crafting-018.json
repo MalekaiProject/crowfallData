@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
-    "description": "Unlocks the Jewelcrafting skill tree.",
+    "description": "Skill Tree Unlocked at 5 Pips:\\nJewelcrafting",
     "icon": "skill-generic-crafting-018.png",
     "stats": [
         {

@@ -11,7 +11,7 @@
         "cost_type": "Hate",
         "cost": "100",
         "range": "5",
-        "max_targets": "3",
+        "max_targets": "5",
         "target": "Self",
         "cast_time": "Instant"
     },

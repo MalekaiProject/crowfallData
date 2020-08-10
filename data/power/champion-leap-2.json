@@ -11,7 +11,7 @@
         "min_damage_1": "112",
         "restore_type": "Rage",
         "restore": "10.5",
-        "max_targets": "3",
+        "max_targets": "5",
         "target": "Sphere",
         "cast_time": "Instant"
     },

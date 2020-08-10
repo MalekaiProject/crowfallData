@@ -12,7 +12,7 @@
         "cost_type": "Resource",
         "cost": "12",
         "range": "50",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "45",
         "target": "Group",
         "cast_time": "Instant"

@@ -12,7 +12,7 @@
         "cost_type": "Essence",
         "cost": "31",
         "range": "35",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "9",
         "target": "Ray",
         "cast_time": "Instant"

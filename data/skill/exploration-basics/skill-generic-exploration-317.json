@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Grants chance for a Beneficial Harvest effect when Destroying any Resource Node.",
+    "description": "Grants chance for a Beneficial Harvest effect when Destroying any Resource Node.\\n\\nSkill Tree Unlocked at 5 Pips:\\nExcavation",
     "icon": "skill-generic-exploration-317.png",
     "stats": [
         {

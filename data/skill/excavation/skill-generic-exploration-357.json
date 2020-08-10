@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
-    "description": "Increases the Damage that Shovels can deal when digging.",
+    "description": "Increases the Damage that Shovels can deal when digging.\\n\\nSkill Tree Unlocked at 5 Pips:\\nGrave Specialization",
     "icon": "skill-generic-exploration-357.png",
     "stats": [
         {

@@ -7,7 +7,7 @@
     "stats": {
         "duration": "15 seconds",
         "range": "35",
-        "max_targets": "3",
+        "max_targets": "5",
         "target": "Area",
         "cast_time": "Ground Aimed"
     },

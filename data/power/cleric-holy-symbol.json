@@ -12,7 +12,7 @@
         "duration": "15 seconds",
         "cost_type": "Mana",
         "cost": "240",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "20",
         "target": "Area",
         "cast_time": "Ground Aimed"

@@ -11,7 +11,7 @@
         "cost_type": "Resource",
         "cost": "12",
         "range": "5",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "5",
         "target": "Cone",
         "cast_time": "Instant"

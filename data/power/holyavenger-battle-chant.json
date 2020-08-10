@@ -11,6 +11,7 @@
         "duration": "15 seconds",
         "cost_type": "Resource",
         "cost": "12",
+        "max_targets": "5",
         "cooldown": "24",
         "target": "Self",
         "cast_time": "Instant"

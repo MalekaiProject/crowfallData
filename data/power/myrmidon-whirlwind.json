@@ -13,7 +13,7 @@
         "cost_type": "Fury",
         "cost": "10",
         "range": "5",
-        "max_targets": "3",
+        "max_targets": "5",
         "target": "Sphere",
         "cast_time": "Channeled"
     },

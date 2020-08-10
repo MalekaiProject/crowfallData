@@ -12,7 +12,7 @@
         "cost_type": "Resource",
         "cost": "12",
         "range": "35",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "24",
         "target": "Area",
         "cast_time": "Ground Aimed"

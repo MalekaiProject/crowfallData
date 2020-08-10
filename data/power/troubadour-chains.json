@@ -1,7 +1,7 @@
 {
     "id": "troubadour-chains",
     "name": "Consonant Chains",
-    "description": "damages and slows your target and as many as 3 additional enemies for 105 + 105% Weapon Damage but with damage reducing by 30% for each additional target.\\n\\nType 1 Song.\\n\\nDoes not toggle.",
+    "description": "damages and slows your target and as many as 5 additional enemies for 105 + 105% Weapon Damage but with damage reducing by 30% for each additional target.\\n\\nType 1 Song.\\n\\nDoes not toggle.",
     "shortDescription": "Song: Damage; Snare Enemies",
     "icon": "troubadour-chains.png",
     "stats": {
@@ -14,7 +14,7 @@
         "min_damage_1": "105",
         "buff_type_1": "Movement Speed",
         "range": "20",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "6",
         "target": "Ray",
         "cast_time": "2 Seconds"

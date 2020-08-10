@@ -17,7 +17,7 @@
         "cost_type": "Mana",
         "cost": "110",
         "range": "30",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "9",
         "target": "Rectangle",
         "cast_time": "Instant"

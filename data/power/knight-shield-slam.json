@@ -1,7 +1,7 @@
 {
     "id": "knight-shield-slam",
     "name": "Shield Slam",
-    "description": "charges you forward 7m and slams up to three enemies in front of you for 97 + 97% Crushing Weapon Damage.\\n\\nIf charged more than 66%, this attack has a 100% Critical Strike modifier and pushes your targets back.",
+    "description": "charges you forward 7m and slams up to five enemies in front of you for 97 + 97% Crushing Weapon Damage.\\n\\nIf charged more than 66%, this attack has a 100% Critical Strike modifier and pushes your targets back.",
     "shortDescription": "",
     "icon": "knight-shield-slam.png",
     "stats": {
@@ -12,7 +12,7 @@
         "cost_type": "Energy",
         "cost": "344",
         "range": "3",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "24",
         "target": "Cone",
         "cast_time": "Charged"

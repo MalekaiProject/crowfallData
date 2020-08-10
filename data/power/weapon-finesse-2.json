@@ -1,7 +1,7 @@
 {
     "id": "weapon-finesse-2",
     "name": "Weapon Finesse",
-    "description": "increases your Power Efficiency statistic by 20%, which reduces the resource cost of using powers.",
+    "description": "increases your Power Efficiency statistic by 20%, which reduces the resource cost of using powers. Does not stack with Mental Fortitude.",
     "shortDescription": "Passive: Greatly Reduces Power Resource Costs",
     "icon": "weapon-finesse-2.png",
     "stats": {

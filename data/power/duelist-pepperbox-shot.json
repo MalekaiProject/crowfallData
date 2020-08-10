@@ -1,7 +1,7 @@
 {
     "id": "duelist-pepperbox-shot",
     "name": "Pepperbox Shot",
-    "description": "blasts up to three targets causing 23 + 23% Weapon Damage. Effects scale with Pips spent.\\n1 Pip: 23 - 23\\n2 Pips: 46 - 46\\n3 Pips: 69 - 69\\n4 Pips: 92 - 92\\n5 Pips: 115 and targets are stunned",
+    "description": "blasts up to five targets causing 23 + 23% Weapon Damage. Effects scale with Pips spent.\\n1 Pip: 23 - 23\\n2 Pips: 46 - 46\\n3 Pips: 69 - 69\\n4 Pips: 92 - 92\\n5 Pips: 115 and targets are stunned",
     "shortDescription": "",
     "icon": "duelist-pepperbox-shot.png",
     "stats": {
@@ -18,7 +18,8 @@
         "min_damage_1": "23",
         "cost_type": "Pips",
         "cost": "1",
-        "max_targets": "3",
+        "max_targets": "5",
+        "cooldown": "3",
         "target": "Cone",
         "cast_time": "Instant"
     },

@@ -10,7 +10,7 @@
         "duration": "10 seconds",
         "cost_type": "Mana",
         "cost": "80",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "15",
         "target": "Sphere",
         "cast_time": "Instant"

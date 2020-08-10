@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
-    "description": "Increases the Damage that Runestone Knives can deal when skinning.",
+    "description": "Increases the Damage that Runestone Knives can deal when skinning.\\n\\nSkill Tree Unlocked at 5 Pips:\\nAnimal Specialization",
     "icon": "skill-generic-exploration-216.png",
     "stats": [
         {

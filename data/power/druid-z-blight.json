@@ -18,7 +18,7 @@
         "cost_type": "Essence",
         "cost": "26",
         "range": "35",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "23",
         "target": "Area",
         "cast_time": "Instant"

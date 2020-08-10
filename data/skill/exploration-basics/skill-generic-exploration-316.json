@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 6120,
-    "description": "Increases your Food Regen Rate, slowing how fast your Food Pool is consumed.\\n\\nRecipes Granted:\\nSurvivalist Small Campfire",
+    "description": "Increases your Food Regen Rate, slowing how fast your Food Pool is consumed.\\n\\nRecipes Granted at 1 Pip:\\nSurvivalist Small Campfire\\n\\nSkill Tree Unlocked at 5 Pips:\\nReaping",
     "icon": "skill-generic-exploration-316.png",
     "stats": [
         {

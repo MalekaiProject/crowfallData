@@ -15,8 +15,8 @@
         "duration": "12 seconds",
         "cost_type": "Essence",
         "cost": "48",
-        "max_targets": "3",
-        "cooldown": "23",
+        "max_targets": "5",
+        "cooldown": "15",
         "target": "Reticle",
         "cast_time": "Charged"
     },

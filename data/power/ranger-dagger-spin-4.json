@@ -11,7 +11,7 @@
         "buff_amount_1": "60%",
         "buff_type_1": "Lifesteal Bonus",
         "range": "6",
-        "max_targets": "3",
+        "max_targets": "5",
         "target": "Sphere",
         "cast_time": "Instant"
     },

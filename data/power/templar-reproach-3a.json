@@ -9,7 +9,7 @@
         "max_damage_1": "90",
         "min_damage_1": "90",
         "range": "5",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "9",
         "target": "Sphere",
         "cast_time": "Instant"

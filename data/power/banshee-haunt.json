@@ -1,7 +1,7 @@
 {
     "id": "banshee-haunt",
     "name": "Haunt",
-    "description": "haunts 3 enemies, reflecting 35% their attack damage as Nature damage and healing you for 35% of damage taken.",
+    "description": "haunts 5 enemies, reflecting 35% their attack damage as Nature damage and healing you for 35% of damage taken.",
     "shortDescription": "Attack: Reflect Enemy Damage; Healing",
     "icon": "banshee-haunt.png",
     "stats": {
@@ -12,7 +12,7 @@
         "cost_type": "Resource",
         "cost": "14",
         "range": "5",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "45",
         "target": "Cone",
         "cast_time": "Instant"

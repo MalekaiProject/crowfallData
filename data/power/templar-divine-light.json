@@ -16,7 +16,7 @@
         "cost_type": "Righteousness",
         "cost": "1",
         "range": "10",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "23",
         "target": "Area",
         "cast_time": "Instant"

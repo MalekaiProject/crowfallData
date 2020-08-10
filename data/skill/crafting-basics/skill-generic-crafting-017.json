@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 5040,
-    "description": "Unlocks the Leatherworking skill tree.",
+    "description": "Skill Tree Unlocked at 5 Pips:\\nLeatherworking",
     "icon": "skill-generic-crafting-017.png",
     "stats": [
         {

@@ -2,7 +2,7 @@
     "id": "confessor-moment-of-glory",
     "name": "Moment of Glory",
     "class": "confessor",
-    "description": "Moment of Glory enhances Stun and Knock Up to recover 15% Mana when applied.",
+    "description": "Moment of Glory enhances Stun and Knockdown to recover 15% Mana when applied.",
     "icon": "moment-of-glory.png",
     "maxPoints": 1,
     "pointRequirement": 0,

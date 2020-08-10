@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
-    "description": "Increases the Damage that Runestone Hammers can deal when mining.",
+    "description": "Increases the Damage that Runestone Hammers can deal when mining.\\n\\nSkill Tree Unlocked at 5 Pips:\\nStone Specialization",
     "icon": "skill-generic-exploration-174.png",
     "stats": [
         {

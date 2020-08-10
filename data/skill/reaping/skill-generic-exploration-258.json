@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
-    "description": "Increases the Damage that Runestone Axes can deal when logging.",
+    "description": "Increases the Damage that Runestone Axes can deal when logging.\\n\\nSkill Tree Unlocked at 5 Pips:\\nWood Specialization",
     "icon": "skill-generic-exploration-258.png",
     "stats": [
         {

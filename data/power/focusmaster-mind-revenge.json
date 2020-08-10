@@ -8,7 +8,7 @@
         "weapon_damage_value": "70",
         "max_damage_1": "70",
         "min_damage_1": "70",
-        "max_targets": "3",
+        "max_targets": "5",
         "target": "Self",
         "cast_time": "Passive"
     },

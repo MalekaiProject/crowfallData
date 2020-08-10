@@ -9,7 +9,7 @@
         "max_damage_1": "76",
         "min_damage_1": "76",
         "range": "5",
-        "max_targets": "3",
+        "max_targets": "5",
         "target": "Cone",
         "cast_time": "Instant"
     },

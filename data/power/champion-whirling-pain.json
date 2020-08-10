@@ -11,7 +11,7 @@
         "cost_type": "Rage",
         "cost": "11",
         "range": "5",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "24",
         "target": "Sphere",
         "cast_time": "Instant"

@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 45360,
-    "description": "The passive power Way of the Leader, gains up to 25 additional Attack Rating and Support Rating for the entire group as long as you are the group leader.",
+    "description": "The passive power Way of the Leader, gains up to 25 additional Attack Power and Support Power for the entire group as long as you are the group leader.",
     "icon": "skill-generic-exploration-422.png",
     "stats": [
         {

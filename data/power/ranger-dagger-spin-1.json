@@ -13,7 +13,7 @@
         "cost_type": "Energy",
         "cost": "249",
         "range": "6",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "5",
         "target": "Sphere",
         "cast_time": "Instant"

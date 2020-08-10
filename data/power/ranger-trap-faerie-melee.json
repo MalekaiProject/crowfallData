@@ -12,7 +12,7 @@
         "duration": "60 seconds",
         "cost_type": "Energy",
         "cost": "178",
-        "max_targets": "3",
+        "max_targets": "5",
         "cooldown": "45",
         "target": "Area",
         "cast_time": "Instant"
